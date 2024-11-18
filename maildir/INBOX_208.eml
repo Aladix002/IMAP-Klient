@@ -1,0 +1,40 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 2AB6CdPS095555
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 11 Nov 2022 07:12:39 +0100 (CET)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 0458E10B330
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 11 Nov 2022 07:12:34 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz 0458E10B330
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1668147154;
+	bh=fc3frV2JthgjFvEGjGzkgga8UlLs2JnFx516K/Eq6SU=; l=638;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=TAj8JgK+szCTJsEUSdPNRtKixWP/wplc6aoGA3hNVNFL25MI8kbLZWYfM6StwY15Z
+	 FSAe3y/Y1qIcnuBOPxSnhTIiFVSt6dKJnrK3EMIrfxSwF3W+PuHu+2AmXngm455H3V
+	 1bhpltoEXCvn4ZVciFX5uKGZ2b4IzgCMI+SavTuU=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id 039FD30C4B5B; Fri, 11 Nov 2022 07:12:34 +0100 (CET)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogSW5nLiBQZXRyIFZlaWdlbmQgKGlkIDExMDYzMyk=?= <zpravy-is@vutbr.cz>
+Reply-to: zpravy-is@vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?VlVUIHpwcsOhdmEgLSBha3R1YWxpdHkgeiBwxZllZG3Em3R1?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Message-Id: <20221111061234.039FD30C4B5B@emu.ro.vutbr.cz>
+Date: Fri, 11 Nov 2022 07:12:34 +0100 (CET)
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+QnlsYSB2eXN0YXZlbmEgbm92w6EgYWt0dWFsaXRhIHogcMWZZWRtxJt0dTogW3ppbW7DrV0gRWxl
+a3Ryb25pa2EgcHJvIGluZm9ybWHEjW7DrSB0ZWNobm9sb2dpZSAoSUVMKS4gQWt0dWFsaXR1IHZ5
+c3RhdmlsKGEpOiBJbmcuIFBldHIgVmVpZ2VuZAoKQWt0dWFsaXR1IG5hbGV6bmV0ZSBuYSBhZHJl
+c2UxOgpodHRwczovL3d3dy52dXQuY3ovc3R1ZGlzL3N0dWRlbnQucGh0bWw/c249YWt0dWFsaXR5
+X3ByZWRtZXQmYWtjZT0yJmRpZD0yMzMxNjUmYXBpZD0yMzA5NzkKClZVVCB6cHLDoXZhIG9kOiBJ
+bmcuIFBldHIgVmVpZ2VuZCAgKGlkIDExMDYzMykKT2Rwb3bEm8SPIGplIG1vxb5uw6EgcG9tb2PD
+rSBWVVQgenByw6F2IC0gcG91xb5panRlIHByb3PDrW0gbsOhc2xlZHVqw61jw60gb2RrYXo6Cmh0
+dHBzOi8vd3d3LnZ1dC5jei9pbnRyYS92dXQtenByYXZ5P2FjdGlvbj1ub3ZhJm9kcG92ZWRfbmE9
+MTc2NzU2MjQK

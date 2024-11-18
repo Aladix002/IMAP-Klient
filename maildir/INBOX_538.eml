@@ -1,0 +1,61 @@
+Return-Path: <xkozak18@stud.fit.vutbr.cz>
+Received: from roundcube.fit.vutbr.cz (spytihnev.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:9e2])
+	(authenticated bits=0)
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPSA id 32K8Q4b1018077
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO);
+	Mon, 20 Mar 2023 09:26:04 +0100 (CET)
+	(envelope-from xkozak18@stud.fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=stud.fit.vutbr.cz;
+	s=studfit; t=1679300764;
+	bh=FprMaI2P4ixRBKQms30Vp83MWlGTcTMgmfw6tjbSKOk=;
+	h=Date:From:To:Cc:Subject:In-Reply-To:References;
+	b=BXblSvX15xoTirxhBhjIjOuG82JVZr8wESPe5nSFpdHN2OlKQf4AxFT+jcpFYo394
+	 UXDDM4XLvZ9fPzSjvYieIwI4XvHC4X5w4x+cMG0NOayLeDBCf1aLOoWijh9sp8MXKD
+	 /iY+6EaAvIIh0Lg7YzVd4csaxiaJtqVxhuUCPG/w=
+MIME-Version: 1.0
+Date: Mon, 20 Mar 2023 09:26:04 +0100
+From: =?UTF-8?Q?Koz=C3=A1k_Martin?= <xkozak18@stud.fit.vutbr.cz>
+To: =?UTF-8?Q?V=C3=ADta_Beran?= <beranv@fit.vutbr.cz>
+Cc: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?UTF-8?Q?Re=3A_S=C3=BA=C5=A5a=C5=BE_na_FITe_-_=28BSEC=29?=
+In-Reply-To: <7f9f8be0-60d7-62c8-a176-111e5cbb658d@fit.vutbr.cz>
+References: <423e8088400f66f1ed3ba03cf0dd5240@stud.fit.vutbr.cz>
+ <7f9f8be0-60d7-62c8-a176-111e5cbb658d@fit.vutbr.cz>
+User-Agent: Roundcube Webmail
+Message-ID: <400ecb62690f3007c20afcbfaa11eec6@stud.fit.vutbr.cz>
+X-Sender: xkozak18@stud.fit.vutbr.cz
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+
+Dobrý deň,
+
+ďakujem za odpoveď, vedeli by sme sa stretnúť tento týždeň? Nám by to 
+obom vyhovolalo skôr tento týždeň.
+
+S pozdravom
+Martin Kozák
+
+
+Dňa 2023-03-19 21:07 Víta Beran napísal(a):
+> Dobrý den,
+> 
+> určitě, co třeba v úterý 28.3. v 15:00 u mě v kanceláři?
+> 
+> Děkuji a zdravím,
+> Víťa Beran
+> 
+> Dne 13.03.2023 v 9:37 Kozák Martin napsal(a):
+>> Dobrý deň,
+>> 
+>> vo februári sme sa stretli ohľadom propagácia súťaže BSEC, 
+>> organizovanou študentským spolkom BEST. Diskutovali sme možnosti BESTu 
+>> v rámci FITu. Na schôdzke sme sa "dohodli", že ak budeme niečo 
+>> organizovať v blízkej dobe tak to máme riešiť v predstihu. Momentálne 
+>> plánujeme ďalšiu súťaž na jeseň v ďalšom semestri. Vedeli by sme sa 
+>> stretnúť niekedy tento/budúci týždeň? Do kópie prikladám aj hlavného 
+>> organizátora súťaže Filipa Botla
+>> 
+>> S pozdravom
+>> Martin Kozák
+>> člen BEST Brno

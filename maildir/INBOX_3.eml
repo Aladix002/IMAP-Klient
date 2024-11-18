@@ -1,0 +1,1221 @@
+Return-Path: <fitnews-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPS id 25LCtCIw056091
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Tue, 21 Jun 2022 14:55:12 +0200 (CEST)
+	(envelope-from fitnews-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPS id 25LCtAjE096487
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Tue, 21 Jun 2022 14:55:12 +0200 (CEST)
+	(envelope-from fitnews-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTP id 25LCt67p098753;
+	Tue, 21 Jun 2022 14:55:08 +0200 (CEST)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTPS id 25LCrN4x098671
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <fitnews@tereza.fit.vutbr.cz>; Tue, 21 Jun 2022 14:53:23 +0200 (CEST)
+Received: from [IPV6:2001:67c:1220:80c:b62e:99ff:fee3:ed22]
+ ([IPv6:2001:67c:1220:80c:b62e:99ff:fee3:ed22]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPSA id 25LCrMrd095966
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <fitnews@fit.vutbr.cz>; Tue, 21 Jun 2022 14:53:23 +0200 (CEST)
+ (envelope-from necasovah@fit.vutbr.cz)
+Content-Type: multipart/alternative;
+ boundary="------------uCT010ZjfL6ymKfNiwvpxZil"
+Message-ID: <280674a3-29ef-b682-605a-e58bd4fa8915@fit.vut.cz>
+Date: Tue, 21 Jun 2022 14:53:22 +0200
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101
+ Thunderbird/91.10.0
+To: fitnews@fit.vutbr.cz
+X-Mailman-Approved-At: Tue, 21 Jun 2022 14:55:05 +0200
+Subject: [Fitnews] =?utf-8?q?Newsletter_FIT_VUT_v_Brn=C4=9B=2C_21=2E_6=2E?=
+ =?utf-8?q?_2022?=
+X-BeenThere: fitnews@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: Newsletter FIT VUT v Brne <fitnews.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/fitnews>,
+ <mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <https://www.fit.vutbr.cz/mailman/private/fitnews/>
+List-Post: <mailto:fitnews@fit.vutbr.cz>
+List-Help: <mailto:fitnews-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/fitnews>,
+ <mailto:fitnews-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?Ne=E8asov=E1_Hana_via_Fitnews?= <fitnews@fit.vutbr.cz>
+Reply-To: =?UTF-8?B?TmXEjWFzb3bDoSBIYW5h?= <necasovah@fit.vut.cz>
+Errors-To: fitnews-bounces@fit.vutbr.cz
+Sender: "Fitnews" <fitnews-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=-1.998 required=7 tests=ALL_TRUSTED,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 3.4.5 (2021-03-20) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+--------------uCT010ZjfL6ymKfNiwvpxZil
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Týdenní krátký přehled ze života fakulty - novinky, aktuality a události 
+z FIT, odkazy na zajímavé články, pracovní stáže, apod.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+<https://www.fit.vut.cz/>
+
+Newsletter FIT VUT v Brně, 21. 6. 2022
+
+[vcover.png]
+
+
+    Senzory z VUT ochrání včelstva před vyhladověním i krádeží
+
+Máte rádi med? A víte, co všechno se musí povést, aby se dostal až k vám 
+na stůl? Včely musí přežít zimu, na jaře začít se sběrem nektaru 
+a nezmrznout. Ani teplé počasí a silné včelstvo ale není zárukou, že 
+včelař med stočí. Včely se můžou vyrojit a uletět, vyhladovět anebo je 
+celé i s úlem někdo ukradne. Pomoc ale existuje. Jmenuje se ApiVčelař 
+4.0 a chytré váhy a senzory poskytující data včelařům na dálku vymysleli 
+odborníci z VUT. Více se dočtete v článku na webu 
+<https://www.fit.vut.cz/fit/press/3323/.cs>.
+
+[viskupic1.png]
+
+
+    Události na VUT: Oceněný algoritmus Mateje Viskupiče najde uplatnění
+    v Národním muzeu
+
+Vyřešit optimální rozmístění exponátů v muzeích a galeriích umožňuje 
+algoritmus sledování osob, který vyvinul student FIT Matej Viskupič. Se 
+svou prací získal na studentské soutěžní konferenci Excel@FIT 2022 
+ocenění hlavního partnera soutěže, firmy Sewio, která se zabývá obdobnou 
+problematikou. Navíc bude systém už letos v létě instalován v Národním 
+muzeu v Praze. Více se dozvíte v novém čísle Událostí na VUT, které si 
+můžete přečíst ZDE 
+<https://www.vut.cz/vutium/casopis/udalosti-na-vut-4-2021-2022-p223779?fbclid=IwAR3I25yEhSYFGPMg1MNtU2A_ciXyyadPqPYLUtGSd1FGZ2zdk-BcSt7f_ew>. 
+
+
+[digitrans.png]
+
+
+    V Česku vznikne pět Evropských center pro digitální inovace.
+    Součástí bude také FIT
+
+V evropské výzvě Programu Digitální Evropa uspělo pět kandidátů 
+nominovaných Českou republikou. Mezi nimi také ústav Cybersecurity 
+Innovation Hub, jehož součástí je také FIT. Vedle Fakulty informačních 
+technologií, která koordinuje projekt za VUT, se bude na projektu 
+podílet také Masarykova univerzita, ČVUT, Technologické centrum Akademie 
+věd, Regionální hospodářská komora Brno, Industry cluster 4.0 či 
+sdružení CzechInno. Nová Evropská centra pro digitální inovace mají 
+pomoct s digitalizací zejména malých a středních firem. Centrum bude 
+poskytovat služby například v oblasti technologií, testování či 
+prototypových řešeních zejména v oblasti kyberbezpečnosti a bude se 
+podílet i na odborných školeních či přístupu k inovačním ekosystémům. 
+FIT bude navíc součástí ještě jednoho centra, a to v rámci digitálního 
+inovačního hubu DIH DIGIMAT. Více informací najdete v tiskové zprávě 
+Ministerstva obchodu a průmyslu 
+<https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/v-cesku-vznikne-pet-evropskych-center-pro-digitalni-inovace--pomohou-rozvijet-male-a-stredni-podniky--268293/>, 
+které je hlavním koordinátorem.
+
+[booster2022.png]
+
+
+    Booster-Challenge@FIT opět ocení nejlepší startupové projekty
+    studentů FIT
+
+Máte zajímavý nápad nebo projekt a chcete zkusit, jestli by se dal 
+využít i komerčně? Využijte prázdniny k jeho rozvoji, FIT vás v tom 
+podpoří! Booster-Challenge@FIT je prázdninový program pro studenty FIT, 
+kteří nosí v hlavě vlastní nápad, ale neměli na něj v průběhu studia 
+dost času nebo ho nemají s kým konzultovat. Vytvořte přes prázdniny 
+funkční prototyp a získejte finanční ocenění za vaši práci. Přihlášky 
+s návrhem projektu můžete posílat do 7. července, více informací najdete 
+na webu <https://www.fit.vut.cz/study/startup@fit/.cs#startup> programu 
+Star(t)up@FIT. V loňské výzvě rozdělila porota celkem 140 tisíc mezi 
+autory tří zajímavých projektů - přečíst si o nich můžete ZDE 
+<https://www.fit.vut.cz/fit/news/3065/.cs>.
+
+[medaile.jpg]
+
+
+    Děkan FIT předal medaile VUT a za zásluhy o rozvoj fakulty
+
+Stříbrnou a pamětní medaili VUT, cenu za nejlepšího pedagoga, zlaté 
+a stříbrné medaile FIT, které si ocenění nemohli převzít na slavnostním 
+večeru <https://www.fit.vut.cz/fit/press/3271/.cs> v Městském divadle 
+Brno, a bronzové medaile za zásluhy o rozvoj fakulty předal v pátek 10. 
+června oceněným děkan FIT Pavel Zemčík na setkání zaměstnanců 
+u příležitosti 20. výročí založení fakulty. Seznam oceněných najdete ZDE 
+<https://www.fit.vut.cz/fit/news/3334/.cs>. Všem gratulujeme!
+
+[g108.png]
+
+
+    Přednášky zvaných hostů z Federal University of Santa Catarina, Brazílie
+
+Ve středu 22. 6. se od 13:00 - 15:00 v místnosti G108 uskuteční 
+přednášky našich vážených hostů z brazilské Federal University of Santa 
+Catarina:
+
+  * 13:00 - Gustavo Garcia Otto: Weigh-in-Motion new approach to reduce
+    vehicle dynamics uncertainties
+  * 14:00 - Valter Zanela Tani: Application of computer vision in the
+    assessment of road safety and pavement surface condition
+
+Abstrakty najdete na webu FIT 
+<https://www.fit.vut.cz/fit/event/4797/.cs>. Na přednášky jste srdečně 
+zváni.
+
+[fitvut.jpg]
+
+
+    Mezinárodní letní akce na FIT: Academic Programme a BISSIT 2022
+
+Dvě mezinárodní akce bude hostit v červnu a červenci Fakulta 
+informačních technologií. Academic Programme 
+<https://www.fit.vut.cz/fit/event/4795/.cs> pro studenty z partnerské 
+Strathmore University (Nairobi, Keňa) proběhne na FIT v týdnu 27. 6. - 
+1. 7. 2022. Pro téměř čtyřicítku účastníků jsou připraveny kurzy 
+v oblasti počítačové bezpečnosti,
+
+Již potřetí pak proběhne na FIT Mezinárodní letní škola informačních 
+technologií BISSIT <https://www.fit.vut.cz/events/bissit/programme/>, 
+letos v termínu 11. - 26. 7. 2022. Na akci přivítáme přibližně padesát 
+studentů převážně z Koreje a Keni, kteří se budou vzdělávat v oblastech 
+Počítačová bezpečnost a kriminalistika, Strojové učení a Interaktivní 
+aplikace.
+
+[TFSweb.png]
+
+
+    Thermo Fisher Scientific - Open Day
+
+Chcete se dozvědět, jak vznikají špičkové přístroje za miliony dolarů? 
+Láká vás prostředí jedné z největších high-tech firem v Brně? Díky akci 
+Open Day se můžete podívat i vy! Akce se koná ve středu 29. června 2022 
+od 16:30 na adrese Vlastimila Pecha 12 v Brně a je určena pro studenty 
+i absolventy nejrůznějších, tj. nejenom technických oborů. Čeká vás 
+nabitý program - factory tour, demo ukázky na mikroskopech 
+a hmotnostních spektrometrech, besedy nebo workshopy. Vše bude zakončeno 
+večerní grilovačkou, networkingem a koncertem firemní kapely The 
+Misalignments! <https://www.facebook.com/Misalignments/> Registrovat na 
+akci se můžete zde 
+<https://www.eventbrite.com/e/open-day-2022-tickets-349596421307>.
+
+[gameaccess.png]
+
+
+    Víkend 27. - 29.5. věnovaný festivalu ABC a konferenci Game Access
+
+Poslední květnový víkend se týmy z FIT účastnily hned dvou akcí. 
+Výzkumná skupina STRaDe zaujala malé i velké návštěvníky festivalu ABC 
+možností vyfotit si a vytisknout obraz vlastní duhovky, vytvořit si 
+otisk prstů i dalšími biometrickými systémy. V ty samé dny proběhla 
+konference Game Access, kde studenti a studentky z Fakulty informačních 
+technologií a Fakulty výtvarných umění VUT prezentovali své projekty. 
+Více o nich zde <https://atelierduchu.com/ga22/>.
+
+
+    Odebírejte novinky FIT
+
+Týdenní krátký přehled ze života fakulty - novinky, aktuality a události 
+z FIT, odkazy na zajímavé články, pracovní stáže, apod.
+
+Odebírat <mailto:fitnews-request@fit.vutbr.cz?subject=subscribe> Přestat 
+odebírat <mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe>
+
+
+Všechny novinky <https://www.fit.vut.cz/fit/news/.cs?type=news>
+
+
+
+Facebook <https://www.facebook.com/FIT.VUT/> Instagram 
+<https://www.instagram.com/fit.vut/>
+
+
+Fakulta informačních technologií VUT v Brně • https://www.fit.vut.cz/
+
+--------------uCT010ZjfL6ymKfNiwvpxZil
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta name="format-detection"
+      content="telephone=no,address=no,email=no,date=no,url=no">
+    <title>Newsletter FIT VUT v Brně, 21. 6. 2022</title>
+    <style>
+        html,
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+        img {
+            -ms-interpolation-mode:bicubic;
+        }
+        a {
+            text-decoration: none;
+        }
+        a[x-apple-data-detectors],
+        .unstyle-auto-detected-links a,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        .im {
+            color: inherit !important;
+        }
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+        img.g-img + div {
+            display: none !important;
+        }
+        @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+            u ~ div .email-container {
+                min-width: 320px !important;
+            }
+        }
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+            u ~ div .email-container {
+                min-width: 375px !important;
+            }
+        }
+        @media only screen and (min-device-width: 414px) {
+            u ~ div .email-container {
+                min-width: 414px !important;
+            }
+        }
+    </style>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <style>
+	    .button-td,
+	    .button-a {
+	        transition: all 100ms ease-in;
+	    }
+	    .button-td-primary:hover,
+	    .button-a-primary:hover {
+	        background: #555555 !important;
+	        border-color: #555555 !important;
+	    }
+        @media screen and (max-width: 480px) {
+            .fn_url .sub_button{
+                display: block !important;
+            }
+        }
+	    @media screen and (max-width: 700px) {
+	        .stack-column,
+	        .stack-column-center {
+	            display: block !important;
+	            width: 100% !important;
+	            max-width: 100% !important;
+	            direction: ltr !important;
+	        }
+	        .stack-column-center {
+	            text-align: center !important;
+	        }
+	        .center-on-narrow {
+	            display: block !important;
+	            margin-left: auto !important;
+	            margin-right: auto !important;
+	            float: none !important;
+	        }
+	        table.center-on-narrow {
+	            display: inline-block !important;
+	        }
+	        .stack-column p, .stack-column div {
+	            font-size: 17px !important;
+	        }
+	    }
+    </style>
+  </head>
+  <body width="100%" style="margin: 0; padding: 0 !important;
+    mso-line-height-rule: exactly; background-color: #fff">
+    <center style="width: 100%; background-color: #fff;">
+      <!--[if mso | IE]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fff;">
+    <tr>
+    <td>
+    <![endif]-->
+      <div style="display: none; font-size: 1px; line-height: 1px;
+        max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;
+        mso-hide: all; font-family: sans-serif;"> Týdenní krátký přehled
+        ze života fakulty - novinky, aktuality a události z FIT, odkazy
+        na zajímavé články, pracovní stáže, apod. </div>
+      <div style="display: none; font-size: 1px; line-height: 1px;
+        max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;
+        mso-hide: all; font-family: sans-serif;">
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  </div>
+      <div style="max-width: 680px; margin: 0 auto;"
+        class="email-container">
+        <!--[if mso]>
+            <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="680">
+            <tr>
+            <td>
+            <![endif]-->
+        <table role="presentation" style="margin: auto;" width="100%"
+          cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td style="padding: 10px 0; text-align: left"> <a
+                  href="https://www.fit.vut.cz/"><img
+                    src="https://www.fit.vut.cz/fit/fitnews/images/fitnewb.png"
+                    alt="" style="height: auto; background: #fff;
+                    border: 0" width="280" border="0"></a> </td>
+            </tr>
+            <tr>
+              <td style="text-align: center; background:
+                url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                repeat #e6efec;">
+                <!--[if gte mso 9]>
+                        <v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:680px;height:100px;" src="https://www.fit.vut.cz/fit/fitnews/images/fill.png" />
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="false" stroke="false" style="border: 0; display: inline-block; position: absolute; width: 680px; height: 100px;">
+                            <v:textbox inset="0,0,0,0">
+                        <![endif]-->
+                <div>
+                  <!--[if mso]>
+                            <table align="center" role="presentation" border="0" cellspacing="0" cellpadding="0" width="500">
+                            <tr>
+                            <td width="500">
+                            <![endif]-->
+                  <table role="presentation" style="max-width:500px;
+                    margin: auto;" width="100%" cellspacing="0"
+                    cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td style="text-align: center; padding: 40px
+                          20px; font-family: sans-serif; font-size:
+                          15px; line-height: 20px; color: #ffffff;">
+                          <p style="text-align: center; font-weight:
+                            bold; background: #00a9e0;padding: 20px
+                            10px;color: white;text-transform:
+                            uppercase;font-size: 16px; ">Newsletter FIT
+                            VUT v Brně, 21. 6. 2022</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <!--[if mso]>
+                            </td>
+                            </tr>
+                            </table>
+                            <![endif]--> </div>
+                <!--[if gte mso 9]>
+                            </v:textbox>
+                        </v:rect>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3324/vcover.png"
+                            alt="[vcover.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Senzory
+                            z VUT ochrání včelstva před vyhladověním i
+                            krádeží</h2>
+                          <p>Máte rádi med? A víte, co všechno se musí
+                            povést, aby se dostal až k vám na stůl?
+                            Včely musí přežít zimu, na jaře začít se
+                            sběrem nektaru a nezmrznout. Ani teplé
+                            počasí a silné včelstvo ale není zárukou, že
+                            včelař med stočí. Včely se můžou vyrojit
+                            a uletět, vyhladovět anebo je celé i s úlem
+                            někdo ukradne. Pomoc ale existuje. Jmenuje
+                            se ApiVčelař 4.0 a chytré váhy a senzory
+                            poskytující data včelařům na dálku vymysleli
+                            odborníci z VUT. Více se dočtete v <a
+                              href="https://www.fit.vut.cz/fit/press/3323/.cs">článku
+                              na webu</a>. </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3328/viskupic1.png"
+                            alt="[viskupic1.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Události
+                            na VUT: Oceněný algoritmus Mateje Viskupiče
+                            najde uplatnění v Národním muzeu</h2>
+                          <p>Vyřešit optimální rozmístění exponátů
+                            v muzeích a galeriích
+                            umožňuje algoritmus sledování osob, který
+                            vyvinul student FIT Matej Viskupič.
+                            Se svou prací získal na studentské soutěžní
+                            konferenci Excel@FIT 2022 ocenění
+                            hlavního partnera soutěže, firmy Sewio,
+                            která se zabývá obdobnou problematikou.
+                            Navíc bude systém už letos v létě instalován
+                            v Národním muzeu v Praze. Více se
+                            dozvíte v novém čísle Událostí na VUT, které
+                            si můžete přečíst <a
+href="https://www.vut.cz/vutium/casopis/udalosti-na-vut-4-2021-2022-p223779?fbclid=IwAR3I25yEhSYFGPMg1MNtU2A_ciXyyadPqPYLUtGSd1FGZ2zdk-BcSt7f_ew">ZDE</a>. 
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3333/digitrans.png"
+                            alt="[digitrans.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">V
+                            Česku vznikne pět Evropských center pro
+                            digitální inovace. Součástí bude také FIT </h2>
+                          <p>V evropské výzvě Programu Digitální Evropa
+                            uspělo pět kandidátů nominovaných Českou
+                            republikou. Mezi nimi také ústav
+                            Cybersecurity Innovation Hub, jehož součástí
+                            je také FIT. Vedle Fakulty informačních
+                            technologií, která koordinuje projekt za
+                            VUT, se bude na projektu podílet také
+                            Masarykova univerzita, ČVUT, Technologické
+                            centrum Akademie věd, Regionální hospodářská
+                            komora Brno, Industry cluster 4.0 či
+                            sdružení CzechInno. Nová Evropská centra pro
+                            digitální inovace mají pomoct s digitalizací
+                            zejména malých a středních firem. Centrum
+                            bude poskytovat služby například v oblasti
+                            technologií, testování či prototypových
+                            řešeních zejména v oblasti kyberbezpečnosti
+                            a bude se podílet i na odborných školeních
+                            či přístupu k inovačním ekosystémům. FIT
+                            bude navíc součástí ještě jednoho centra,
+                            a to v rámci digitálního inovačního hubu DIH
+                            DIGIMAT. Více informací najdete v tiskové
+                            zprávě <a
+href="https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/v-cesku-vznikne-pet-evropskych-center-pro-digitalni-inovace--pomohou-rozvijet-male-a-stredni-podniky--268293/">Ministerstva
+                              obchodu a průmyslu</a>, které je hlavním
+                            koordinátorem.  </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3330/booster2022.png"
+                            alt="[booster2022.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Booster-Challenge@FIT
+                            opět ocení nejlepší startupové projekty
+                            studentů FIT </h2>
+                          <p>Máte zajímavý nápad
+                            nebo projekt a chcete zkusit, jestli by se
+                            dal využít i komerčně? Využijte prázdniny
+                            k jeho rozvoji, FIT vás v tom podpoří!
+                            Booster-Challenge@FIT
+                            je prázdninový program pro studenty FIT,
+                            kteří nosí v hlavě vlastní nápad, ale neměli
+                            na něj v průběhu studia dost času nebo ho
+                            nemají s kým konzultovat. Vytvořte
+                            přes prázdniny funkční prototyp a získejte
+                            finanční ocenění za vaši práci.
+                            Přihlášky s návrhem projektu můžete posílat
+                            do 7. července, více informací
+                            najdete na <a
+                              href="https://www.fit.vut.cz/study/startup@fit/.cs#startup">webu</a>
+                            programu Star(t)up@FIT. V loňské výzvě
+                            rozdělila porota celkem 140 tisíc
+                            mezi autory tří zajímavých projektů -
+                            přečíst si o nich můžete <a
+                              href="https://www.fit.vut.cz/fit/news/3065/.cs">ZDE</a>. 
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3335/medaile.jpg"
+                            alt="[medaile.jpg]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Děkan
+                            FIT předal medaile VUT a za zásluhy o rozvoj
+                            fakulty</h2>
+                          <p>Stříbrnou a pamětní
+                            medaili VUT, cenu za nejlepšího pedagoga,
+                            zlaté a stříbrné medaile FIT, které si
+                            ocenění nemohli převzít na <a
+                              href="https://www.fit.vut.cz/fit/press/3271/.cs">slavnostním
+                              večeru</a> v Městském divadle Brno,
+                            a bronzové medaile za zásluhy o rozvoj
+                            fakulty
+                            předal v pátek 10. června oceněným děkan FIT
+                            Pavel Zemčík na setkání
+                            zaměstnanců u příležitosti 20. výročí
+                            založení fakulty. Seznam oceněných
+                            najdete <a
+                              href="https://www.fit.vut.cz/fit/news/3334/.cs">ZDE</a>.
+                            Všem gratulujeme!  </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3332/g108.png"
+                            alt="[g108.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Přednášky
+                            zvaných hostů z Federal University of Santa
+                            Catarina, Brazílie</h2>
+                          <p>Ve středu 22. 6. se od 13:00 - 15:00
+                            v místnosti G108
+                            uskuteční přednášky našich vážených hostů
+                            z brazilské Federal University
+                            of Santa Catarina:
+                          </p>
+                          <ul>
+                            <li>13:00 - Gustavo Garcia Otto:
+                              Weigh-in-Motion new approach to
+                              reduce vehicle dynamics uncertainties </li>
+                            <li>14:00 - Valter Zanela Tani: Application
+                              of computer vision
+                              in the assessment of road safety and
+                              pavement surface condition</li>
+                          </ul>
+                          <p>Abstrakty najdete na <a
+                              href="https://www.fit.vut.cz/fit/event/4797/.cs">webu
+                              FIT</a>. Na přednášky jste srdečně
+                            zváni. </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3331/fitvut.jpg"
+                            alt="[fitvut.jpg]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Mezinárodní
+                            letní akce na FIT: Academic Programme a
+                            BISSIT 2022</h2>
+                          <p>Dvě mezinárodní akce bude hostit v červnu
+                            a červenci
+                            Fakulta informačních technologií. <a
+                              href="https://www.fit.vut.cz/fit/event/4795/.cs">Academic
+                              Programme</a> pro studenty z partnerské
+                            Strathmore University
+                            (Nairobi, Keňa) proběhne na FIT v týdnu 27.
+                            6. - 1. 7. 2022. Pro téměř čtyřicítku
+                            účastníků jsou
+                            připraveny kurzy v oblasti počítačové
+                            bezpečnosti,            </p>
+                          <p>Již potřetí pak proběhne na FIT <a
+                              href="https://www.fit.vut.cz/events/bissit/programme/">Mezinárodní
+                              letní škola
+                              informačních technologií BISSIT</a>, letos
+                            v termínu 11. - 26. 7. 2022. Na akci
+                            přivítáme přibližně padesát
+                            studentů převážně z Koreje a Keni, kteří se
+                            budou vzdělávat v oblastech
+                            Počítačová bezpečnost a kriminalistika,
+                            Strojové učení a Interaktivní aplikace.  </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3337/TFSweb.png"
+                            alt="[TFSweb.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">
+                            Thermo Fisher Scientific - Open Day</h2>
+                          <p>Chcete se dozvědět, jak vznikají špičkové
+                            přístroje za miliony dolarů? Láká vás
+                            prostředí jedné z největších high-tech firem
+                            v Brně? Díky akci Open Day se můžete podívat
+                            i vy! Akce se koná ve středu 29. června 2022
+                            od 16:30 na adrese Vlastimila Pecha 12
+                            v Brně a je určena pro studenty i absolventy
+                            nejrůznějších, tj. nejenom technických
+                            oborů.
+                            Čeká vás nabitý program - factory tour, demo
+                            ukázky na mikroskopech a hmotnostních
+                            spektrometrech, besedy nebo workshopy. Vše
+                            bude zakončeno večerní grilovačkou,
+                            networkingem a koncertem firemní kapely <a
+href="https://www.facebook.com/Misalignments/">The Misalignments!</a> Registrovat
+                            na akci se můžete <a
+                              href="https://www.eventbrite.com/e/open-day-2022-tickets-349596421307">zde</a>.
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3322/gameaccess.png"
+                            alt="[gameaccess.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Víkend
+                            27. - 29.5. věnovaný festivalu ABC a
+                            konferenci Game Access</h2>
+                          <p>Poslední
+                            květnový víkend se týmy z FIT účastnily hned
+                            dvou akcí. Výzkumná skupina STRaDe zaujala
+                            malé i velké návštěvníky festivalu ABC
+                            možností vyfotit si a vytisknout obraz
+                            vlastní duhovky, vytvořit si otisk prstů
+                            i dalšími biometrickými systémy. V ty samé
+                            dny proběhla konference Game Access,
+                            kde studenti a studentky z Fakulty
+                            informačních technologií a Fakulty
+                            výtvarných umění VUT prezentovali své
+                            projekty. Více o nich <a
+                              href="https://atelierduchu.com/ga22/">zde</a>.<br>
+                            <br>
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td aria-hidden="true" style="font-size: 0px; line-height:
+                0px;" height="40">   </td>
+            </tr>
+          </tbody>
+        </table>
+        <table role="presentation" style="max-width: 680px;"
+          width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td style="padding: 24px 0; font-family: sans-serif;
+                font-size: 12px; line-height: 15px; text-align: center;
+                color: #888888;">
+                <h2 style="color: black;font-size:20px;line-height:24px">Odebírejte
+                  novinky FIT</h2>
+                <span class="unstyle-auto-detected-links">Týdenní krátký
+                  přehled ze života fakulty - novinky, aktuality a
+                  události z FIT, odkazy na zajímavé články, pracovní
+                  stáže, apod.</span> <br>
+                <br>
+                <p style="line-height:1.0;text-align:center"> <span
+                    class="fn_url"><a class="sub_button"
+                      href="mailto:fitnews-request@fit.vutbr.cz?subject=subscribe"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      30px;font-weight: bold;margin: 5px 0px;">Odebírat</a></span>
+                  <span class="fn_url"><a class="sub_button"
+                      href="mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      10px;font-weight: bold;margin: 5px 0px;">Přestat
+                      odebírat</a></span> </p>
+                <br>
+                <p style="line-height:1.0;text-align:center"> <span
+                    class="fn_url"><a class="sub_button"
+                      href="https://www.fit.vut.cz/fit/news/.cs?type=news"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      10px;font-weight: bold;margin: 5px 0px;">Všechny
+                      novinky</a></span> </p>
+                <br>
+                <p class="social_block" style="margin:0 auto;text-align:
+                  center;display: block;"><br>
+                  <a href="https://www.facebook.com/FIT.VUT/"><img
+                      alt="Facebook"
+                      src="https://www.fit.vut.cz/fit/fitnews/images/fb_logo.png"
+                      title="" style="width: 25px;"></a>     <a
+                    href="https://www.instagram.com/fit.vut/"><img
+                      alt="Instagram"
+                      src="https://www.fit.vut.cz/fit/fitnews/images/instagram_logo.png"
+                      title="" style="width: 25px;"></a> </p>
+                <br>
+                <p style="font-size:12px"> Fakulta informačních
+                  technologií VUT v Brně • <a
+                    href="https://www.fit.vut.cz/"
+                    class="moz-txt-link-freetext">https://www.fit.vut.cz/</a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <!--[if mso]>
+            </td>
+            </tr>
+            </table>
+            <![endif]--> </div>
+      <!--[if mso | IE]>
+    </td>
+    </tr>
+    </table>
+    <![endif]--> </center>
+  </body>
+</html>
+
+--------------uCT010ZjfL6ymKfNiwvpxZil--

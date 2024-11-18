@@ -1,0 +1,238 @@
+Return-Path: <studinfo-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 32S8SuCv028816
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Tue, 28 Mar 2023 10:28:56 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 32S8SaKc030786
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Tue, 28 Mar 2023 10:28:56 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vutbr.cz; s=mx1;
+	t=1679992136; bh=S108G1iNXFplW6m24czCPMmIhUziCVTmflt1Lgt7EKg=;
+	h=Date:To:Subject:List-Id:List-Unsubscribe:List-Archive:List-Post:
+	 List-Help:List-Subscribe:From:Reply-To;
+	b=1ZuOzQllR6UVuyYokPB4YdILInXV5hlVgxY9dmv0StO278+jvq5IXcQf9CYVRP1HQ
+	 LpcBJJ4tHA/gbHvFenB3kZa0XhyoK3cTuVS3ccRvv9q1hvjO2AoX0oJSh5y56HjzkS
+	 QC2OOlKiF9Q47mA7SVB5YwcFQrbOAiYdP56DcrV4=
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTP id 32S8NPgI022542;
+	Tue, 28 Mar 2023 10:23:26 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTPS id 32S8MYSY022513
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@tereza.fit.vutbr.cz>; Tue, 28 Mar 2023 10:22:34 +0200 (CEST)
+ (envelope-from zaklova@fit.vut.cz)
+Received: from roundcube.fit.vutbr.cz (spytihnev.fit.vutbr.cz
+ [IPv6:2001:67c:1220:809:0:0:93e5:9e2]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 32S8MYVr020329
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <Studinfo@fit.vutbr.cz>; Tue, 28 Mar 2023 10:22:34 +0200 (CEST)
+ (envelope-from zaklova@fit.vut.cz)
+MIME-Version: 1.0
+Date: Tue, 28 Mar 2023 10:22:34 +0200
+To: Studinfo@fit.vutbr.cz
+User-Agent: Roundcube Webmail
+Message-ID: <678d316cf98d555c384462b2bbb669e1@fit.vutbr.cz>
+X-Sender: zaklova@fit.vutbr.cz
+X-Mailman-Approved-At: Tue, 28 Mar 2023 10:23:24 +0200
+Subject: [Studinfo] =?utf-8?b?UmVnaXN0cmFjZSBwxZllZG3Em3TFryBwcm8gYWsu?=
+ =?utf-8?q?r=2E_2023/2024?=
+X-BeenThere: studinfo@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: informace pro studenty FIT tykajici se studia <studinfo.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <http://www.fit.vutbr.cz/pipermail/studinfo/>
+List-Post: <mailto:studinfo@fit.vutbr.cz>
+List-Help: <mailto:studinfo-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?Zaklov=E1_Krist=FDna_via_Studinfo?=
+ <studinfo@fit.vutbr.cz>
+Reply-To: =?UTF-8?Q?Zaklov=C3=A1_Krist=C3=BDna?= <zaklova@fit.vutbr.cz>
+Content-Type: multipart/mixed; boundary="===============2175703082660827015=="
+Errors-To: studinfo-bounces@fit.vutbr.cz
+Sender: "Studinfo" <studinfo-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=-1.814 required=7 tests=ALL_TRUSTED,AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HEADER_FROM_DIFFERENT_DOMAINS,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+--===============2175703082660827015==
+Content-Type: multipart/alternative;
+ boundary="=_8bcdfbda99e0ca29ee527c1457d2fd58"
+
+--=_8bcdfbda99e0ca29ee527c1457d2fd58
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+
+Vážené studentky, vážení studenti,
+
+tímto bych Vám ráda připomněla, že dnes - tj. v úterý 28.03. večer 
+(aktuálním 1BIT ve středu 29.03. ve 20:00:00 h) - se spouští registrace 
+předmětů pro ak.r. 2023/2024. Registrační formuláře hledejte v IS VUT v 
+modulu Registrace předmětů [1]. Podrobnosti najdete v aktualitě [2] a 
+směrnici č. 2/2022 [3].
+
+Věnujte, prosím, pozornost těmto doplňujícím informacím:
+
+* Do příštího ak. roku byli přetaženi i studenti, kteří budou 
+pravděpodobně letos konat SZZ, nelze je totiž snadno rozlišit od těch, 
+kteří budou rozvolňovat a musí si registrovat předměty. Pokud máte letos 
+podanou přihlášku k SZZ, registrací se neúčastněte (formulář by ani 
+neměl dovolit žádné změny).
+
+* Všechny registrace budou ukončeny 05.04.2023 ve 23:59:59 h!
+
+* Při této úvodní registraci si lze zaregistrovat předměty za nejvýše 65 
+kreditů. Před podáváním případné žádosti o navýšení kreditového stropu 
+prosím myslete na to, že kreditové stropy na příští rok se stanoví i na 
+základě výsledků v letním semestru a dokud tyto výsledky nejsou k 
+dispozici, nelze žádostem, které tímto můžou být ovlivněny, vyhovět, 
+abychom strop naopak nesnížili. Po ukončení zkouškového období po letním 
+semestru budou všem doplněny neúspěšné povinné předměty z letního 
+semestru a přepočítány roční kreditové stropy [4] až k možným 80 
+kreditům.
+
+* Studenti, kteří plánují konat státní závěrečnou zkoušku v příštím 
+akademickém roce: neopomeňte pečlivě projít registrační formulář až do 
+úplného konce (zvláště pak, když použijete mobil) a nezapomeňte si k 
+ITT/SEP a IBT/DIP zaregistrovat přihlášku k ISZ/MSZ (checkbox úplně 
+dole), bez které nemůžete přistoupit v červnu 2024 ke státní závěrečné 
+zkoušce.
+
+* Pokud jste byli na výjezdu Erasmus+ a nemáte dostatek volných kreditů 
+na povinné či povinně volitelné předměty, podejte si žádost o navýšení 
+kreditového stropu za studium v modulu Řízení a žádosti [5].
+
+* Studenti v bakalářském studijním programu mohou přistoupit ke státní 
+závěrečné zkoušce v červnu 2024 (a později), pokud úspěšně absolvují 
+některou z angličtin na úrovni alespoň B1 nebo vyšší, a to kdykoliv v 
+průběhu studia, naposledy však v letním semestru před státními 
+zkouškami. Doporučujeme angličtinu absolvovat dříve.
+
+Pokud během registrací narazíte na nějaký problém - včetně nedostatečné 
+kapacity v povinném předmětu, nebo např. v přebývajícím povinném 
+předmětu (typicky se děje u studentů MITAI při změně specializace v 
+tomto období) - hlaste nám ho prosím oficiální cestou na e-maily 
+studijni-poradce@fit.vut.cz a kuchynkam@fit.vut.cz.
+
+S pozdravem a přáním úspěšných registrací
+
+Kristýna Zaklová
+
+Links:
+------
+[1] https://www.vut.cz/studis/student.phtml?sn=individualni_plan_fit
+[2] https://www.fit.vut.cz/study/study-news/h20271/
+[3] https://www.fit.vut.cz/fit/info/smernice/sm2022-02-uz.pdf
+[4] https://www.fit.vut.cz/study/advisor/.cs#kreditove-stropy
+[5] https://www.vut.cz/rizeni-zadosti
+--=_8bcdfbda99e0ca29ee527c1457d2fd58
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<p>V&aacute;=C5=BEen&eacute; studentky, v&aacute;=C5=BEen&iacute; studenti,=
+</p>
+<p>t&iacute;mto bych V&aacute;m r&aacute;da p=C5=99ipomn=C4=9Bla, =C5=BEe d=
+nes - tj. v &uacute;ter&yacute; <strong>28.03.</strong> ve=C4=8Der (aktu&aa=
+cute;ln&iacute;m <strong>1BIT</strong> ve st=C5=99edu <strong>29.03.</stron=
+g> ve 20:00:00 h) - se spou&scaron;t&iacute; registrace p=C5=99edm=C4=9Bt=
+=C5=AF pro ak.r. <strong>2023/2024</strong>. Registra=C4=8Dn&iacute; formul=
+&aacute;=C5=99e hledejte v IS VUT v modulu <a href=3D"https://www.vut.cz/st=
+udis/student.phtml?sn=3Dindividualni_plan_fit">Registrace p=C5=99edm=C4=9Bt=
+=C5=AF</a>. Podrobnosti najdete v <a href=3D"https://www.fit.vut.cz/study/s=
+tudy-news/h20271/">aktualit=C4=9B</a> a sm=C4=9Brnici =C4=8D. <a href=3D"ht=
+tps://www.fit.vut.cz/fit/info/smernice/sm2022-02-uz.pdf">2/2022</a>.</p>
+<p><strong>V=C4=9Bnujte, pros&iacute;m, pozornost t=C4=9Bmto dopl=C5=88uj&i=
+acute;c&iacute;m informac&iacute;m:</strong></p>
+<p>* Do p=C5=99&iacute;&scaron;t&iacute;ho ak. roku byli p=C5=99eta=C5=BEen=
+i i studenti, kte=C5=99&iacute; budou pravd=C4=9Bpodobn=C4=9B <strong>letos=
+ konat SZZ</strong>, nelze je toti=C5=BE snadno rozli&scaron;it od t=C4=9Bc=
+h, kte=C5=99&iacute; budou rozvol=C5=88ovat a mus&iacute; si registrovat p=
+=C5=99edm=C4=9Bty. Pokud m&aacute;te letos podanou p=C5=99ihl&aacute;&scaro=
+n;ku k SZZ, <strong>registrac&iacute; se ne&uacute;=C4=8Dastn=C4=9Bte</stro=
+ng> (formul&aacute;=C5=99 by ani nem=C4=9Bl dovolit =C5=BE&aacute;dn&eacute=
+; zm=C4=9Bny).</p>
+<p>* V&scaron;echny registrace budou <strong>ukon=C4=8Deny 05.04.</strong>2=
+023 ve 23:59:59 h!</p>
+<p>* P=C5=99i t&eacute;to &uacute;vodn&iacute; registraci si lze zaregistro=
+vat p=C5=99edm=C4=9Bty za nejv&yacute;&scaron;e <strong>65</strong> kredit=
+=C5=AF. P=C5=99ed pod&aacute;v&aacute;n&iacute;m p=C5=99&iacute;padn&eacute=
+; =C5=BE&aacute;dosti o nav&yacute;&scaron;en&iacute; kreditov&eacute;ho st=
+ropu pros&iacute;m myslete na to, =C5=BEe kreditov&eacute; stropy na p=C5=
+=99&iacute;&scaron;t&iacute; rok se stanov&iacute; i na z&aacute;klad=C4=9B=
+ v&yacute;sledk=C5=AF v letn&iacute;m semestru a dokud tyto v&yacute;sledky=
+ nejsou k dispozici, nelze =C5=BE&aacute;dostem, kter&eacute; t&iacute;mto =
+m=C5=AF=C5=BEou b&yacute;t ovlivn=C4=9Bny, vyhov=C4=9Bt, abychom strop naop=
+ak nesn&iacute;=C5=BEili. Po ukon=C4=8Den&iacute; zkou&scaron;kov&eacute;ho=
+ obdob&iacute; po letn&iacute;m semestru budou v&scaron;em dopln=C4=9Bny ne=
+&uacute;sp=C4=9B&scaron;n&eacute; povinn&eacute; p=C5=99edm=C4=9Bty z letn&=
+iacute;ho semestru a p=C5=99epo=C4=8D&iacute;t&aacute;ny <a href=3D"https:/=
+/www.fit.vut.cz/study/advisor/.cs#kreditove-stropy"><strong>ro=C4=8Dn&iacut=
+e; kreditov&eacute; stropy</strong></a> a=C5=BE k mo=C5=BEn&yacute;m <stron=
+g>80</strong> kredit=C5=AFm.</p>
+<p>* <strong>Studenti, kte=C5=99&iacute; pl&aacute;nuj&iacute; konat st&aac=
+ute;tn&iacute; z&aacute;v=C4=9Bre=C4=8Dnou zkou&scaron;ku v p=C5=99&iacute;=
+&scaron;t&iacute;m akademick&eacute;m roce</strong>: neopome=C5=88te pe=C4=
+=8Dliv=C4=9B proj&iacute;t registra=C4=8Dn&iacute; formul&aacute;=C5=99 a=
+=C5=BE do &uacute;pln&eacute;ho konce (zvl&aacute;&scaron;t=C4=9B pak, kdy=
+=C5=BE pou=C5=BEijete mobil) a nezapome=C5=88te si k ITT/SEP a IBT/DIP zare=
+gistrovat p=C5=99ihl&aacute;&scaron;ku k ISZ/MSZ (checkbox &uacute;pln=C4=
+=9B dole), bez kter&eacute; nem=C5=AF=C5=BEete p=C5=99istoupit v <strong>=
+=C4=8Dervnu 2024</strong> ke st&aacute;tn&iacute; z&aacute;v=C4=9Bre=C4=8Dn=
+&eacute; zkou&scaron;ce.</p>
+<p>* Pokud jste byli na v&yacute;jezdu <strong>Erasmus+</strong> a nem&aacu=
+te;te dostatek voln&yacute;ch kredit=C5=AF na povinn&eacute; =C4=8Di povinn=
+=C4=9B voliteln&eacute; p=C5=99edm=C4=9Bty, podejte si =C5=BE&aacute;dost o=
+ nav&yacute;&scaron;en&iacute; kreditov&eacute;ho stropu za studium v modul=
+u <a href=3D"https://www.vut.cz/rizeni-zadosti">=C5=98&iacute;zen&iacute; a=
+ =C5=BE&aacute;dosti</a>.</p>
+<p>* Studenti v bakal&aacute;=C5=99sk&eacute;m studijn&iacute;m programu mo=
+hou p=C5=99istoupit ke st&aacute;tn&iacute; z&aacute;v=C4=9Bre=C4=8Dn&eacut=
+e; zkou&scaron;ce v =C4=8Dervnu 2024 (a pozd=C4=9Bji), pokud &uacute;sp=C4=
+=9B&scaron;n=C4=9B absolvuj&iacute; n=C4=9Bkterou z <strong>angli=C4=8Dtin<=
+/strong> na &uacute;rovni alespo=C5=88 B1 nebo vy&scaron;&scaron;&iacute;, =
+a to kdykoliv v pr=C5=AFb=C4=9Bhu studia, naposledy v&scaron;ak v letn&iacu=
+te;m semestru p=C5=99ed st&aacute;tn&iacute;mi zkou&scaron;kami. Doporu=C4=
+=8Dujeme angli=C4=8Dtinu absolvovat d=C5=99&iacute;ve.</p>
+<p>Pokud b=C4=9Bhem registrac&iacute; naraz&iacute;te na n=C4=9Bjak&yacute;=
+ probl&eacute;m - v=C4=8Detn=C4=9B nedostate=C4=8Dn&eacute; kapacity v <str=
+ong>povinn&eacute;m</strong> p=C5=99edm=C4=9Btu, nebo nap=C5=99. v p=C5=99e=
+b&yacute;vaj&iacute;c&iacute;m povinn&eacute;m p=C5=99edm=C4=9Btu (typicky =
+se d=C4=9Bje u student=C5=AF MITAI p=C5=99i zm=C4=9Bn=C4=9B specializace v =
+tomto obdob&iacute;) - hlaste n&aacute;m ho pros&iacute;m ofici&aacute;ln&i=
+acute; cestou na e-maily <a href=3D"mailto:studijni-poradce@fit.vut.cz">stu=
+dijni-poradce@fit.vut.cz</a> a <a href=3D"mailto:kuchynkam@fit.vut.cz">kuch=
+ynkam@fit.vut.cz</a>.</p>
+<p>S pozdravem a p=C5=99&aacute;n&iacute;m &uacute;sp=C4=9B&scaron;n&yacute=
+;ch registrac&iacute;</p>
+<p>Krist&yacute;na Zaklov&aacute;</p>
+</body></html>
+
+--=_8bcdfbda99e0ca29ee527c1457d2fd58--
+
+--===============2175703082660827015==
+Content-Type: text/plain; charset="iso-8859-2"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+_______________________________________________
+Studinfo mailing list
+Studinfo@fit.vutbr.cz
+https://www.fit.vutbr.cz/mailman/listinfo/studinfo
+
+Konference studinfo slouzi vyhradne pro zasilani informaci studentum, ktere=
+ se tykaji jejich pusobeni na FIT.
+Zadne dotazy zaslane na adresu konference nikdo nezodpovi a vsechny nerelev=
+antni prispevky budou bez dalsiho oznameni zahozeny. Eventuelni dotazy smer=
+ujte na studijni oddeleni.
+
+--===============2175703082660827015==--

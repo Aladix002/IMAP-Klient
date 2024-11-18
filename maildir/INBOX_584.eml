@@ -1,0 +1,189 @@
+Return-Path: <studinfo-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 336GTnBA072673
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 6 Apr 2023 18:29:49 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 336GSl5v060867
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 6 Apr 2023 18:29:48 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vutbr.cz; s=mx1;
+	t=1680798589; bh=5qBXympKiEI9vEhmeaqM7on4yMh64seMp780Rhdv2Oo=;
+	h=Date:To:Subject:List-Id:List-Unsubscribe:List-Archive:List-Post:
+	 List-Help:List-Subscribe:From:Reply-To;
+	b=SRZ/WEHZFSKmjqGMOcVovuUtDJr0Aab7QotVA2441iTDazUVQ4XOjRYyAa0QQxJ++
+	 JGFD4wPaKsDIeszfz8yckLwcfmpq8vMjNB8IG3QJ8gkRdNsIx42m9WN6nKRq1ops13
+	 fdPRb4qyK7f8LVkH6LUSY8+DXI8soLTizSZz2nC4=
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTP id 336G035I095119;
+	Thu, 6 Apr 2023 18:00:04 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTPS id 336FkqiW094212
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@tereza.fit.vutbr.cz>; Thu, 6 Apr 2023 17:46:52 +0200 (CEST)
+ (envelope-from dytrych@fit.vut.cz)
+Received: from [IPV6:2001:67c:1220:80e:cd05:ab34:a86f:172b]
+ ([IPv6:2001:67c:1220:80e:cd05:ab34:a86f:172b]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 336FkpNM032758
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <studinfo@fit.vutbr.cz>; Thu, 6 Apr 2023 17:46:52 +0200 (CEST)
+ (envelope-from dytrych@fit.vut.cz)
+Message-ID: <7393720b-bbe1-6398-69ae-11f9d12c9022@fit.vut.cz>
+Date: Thu, 6 Apr 2023 17:46:51 +0200
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101
+ Thunderbird/102.9.0
+To: studinfo@fit.vutbr.cz
+Content-Language: cs-CZ
+X-Mailman-Approved-At: Thu, 06 Apr 2023 18:00:02 +0200
+Subject: [Studinfo] =?utf-8?q?Orienta=C4=8Dn=C3=AD_hranice_prosp=C4=9Bcho?=
+ =?utf-8?q?v=C3=BDch_stipendi=C3=AD_za_zimn=C3=AD_semestr_2022/23?=
+X-BeenThere: studinfo@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: informace pro studenty FIT tykajici se studia <studinfo.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <http://www.fit.vutbr.cz/pipermail/studinfo/>
+List-Post: <mailto:studinfo@fit.vutbr.cz>
+List-Help: <mailto:studinfo-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=subscribe>
+From: Jaroslav Dytrych via Studinfo <studinfo@fit.vutbr.cz>
+Reply-To: Jaroslav Dytrych <dytrych@fit.vut.cz>
+Content-Type: multipart/mixed; boundary="===============9035020626103444770=="
+Errors-To: studinfo-bounces@fit.vutbr.cz
+Sender: "Studinfo" <studinfo-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=-1.841 required=7 tests=ALL_TRUSTED,AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HEADER_FROM_DIFFERENT_DOMAINS,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+--===============9035020626103444770==
+Content-Type: multipart/alternative;
+ boundary="------------awqkrxQmjnTLCWjtcwNj9Gn1"
+Content-Language: cs-CZ
+
+This is a multi-part message in MIME format.
+--------------awqkrxQmjnTLCWjtcwNj9Gn1
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Vážené studentky, vážení studenti,
+
+prospěchová stipendia podle výsledků dosažených v zimním semestru se 
+chystáme vyplatit jednorázově koncem měsíce dubna. Ty, kdo dosáhli v 
+zimním semestru výborných výsledků, by však nejspíše zajímalo již nyní, 
+zda jejich studijní průměr na přiznání prospěchového stipendia bude 
+stačit či nikoliv. Níže vám proto posílám hranice studijních průměrů pro 
+jednotlivé ročníky, jak vycházejí dle aktuálních dat v IS VUT, nicméně 
+upozorňuji, že jsou to čísla orientační a nelze je v tuto chvíli 
+garantovat. Obvykle se sice již nezmění, vyloučeno to ale není (někdo 
+může přijet z Erasmu, nechat si uznat výsledky a změnit tím pořadí i 
+příslušnou hranici). Stejně tak jsou orientační i částky prospěchového 
+stipendia - výplatu stipendií musí nejdříve schválit AS FIT a navíc je 
+letos potřeba současně schválit i změnu směrnice tak, aby odpovídala 
+novému informačnímu systému. Fakticky se však touto změnou při výplatě 
+stipendií nic nezmění - upraví se pouze technická realizace, kterou je 
+potřeba přizpůsobit novému IS tak, aby pravidla věcně zůstala stejná.
+
+Mechanizmus výpočtu prospěchových stipendií je detailněji popsán ve 
+Směrnici č. 1/2022 Podmínky pro přiznání stipendia studentům FIT 
+https://www.fit.vut.cz/fit/info/smernice/sm2022-01.pdf doplňující 
+Stipendijní řád VUT 
+https://www.vut.cz/uredni-deska/vnitrni-predpisy-a-dokumenty/-d140722/uplne-zneni-stipendijniho-radu-od-13-4-2021-p205782
+
+1BIT: VSP do 1,48 včetně = 18.848 Kč; VSP do 2,09 včetně = 6.283 Kč
+2BIT: VSP do 1,32 včetně = 20.075 Kč; VSP do 1,67 včetně = 6.692 Kč
+3BIT: VSP do 1,29 včetně = 23.424 Kč; VSP do 1,51 včetně = 7.808 Kč
+1MIT: VSP do 1,00 včetně = 26.977 Kč; VSP do 1,31 včetně = 8.992 Kč
+2MIT: VSP do 1,12 včetně = 34.298 Kč; VSP do 1,29 včetně = 11.433 Kč
+
+
+Přeji pěkný den
+
+Jaroslav Dytrych
+
+
+--------------awqkrxQmjnTLCWjtcwNj9Gn1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <div class="moz-text-html" lang="x-unicode">
+      <div class="moz-text-flowed" style="font-family: -moz-fixed;
+        font-size: 12px;" lang="x-unicode">Vážené studentky, vážení
+        studenti, <br>
+        <br>
+        prospěchová stipendia podle výsledků dosažených v zimním
+        semestru se chystáme vyplatit jednorázově koncem měsíce dubna.
+        Ty, kdo dosáhli v zimním semestru výborných výsledků, by však
+        nejspíše zajímalo již nyní, zda jejich studijní průměr na
+        přiznání prospěchového stipendia bude stačit či nikoliv. Níže
+        vám proto posílám hranice studijních průměrů pro jednotlivé
+        ročníky, jak vycházejí dle aktuálních dat v IS VUT, nicméně
+        upozorňuji, že jsou to čísla orientační a nelze je v tuto chvíli
+        garantovat. Obvykle se sice již nezmění, vyloučeno to ale není
+        (někdo může přijet z Erasmu, nechat si uznat výsledky a změnit
+        tím pořadí i příslušnou hranici). Stejně tak jsou orientační i
+        částky prospěchového stipendia - výplatu stipendií musí nejdříve
+        schválit AS FIT a navíc je letos potřeba současně schválit i
+        změnu směrnice tak, aby odpovídala novému informačnímu systému.
+        Fakticky se však touto změnou při výplatě stipendií nic nezmění
+        - upraví se pouze technická realizace, kterou je potřeba
+        přizpůsobit novému IS tak, aby pravidla věcně zůstala stejná. <br>
+        <br>
+        Mechanizmus výpočtu prospěchových stipendií je detailněji popsán
+        ve Směrnici č. 1/2022 Podmínky pro přiznání stipendia studentům
+        FIT <a class="moz-txt-link-freetext" href="https://www.fit.vut.cz/fit/info/smernice/sm2022-01.pdf">https://www.fit.vut.cz/fit/info/smernice/sm2022-01.pdf</a>
+        doplňující Stipendijní řád VUT <a class="moz-txt-link-freetext"
+href="https://www.vut.cz/uredni-deska/vnitrni-predpisy-a-dokumenty/-d140722/uplne-zneni-stipendijniho-radu-od-13-4-2021-p205782">https://www.vut.cz/uredni-deska/vnitrni-predpisy-a-dokumenty/-d140722/uplne-zneni-stipendijniho-radu-od-13-4-2021-p205782</a><br>
+        <br>
+        1BIT: VSP do 1,48 včetně = 18.848 Kč; VSP do 2,09 včetně = 6.283
+        Kč<br>
+        2BIT: VSP do 1,32 včetně = 20.075 Kč; VSP do 1,67 včetně = 6.692
+        Kč<br>
+        3BIT: VSP do 1,29 včetně = 23.424 Kč; VSP do 1,51 včetně = 7.808
+        Kč<br>
+        1MIT: VSP do 1,00 včetně = 26.977 Kč; VSP do 1,31 včetně = 8.992
+        Kč<br>
+        2MIT: VSP do 1,12 včetně = 34.298 Kč; VSP do 1,29 včetně =
+        11.433 Kč<br>
+        <br>
+        <br>
+        Přeji pěkný den <br>
+        <br>
+        Jaroslav Dytrych <br>
+        <br>
+        <br>
+      </div>
+    </div>
+  </body>
+</html>
+
+--------------awqkrxQmjnTLCWjtcwNj9Gn1--
+
+--===============9035020626103444770==
+Content-Type: text/plain; charset="iso-8859-2"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+_______________________________________________
+Studinfo mailing list
+Studinfo@fit.vutbr.cz
+https://www.fit.vutbr.cz/mailman/listinfo/studinfo
+
+Konference studinfo slouzi vyhradne pro zasilani informaci studentum, ktere=
+ se tykaji jejich pusobeni na FIT.
+Zadne dotazy zaslane na adresu konference nikdo nezodpovi a vsechny nerelev=
+antni prispevky budou bez dalsiho oznameni zahozeny. Eventuelni dotazy smer=
+ujte na studijni oddeleni.
+
+--===============9035020626103444770==--

@@ -1,0 +1,45 @@
+Return-Path: <noreply@github.com>
+Received: from out-19.smtp.github.com (out-19.smtp.github.com [192.30.252.202])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2AN09u9A051086
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 23 Nov 2022 01:09:57 +0100 (CET)
+	(envelope-from noreply@github.com)
+Received: from github.com (hubbernetes-node-491cd92.va3-iad.github.net [10.48.124.30])
+	by smtp.github.com (Postfix) with ESMTPA id 3DF91E00E9
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 22 Nov 2022 16:09:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1669162195;
+	bh=P6xDcWtqAQNnHd9o0bHKKh5tb99k62GV0r56LsmQ2II=;
+	h=Date:From:To:Subject:From;
+	b=DZcI4qn6KPVc7znBl6j5MVydLb/IvAdMze35z/mHEYduGXL11FsbhtOTqC2qppjwm
+	 oYQMKWPGvFKcV/XxZLQFYSsWTA8F4Mydh/NoCobxbD/NdGiDo95/FET3zhGF00IxUh
+	 o2WyFLzBycXLhtoqnVnItu6LnRG/EliAUtLs0DuQ=
+Date: Tue, 22 Nov 2022 16:09:55 -0800
+From: GitHub <noreply@github.com>
+To: Aladix002 <xbotlo01@stud.fit.vutbr.cz>
+Message-ID: <637d64d33c2f1_84c670294b7@lowworker-68c564c858-5hgkn.mail>
+Subject: [GitHub] Please review this sign in
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+Hey Aladix002!
+
+Your GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/settings/sessions/authentications/2019422253
+
+If you recently signed in to your account, you do not need to take any further action.
+
+If you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.
+
+For more information, see https://docs.github.com/articles/keeping-your-account-and-data-secure/ in the GitHub Docs.
+
+To see this and other security events for your account, visit https://github.com/settings/security-log
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Thanks,
+The GitHub Team

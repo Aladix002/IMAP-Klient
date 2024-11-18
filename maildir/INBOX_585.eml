@@ -1,0 +1,148 @@
+Return-Path: <studinfo-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 336KT1V8036913
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 6 Apr 2023 22:29:01 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 336KSllE006638
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 6 Apr 2023 22:29:01 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vutbr.cz; s=mx1;
+	t=1680812941; bh=vVODijq4owzQO/owcdaQ/vQpcKQlMjuyGdCpYTaNDkw=;
+	h=Date:To:Subject:List-Id:List-Unsubscribe:List-Archive:List-Post:
+	 List-Help:List-Subscribe:From:Reply-To;
+	b=X8E/kt2narGqvIasxXAO5rv5zQ+guSFdzk9zWb9pp+NTGSczQU+vU9lh4Kx1D7k6B
+	 GyWcaJ05M3C8Zs3wlYxfrXJCRFSVG3ScuAXrw9cxueWKggFR/uj2kbbxkLmXkmgvIn
+	 6BjEuUe+8Wh2nEkDxfo8J2wN4LddWBkE7yoUJYck=
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTP id 336K10I2003792;
+	Thu, 6 Apr 2023 22:01:00 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTPS id 336K0Req003760
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@tereza.fit.vutbr.cz>; Thu, 6 Apr 2023 22:00:27 +0200 (CEST)
+ (envelope-from zaklova@fit.vut.cz)
+Received: from roundcube.fit.vutbr.cz (spytihnev.fit.vutbr.cz
+ [IPv6:2001:67c:1220:809:0:0:93e5:9e2]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 336K0RxN044662
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <Studinfo@fit.vutbr.cz>; Thu, 6 Apr 2023 22:00:27 +0200 (CEST)
+ (envelope-from zaklova@fit.vut.cz)
+MIME-Version: 1.0
+Date: Thu, 06 Apr 2023 22:00:27 +0200
+To: Studinfo@fit.vutbr.cz
+User-Agent: Roundcube Webmail
+Message-ID: <40bb78fa770c3a86130ff9eb9874b8eb@fit.vutbr.cz>
+X-Sender: zaklova@fit.vutbr.cz
+X-Mailman-Approved-At: Thu, 06 Apr 2023 22:00:59 +0200
+Subject: [Studinfo] =?utf-8?b?VsO9dWtvdsOpIHptxJtueSB2IExTIDIwMjM6IEV2?=
+ =?utf-8?q?oStar_11=2E-14=2E4=2E2023?=
+X-BeenThere: studinfo@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: informace pro studenty FIT tykajici se studia <studinfo.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <http://www.fit.vutbr.cz/pipermail/studinfo/>
+List-Post: <mailto:studinfo@fit.vutbr.cz>
+List-Help: <mailto:studinfo-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?Zaklov=E1_Krist=FDna_via_Studinfo?=
+ <studinfo@fit.vutbr.cz>
+Reply-To: =?UTF-8?Q?Zaklov=C3=A1_Krist=C3=BDna?= <zaklova@fit.vutbr.cz>
+Content-Type: multipart/mixed; boundary="===============4572570808420947221=="
+Errors-To: studinfo-bounces@fit.vutbr.cz
+Sender: "Studinfo" <studinfo-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=-1.842 required=7 tests=ALL_TRUSTED,AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HEADER_FROM_DIFFERENT_DOMAINS,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+--===============4572570808420947221==
+Content-Type: multipart/alternative;
+ boundary="=_391a9437e02e2c3d65a611f9a2e2e269"
+
+--=_391a9437e02e2c3d65a611f9a2e2e269
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+
+Vážené studentky, vážení studenti,
+
+ráda bych Vás touto cestou upozornila na studijní aktualitu: 
+https://www.fit.vut.cz/study/study-news/h20376/
+
+  	* Zítra a v pondělí jsou státní svátky, žádná výuka se v tyto dny 
+konat nebude.
+  	* V 10. týdnu výuky se na fakultě uskuteční v komplexu E - tj. 
+místnosti E112, E104 a E105 - konference EvoStar [1], pro niž je třeba 
+uvolnit rozvrhované místnosti od úterý 11. 4. 2023 od 13 h do pátku 14. 
+4. 2023 (včetně).
+
+Změny místností, ev. náhradní termíny vyučování, jsou již zadány na 
+kartách předmětů, případně nahlédněte do rozpisu, na který odkazuje 
+aktualita.
+
+S pozdravem a přáním pěkných velikonočních svátků
+
+Kristýna Zaklová
+
+Links:
+------
+[1] https://www.fit.vut.cz/fit/event/4908/
+--=_391a9437e02e2c3d65a611f9a2e2e269
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<p>V&aacute;=C5=BEen&eacute; studentky, v&aacute;=C5=BEen&iacute; studenti,=
+</p>
+<p>r&aacute;da bych V&aacute;s touto cestou upozornila na studijn&iacute; a=
+ktualitu: <a href=3D"https://www.fit.vut.cz/study/study-news/h20376/">https=
+://www.fit.vut.cz/study/study-news/h20376/</a></p>
+<ul>
+<li>Z&iacute;tra a v pond=C4=9Bl&iacute; jsou<strong> st&aacute;tn&iacute; =
+sv&aacute;tky</strong>, <span>=C5=BE&aacute;dn&aacute; v&yacute;uka se v ty=
+to dny konat nebude. </span></li>
+<li>V <strong>10</strong>. t&yacute;dnu v&yacute;uky se na fakult=C4=9B usk=
+ute=C4=8Dn&iacute; v komplexu <strong>E</strong> - tj. m&iacute;stnosti E11=
+2, E104 a E105 - konference <a href=3D"https://www.fit.vut.cz/fit/event/490=
+8/"><strong>EvoStar</strong></a>, pro ni=C5=BE je t=C5=99eba uvolnit rozvrh=
+ovan&eacute; m&iacute;stnosti od &uacute;ter&yacute; <strong>11. 4.</strong=
+> 2023 od 13 h do p&aacute;tku <strong>14. 4.</strong> 2023 (v=C4=8Detn=C4=
+=9B).</li>
+</ul>
+<p>Zm=C4=9Bny m&iacute;stnost&iacute;, ev. n&aacute;hradn&iacute; term&iacu=
+te;ny vyu=C4=8Dov&aacute;n&iacute;, jsou ji=C5=BE zad&aacute;ny na kart&aac=
+ute;ch p=C5=99edm=C4=9Bt=C5=AF, p=C5=99&iacute;padn=C4=9B nahl&eacute;dn=C4=
+=9Bte do rozpisu, na kter&yacute; odkazuje aktualita.</p>
+<p>S pozdravem a p=C5=99&aacute;n&iacute;m p=C4=9Bkn&yacute;ch velikono=C4=
+=8Dn&iacute;ch sv&aacute;tk=C5=AF</p>
+<p>Krist&yacute;na Zaklov&aacute;</p>
+
+</body></html>
+
+--=_391a9437e02e2c3d65a611f9a2e2e269--
+
+--===============4572570808420947221==
+Content-Type: text/plain; charset="iso-8859-2"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+_______________________________________________
+Studinfo mailing list
+Studinfo@fit.vutbr.cz
+https://www.fit.vutbr.cz/mailman/listinfo/studinfo
+
+Konference studinfo slouzi vyhradne pro zasilani informaci studentum, ktere=
+ se tykaji jejich pusobeni na FIT.
+Zadne dotazy zaslane na adresu konference nikdo nezodpovi a vsechny nerelev=
+antni prispevky budou bez dalsiho oznameni zahozeny. Eventuelni dotazy smer=
+ujte na studijni oddeleni.
+
+--===============4572570808420947221==--

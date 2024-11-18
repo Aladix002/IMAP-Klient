@@ -1,0 +1,112 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vutbr.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTP id 29FHJZha052586
+	for <xbotlo01@stud.fit.vut.cz>; Sat, 15 Oct 2022 19:19:35 +0200 (CEST)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id A9D9B1010BB
+	for <xbotlo01@stud.fit.vut.cz>; Sat, 15 Oct 2022 19:16:43 +0200 (CEST)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id 2D6363009515
+	for <xbotlo01@stud.fit.vut.cz>; Sat, 15 Oct 2022 19:16:42 +0200 (CEST)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 9DC5C105CDF8; Sat, 15 Oct 2022 19:16:43 +0200 (CEST)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: IZP 22/23Z (231045): printovanie errorov
+Date: Sat, 15 Oct 2022 19:16:43 +0200
+From: "=?utf-8?B?R2FsbG8gSm96ZWYgcMWZZXMgRS1MRUFSTklORyBWVVQ=?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <fdaa17bd6b42dad2f91c04fd43281ced8c5f39c8311730fefcdee3a7560b620b@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: =?utf-8?B?IklaUCAtIGRpc2t1emUgayBwcm9qZWt0dSDEjS4gMSIgPG1vb2RsZWZvcnU=?=
+ =?utf-8?B?bTgyMDhAbW9vZGxlLnZ1dC5jej4=?=
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=8208
+X-Course-Id: 231045
+X-Course-Name: =?utf-8?B?WsOha2xhZHkgcHJvZ3JhbW92w6Fuw60gKElaUCAyMi8yM1op?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=8208&d=1213>
+Thread-Topic: IZP 22/23Z (231045): printovanie errorov
+Thread-Index: fdaa17bd6b42dad2f91c04fd4328
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_RQngk2HX06EsGRATHP3HO2ULFRaj5RMMsxxxI1cjE"
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_RQngk2HX06EsGRATHP3HO2ULFRaj5RMMsxxxI1cjE
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIZP 22/23Z (231045) -> F=C3=B3ra -> IZP - diskuze k projektu =C4=8D. 1 -=
+>=0Aprintovanie errorov=0Ahttps://moodle.vut.cz/mod/forum/discuss.php?d=3D1=
+213#p1827=0Aprintovanie errorov=0Aautor Gallo Jozef - Sobota, 15. =C5=99=
+=C3=ADjna 2022, 18.47=0A---------------------------------------------------=
+------------------=0ADobr=C3=BD de=C5=88,=0A=0Ana printovanie erorrov (ch=
+=C3=BDb) je vhodn=C3=A9 pou=C5=BEi=C5=A5 funkciu fprintf pod=0Astderr ako s=
+te ukazovali na democviku alebo funkciu printf? P=C3=BDtam sa,=0Apreto=
+=C5=BEe ak pou=C5=BEijeme pr=C3=ADkaz ./t9search xxx output.txt tak=0Asa ch=
+yby nezobrazia v subore output.txt. Je to =C5=BEelan=C3=BD jav alebo nie?=
+=C2=A0=0A=0A=C4=8Eakujem za odpove=C4=8F=0A=0A-----------------------------=
+----------------------------------------=0AToto je kopie zpr=C3=A1vy zve=
+=C5=99ejn=C4=9Bn=C3=A9 na IZP 22/23Z (231045) .=0A=0AChcete-li odpov=C4=
+=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahttps://moodle.vut.cz/mod/forum=
+/post.php?reply=3D1827=0AOdhl=C3=A1sit se z f=C3=B3ra: https://moodle.vut.c=
+z/mod/forum/subscribe.php?id=3D8208=0AOdhl=C3=A1sit se z diskuse:=0Ahttps:/=
+/moodle.vut.cz/mod/forum/subscribe.php?id=3D8208&d=3D1213=0AZm=C4=9Bnit nas=
+taven=C3=AD voleb f=C3=B3ra:=0Ahttps://moodle.vut.cz/mod/forum/index.php?id=
+=3D231045=0A
+--b1_RQngk2HX06EsGRATHP3HO2ULFRaj5RMMsxxxI1cjE
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231045">IZP 22/23Z (231045)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231045">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D8208">IZP - diskuze k projektu=
+ =C4=8D. 1</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moo=
+dle.vut.cz/mod/forum/discuss.php?d=3D1213">printovanie errorov</a>=0A</div>=
+=0A=0A<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"foru=
+mpost">=0A    <tr class=3D"header">=0A        <td width=3D"35" valign=3D"to=
+p" class=3D"picture left">=0A            <a href=3D"https://moodle.vut.cz/u=
+ser/view.php?id=3D250563&amp;course=3D231045" class=3D"d-inline-block aabtn=
+"><img src=3D"https://moodle.vut.cz/theme/image.php/_s/vut/core/1657648469/=
+u/f2" class=3D"userpicture defaultuserpic" width=3D"35" height=3D"35" alt=
+=3D"Obr=C3=A1zek: Gallo Jozef" title=3D"Obr=C3=A1zek: Gallo Jozef" /></a>=
+=0A        </td>=0A        <td class=3D"topic starter">=0A            <div =
+class=3D"subject">=0A                printovanie errorov=0A            </di=
+v>=0A            <div class=3D"author">=0A                autor <a target=
+=3D'_blank' href=3D'https://moodle.vut.cz/user/view.php?id=3D250563&course=
+=3D231045'>Gallo Jozef</a> - Sobota, 15. =C5=99=C3=ADjna 2022, 18.47=0A    =
+        </div>=0A        </td>=0A    </tr>=0A    <tr>=0A        <td class=
+=3D"left side" valign=3D"top">=0A                &nbsp;=0A        </td>=0A =
+       <td class=3D"content">=0A            <p dir=3D"ltr" style=3D"text-al=
+ign:left;">Dobr=C3=BD de=C5=88,</p><p dir=3D"ltr" style=3D"text-align:left;=
+">na printovanie erorrov (ch=C3=BDb) je vhodn=C3=A9 pou=C5=BEi=C5=A5 funkci=
+u fprintf pod stderr ako ste ukazovali na democviku alebo funkciu printf? P=
+=C3=BDtam sa, preto=C5=BEe ak pou=C5=BEijeme pr=C3=ADkaz ./t9search xxx &lt=
+;seznam.txt &gt;output.txt tak sa chyby nezobrazia v subore output.txt. Je =
+to =C5=BEelan=C3=BD jav alebo nie?=C2=A0</p><p dir=3D"ltr" style=3D"text-al=
+ign:left;">=C4=8Eakujem za odpove=C4=8F</p>=0A=0A            <div class=3D"=
+commands">=0A                    <a target=3D"_blank" href=3D"https://moodl=
+e.vut.cz/mod/forum/post.php?reply=3D1827">=0A                        Odpov=
+=C4=9Bd=C4=9Bt=0A                    </a>=0A            </div>=0A=0A       =
+     <div class=3D"link">=0A                <a target=3D"_blank" href=3D"ht=
+tps://moodle.vut.cz/mod/forum/discuss.php?d=3D1213#p1827">=0A              =
+      Uk=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A                </a=
+>=0A            </div>=0A        </td>=0A    </tr>=0A</table>=0A=0A<hr />=
+=0A<div class=3D"mdl-align unsubscribelink">=0A    <a href=3D"https://moodl=
+e.vut.cz/mod/forum/subscribe.php?id=3D8208">Neodeb=C3=ADrat p=C5=99=C3=
+=ADsp=C4=9Bvky z tohoto f=C3=B3ra</a>&nbsp;=0A    <a href=3D"https://moodle=
+.vut.cz/mod/forum/subscribe.php?id=3D8208&d=3D1213">Vypnout odeb=C3=ADr=
+=C3=A1n=C3=AD p=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&nbsp;=
+=0A    <a href=3D"https://moodle.vut.cz/mod/forum/index.php?id=3D231045">Zm=
+=C4=9Bna nastaven=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_RQngk2HX06EsGRATHP3HO2ULFRaj5RMMsxxxI1cjE--

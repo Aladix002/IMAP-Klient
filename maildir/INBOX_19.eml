@@ -1,0 +1,57 @@
+Return-Path: <bounces+848413-5c90-xbotlo01=stud.fit.vut.cz@sgmail.github.com>
+Received: from o1.sgmail.github.com (o1.sgmail.github.com [192.254.114.176])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPS id 268EtFLe053503
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 8 Jul 2022 16:55:18 +0200 (CEST)
+	(envelope-from bounces+848413-5c90-xbotlo01=stud.fit.vut.cz@sgmail.github.com)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	h=from:subject:mime-version:content-type:content-transfer-encoding:to;
+	s=smtpapi; bh=tEiEMgC+izBOe4xWJbxIMFUNt7EsJbLat/pl/8kiksg=;
+	b=SscbWkdDwxdux9O8fVXH5HGniosXFpsBAyTq3tYxKQJ7GrmwiyUVsejlX42ooNf1y0NA
+	fOQ1S3q7UgxLYiUM/TpZYlHXu0p84D0jRz6DXQrfNndavmvGAHvouysA5KH1lH5jM5zqwC
+	F8+Uoen4hW+I0j/JyO5W+SJfbztG2R4As=
+Received: by filterdrecv-8fd5bb759-jd8zw with SMTP id filterdrecv-8fd5bb759-jd8zw-1-62C84553-9
+        2022-07-08 14:55:15.061148721 +0000 UTC m=+2582986.360724088
+Received: from smtp.github.com (unknown)
+	by geopod-ismtpd-3-2 (SG)
+	with ESMTP
+	id nQTasn17RAKHqMyFgU7RUQ
+	Fri, 08 Jul 2022 14:55:15.035 +0000 (UTC)
+Received: from github.com (hubbernetes-node-8764bfe.ash1-iad.github.net [10.56.224.37])
+	by smtp.github.com (Postfix) with ESMTPA id DEAA884016E;
+	Fri,  8 Jul 2022 07:55:14 -0700 (PDT)
+Date: Fri, 08 Jul 2022 14:55:15 +0000 (UTC)
+From: GitHub <noreply@github.com>
+Message-ID: <62c84552dc797_88d7783495bd@lowworker-5fc64dcf5b-5ksvr.mail>
+Subject: [GitHub] An email address was removed from your account.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+categories: account-security,email_address_removed
+X-SG-EID: 
+ =?us-ascii?Q?lvRoPqAywfdEp7HehvnY9O2Y2c8nKqVHM+o6Ig4zxSprf+iGp4eNl31wISMBZc?=
+ =?us-ascii?Q?D0vh6kmRVkH6Ih6D+=2F7dxzX2cfbG0NH9c+5keOm?=
+ =?us-ascii?Q?8U7kFXZnmJ1l0xEXHjDVXU=2FUw6mfnFR3aLOS6iD?=
+ =?us-ascii?Q?p7sv7K9qPJzpREXjqkCDpD8+FNVsy7CwYqN7orv?=
+ =?us-ascii?Q?cMwaCkZ4+h+U=2F360l1I2EK=2FUUoqCULue2yJ8efM?=
+ =?us-ascii?Q?S16iydvuJ6WXX6+mBfM5NooltgAGHVe5qtAi8f?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb=2FgauQKcZmYl4RcdBO2t13WadeFJ3TJ=2FsnY21xJUr1?=
+ =?us-ascii?Q?DhBvpcbFfrEs8BmmXh7W3pLtguw0TVDf8IV5=2Fpy?=
+ =?us-ascii?Q?MCh3R5YTMsYfcZ4aoSvHdf5oeZa?=
+To: Aladix02 <xbotlo01@stud.fit.vutbr.cz>
+X-Entity-ID: /f+S0XqulHHajbNb6hGdxg==
+X-Spam-Status: No, score=-0.164 required=7 tests=AWL,DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,RCVD_IN_MSPIKE_H2
+X-Spam-Checker-Version: SpamAssassin 3.4.5 (2021-03-20) on eva.fit.vutbr.cz
+
+Hey Aladix02!
+
+An email address (xbotlo01@stud.fit.vut.cz) was removed from your account. Visit https://github.com/settings/emails to review email addresses currently associated with your account.
+
+To see this and other security events for your account, visit https://github.com/settings/security-log
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Thanks,
+The GitHub Team

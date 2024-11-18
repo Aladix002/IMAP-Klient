@@ -1,0 +1,36 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 33BCvuj3063881
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 11 Apr 2023 14:57:56 +0200 (CEST)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id EEDF110B327
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 11 Apr 2023 14:57:55 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz EEDF110B327
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1681217875;
+	bh=HL+Kvd4DWhdvQlzqaETycM3a+wTBJ7sPcCXzpWm1yMk=; l=350;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=t9tKd2qWrfteS2ZVTUR/WyGkcF8QqqKPCwQQTU2Xbfhp8HFa3/6Wtg7vJqZIWMn3X
+	 +gLpOhiwffHVo30LESNSMkjBI6LchtSPNekxWrzN5GdCnQNw7n4Or4ItXxtMKZNROD
+	 ynJL8pfmIJaJY2OfsyWWA936uhhIR7CduMnmY3dA=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id EE9803135697; Tue, 11 Apr 2023 14:57:55 +0200 (CEST)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogSW5mb3JtYcSNbsOtIHN5c3TDqW0gVlVU?= <zpravy-is@vutbr.cz>
+Reply-to: zpravy-is@vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?SG9kbm9jZW7DrSB0ZXJtw61udQ==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <20230411125755.EE9803135697@emu.ro.vutbr.cz>
+Date: Tue, 11 Apr 2023 14:57:55 +0200 (CEST)
+X-Spam-Status: No, score=-0.175 required=7 tests=AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+QnlsIGpzdGUgaG9kbm9jZW4geiBwxZllZG3Em3R1ICJUeXBvZ3JhZmllIGEgcHVibGlrb3bDoW7D
+rShJVFkpIgpob2Rub2NlbsOtbSAiNyw4Ii4gCkhvZG5vY2Vuw60gcHJvdmVkbDogSW5nLiBKacWZ
+w60gUGF2ZWxhIGRuZTogMTEuMDQuMjAyMyAxNDo1NwoKVlVUIHpwcsOhdmEgb2Q6IEluZm9ybWHE
+jW7DrSBzeXN0w6ltIFZVVCAKT2Rwb3bEm8SPIG5hIHR1dG8genByw6F2dSBuZW7DrSBtb8W+bsOh
+LiBacHLDoXZ1IG9kZXNsYWwgYXV0b21hdC4K

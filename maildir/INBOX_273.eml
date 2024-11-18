@@ -1,0 +1,336 @@
+Return-Path: <robert.grepl@mechlab.cz>
+Received: from smtp-43.fortion.net (smtp-43.fortion.net [185.175.87.43])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2B1FWHeN023179
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+	for <xbotlo01@stud.fit.vutbr.cz>; Thu, 1 Dec 2022 16:32:18 +0100 (CET)
+	(envelope-from robert.grepl@mechlab.cz)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mechlab.cz;
+	s=fortion; h=In-Reply-To:From:References:To:Subject:MIME-Version:Date:
+	Message-ID:Content-Type:Sender:Reply-To:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=K6wk/G7EQqtgLpKz61A6lmc7onPNfmU655pxWD8aDRY=; b=A5SOMqhXVMY6F2B0qBfLN/V2xw
+	iVlgbgU73X6goclc8QzzZNsW8D4Jj3qjaAqLy2b4CLdcZWVKeX1MNE0aTfdHfxM464GNBR9foY1+M
+	72vKhX9OzA2a6BVpA/RLOZxVEFDrgl9Lpg8WRtwqsDG5JoFf9xrLRw5BoITUm4N3C0vRcZvlFFnI3
+	hFq+9n6r4EHdauoARvILaHo/icl09cftwrspPYIL9/L+UqE8P9f/DSa5eAPZKJh9/xTsIYiGziSig
+	EhBdPlKOXjid6bi6gUtms4HdNTidAK2WGQNmeHqvHGqJz1T3GRtpMD8ikKp/OU3OrLRD9/iIk42vu
+	Z8mIq5jA==;
+Received: from [147.229.46.138]
+	by smtp.fortion.net with esmtpsa  (TLS1.3) tls TLS_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <robert.grepl@mechlab.cz>)
+	id 1p0lXt-0047a7-GL
+	for xbotlo01@stud.fit.vutbr.cz; Thu, 01 Dec 2022 16:32:17 +0100
+Content-Type: multipart/alternative;
+ boundary="------------u0lcumPOqqITPIs0GXXOgVTD"
+Message-ID: <ea92cc2b-6b94-f6af-4660-1bdc5eed73d9@mechlab.cz>
+Date: Thu, 1 Dec 2022 16:32:17 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.5.0
+Subject: =?UTF-8?Q?Re=3a_Spolupr=c3=a1ca_so_=c5=a1tudentsk=c3=bdm_spolkom_BE?=
+ =?UTF-8?Q?ST_na_medzin=c3=a1rodnom_letnom_akademickom_kurze?=
+To: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>
+References: <7e56ab4f5e97a556cc3c0d5e64642033@stud.fit.vutbr.cz>
+ <4047dbb7-c1cd-5422-0f0d-63073e54ba4a@fme.vutbr.cz>
+ <355f4f0f1ffcb4fc029766c733737559@stud.fit.vutbr.cz>
+ <bdedc169-0835-7a01-7f40-b87758d84dd5@mechlab.cz>
+ <9dc4db2bfdba44d0cac77dc0035a1de3@stud.fit.vutbr.cz>
+ <513e5fc0c3c7ec9fa793f0fb2f322a1f@stud.fit.vutbr.cz>
+ <496c399e-4195-70aa-d766-91531bbcc140@mechlab.cz>
+ <db08e93d6ab3cd0c650586dcd4c8630c@stud.fit.vutbr.cz>
+From: Robert Grepl <robert.grepl@mechlab.cz>
+In-Reply-To: <db08e93d6ab3cd0c650586dcd4c8630c@stud.fit.vutbr.cz>
+X-Spam-Status: No, score=-0.456 required=7 tests=DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,HTML_MESSAGE,NICE_REPLY_A
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+--------------u0lcumPOqqITPIs0GXXOgVTD
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Ano, to jsem četl a pochopil.
+Ale: odpovídá to na otázku k financování a reaguje to nějak na návrh 
+termínu schůzky? 😁
+
+Přeji hezký den
+R. Grepl
+
+------------------------------------------------------------------------
+doc. *Robert Grepl*, PhD., Mob.: +420 *732 542 500 *, MechLab - 
+mechatronická laboratoř, ÚMTMB, FSI, Vysoké učení technické v Brně, 
+A2/711, Technická 2, 61669, Brno. Email: robert.grepl@mechlab.cz, 
+grepl@fme.vutbr.cz. Web: www.mechlab.cz <http://mechlab.cz/>, 
+www.imss.cz <http://imss.cz>, www.studujmechatroniku.cz 
+<http://studujmechatroniku.cz>.
+------------------------------------------------------------------------
+
+
+On 01.12.2022 16:28, Botlo Filip wrote:
+>
+> On 2022-12-01 16:14, Robert Grepl wrote:
+>
+>> 😁 upřímně řečeno, nevím.
+>> V mailu 29.11. jsem Vám navrhnul termíny schůzky a položil otázku na 
+>> financování.
+>> Ani k jednomu jste se nevyjádřil...
+>>
+>> RG
+>>
+>>
+>>> Dobrý den,
+>>> určitě se k tomu můžeme sejít, myslím, že by to mohlo být zajímavé i 
+>>> pro nás.
+>>> V uplynulých dvou letech jsme dělali letní školu pro středoškoláky a 
+>>> před kovidem IMSS - mezinárodní letní školu mechatroniky pro 
+>>> absolventy technických oborů a lidi z firem 
+>>> http://mechlab.fme.vutbr.cz/imss/imss-2018/ 
+>>> <http://mechlab.fme.vutbr.cz/imss/imss-2018/>
+>>> Dlouhodobě děláme soutěž pro studenty středních škol 
+>>> https://www.fme.vutbr.cz/fakulta/aktuality/68338 
+>>> <https://www.fme.vutbr.cz/fakulta/aktuality/68338>
+>>> Nabízím termín schůzky zítra (st) 1400, čt cca 1100 (upřesnil bych), 
+>>> pátek 1400.
+>>>
+>>> Otázka: jak je to s financováním akce?
+>>>
+>>> Díky za zájem o spolupráci a zdravím
+>>> RG
+>>
+>>
+>> ------------------------------------------------------------------------
+>> doc. *Robert Grepl*, PhD., Mob.: +420 *732 542 500 *, MechLab - 
+>> mechatronická laboratoř, ÚMTMB, FSI, Vysoké učení technické v Brně, 
+>> A2/711, Technická 2, 61669, Brno. Email: robert.grepl@mechlab.cz 
+>> <mailto:robert.grepl@mechlab.cz>, grepl@fme.vutbr.cz 
+>> <mailto:grepl@fme.vutbr.cz>. Web: www.mechlab.cz 
+>> <http://mechlab.cz/>, www.imss.cz <http://imss.cz>, 
+>> www.studujmechatroniku.cz <http://studujmechatroniku.cz>.
+>> ------------------------------------------------------------------------
+>>
+>>
+>> On 01.12.2022 16:00, Botlo Filip wrote:
+>>>
+>>> On 2022-11-30 15:43, Botlo Filip wrote:
+>>>
+>>>     On 2022-11-30 11:09, Robert Grepl wrote:
+>>>
+>>>         ? odeslal jste celý email? 😉
+>>>
+>>>         ------------------------------------------------------------------------
+>>>         doc. *Robert Grepl*, PhD., Mob.: +420 *732 542 500 *,
+>>>         MechLab - mechatronická laboratoř, ÚMTMB, FSI, Vysoké učení
+>>>         technické v Brně, A2/711, Technická 2, 61669, Brno. Email:
+>>>         robert.grepl@mechlab.cz <mailto:robert.grepl@mechlab.cz>,
+>>>         grepl@fme.vutbr.cz <mailto:grepl@fme.vutbr.cz>. Web:
+>>>         www.mechlab.cz <http://mechlab.cz/>, www.imss.cz
+>>>         <http://imss.cz>, www.studujmechatroniku.cz
+>>>         <http://studujmechatroniku.cz>.
+>>>         Prepáčte, som switchol medzi gmailom a roundcube a
+>>>         prekopírovala sa celá správa.😅.
+>>>
+>>>
+>>> Dobrý deň pán doc. Grepl,
+>>>
+>>> chcel by som sa pripomenúť ohľadom návrhu na spoluprácu na letnom 
+>>> kurze, či by bol teda z Vašej strany záujem o osobnú schôdzku 😄.
+>>>
+>>> S pozdravom,
+>>>
+>>>
+>>> Filip Botlo.
+>>>
+> Píšem to zo školského mailu, používame roundcube kde to kopíruje 
+> konverzáciu a posunie novú spravu na koniec, čo som vysvetlovaľ v 
+> minulej správe.
+>
+> Odpoveď z utorka:
+>
+> Dobrý večer,
+>
+> sme nezisková organizácia pôsobiaca pod rektorátom, ktorá tieto kurzy 
+> vždy organizovala na báze dobrovoľnosti fakulty. Cieľom akcie je 
+> medzinárodne prepojiť študentov technických škol a reprezentovať VUT 
+> týmto spôsobom v zahraničí a nakoľko sme to mali minulý rok na FP by 
+> sme to cez FSI chceli znova posunúť technickejšou cestou.
+>
+--------------u0lcumPOqqITPIs0GXXOgVTD
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <p>Ano, to jsem četl a pochopil. <br>
+      Ale: odpovídá to na otázku k financování a reaguje to nějak na
+      návrh termínu schůzky? 😁</p>
+    <p>Přeji hezký den<br>
+      R. Grepl<br>
+    </p>
+    <div class="moz-signature">
+      <hr>
+      <font size="1" face="Segoe UI" color="green">
+        doc. <b>Robert Grepl</b>, PhD., Mob.: +420 <b>732 542 500 </b>,
+        MechLab - mechatronická laboratoř, ÚMTMB, FSI, Vysoké učení
+        technické v Brně, A2/711, Technická 2, 61669, Brno. Email:
+        <a class="moz-txt-link-abbreviated" href="mailto:robert.grepl@mechlab.cz">robert.grepl@mechlab.cz</a>, <a class="moz-txt-link-abbreviated" href="mailto:grepl@fme.vutbr.cz">grepl@fme.vutbr.cz</a>. Web: <a
+          href="http://mechlab.cz/">www.mechlab.cz</a>, <a
+          href="http://imss.cz">www.imss.cz</a>, <a
+          href="http://studujmechatroniku.cz">www.studujmechatroniku.cz</a>.
+      </font>
+      <hr>
+      <br>
+      <br>
+    </div>
+    <div class="moz-cite-prefix">On 01.12.2022 16:28, Botlo Filip wrote:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:db08e93d6ab3cd0c650586dcd4c8630c@stud.fit.vutbr.cz">
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <p id="reply-intro">On 2022-12-01 16:14, Robert Grepl wrote:</p>
+      <blockquote type="cite" style="padding: 0 0.4em; border-left:
+        #1010ff 2px solid; margin: 0">
+        <div id="replybody1">
+          <div>
+            <p>😁 upřímně řečeno, nevím. <br>
+              V mailu 29.11. jsem Vám navrhnul termíny schůzky a položil
+              otázku na financování. <br>
+              Ani k jednomu jste se nevyjádřil...</p>
+            <p>RG</p>
+            <p><br>
+            </p>
+            <blockquote type="cite" style="padding: 0 0.4em;
+              border-left: #1010ff 2px solid; margin: 0">
+              <p>Dobrý den, <br>
+                určitě se k tomu můžeme sejít, myslím, že by to mohlo
+                být zajímavé i pro nás. <br>
+                V uplynulých dvou letech jsme dělali letní školu pro
+                středoškoláky a před kovidem IMSS - mezinárodní letní
+                školu mechatroniky pro absolventy technických oborů a
+                lidi z firem <a class="v1moz-txt-link-freetext
+                  moz-txt-link-freetext"
+                  href="http://mechlab.fme.vutbr.cz/imss/imss-2018/"
+                  target="_blank" rel="noopener noreferrer"
+                  moz-do-not-send="true">http://mechlab.fme.vutbr.cz/imss/imss-2018/</a><br>
+                Dlouhodobě děláme soutěž pro studenty středních škol  <a
+                  class="v1moz-txt-link-freetext moz-txt-link-freetext"
+href="https://www.fme.vutbr.cz/fakulta/aktuality/68338" target="_blank"
+                  rel="noopener noreferrer" moz-do-not-send="true">https://www.fme.vutbr.cz/fakulta/aktuality/68338</a><br>
+                Nabízím termín schůzky zítra (st) 1400, čt cca 1100
+                (upřesnil bych), pátek 1400. </p>
+              <p>Otázka: jak je to s financováním akce? </p>
+              Díky za zájem o spolupráci a zdravím<br>
+              RG</blockquote>
+            <br>
+            <p><br>
+            </p>
+            <div class="v1moz-signature">
+              <hr><span style="color: green; font-family: Segoe UI;
+                font-size: xx-small;"> doc. <strong>Robert Grepl</strong>,
+                PhD., Mob.: +420 <strong>732 542 500 </strong>,
+                MechLab - mechatronická laboratoř, ÚMTMB, FSI, Vysoké
+                učení technické v Brně, A2/711, Technická 2, 61669,
+                Brno. Email: <a class="v1moz-txt-link-abbreviated
+                  moz-txt-link-freetext"
+                  href="mailto:robert.grepl@mechlab.cz" rel="noreferrer"
+                  moz-do-not-send="true">robert.grepl@mechlab.cz</a>, <a
+                  class="v1moz-txt-link-abbreviated
+                  moz-txt-link-freetext"
+                  href="mailto:grepl@fme.vutbr.cz" rel="noreferrer"
+                  moz-do-not-send="true">grepl@fme.vutbr.cz</a>. Web: <a
+                  href="http://mechlab.cz/" target="_blank"
+                  rel="noopener noreferrer" moz-do-not-send="true">www.mechlab.cz</a>,
+                <a href="http://imss.cz" target="_blank" rel="noopener
+                  noreferrer" moz-do-not-send="true">www.imss.cz</a>, <a
+                  href="http://studujmechatroniku.cz" target="_blank"
+                  rel="noopener noreferrer" moz-do-not-send="true">www.studujmechatroniku.cz</a>.
+              </span>
+              <hr><br>
+              <br>
+            </div>
+            <div class="v1moz-cite-prefix">On 01.12.2022 16:00, Botlo
+              Filip wrote:</div>
+            <blockquote type="cite" style="padding: 0 0.4em;
+              border-left: #1010ff 2px solid; margin: 0">
+              <p id="v1reply-intro">On 2022-11-30 15:43, Botlo Filip
+                wrote:</p>
+              <blockquote style="padding: 0 0.4em; border-left: #1010ff
+                2px solid; margin: 0;">
+                <div id="v1replybody1">
+                  <div style="font-size: 10pt; font-family:
+                    Verdana,Geneva,sans-serif;">
+                    <p id="v1v1reply-intro">On 2022-11-30 11:09, Robert
+                      Grepl wrote:</p>
+                    <blockquote style="padding: 0 0.4em; border-left:
+                      #1010ff 2px solid; margin: 0;">
+                      <div id="v1v1replybody1">
+                        <p>? odeslal jste celý email? 😉</p>
+                        <div class="v1v1v1moz-signature">
+                          <hr><span style="color: green; font-family:
+                            Segoe UI; font-size: xx-small;"> doc. <strong>Robert
+                              Grepl</strong>, PhD., Mob.: +420 <strong>732
+                              542 500 </strong>, MechLab -
+                            mechatronická laboratoř, ÚMTMB, FSI, Vysoké
+                            učení technické v Brně, A2/711, Technická 2,
+                            61669, Brno. Email: <a
+                              class="v1v1v1moz-txt-link-abbreviated
+                              v1moz-txt-link-freetext
+                              moz-txt-link-freetext"
+                              href="mailto:robert.grepl@mechlab.cz"
+                              rel="noreferrer" moz-do-not-send="true">robert.grepl@mechlab.cz</a>,
+                            <a class="v1v1v1moz-txt-link-abbreviated
+                              v1moz-txt-link-freetext
+                              moz-txt-link-freetext"
+                              href="mailto:grepl@fme.vutbr.cz"
+                              rel="noreferrer" moz-do-not-send="true">grepl@fme.vutbr.cz</a>.
+                            Web: <a href="http://mechlab.cz/"
+                              target="_blank" rel="noopener noreferrer"
+                              moz-do-not-send="true">www.mechlab.cz</a>,
+                            <a href="http://imss.cz" target="_blank"
+                              rel="noopener noreferrer"
+                              moz-do-not-send="true">www.imss.cz</a>, <a
+                              href="http://studujmechatroniku.cz"
+                              target="_blank" rel="noopener noreferrer"
+                              moz-do-not-send="true">www.studujmechatroniku.cz</a>.</span></div>
+                        <div class="v1v1v1moz-signature"> </div>
+                        <div class="v1v1v1moz-signature">Prepáčte, som
+                          switchol medzi gmailom a roundcube a
+                          prekopírovala sa celá správa.<span>😅. </span></div>
+                      </div>
+                    </blockquote>
+                    <p><br>
+                    </p>
+                  </div>
+                </div>
+              </blockquote>
+              <p>Dobrý deň pán doc. Grepl,</p>
+              <p>chcel by som sa pripomenúť ohľadom návrhu na spoluprácu
+                na letnom kurze, či by bol teda z Vašej strany záujem o
+                osobnú schôdzku <span>😄</span>.</p>
+              <p>S pozdravom,</p>
+              <p><br>
+              </p>
+              <p>Filip Botlo. </p>
+            </blockquote>
+          </div>
+        </div>
+      </blockquote>
+      <p>Píšem to zo školského mailu, používame roundcube kde to
+        kopíruje konverzáciu a posunie novú spravu na koniec, čo som
+        vysvetlovaľ v minulej správe.</p>
+      <p>Odpoveď z utorka: </p>
+      <p>Dobrý večer, </p>
+      <p><span>sme nezisková organizácia pôsobiaca pod rektorátom, ktorá
+          tieto kurzy vždy organizovala na báze dobrovoľnosti fakulty.
+          Cieľom akcie je medzinárodne prepojiť študentov technických
+          škol a reprezentovať VUT týmto spôsobom v zahraničí a nakoľko
+          sme to mali minulý rok na FP by sme to cez FSI chceli znova
+          posunúť technickejšou cestou. </span></p>
+    </blockquote>
+  </body>
+</html>
+
+--------------u0lcumPOqqITPIs0GXXOgVTD--

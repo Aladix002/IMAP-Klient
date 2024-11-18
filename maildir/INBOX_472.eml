@@ -1,0 +1,288 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 32AGvAmU090055
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 10 Mar 2023 17:57:53 +0100 (CET)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id 4729210C30C
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 10 Mar 2023 16:46:25 +0100 (CET)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id 46643313FE37
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 10 Mar 2023 16:46:25 +0100 (CET)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 45024100772B; Fri, 10 Mar 2023 16:46:25 +0100 (CET)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogT8WhZXTFmWVuw60gY2h5Ym7DvWNoIHA=?=  =?utf-8?B?xZnDrWthesWvIGEgY2h5YiBvYmVjbsSb?=
+Date: Fri, 10 Mar 2023 16:46:25 +0100
+From: "=?utf-8?B?S29jbWFuIEppbmTFmWljaCBwxZllcyBFLUxFQVJOSU5HIFZVVA==?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <4dbd2a6cb852cb429efbf52a4b3f2846b853c38d5857b51c864523c0873c427a@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: "Diskuze k 1. projektu IOS" <moodleforum9517@moodle.vut.cz>
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=9517
+X-Course-Id: 231005
+X-Course-Name: =?utf-8?B?T3BlcmHEjW7DrSBzeXN0w6lteSAoSU9TIDIyLzIzTCk=?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=9517&d=1942>
+Thread-Topic: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogT8WhZXTFmWVuw60gY2h5Ym7DvWNoIHA=?=
+ =?utf-8?B?xZnDrWthesWvIGEgY2h5YiBvYmVjbsSb?=
+Thread-Index: 4dbd2a6cb852cb429efbf52a4b3f
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_Sfh7T07ZnXJc3ffzK63EOm6nFBHqYoI1oaKQgKQ7wo"
+X-Spam-Status: No, score=-0.773 required=7 tests=AWL,HTML_MESSAGE,MAILING_LIST_MULTI,PDS_BAD_THREAD_QP_64
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_Sfh7T07ZnXJc3ffzK63EOm6nFBHqYoI1oaKQgKQ7wo
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIOS 22/23L (231005) -> F=C3=B3ra -> Diskuze k 1. projektu IOS -> O=C5=
+=A1et=C5=99en=C3=AD=0Achybn=C3=BDch p=C5=99=C3=ADkaz=C5=AF a chyb obecn=
+=C4=9B=0Ahttps://moodle.vut.cz/mod/forum/discuss.php?d=3D1942#p2973=0AO=
+=C5=A1et=C5=99en=C3=AD chybn=C3=BDch p=C5=99=C3=ADkaz=C5=AF a chyb obecn=
+=C4=9B=0Aautor Kocman Jind=C5=99ich - P=C3=A1tek, 10. b=C5=99ezna 2023, 16.=
+15=0A---------------------------------------------------------------------=
+=0AZdrav=C3=ADm,=0A=0A1) NESMYSLN=C3=89 ARGUMENTY=0A=0APokud se pokus=C3=
+=ADm spustit mole nap=C5=99. takto:=0A=0Amole -h -laskonka=0A... co se m=
+=C3=A1 st=C3=A1t? M=C3=A1 se vypsat chybov=C3=A1 hl=C3=A1=C5=A1ka, =C4=
+=8Di se m=C3=A1 druh=C3=BD=0Aargument ignorovat?=0A=0APokud se m=C3=A1 vyps=
+at chybov=C3=A1 hl=C3=A1=C5=A1ka, mus=C3=ADm rozli=C5=A1ovat r=C5=AFzn=
+=C3=A9 druhy=0Achyb? Pokud ano, kolik r=C5=AFzn=C3=BDch typ=C5=AF chyb m=
+=C3=A1me rozli=C5=A1ovat? Tj., nap=C5=99.:=0Agit -h -laskonka=0A... vyp=
+=C3=AD=C5=A1e:=C2=A0=0A=0Aerror: unknown switch `l'=0A=0Ausage: git help [-=
+a|--all] [--[no-]verbose]] [--[no-]external-commands]=0A[--[no-]aliases]=0A=
+=0A=C2=A0=C2=A0 or: git help [[-i|--info] [-m|--man] [-w|--web]] []=0A=0A=
+=C2=A0=C2=A0 or: git help [-g|--guides]=0A=0A=C2=A0=C2=A0 or: git help [-c|=
+--config]=0A=0A=C2=A0 =C2=A0 -a, --all =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 print all available commands=0A=0A=C2=A0 =C2=A0 --external-comma=
+nds =C2=A0 show external commands in --all=0A=0A=C2=A0 =C2=A0 --aliases =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 show aliases in --all=0A=0A=C2=
+=A0 =C2=A0 -m, --man =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 show man pag=
+e=0A=0A=C2=A0 =C2=A0 -w, --web =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 sh=
+ow manual in web browser=0A=0A=C2=A0 =C2=A0 -i, --info=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 show info page=0A=0A=C2=A0 =C2=A0 -v, --verbose =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 print command description=0A=0A=C2=A0 =C2=A0 -g=
+, --guides=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 print list of useful guides=0A=
+=0A=C2=A0 =C2=A0 -c, --config=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 print all c=
+onfiguration variable names=0A=0A...zat=C3=ADmco:=0Agit --=0A...vyp=C3=
+=AD=C5=A1e:=0A=0Aunknown option: --=0A=0Ausage: git [-v | --version] [-h | =
+--help] [-C ] [-c =3D]=0A=0A=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 [--exe=
+c-path[=3D]] [--html-path] [--man-path]=0A[--info-path]=0A=0A=C2=A0=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 [-p | --paginate | -P | --no-pager] [--no-r=
+eplace-objects]=0A[--bare]=0A=0A=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 [-=
+-git-dir=3D] [--work-tree=3D]=0A[--namespace=3D]=0A=0A=C2=A0=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 [--super-prefix=3D] [--config-env=3D=3D]=0A=0A=
+=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 []=0A=0A... ale:=0Agit -h indianek=
+=0A... vyp=C3=AD=C5=A1e:=0A=0AUnknown locale, assuming C=0ANo manual entry =
+for gitindianek=0A=0A... p=C5=99i=C4=8Dem=C5=BE:=0A=0Agit git=0A... vr=
+=C3=A1t=C3=AD:=0A=0Agit: 'git' is not a git command. See 'git --help'.=0A=
+=0AThe most similar command is=0A=0Ainit=0A=0AZat=C3=ADmco, nap=C5=99.:=0A=
+=0Agit -h -h -h=0A=0A... =C5=BE=C3=A1dnou chybu nevyvol=C3=A1. Mo=C5=BEn=
+=C3=A1 jde vyvolat i jin=C3=A9 chybov=C3=A9 stavy,=0Anev=C3=ADm? M=C3=A1m t=
+oto zji=C5=A1=C5=A5ovat? Existuje n=C4=9Bjak=C3=BD standardizovan=C3=BD pos=
+tup /=0Aconvention, kter=C3=A1 =C5=99=C3=ADk=C3=A1, jak p=C5=99i psan=C3=
+=AD shellovsk=C3=BDch skript=C5=AF tyto=0Ap=C5=99=C3=ADpady =C5=99e=C5=
+=A1it, a pokud ano, je t=C5=99eba se j=C3=ADm v tomto projektu =C5=99=C3=
+=ADdit?=0A=0A2) NEEXISTUJ=C3=8DC=C3=8D ADRES=C3=81=C5=98/SOUBOR=0A=0ACo se =
+m=C3=A1 st=C3=A1t, kdy=C5=BE zad=C3=A1m p=C5=99=C3=ADkaz:=0A=0Amole=C2=
+=A0~/neexistujiciAdresar/main.c=0A=0APop=C5=99=C3=ADpad=C4=9B:=0A=0Amole=
+=C2=A0~/slozka/neexistujiciSoubor=0A=0AM=C3=A1 mole chyby tohoto typu o=
+=C5=A1et=C5=99ovat, =C4=8Di to nechat na editoru?=0A=0A3) NEOPR=C3=81VN=
+=C4=9AN=C3=9D P=C5=98=C3=8DSTUP=0A=0AVe Windowsovsk=C3=A9m PowerShellu lze,=
+ pokud nebylo ok=C3=A9nko PowerShellu=0Aspu=C5=A1t=C4=9Bno pomoc=C3=AD mo=
+=C5=BEnosti "run as administrator", narazit p=C5=99i editaci=0Asoubor=C5=
+=AF narazit na r=C5=AFzn=C3=A9 chyby typu:=0A=0AAccess to the path .. is de=
+nied.=0A=0ATento projekt nem=C3=A1 nic spole=C4=8Dn=C3=A9ho s Windows, ale =
+=C5=99=C3=ADkal jsem si, zda-li=0Anelze tuto chybu vyvolat i na platform=
+=C3=A1ch, na kter=C3=BDch skript fungovat=0Am=C3=A1, a vskutku, p=C5=99i ot=
+ev=C5=99en=C3=AD termin=C3=A1lu na m=C3=A9m Macu a zad=C3=A1n=C3=AD=0Ap=
+=C5=99=C3=ADkazu:=0A=0A/.... my termin=C3=A1l vyhod=C3=AD:=0A=0Azsh: permis=
+sion denied: /.=0A=0AP=C5=99edpokl=C3=A1d=C3=A1m tedy, =C5=BEe podobn=C3=
+=A1 situace m=C5=AF=C5=BEe nastat i p=C5=99i pokusu o=0Aeditaci n=C4=9Bjak=
+=C3=A9ho syst=C3=A9mov=C3=A9ho =C4=8Di z jin=C3=BDch d=C5=AFvod=C5=AF nep=
+=C5=99=C3=ADstupn=C3=A9ho=0Asouboru. Je t=C5=99eba chyby tohoto typu, tj. e=
+ditace soubor=C5=AF, ke kter=C3=BDm=0Anem=C3=A1 u=C5=BEivatel p=C5=99=C3=
+=ADstup, rovn=C4=9B=C5=BE o=C5=A1et=C5=99it?=0A=0A4) "CORRUPTED" SOUBORY=0A=
+=0ATento bod do jist=C3=A9 m=C3=ADry souvis=C3=AD s p=C5=99edchoz=C3=ADm - =
+mo=C5=BEn=C3=A1 se op=C4=9Bt jedn=C3=A1=0Ao chybu, kter=C3=A9 lze doc=C3=
+=ADlit jenom ve Windows a tud=C3=AD=C5=BE n=C3=A1s nezaj=C3=ADm=C3=A1,=0Ane=
+v=C3=ADm? M=C5=AF=C5=BEe v linuxu nastat situace, =C5=BEe soubor nelze otev=
+=C5=99=C3=ADt,=0Aproto=C5=BEe je n=C4=9Bjak=C3=BDm zp=C5=AFsobem po=C5=
+=A1kozen=C3=BD? Jak tento probl=C3=A9m =C5=99e=C5=A1it,=0Apokud ho =C5=
+=99e=C5=A1it m=C3=A1me?=0A=0A5) DAL=C5=A0=C3=8D=0A=0AMoment=C3=A1ln=C4=
+=9B m=C4=9B =C5=BE=C3=A1dn=C3=A9 jin=C3=A9 typy chyb nenapadaj=C3=AD, ur=
+=C4=8Dit=C4=9B jich ale=0Aexistuje je=C5=A1t=C4=9B spousta. Pokud n=C3=
+=A1m to m=C5=AF=C5=BEete prozradit, jak=C3=A9, =C4=8Di=0Aaspo=C5=88 jak=
+=C3=A9 typy, a jak m=C3=A1me - aspo=C5=88 zhruba - postupovat p=C5=99i jeji=
+ch=0Ao=C5=A1et=C5=99ov=C3=A1n=C3=AD?=0A=0AD=C3=ADky,=0AJind=C5=99ich Kocman=
+=0A=0A---------------------------------------------------------------------=
+=0AToto je kopie zpr=C3=A1vy zve=C5=99ejn=C4=9Bn=C3=A9 na IOS 22/23L (23100=
+5) .=0A=0AChcete-li odpov=C4=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahtt=
+ps://moodle.vut.cz/mod/forum/post.php?reply=3D2973=0AOdhl=C3=A1sit se z f=
+=C3=B3ra: https://moodle.vut.cz/mod/forum/subscribe.php?id=3D9517=0AOdhl=
+=C3=A1sit se z diskuse:=0Ahttps://moodle.vut.cz/mod/forum/subscribe.php?id=
+=3D9517&d=3D1942=0AZm=C4=9Bnit nastaven=C3=AD voleb f=C3=B3ra:=0Ahttps://mo=
+odle.vut.cz/mod/forum/index.php?id=3D231005=0A
+--b1_Sfh7T07ZnXJc3ffzK63EOm6nFBHqYoI1oaKQgKQ7wo
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231005">IOS 22/23L (231005)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231005">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D9517">Diskuze k 1. projektu IO=
+S</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vut.c=
+z/mod/forum/discuss.php?d=3D1942">O=C5=A1et=C5=99en=C3=AD chybn=C3=BDch p=
+=C5=99=C3=ADkaz=C5=AF a chyb obecn=C4=9B</a>=0A</div>=0A=0A<table border=3D=
+"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"forumpost">=0A    <tr clas=
+s=3D"header">=0A        <td width=3D"35" valign=3D"top" class=3D"picture le=
+ft">=0A            <a href=3D"https://moodle.vut.cz/user/view.php?id=3D2314=
+13&amp;course=3D231005" class=3D"d-inline-block aabtn"><img src=3D"https://=
+moodle.vut.cz/theme/image.php/_s/vut/core/1657648469/u/f2" class=3D"userpic=
+ture defaultuserpic" width=3D"35" height=3D"35" alt=3D"Obr=C3=A1zek: Kocman=
+ Jind=C5=99ich" title=3D"Obr=C3=A1zek: Kocman Jind=C5=99ich" /></a>=0A     =
+   </td>=0A        <td class=3D"topic starter">=0A            <div class=3D=
+"subject">=0A                O=C5=A1et=C5=99en=C3=AD chybn=C3=BDch p=C5=
+=99=C3=ADkaz=C5=AF a chyb obecn=C4=9B=0A            </div>=0A            <d=
+iv class=3D"author">=0A                autor <a target=3D'_blank' href=3D'h=
+ttps://moodle.vut.cz/user/view.php?id=3D231413&course=3D231005'>Kocman Jind=
+=C5=99ich</a> - P=C3=A1tek, 10. b=C5=99ezna 2023, 16.15=0A            </div=
+>=0A        </td>=0A    </tr>=0A    <tr>=0A        <td class=3D"left side" =
+valign=3D"top">=0A                &nbsp;=0A        </td>=0A        <td clas=
+s=3D"content">=0A            <p dir=3D"ltr" style=3D"text-align:left;">Zdra=
+v=C3=ADm,</p><p dir=3D"ltr" style=3D"text-align:left;"><strong>1) NESMYSLN=
+=C3=89 ARGUMENTY</strong></p><p dir=3D"ltr" style=3D"text-align:left;">Poku=
+d se pokus=C3=ADm spustit mole nap=C5=99. takto:</p><div style=3D"text-alig=
+n:left;" class=3D"edu-alert-info">mole -h -laskonka</div><div style=3D"text=
+-align:left;">... co se m=C3=A1 st=C3=A1t? M=C3=A1 se vypsat chybov=C3=
+=A1 hl=C3=A1=C5=A1ka, =C4=8Di se m=C3=A1 druh=C3=BD argument ignorovat?</di=
+v><div style=3D"text-align:left;"><br /></div><div style=3D"text-align:left=
+;">Pokud se m=C3=A1 vypsat chybov=C3=A1 hl=C3=A1=C5=A1ka, mus=C3=ADm rozli=
+=C5=A1ovat r=C5=AFzn=C3=A9 druhy chyb? Pokud ano, kolik r=C5=AFzn=C3=BDch t=
+yp=C5=AF chyb m=C3=A1me rozli=C5=A1ovat? Tj., nap=C5=99.:</div><div style=
+=3D"text-align:left;" class=3D"edu-alert-info">git -h -laskonka</div><div s=
+tyle=3D"text-align:left;">... vyp=C3=AD=C5=A1e:=C2=A0</div><div style=3D"te=
+xt-align:left;" class=3D"edu-alert-info"><p>error: unknown switch `l'</p>
+<p>usage: git help [-a|--all] [--[no-]verbose]] [--[no-]external-commands] =
+[--[no-]aliases]</p>
+<p>=C2=A0=C2=A0 or: git help [[-i|--info] [-m|--man] [-w|--web]] [&lt;comma=
+nd&gt;]</p>
+<p>=C2=A0=C2=A0 or: git help [-g|--guides]</p>
+<p>=C2=A0=C2=A0 or: git help [-c|--config]</p>
+<p><br /></p>
+<p>=C2=A0 =C2=A0 -a, --all =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 print =
+all available commands</p>
+<p>=C2=A0 =C2=A0 --external-commands =C2=A0 show external commands in --all=
+</p>
+<p>=C2=A0 =C2=A0 --aliases =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 show a=
+liases in --all</p>
+<p>=C2=A0 =C2=A0 -m, --man =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 show m=
+an page</p>
+<p>=C2=A0 =C2=A0 -w, --web =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 show m=
+anual in web browser</p>
+<p>=C2=A0 =C2=A0 -i, --info=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 show i=
+nfo page</p>
+<p>=C2=A0 =C2=A0 -v, --verbose =C2=A0 =C2=A0 =C2=A0 =C2=A0 print command de=
+scription</p>
+<p>=C2=A0 =C2=A0 -g, --guides=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 print list =
+of useful guides</p>
+<p>=C2=A0 =C2=A0 -c, --config=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 print all c=
+onfiguration variable names</p></div><div style=3D"text-align:left;">...zat=
+=C3=ADmco:</div><div style=3D"text-align:left;" class=3D"edu-alert-info">gi=
+t --</div><div style=3D"text-align:left;">...vyp=C3=AD=C5=A1e:</div><div st=
+yle=3D"text-align:left;" class=3D"edu-alert-info"><p></p><p></p><p>unknown =
+option: --</p>
+<p>usage: git [-v | --version] [-h | --help] [-C &lt;path&gt;] [-c &lt;name=
+&gt;=3D&lt;value&gt;]</p>
+<p>=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 [--exec-path[=3D&lt;path&gt;]] =
+[--html-path] [--man-path] [--info-path]</p>
+<p>=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 [-p | --paginate | -P | --no-pa=
+ger] [--no-replace-objects] [--bare]</p>
+<p>=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 [--git-dir=3D&lt;path&gt;] [--w=
+ork-tree=3D&lt;path&gt;] [--namespace=3D&lt;name&gt;]</p>
+<p>=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 [--super-prefix=3D&lt;path&gt;]=
+ [--config-env=3D&lt;name&gt;=3D&lt;envvar&gt;]</p>
+<p>=C2=A0=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 &lt;command&gt; [&lt;args&gt;]<=
+/p></div><div style=3D"text-align:left;">... ale<span style=3D"font-size:.9=
+375rem;">:</span></div><div style=3D"text-align:left;" class=3D"edu-alert-i=
+nfo">git -h indianek</div><div style=3D"text-align:left;">... vyp=C3=AD=
+=C5=A1e:</div><div style=3D"text-align:left;"><div class=3D"edu-alert-info"=
+>Unknown locale, assuming C<br />No manual entry for gitindianek</div></div=
+><div style=3D"text-align:left;"><p dir=3D"ltr">... p=C5=99i=C4=8Dem=C5=
+=BE:</p><div class=3D"edu-alert-info">git git</div><p dir=3D"ltr">... vr=
+=C3=A1t=C3=AD:</p><div class=3D"edu-alert-info"><p>git: 'git' is not a git =
+command. See 'git --help'.</p>
+<p><br /></p>
+<p>The most similar command is</p>
+<p>=09init</p></div><p dir=3D"ltr">Zat=C3=ADmco, nap=C5=99.:<br /></p><div =
+class=3D"edu-alert-info">git -h -h -h</div><p></p><p dir=3D"ltr">... =C5=
+=BE=C3=A1dnou chybu nevyvol=C3=A1. Mo=C5=BEn=C3=A1 jde vyvolat i jin=C3=
+=A9 chybov=C3=A9 stavy, nev=C3=ADm? M=C3=A1m toto zji=C5=A1=C5=A5ovat? Exis=
+tuje n=C4=9Bjak=C3=BD standardizovan=C3=BD postup / convention, kter=C3=
+=A1 =C5=99=C3=ADk=C3=A1, jak p=C5=99i psan=C3=AD shellovsk=C3=BDch skript=
+=C5=AF tyto p=C5=99=C3=ADpady =C5=99e=C5=A1it, a pokud ano, je t=C5=99eba s=
+e j=C3=ADm v tomto projektu =C5=99=C3=ADdit?</p><p dir=3D"ltr"><strong>2) N=
+EEXISTUJ=C3=8DC=C3=8D ADRES=C3=81=C5=98/SOUBOR</strong></p><p dir=3D"ltr">C=
+o se m=C3=A1 st=C3=A1t, kdy=C5=BE zad=C3=A1m p=C5=99=C3=ADkaz:<br /></p><di=
+v class=3D"edu-alert-info"><pre><code><span>mole ~/neexistujiciAdresar/main=
+.c</span></code></pre></div><p></p>Pop=C5=99=C3=ADpad=C4=9B:</div><div styl=
+e=3D"text-align:left;" class=3D"edu-alert-info"><pre><code><span>mole ~/slo=
+zka/neexistujiciSoubor</span></code></pre></div><div style=3D"text-align:le=
+ft;"><p dir=3D"ltr">M=C3=A1 mole chyby tohoto typu o=C5=A1et=C5=99ovat, =
+=C4=8Di to nechat na editoru?</p><p dir=3D"ltr"><strong>3) NEOPR=C3=81VN=
+=C4=9AN=C3=9D P=C5=98=C3=8DSTUP</strong></p><p dir=3D"ltr">Ve Windowsovsk=
+=C3=A9m PowerShellu lze, pokud nebylo ok=C3=A9nko PowerShellu spu=C5=A1t=
+=C4=9Bno pomoc=C3=AD mo=C5=BEnosti "run as administrator", narazit p=C5=
+=99i editaci soubor=C5=AF narazit na r=C5=AFzn=C3=A9 chyby typu:<br /></p><=
+div class=3D"edu-alert-info">Access to the path .. is denied.</div><p></p><=
+p dir=3D"ltr">Tento projekt nem=C3=A1 nic spole=C4=8Dn=C3=A9ho s Windows, a=
+le =C5=99=C3=ADkal jsem si, zda-li nelze tuto chybu vyvolat i na platform=
+=C3=A1ch, na kter=C3=BDch skript fungovat m=C3=A1, a vskutku, p=C5=99i otev=
+=C5=99en=C3=AD termin=C3=A1lu na m=C3=A9m Macu a zad=C3=A1n=C3=AD p=C5=
+=99=C3=ADkazu:<br /></p><div class=3D"edu-alert-info">/.</div>... my termin=
+=C3=A1l vyhod=C3=AD:<p></p><div class=3D"edu-alert-info"><p>zsh: permission=
+ denied: /.</p></div><p dir=3D"ltr">P=C5=99edpokl=C3=A1d=C3=A1m tedy, =
+=C5=BEe podobn=C3=A1 situace m=C5=AF=C5=BEe nastat i p=C5=99i pokusu o edit=
+aci n=C4=9Bjak=C3=A9ho syst=C3=A9mov=C3=A9ho =C4=8Di z jin=C3=BDch d=C5=
+=AFvod=C5=AF nep=C5=99=C3=ADstupn=C3=A9ho souboru. Je t=C5=99eba chyby toho=
+to typu, tj. editace soubor=C5=AF, ke kter=C3=BDm nem=C3=A1 u=C5=BEivatel p=
+=C5=99=C3=ADstup, rovn=C4=9B=C5=BE o=C5=A1et=C5=99it?<br /></p><p dir=3D"lt=
+r"><strong>4) "CORRUPTED" SOUBORY</strong><br /></p><p dir=3D"ltr">Tento bo=
+d do jist=C3=A9 m=C3=ADry souvis=C3=AD s p=C5=99edchoz=C3=ADm - mo=C5=BEn=
+=C3=A1 se op=C4=9Bt jedn=C3=A1 o chybu, kter=C3=A9 lze doc=C3=ADlit jenom v=
+e Windows a tud=C3=AD=C5=BE n=C3=A1s nezaj=C3=ADm=C3=A1, nev=C3=ADm? M=
+=C5=AF=C5=BEe v linuxu nastat situace, =C5=BEe soubor nelze otev=C5=99=
+=C3=ADt, proto=C5=BEe je n=C4=9Bjak=C3=BDm zp=C5=AFsobem po=C5=A1kozen=
+=C3=BD? Jak tento probl=C3=A9m =C5=99e=C5=A1it, pokud ho =C5=99e=C5=A1it m=
+=C3=A1me?</p><p dir=3D"ltr"><strong>5) DAL=C5=A0=C3=8D</strong></p><p dir=
+=3D"ltr">Moment=C3=A1ln=C4=9B m=C4=9B =C5=BE=C3=A1dn=C3=A9 jin=C3=A9 typy c=
+hyb nenapadaj=C3=AD, ur=C4=8Dit=C4=9B jich ale existuje je=C5=A1t=C4=9B spo=
+usta. Pokud n=C3=A1m to m=C5=AF=C5=BEete prozradit, jak=C3=A9, =C4=8Di aspo=
+=C5=88 jak=C3=A9 typy, a jak m=C3=A1me - aspo=C5=88 zhruba - postupovat p=
+=C5=99i jejich o=C5=A1et=C5=99ov=C3=A1n=C3=AD?</p><p></p></div><div style=
+=3D"text-align:left;">D=C3=ADky,</div><div style=3D"text-align:left;">Jind=
+=C5=99ich Kocman</div>=0A=0A            <div class=3D"commands">=0A        =
+            <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/po=
+st.php?reply=3D2973">=0A                        Odpov=C4=9Bd=C4=9Bt=0A     =
+               </a>=0A            </div>=0A=0A            <div class=3D"lin=
+k">=0A                <a target=3D"_blank" href=3D"https://moodle.vut.cz/mo=
+d/forum/discuss.php?d=3D1942#p2973">=0A                    Uk=C3=A1zat p=
+=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A                </a>=0A            </d=
+iv>=0A        </td>=0A    </tr>=0A</table>=0A=0A<hr />=0A<div class=3D"mdl-=
+align unsubscribelink">=0A    <a href=3D"https://moodle.vut.cz/mod/forum/su=
+bscribe.php?id=3D9517">Neodeb=C3=ADrat p=C5=99=C3=ADsp=C4=9Bvky z tohoto f=
+=C3=B3ra</a>&nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/subscri=
+be.php?id=3D9517&d=3D1942">Vypnout odeb=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=
+=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&nbsp;=0A    <a href=3D"https://=
+moodle.vut.cz/mod/forum/index.php?id=3D231005">Zm=C4=9Bna nastaven=C3=AD pr=
+eferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_Sfh7T07ZnXJc3ffzK63EOm6nFBHqYoI1oaKQgKQ7wo--

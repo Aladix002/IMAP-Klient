@@ -1,0 +1,40 @@
+Return-Path: <izavrel@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2ANKAqpW076218
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Wed, 23 Nov 2022 21:10:52 +0100 (CET)
+	(envelope-from izavrel@fit.vutbr.cz)
+Received: from roundcube.fit.vutbr.cz (spytihnev.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:9e2])
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 2ANKAq7G041942
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO);
+	Wed, 23 Nov 2022 21:10:52 +0100 (CET)
+	(envelope-from izavrel@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vut.cz; s=mx1;
+	t=1669234252; bh=umFBdKppcU7aRuvPXy7q3QO1G/iY1UcR/+HN4MgLcGw=;
+	h=Date:From:To:Subject;
+	b=EvriEuPPC79vQ577GQ9wAPGhaGPBR7dOJc8o5zoPmcj6KwoEGvRx8ZphdRsk9Te1J
+	 KT2TJ2cBF+ZcNpmC0oOhG134iJ3Da5t2GrhbcVibL8UOfscV/kTzMMRyEIiAutKQhs
+	 yHaa1QE6yd60BpG3woQrFqvETGOdH/J6ZRkSjxw4=
+MIME-Version: 1.0
+Date: Wed, 23 Nov 2022 21:10:52 +0100
+From: =?UTF-8?Q?Zav=C5=99el_Jan?= <izavrel@fit.vut.cz>
+To: undisclosed-recipients:;
+Subject: IZP - cviko a body
+User-Agent: Roundcube Webmail
+Message-ID: <ce8a23f42fd3cc5375be83c886ca7289@fit.vut.cz>
+X-Sender: izavrel@fit.vut.cz
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+Vazeni,
+
+na zaklade vasich vytvoru na replitu jsem dal body do systemu. Pokud 
+jsem vas ohodnotil nulou, vypracujte do pátku vsechny úkoly v obou 
+modulech a já hodnocení přehodnotím.
+
+S pozdravem,
+jz

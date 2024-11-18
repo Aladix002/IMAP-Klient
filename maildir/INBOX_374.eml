@@ -1,0 +1,98 @@
+Return-Path: <MAILER-DAEMON@stud.fit.vutbr.cz>
+Received: from localhost (localhost)
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) id 312BfYQ1021741;
+	Thu, 2 Feb 2023 12:41:34 +0100 (CET)
+	(envelope-from MAILER-DAEMON)
+Date: Thu, 2 Feb 2023 12:41:34 +0100 (CET)
+From: Mail Delivery Subsystem <MAILER-DAEMON@stud.fit.vutbr.cz>
+Message-Id: <202302021141.312BfYQ1021741@eva.fit.vutbr.cz>
+To: <xbotlo01@stud.fit.vutbr.cz>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="312BfYQ1021741.1675338094/eva.fit.vutbr.cz"
+Content-Transfer-Encoding: 8bit
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--312BfYQ1021741.1675338094/eva.fit.vutbr.cz
+
+The original message was received at Thu, 2 Feb 2023 12:41:18 +0100 (CET)
+from spytihnev.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:9e2]
+
+   ----- The following addresses had permanent fatal errors -----
+<kupcikova@skm.vutbr.cz>
+    (reason: 550 5.1.1 User unknown)
+
+   ----- Transcript of session follows -----
+... while talking to palak.adm.skm.vutbr.cz.:
+>>> DATA
+<<< 550 5.1.1 User unknown
+550 5.1.1 <kupcikova@skm.vutbr.cz>... User unknown
+<<< 503 5.5.2 Need rcpt command
+
+--312BfYQ1021741.1675338094/eva.fit.vutbr.cz
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; eva.fit.vutbr.cz
+Received-From-MTA: DNS; spytihnev.fit.vutbr.cz
+Arrival-Date: Thu, 2 Feb 2023 12:41:18 +0100 (CET)
+
+Final-Recipient: RFC822; kupcikova@skm.vutbr.cz
+X-Actual-Recipient: rfc822; kupcikova@skm.vutbr.cz
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; palak.adm.skm.vutbr.cz
+Diagnostic-Code: SMTP; 550 5.1.1 User unknown
+Last-Attempt-Date: Thu, 2 Feb 2023 12:41:24 +0100 (CET)
+
+--312BfYQ1021741.1675338094/eva.fit.vutbr.cz
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <xbotlo01@stud.fit.vutbr.cz>
+Received: from roundcube.fit.vutbr.cz (spytihnev.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:9e2])
+	(authenticated bits=0)
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPSA id 312BfHQ1021739
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+	for <kupcikova@skm.vutbr.cz>; Thu, 2 Feb 2023 12:41:18 +0100 (CET)
+	(envelope-from xbotlo01@stud.fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=stud.fit.vutbr.cz;
+	s=studfit; t=1675338078;
+	bh=NsoqNP+qSuMD1PCo28jQvHEhi94qPOkmoIOkQERZ05k=;
+	h=Date:From:To:Subject;
+	b=EZg9YwICj1wiDA1m0cTPIAVJ3HYPE7wF4djkDRnmcD2w/iDR5dPOLIZNilEh72KiI
+	 H1XHdDxj/uQuahzZ51bRR9dSqJwi1kg2kmFnf5RSkxFBrtqTJ3VfzxvwzX8rcC1gXM
+	 LaTh9D46eMrBVR66rq5GCGAUMAhRltpZmM0pBak4=
+MIME-Version: 1.0
+Date: Thu, 02 Feb 2023 12:41:17 +0100
+From: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>
+To: kupcikova@skm.vutbr.cz
+Subject: =?UTF-8?Q?=C5=BDiados=C5=A4_o_ubytovanie_na_Letn=C3=BD_akademick?=
+ =?UTF-8?Q?=C3=BD_kurz?=
+User-Agent: Roundcube Webmail
+Message-ID: <a715936918cc6b693c2f64992aa7b5c3@stud.fit.vutbr.cz>
+X-Sender: xbotlo01@stud.fit.vutbr.cz
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+
+Vážená pani magistra Kupčíková,
+
+kontaktujem Vás ako študent VUT a zároveň člen študentskej organizácie 
+BEST Brno, ktorá pôsobí pod oddelením internacionalizácie VUT.
+
+Počas leta 2023, konrétne v termíne 9.- 16.07.2023 by sme chceli 
+organizovať akademický kurz a máme v záujem objednať si 10 izieb pre 26 
+ľudí(8 3izbových a 2 2izbové)  na Purkyňovych kolejích.
+
+Zaujíma ma preto dostupnosť izieb a cena v tomto termíne.
+
+Vopred Vám ďakujem za odpoveď.
+
+
+S pozdravom,
+Filip.
+
+--312BfYQ1021741.1675338094/eva.fit.vutbr.cz--

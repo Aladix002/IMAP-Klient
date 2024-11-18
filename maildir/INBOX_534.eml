@@ -1,0 +1,164 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 32JHkRKU032617
+	for <xbotlo01@stud.fit.vut.cz>; Sun, 19 Mar 2023 18:47:37 +0100 (CET)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id 6C38710B2B1
+	for <xbotlo01@stud.fit.vut.cz>; Sun, 19 Mar 2023 18:46:28 +0100 (CET)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id 6B5B8313FE40
+	for <xbotlo01@stud.fit.vut.cz>; Sun, 19 Mar 2023 18:46:28 +0100 (CET)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 69D2810520BC; Sun, 19 Mar 2023 18:46:28 +0100 (CET)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: IOS 22/23L (231005): Jak zpracovat argumenty skriptu?
+Date: Sun, 19 Mar 2023 18:46:28 +0100
+From: "=?utf-8?B?S29jbWFuIEppbmTFmWljaCBwxZllcyBFLUxFQVJOSU5HIFZVVA==?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <25bbe45c5fc3de1345066b01059670ad2abc6788f53bcc734ba93c5ec9334f12@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: "Diskuze k 1. projektu IOS" <moodleforum9517@moodle.vut.cz>
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=9517
+X-Course-Id: 231005
+X-Course-Name: =?utf-8?B?T3BlcmHEjW7DrSBzeXN0w6lteSAoSU9TIDIyLzIzTCk=?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=9517&d=2011>
+Thread-Topic: IOS 22/23L (231005): Jak zpracovat argumenty skriptu?
+Thread-Index: 25bbe45c5fc3de1345066b010596
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_qLkuEnUjaES0dod47BZxCFrUWTdkmIRwKwAST6Z1wM"
+X-Spam-Status: No, score=-0.816 required=7 tests=AWL,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_qLkuEnUjaES0dod47BZxCFrUWTdkmIRwKwAST6Z1wM
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIOS 22/23L (231005) -> F=C3=B3ra -> Diskuze k 1. projektu IOS -> Jak zpr=
+acovat=0Aargumenty skriptu?=0Ahttps://moodle.vut.cz/mod/forum/discuss.php?d=
+=3D2011#p3107=0AJak zpracovat argumenty skriptu?=0Aautor Kocman Jind=C5=
+=99ich - Ned=C4=9Ble, 19. b=C5=99ezna 2023, 18.16=0A-----------------------=
+----------------------------------------------=0ADobr=C3=BD ve=C4=8Der,=0A=
+=0AL=C3=A1me si hlavu nad t=C3=ADm, jak zpracovat argumenty skriptu. Boj=
+=C3=ADm, =C5=BEe=0Agetopts=C2=A0nelze pou=C5=BE=C3=ADt, jeliko=C5=BE p=
+=C5=99edpokl=C3=A1d=C3=A1m, =C5=BEe =C5=A1patn=C4=9B zpracuje=0Anap=C5=
+=99. p=C5=99=C3=ADkaz:=0A=0Amole -g -r FILE=0AZde doch=C3=A1z=C3=AD k p=
+=C5=99i=C5=99azen=C3=AD souboru FILE do skupiny "-r", co=C5=BE je dle=0Azad=
+=C3=A1n=C3=AD validn=C3=AD jm=C3=A9no skupiny, getopts by v=C5=A1ak dle m=
+=C3=A9ho ch=C3=A1p=C3=A1n=C3=AD -r=0Avyhodnotil jako p=C5=99ep=C3=ADna=
+=C4=8D?=0A=0AD=C3=A1le jsou zde konfliktn=C3=AD p=C5=99=C3=ADkazy typu:=0A=
+=0Amole -g GROUP SOMETHING=0A=0AToto m=C5=AF=C5=BEe b=C3=BDt p=C5=99=C3=
+=ADkaz:=0A=0Amole -g GROUP FILE=0A...nebo:=0A=0Amole -g GROUP DIRECTORY... =
+nebo nap=C5=99.:=0A=0Amole -g GROUP -m=0ATj., pokud by se argumenty m=C4=
+=9Bli vyhodnocovat pomoc=C3=AD n=C4=9Bjak=C3=BDch=0Azano=C5=99en=C3=BDch if=
+/else, bylo by t=C5=99eba ud=C4=9Blat n=C4=9Bco jako:=0A=0Aif ($1 =3D=3D "-=
+g") {=0A=C2=A0 =C2=A0 if ($4 is empty) {=0A=C2=A0 =C2=A0 =C2=A0 =C2=A0 if (=
+$3 is not p=C5=99ep=C3=ADna=C4=8D) {=0A=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 if ($3 is directory) {=0A=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 #mole -g GROUP DIRECTORY=0A=C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0} else if ($3 is a file) {=0A=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 #mole -g GROUP FILE=0A=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0} else {=0A=C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0#=C5=A1patn=C3=BD p=C5=99=C3=ADkaz=
+=0A=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0}=0A=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0else ($3 =3D=3D "-m")=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0....=0ANo, mysl=C3=ADm =C5=BEe vid=C3=ADte, kam m=C3=AD=C5=
+=99=C3=ADm, st=C3=A1v=C3=A1 se z toho nep=C5=99ehledn=C3=BD=0Agul=C3=A1=
+=C5=A1... jak tedy argumenty zpracovat?=0A=0AD=C3=ADky,=0AJind=C5=99ich Koc=
+man=0A=0A------------------------------------------------------------------=
+---=0AToto je kopie zpr=C3=A1vy zve=C5=99ejn=C4=9Bn=C3=A9 na IOS 22/23L (23=
+1005) .=0A=0AChcete-li odpov=C4=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0A=
+https://moodle.vut.cz/mod/forum/post.php?reply=3D3107=0AOdhl=C3=A1sit se z =
+f=C3=B3ra: https://moodle.vut.cz/mod/forum/subscribe.php?id=3D9517=0AOdhl=
+=C3=A1sit se z diskuse:=0Ahttps://moodle.vut.cz/mod/forum/subscribe.php?id=
+=3D9517&d=3D2011=0AZm=C4=9Bnit nastaven=C3=AD voleb f=C3=B3ra:=0Ahttps://mo=
+odle.vut.cz/mod/forum/index.php?id=3D231005=0A
+--b1_qLkuEnUjaES0dod47BZxCFrUWTdkmIRwKwAST6Z1wM
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231005">IOS 22/23L (231005)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231005">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D9517">Diskuze k 1. projektu IO=
+S</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vut.c=
+z/mod/forum/discuss.php?d=3D2011">Jak zpracovat argumenty skriptu?</a>=0A</=
+div>=0A=0A<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"=
+forumpost">=0A    <tr class=3D"header">=0A        <td width=3D"35" valign=
+=3D"top" class=3D"picture left">=0A            <a href=3D"https://moodle.vu=
+t.cz/user/view.php?id=3D231413&amp;course=3D231005" class=3D"d-inline-block=
+ aabtn"><img src=3D"https://moodle.vut.cz/theme/image.php/_s/vut/core/16576=
+48469/u/f2" class=3D"userpicture defaultuserpic" width=3D"35" height=3D"35"=
+ alt=3D"Obr=C3=A1zek: Kocman Jind=C5=99ich" title=3D"Obr=C3=A1zek: Kocman J=
+ind=C5=99ich" /></a>=0A        </td>=0A        <td class=3D"topic starter">=
+=0A            <div class=3D"subject">=0A                Jak zpracovat argu=
+menty skriptu?=0A            </div>=0A            <div class=3D"author">=0A=
+                autor <a target=3D'_blank' href=3D'https://moodle.vut.cz/us=
+er/view.php?id=3D231413&course=3D231005'>Kocman Jind=C5=99ich</a> - Ned=
+=C4=9Ble, 19. b=C5=99ezna 2023, 18.16=0A            </div>=0A        </td>=
+=0A    </tr>=0A    <tr>=0A        <td class=3D"left side" valign=3D"top">=
+=0A                &nbsp;=0A        </td>=0A        <td class=3D"content">=
+=0A            <p dir=3D"ltr" style=3D"text-align:left;">Dobr=C3=BD ve=
+=C4=8Der,</p><p dir=3D"ltr" style=3D"text-align:left;">L=C3=A1me si hlavu n=
+ad t=C3=ADm, jak zpracovat argumenty skriptu. Boj=C3=ADm, =C5=BEe getopts=
+=C2=A0<span style=3D"font-size:.9375rem;">nelze pou=C5=BE=C3=ADt, jeliko=
+=C5=BE p=C5=99edpokl=C3=A1d=C3=A1m, =C5=BEe =C5=A1patn=C4=9B zpracuje nap=
+=C5=99. p=C5=99=C3=ADkaz:</span></p><div style=3D"text-align:left;" class=
+=3D"edu-alert-info">mole -g -r FILE</div><p dir=3D"ltr" style=3D"text-align=
+:left;">Zde doch=C3=A1z=C3=AD k p=C5=99i=C5=99azen=C3=AD souboru FILE do sk=
+upiny "-r", co=C5=BE je dle zad=C3=A1n=C3=AD validn=C3=AD jm=C3=A9no skupin=
+y, getopts by v=C5=A1ak dle m=C3=A9ho ch=C3=A1p=C3=A1n=C3=AD -r vyhodnotil =
+jako p=C5=99ep=C3=ADna=C4=8D?</p><p dir=3D"ltr" style=3D"text-align:left;">=
+D=C3=A1le jsou zde konfliktn=C3=AD p=C5=99=C3=ADkazy typu:<br /></p><div cl=
+ass=3D"edu-alert-info">mole -g GROUP SOMETHING</div><p></p><p dir=3D"ltr" s=
+tyle=3D"text-align:left;">Toto m=C5=AF=C5=BEe b=C3=BDt p=C5=99=C3=ADkaz:</p=
+><div style=3D"text-align:left;" class=3D"edu-alert-info">mole -g GROUP FIL=
+E</div><p dir=3D"ltr" style=3D"text-align:left;">...nebo:</p><p dir=3D"ltr"=
+ style=3D"text-align:left;"></p><div class=3D"edu-alert-info">mole -g GROUP=
+ DIRECTORY</div>... nebo nap=C5=99.:<p></p><div style=3D"text-align:left;" =
+class=3D"edu-alert-info">mole -g GROUP -m</div><div style=3D"text-align:lef=
+t;">Tj., pokud by se argumenty m=C4=9Bli vyhodnocovat pomoc=C3=AD n=C4=
+=9Bjak=C3=BDch zano=C5=99en=C3=BDch if/else, bylo by t=C5=99eba ud=C4=9Blat=
+ n=C4=9Bco jako:</div><div style=3D"text-align:left;" class=3D"edu-alert-wa=
+rning"><div>if ($1 =3D=3D "-g") {</div><div>=C2=A0 =C2=A0 if ($4 is empty) =
+{</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 if ($3 is not p=C5=99ep=C3=ADna=
+=C4=8D) {</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 if ($3 is dir=
+ectory) {</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 #mole -g GROUP DIRECTORY</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0} else if ($3 is a file) {</div><div>=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 #mole -g GROUP FILE</div><div>=C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0} else {</div><div>=C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0#=C5=A1patn=C3=BD p=
+=C5=99=C3=ADkaz</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0}</div><div>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0else ($3 =3D=3D "-m")</div=
+>=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0....</div><div style=3D"te=
+xt-align:left;">No, mysl=C3=ADm =C5=BEe vid=C3=ADte, kam m=C3=AD=C5=99=
+=C3=ADm, st=C3=A1v=C3=A1 se z toho nep=C5=99ehledn=C3=BD gul=C3=A1=C5=A1...=
+ jak tedy argumenty zpracovat?</div><div style=3D"text-align:left;"><br /><=
+/div><div style=3D"text-align:left;">D=C3=ADky,</div><div style=3D"text-ali=
+gn:left;">Jind=C5=99ich Kocman</div>=0A=0A            <div class=3D"command=
+s">=0A                    <a target=3D"_blank" href=3D"https://moodle.vut.c=
+z/mod/forum/post.php?reply=3D3107">=0A                        Odpov=C4=
+=9Bd=C4=9Bt=0A                    </a>=0A            </div>=0A=0A          =
+  <div class=3D"link">=0A                <a target=3D"_blank" href=3D"https=
+://moodle.vut.cz/mod/forum/discuss.php?d=3D2011#p3107">=0A                 =
+   Uk=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A                </a>=
+=0A            </div>=0A        </td>=0A    </tr>=0A</table>=0A=0A<hr />=0A=
+<div class=3D"mdl-align unsubscribelink">=0A    <a href=3D"https://moodle.v=
+ut.cz/mod/forum/subscribe.php?id=3D9517">Neodeb=C3=ADrat p=C5=99=C3=ADsp=
+=C4=9Bvky z tohoto f=C3=B3ra</a>&nbsp;=0A    <a href=3D"https://moodle.vut.=
+cz/mod/forum/subscribe.php?id=3D9517&d=3D2011">Vypnout odeb=C3=ADr=C3=A1n=
+=C3=AD p=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&nbsp;=0A    <a=
+ href=3D"https://moodle.vut.cz/mod/forum/index.php?id=3D231005">Zm=C4=9Bna =
+nastaven=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_qLkuEnUjaES0dod47BZxCFrUWTdkmIRwKwAST6Z1wM--

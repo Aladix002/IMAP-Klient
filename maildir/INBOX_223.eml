@@ -1,0 +1,276 @@
+Return-Path: <izavrel@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2AFINAG7000603
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Tue, 15 Nov 2022 19:23:10 +0100 (CET)
+	(envelope-from izavrel@fit.vutbr.cz)
+Received: from [10.101.10.171] (nat5s.vcit.vutbr.net [185.62.108.77] (may be forged))
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 2AFINAi7076988
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO);
+	Tue, 15 Nov 2022 19:23:10 +0100 (CET)
+	(envelope-from izavrel@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vut.cz; s=mx1;
+	t=1668536590; bh=Yu8n6MddDkrbz/XsnDaR04BEJB5aBw8ohtLwOGy5RSQ=;
+	h=From:To:Subject:Date:Reply-To;
+	b=CskHEUjiZWtOpJBO/VN+/35NOlW9smYkxv3AcqEB4QvC8elJ+Ry4YHA2aeyxwwO4x
+	 OP/OjV3qub5K/VwER1gpkmeYmefVN516+/NN5EabjEDfUysqvWIShgdQUFr8pxNz6T
+	 R9S+g4+fUAM4pVqQFXenw9tZx4q91mHgs++uI8XQ=
+From: =?utf-8?q?Jan=20Zav=c5=99el?= <izavrel@fit.vut.cz>
+To: xbobor00@stud.fit.vutbr.cz, xbotlo01@stud.fit.vutbr.cz,
+        xdiewo01@stud.fit.vutbr.cz, xduric07@stud.fit.vutbr.cz,
+        xfrajk00@stud.fit.vutbr.cz, xhrabo18@stud.fit.vutbr.cz,
+        xjuric31@stud.fit.vutbr.cz, xklyme00@stud.fit.vutbr.cz,
+        xkovar98@stud.fit.vutbr.cz, xkrejc83@stud.fit.vutbr.cz,
+        xkresa02@stud.fit.vutbr.cz, xmomot00@stud.fit.vutbr.cz,
+        xondre16@stud.fit.vutbr.cz, xpasti00@stud.fit.vutbr.cz,
+        xpereb00@stud.fit.vutbr.cz, xphamv00@stud.fit.vutbr.cz,
+        xruzic57@stud.fit.vutbr.cz, xseman06@stud.fit.vutbr.cz,
+        xvalka06@stud.fit.vutbr.cz, xzheva00@stud.fit.vutbr.cz,
+        xcapek19@stud.fit.vutbr.cz, xdanie14@stud.fit.vutbr.cz,
+        xklimo04@stud.fit.vutbr.cz, xlindo04@stud.fit.vutbr.cz,
+        xmasop05@stud.fit.vutbr.cz, xmedri01@stud.fit.vutbr.cz,
+        xmezer05@stud.fit.vutbr.cz, xmraze18@stud.fit.vutbr.cz,
+        xnguye28@stud.fit.vutbr.cz, xnunva01@stud.fit.vutbr.cz,
+        xpenka02@stud.fit.vutbr.cz, xptace22@stud.fit.vutbr.cz,
+        xrosta00@stud.fit.vutbr.cz, xsmado01@stud.fit.vutbr.cz,
+        xspace41@stud.fit.vutbr.cz, xsvage01@stud.fit.vutbr.cz,
+        xtomci02@stud.fit.vutbr.cz, xvalen33@stud.fit.vutbr.cz,
+        xvirag00@stud.fit.vutbr.cz, xvokra02@stud.fit.vutbr.cz,
+        xmrave02@stud.fit.vutbr.cz
+Subject: =?utf-8?q?=20=5bIZP=5d=20-=20Hodnocen=c3=ad=20a=20opravy=20projektu=201?=
+Date: Tue, 15 Nov 2022 18:23:12 +0000
+Message-Id: <em867d4d7b-6d7a-4fbd-9a9f-93c4ff3f21e6@1ac3a7ea.com>
+Reply-To: =?utf-8?q?Jan=20Zav=c5=99el?= <izavrel@fit.vut.cz>
+User-Agent: eM_Client/9.1.2109.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="------=_MBD6E6A643-6835-4904-8C2F-552D07FDF4A2"
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+--------=_MBD6E6A643-6835-4904-8C2F-552D07FDF4A2
+Content-Type: multipart/alternative;
+ boundary="------=_MB403B7C00-D86D-4034-9DC2-FE78A0F0428E"
+
+--------=_MB403B7C00-D86D-4034-9DC2-FE78A0F0428E
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+Bonjour,
+
+tato zpr=C3=A1va se t=C3=BDka pouze t=C4=9Bch z v=C3=A1s, kdo jste projekt=
+ odevzd=C3=A1vali u m=C4=9B=20
+- a=C5=A5 u=C5=BE emailem =C4=8Di skrze syst=C3=A9m.
+
+Jak jste si ji=C5=BE pravd=C4=9Bpodobn=C4=9B v=C5=A1imli - prvn=C3=AD proje=
+kt je opraven! K=20
+samotn=C3=A9mu bodov=C3=A9mu hodnocen=C3=AD se poj=C3=AD je=C5=A1t=C4=9B ho=
+dnocen=C3=AD slovn=C3=AD, kter=C3=A9=20
+najdete pokud si p=C5=99edm=C4=9Bt otev=C5=99ete v el. indexu a vedle hodno=
+cen=C3=AD=20
+kliknete na zelenou ikonku.
+
+Slovn=C3=AD hodnocen=C3=AD obsahuje 3 =C4=8D=C3=A1sti:
+     - slovn=C3=AD sumarizaci
+     - v=C3=BDstup z automatizovan=C3=BDch test=C5=AF
+     - v=C3=A1=C5=A1 odevzdan=C3=BD k=C3=B3d, ob=C4=8Das m=C3=ADrn=C4=9B po=
+upraven=C3=BD - viz slovn=C3=AD sumarizace
+
+Jak jste ji=C5=BE asi pochopili, tak va=C5=A1e programy jsou testov=C3=A1ny =
+automaticky=20
+=3D jak=C3=A1koliv neo=C4=8Dek=C3=A1van=C3=A1 odchylka u v=C3=BDstupu zp=C5=
+=AFsob=C3=AD fail cel=C3=A9ho testu. Na=20
+tomto jsem str=C3=A1vil velk=C3=A9 mno=C5=BEstv=C3=AD =C4=8Dasu, kdy jsem r=
+u=C4=8Dn=C4=9B upravoval v=C3=BDstup=20
+u v=C4=9Bt=C5=A1iny projekt=C5=AF. Na tohle si absolutn=C4=9B nezvykejte, n=
+ikdo jin=C3=BD to pro=20
+v=C3=A1s d=C4=9Blat nebude. Program v=C5=BEdy mus=C3=AD m=C3=ADt v=C3=BDstu=
+p p=C5=99esn=C4=9B tak, jak je v=20
+zad=C3=A1n=C3=AD. =C5=BD=C3=A1dn=C3=A9 mezery nav=C3=ADc, =C5=BE=C3=A1dn=C3=
+=A9 te=C4=8Dky, vyk=C5=99i=C4=8Dn=C3=ADky a u=C5=BE v=C5=AFbec ne=20
+vlastn=C3=AD form=C3=A1t v=C3=BDpisu. Stejn=C4=9B tak program v=C5=BEdy mus=
+=C3=AD skon=C4=8Dit s ' \n' -=20
+v=C4=9Bt=C5=A1inou chyb=C4=9Blo u =C2=A8Not found=C2=A8.  D=C3=A1le v=C5=A1=
+echny chybov=C3=A9 v=C3=BDpisy pat=C5=99=C3=AD na=20
+stderr, ne na stdout. Osobn=C4=9B jsem pak hodnotil k=C3=B3d podle p=C5=99e=
+hlednosti a=20
+koment=C3=A1=C5=99=C5=AF, kdy jsem v=C4=9Bt=C5=A1inou p=C5=99idal a=C5=BE 1=
+.5 bodu. Pr=C3=A9miovou =C4=8D=C3=A1st oprav=C3=ADm=20
+pozd=C4=9Bji po konzultaci s Ale=C5=A1em Smr=C4=8Dkou.
+
+Upozor=C5=88uji, =C5=BEe na z=C3=A1po=C4=8Det je pot=C5=99eba z=C3=ADskat a=
+lespo=C5=88 1 bod. Pokud chcete=20
+zm=C4=9Bnu va=C5=A1eho hodnocen=C3=AD, tak p=C5=99ij=C4=8Fte na konzultaci=
+ do C307 v p=C3=A1tek 10-11=20
+& 13-16, p=C5=99=C3=ADpadn=C4=9B m=C4=9B kontaktujte a domluv=C3=ADme se (z=
+=C3=ADtra budu kr=C3=A1tce=20
+dostupn=C3=BD mezi 10 - 11, pot=C3=A9 vyr=C3=A1=C5=BE=C3=ADm na In Flames a =
+ve =C4=8Dtvrtek je st=C3=A1tn=C3=AD=20
+sv=C3=A1tek).
+
+P=C5=99ikl=C3=A1d=C3=A1m pou=C5=BEitou testovac=C3=AD sadu. U zfailovan=C3=
+=BDch test=C5=AF jde v hodnocen=C3=AD=20
+vid=C4=9Bt, jak=C3=BDm zp=C5=AFsobem byly spu=C5=A1t=C4=9Bny. Z=C3=A1rove=
+=C5=88 je v testovac=C3=AD sad=C4=9B i=20
+referen=C4=8Dn=C3=AD v=C3=BDstup.
+
+PS: Na body ze cvi=C4=8Den=C3=AD mysl=C3=ADm, ale bohu=C5=BEel jsem si nena=
+=C5=A1el =C4=8Das.
+
+s pozdravem
+jz
+--------=_MB403B7C00-D86D-4034-9DC2-FE78A0F0428E
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+
+<style id=3D"css_styles">=20
+blockquote.cite { margin-left: 5px; margin-right: 0px; padding-left: 10px;=
+ padding-right:0px; border-left: 1px solid #cccccc }
+blockquote.cite2 {margin-left: 5px; margin-right: 0px; padding-left: 10px;=
+ padding-right:0px; border-left: 1px solid #cccccc; margin-top: 3px; padding=
+-top: 0px; }
+a img { border: 0px; }
+li[style=3D'text-align: center;'], li[style=3D'text-align: center; '], li[s=
+tyle=3D'text-align: right;'], li[style=3D'text-align: right; '] {  list-sty=
+le-position: inside;}
+body { font-family: 'Segoe UI'; font-size: 12pt; }
+.quote { margin-left: 1em; margin-right: 1em; border-left: 5px #ebebeb soli=
+d; padding-left: 0.3em; }
+
+ </style>
+</head>
+<body>Bonjour,<div><br /></div><div>tato zpr=C3=A1va se t=C3=BDka pouze t=
+=C4=9Bch z v=C3=A1s, kdo jste projekt odevzd=C3=A1vali u m=C4=9B - a=C5=A5=
+ u=C5=BE emailem =C4=8Di skrze syst=C3=A9m.</div><div><br /></div><div>Jak j=
+ste si ji=C5=BE pravd=C4=9Bpodobn=C4=9B v=C5=A1imli - prvn=C3=AD projekt je =
+opraven! K samotn=C3=A9mu bodov=C3=A9mu hodnocen=C3=AD se poj=C3=AD je=C5=
+=A1t=C4=9B hodnocen=C3=AD slovn=C3=AD, kter=C3=A9 najdete pokud si p=C5=99e=
+dm=C4=9Bt otev=C5=99ete v el. indexu a vedle hodnocen=C3=AD kliknete na zel=
+enou ikonku.=C2=A0</div><div><br /></div><div>Slovn=C3=AD hodnocen=C3=AD ob=
+sahuje 3 =C4=8D=C3=A1sti:</div><div>=C2=A0 =C2=A0 - slovn=C3=AD sumarizaci<=
+/div><div>=C2=A0 =C2=A0 - v=C3=BDstup z automatizovan=C3=BDch test=C5=AF</d=
+iv><div>=C2=A0 =C2=A0 - v=C3=A1=C5=A1 odevzdan=C3=BD k=C3=B3d, ob=C4=8Das m=
+=C3=ADrn=C4=9B poupraven=C3=BD - viz slovn=C3=AD=C2=A0<span>sumarizace</spa=
+n></div><div><br /></div><div>Jak jste ji=C5=BE asi pochopili, tak va=C5=A1=
+e programy jsou testov=C3=A1ny automaticky =3D jak=C3=A1koliv neo=C4=8Dek=
+=C3=A1van=C3=A1 odchylka u v=C3=BDstupu zp=C5=AFsob=C3=AD fail cel=C3=A9ho=
+ testu. Na tomto jsem str=C3=A1vil velk=C3=A9 mno=C5=BEstv=C3=AD =C4=8Dasu,=
+ kdy jsem ru=C4=8Dn=C4=9B upravoval v=C3=BDstup u v=C4=9Bt=C5=A1iny projekt=
+=C5=AF. Na tohle si absolutn=C4=9B nezvykejte, nikdo jin=C3=BD to pro v=C3=
+=A1s d=C4=9Blat nebude. Program v=C5=BEdy mus=C3=AD m=C3=ADt v=C3=BDstup p=
+=C5=99esn=C4=9B tak, jak je v zad=C3=A1n=C3=AD. =C5=BD=C3=A1dn=C3=A9 mezery =
+nav=C3=ADc, =C5=BE=C3=A1dn=C3=A9 te=C4=8Dky, vyk=C5=99i=C4=8Dn=C3=ADky a u=
+=C5=BE v=C5=AFbec ne vlastn=C3=AD form=C3=A1t v=C3=BDpisu. Stejn=C4=9B tak=
+ program v=C5=BEdy mus=C3=AD skon=C4=8Dit s ' \n' - v=C4=9Bt=C5=A1inou chyb=
+=C4=9Blo u =C2=A8Not found=C2=A8.=C2=A0=C2=A0D=C3=A1le v=C5=A1echny chybov=
+=C3=A9 v=C3=BDpisy pat=C5=99=C3=AD na stderr, ne na stdout. Osobn=C4=9B jse=
+m pak hodnotil k=C3=B3d podle p=C5=99ehlednosti a koment=C3=A1=C5=99=C5=AF, =
+kdy jsem v=C4=9Bt=C5=A1inou p=C5=99idal a=C5=BE 1.5 bodu. Pr=C3=A9miovou =
+=C4=8D=C3=A1st oprav=C3=ADm pozd=C4=9Bji po konzultaci s Ale=C5=A1em Smr=
+=C4=8Dkou.</div><div><br /></div><div><span>Upozor=C5=88uji, =C5=BEe na z=
+=C3=A1po=C4=8Det je pot=C5=99eba z=C3=ADskat alespo=C5=88 1 bod. Pokud chce=
+te zm=C4=9Bnu va=C5=A1eho hodnocen=C3=AD, tak p=C5=99ij=C4=8Fte na konzulta=
+ci do C307 v p=C3=A1tek 10-11 &amp; 13-16, p=C5=99=C3=ADpadn=C4=9B m=C4=9B=
+ kontaktujte a domluv=C3=ADme se=C2=A0</span><span>(z=C3=ADtra budu kr=C3=A1=
+tce dostupn=C3=BD mezi 10 - 11, pot=C3=A9 vyr=C3=A1=C5=BE=C3=ADm na In Flam=
+es a ve =C4=8Dtvrtek je st=C3=A1tn=C3=AD sv=C3=A1tek)</span><span>.=C2=A0</=
+span></div><div><br /></div><div>P=C5=99ikl=C3=A1d=C3=A1m pou=C5=BEitou tes=
+tovac=C3=AD sadu. U zfailovan=C3=BDch test=C5=AF jde v hodnocen=C3=AD vid=
+=C4=9Bt, jak=C3=BDm zp=C5=AFsobem byly spu=C5=A1t=C4=9Bny. Z=C3=A1rove=C5=
+=88 je v testovac=C3=AD sad=C4=9B i referen=C4=8Dn=C3=AD v=C3=BDstup.</div>=
+<div><br /></div><div>PS: Na body ze cvi=C4=8Den=C3=AD mysl=C3=ADm, ale boh=
+u=C5=BEel jsem si nena=C5=A1el =C4=8Das.</div><div><span><br /></span></div=
+><div><span>s pozdravem</span></div><div>jz</div></body></html>
+--------=_MB403B7C00-D86D-4034-9DC2-FE78A0F0428E--
+
+--------=_MBD6E6A643-6835-4904-8C2F-552D07FDF4A2
+Content-Type: application/x-zip-compressed; name=test_data.zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=test_data.zip
+
+UEsDBBQAAAAIAEl/bFVEGMYEEQAAABIAAAAGAAAAYjEudHh0q6gAAS5DI2MTUzNzC0sDLgBQSwME
+FAAAAAgASX9sVWBxMtAWAAAAJAAAAAYAAABiMi50eHSrqAABLkMjYxNTM3MLSwOuSjBAFgEAUEsD
+BBQAAAAAAEl/bFUYgrCFHwAAAB8AAAAGAAAAYjMudHh0YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd4
+eXoKMTExClBLAwQUAAAACABJf2xVzXzKajEAAABKAAAABgAAAHMxLnR4dEtMSuYyNDTkSklNA9Pp
+GZlgOis7B0zn5uWD6YLComIwo6S0DEyXV1RWgRna2tpgGgBQSwMEFAAAAAgASX9sVVr5TSsnAAAA
+LwAAAAYAAABzMi50eHRLTEnPyi0oKecyNDTkSkrNyM4rLK0Ac5LTMnPyi8oqwZziKm0wDQBQSwME
+FAAAAAgASX9sVYUjoXFgAAAA2AAAAAYAAABzMy50eHQdxUsWgBAAQNF5WzFqSZJEId9i9Z3z7uRK
+KZd1XZdt21gpxfu+s9aaj+NgYwyf58nWWnbO8XVdfN83e+85hMAxRn6eh1NKnHPmUgrXWrm1xr13
+ft+Xv+/jMQbPOVkIwT9QSwMEFAAAAAgASX9sVb5SX5RJAAAASwAAAAoAAABzZXpuYW0udHh0C0gt
+KVJwKcsvSszmMjMwNjQyNjE14/JKzEtU8Msvyy/JS+QyNze3tDA3MzXhckpNKcpMzlAIzk0tAanI
+zdHjMjUxNAQiIwMuAFBLAwQUAAAACABJf2xVe2MB+zMAAAA/AAAABwAAAHRlc3RfYjFLTixRSDLU
+K6koUahR0NMvsSxOTSxKzlAwNDI2MTUzt7A0UFDQ1bXjUgCCCjDQQZLjAgBQSwMEFAAAAAgASX9s
+VejTBPk0AAAAOAAAAAcAAAB0ZXN0X2IyS04sUUgy1CupKFGoUdDTL7EsTk0sSs5QMDE1U1DQ1bXj
+UgCCCjDQUTA0MgaKm1tYGnABAFBLAwQUAAAACABJf2xVMZKEqkAAAAClAAAABwAAAHRlc3RfYjNL
+TixRSDLSK6koUahR0NMvsSxOTSxKzlAwNDI2MTUzt7A0UFDQ1bXjUgCCCjDQQZIDC1eCAYpwMg5T
+gfLkGAcAUEsDBBQAAAAAAEl/bFVx1JnXLwAAAC8AAAAHAAAAdGVzdF9iNGNhdCBiMi50eHQgfCAu
+L3Q5c2VhcmNoIDY1NCAgLS0+CiAgICBOb3QgZm91bmQKUEsDBBQAAAAIAEl/bFUwXrniVQAAAFwA
+AAAHAAAAdGVzdF9iNQ3BxxGAIBAAwL9VXAGCQxQ/9oKYs3jGsXjZdRahEBRvhA9ogtleWe9a4JwL
+IaSUSimtdRoYY7IAgJA8gsAWrqzqpu36YZzmZd38jsd53c8bA2Ms+gFQSwMEFAAAAAAASX9sVUyW
+PHkxAAAAMQAAAAcAAAB0ZXN0X2I2Y2F0IGIxLnR4dCB8IC4vdDlzZWFyY2ggNDU1NTYgIC0tPgog
+ICAgbm90IGZvdW5kClBLAwQUAAAACABJf2xVd2qyaDYAAAA5AAAABwAAAHRlc3RfcDFLTixRSDLU
+K6koUahR0NMvsSxOTSxKzlAwMjGzUFDQ1bXjUgCCCjDQUTA0MjYxNTO3sDTgAgBQSwMEFAAAAAAA
+SX9sVfdpy2lFAAAARQAAAAcAAAB0ZXN0X3AyY2F0IGIzLnR4dCB8IC4vdDlzZWFyY2ggNDU2ICAt
+LT4KICAgIGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6LCAxMTEKUEsDBBQAAAAIAEl/bFV+a88x
+OgAAAIQAAAAHAAAAdGVzdF9zMEtOLFEoNtQrqShRqFHQ0y+xLE5NLErOUDBQUNDVteNSAAJtbW0d
+BUNDQ65kkFojvGqLq5DVGhNnLgBQSwMEFAAAAAgASX9sVdYaBSNhAAAAxwAAAAcAAAB0ZXN0X3My
+S04sUSg21CupKFGoUdDTL7EsTk0sSs5QMFJQ0NW141IAgsSkZB0FQ0NDrmSQWiP8alPSs3ILSsoh
+GkAiSakZ2XmFpRUIkeS0zJz8orJKJEON8RuamIhkXlISklHJUKcBAFBLAwQUAAAACABJf2xVcDF3
+mWMAAADHAAAABwAAAHRlc3RfczNLTixRKDbUK6koUahR0NMvsSxOTSxKzlAwVlDQ1bXjUgCClNQ0
+HQVDQ0OuZJBaI7xqE1PSs3ILSsohGkAiSakZ2XmFpRUIkeS0zJz8orJKJEON8TsgJQWhOzU1FcFJ
+S4M6DQBQSwMEFAAAAAgASX9sVUQc8OBjAAAAxwAAAAcAAAB0ZXN0X3M0S04sUSg21CupKFGoUdDT
+L7EsTk0sSs5QMFFQ0NW141IAgvSMTB0FQ0NDrmSQWiO8ahNT0rNyC0rKIRpAIkmpGdl5haUVCJHk
+tMyc/KKySiRDjfE7ID0doTsjIwPBycyEOg0AUEsDBBQAAAAIAEl/bFUvROecYwAAAMcAAAAHAAAA
+dGVzdF9zNUtOLFEoNtQrqShRqFHQ0y+xLE5NLErOUDBVUNDVteNSAIKs7BwdBUNDQ65kkFojvGoT
+U9KzcgtKyiEaQCJJqRnZeYWlFQiR5LTMnPyiskokQ43xOyArC6E7OzsbwcnJgToNAFBLAwQUAAAA
+CABJf2xVAEobgmMAAADHAAAABwAAAHRlc3RfczZLTixRKDbUK6koUahR0NMvsSxOTSxKzlAwU1DQ
+1bXjUgCC3Lx8HQVDQ0OuZJBaI7xqE1PSs3ILSsohGkAiSakZ2XmFpRUIkeS0zJz8orJKJEON8Tsg
+NxehOy8vD8HJz4c6DQBQSwMEFAAAAAgASX9sVeyxum5tAAAA4gAAAAcAAAB0ZXN0X3M3S04sUSg2
+1CupKFGoUdDTL7EsTk0sSs5QMFdQ0NW141IAgoLComIdBUNDQ65kkGIjvIoTU9KzcgtKyiEaQCJJ
+qRnZeYWlFQiR5LTMnPyiskqESHGVNpINxvidU1CA0FhYWIjgFBUVIRlZDHU0AFBLAwQUAAAACABJ
+f2xVECw2e2MAAADHAAAABwAAAHRlc3RfczhLTixRKDbUK6koUahR0NMvsSxOTSxKzlCwUFDQ1bXj
+UgCCktIyHQVDQ0OuZJBaI7xqE1PSs3ILSsohGkAiSakZ2XmFpRUIkeS0zJz8orJKJEON8TugpASh
+u7S0FMEpK4M6DQBQSwMEFAAAAAgASX9sVQX2amVsAAAA4gAAAAcAAAB0ZXN0X3M5S04sUSg21Cup
+KFGoUdDTL7EsTk0sSs5QsFRQ0NW141IAgvKKyiodBUNDQ65kkGIjvIoTU9KzcgtKyiEaQCJJqRnZ
+eYWlFQiR5LTMnPyiskqESHGVNpINxvidU45keEUFkrmVlUhGVlVBHQ0AUEsDBBQAAAAIAEl/bFXB
+DqGobQAAAHwAAAAHAAAAdGVzdF96MR2MSQrDMBAE735FP0BWLFtLfPFfJvZANklBGkwIeXwUQ0Ef
+qqmVBJU/iaKWt+ALfZK5MpX1CqDvl64NXiwF254LPRT8MJlxss4f6k6JkPKeJZFCCGE+B+/s4S68
+lVsL1cjyv8WnVnDWmMY4dD9QSwMEFAAAAAgASX9sVdEAVD5ZAAAAYgAAAAcAAAB0ZXN0X3oyHYpR
+DkAwEAX/neIdQEurlfhxl8UmhCLtRkQcXmMyfzMjCRI/OwUtt+CFrqRLTHGcYSygVF8gc7JETNcR
+aS3R1o2xjfPtnwae4pL3FFhoJ4RNl/DOmKytiw9QSwMEFAAAAAAASX9sVUXoEqBCAAAAQgAAAAcA
+AAB0ZXN0X3ozY2F0IHNlem5hbS50eHQgfCAuL3Q5c2VhcmNoIDY4NjggIC0tPgogICAgamFuYSBu
+b3ZvdG5hLCA3Nzc5ODc2NTQKUEsDBBQAAAAIAEl/bFUbcn3jWQAAAGIAAAAHAAAAdGVzdF96NB2K
+UQ5AMBAF/53iHYBSbYUfd1lsQijSbkTE4TUm8zczkiDys5NXcgteqFK6yBTGGaYFiqLPkDhZAqbr
+CLTmaCqja2Nd86eBp7CkPXoW2gl+Uzmc1TpZV9kHUEsDBBQAAAAAAEl/bFUkZp0aNAAAADQAAAAH
+AAAAdGVzdF96NWNhdCBzZXpuYW0udHh0IHwgLi90OXNlYXJjaCAxMTE0ICAtLT4KICAgIG5vdCBm
+b3VuZApQSwECFAAUAAAACABJf2xVRBjGBBEAAAASAAAABgAAAAAAAAABACAAAAAAAAAAYjEudHh0
+UEsBAhQAFAAAAAgASX9sVWBxMtAWAAAAJAAAAAYAAAAAAAAAAQAgAAAANQAAAGIyLnR4dFBLAQIU
+ABQAAAAAAEl/bFUYgrCFHwAAAB8AAAAGAAAAAAAAAAEAIAAAAG8AAABiMy50eHRQSwECFAAUAAAA
+CABJf2xVzXzKajEAAABKAAAABgAAAAAAAAABACAAAACyAAAAczEudHh0UEsBAhQAFAAAAAgASX9s
+VVr5TSsnAAAALwAAAAYAAAAAAAAAAQAgAAAABwEAAHMyLnR4dFBLAQIUABQAAAAIAEl/bFWFI6Fx
+YAAAANgAAAAGAAAAAAAAAAEAIAAAAFIBAABzMy50eHRQSwECFAAUAAAACABJf2xVvlJflEkAAABL
+AAAACgAAAAAAAAABACAAAADWAQAAc2V6bmFtLnR4dFBLAQIUABQAAAAIAEl/bFV7YwH7MwAAAD8A
+AAAHAAAAAAAAAAEAIAAAAEcCAAB0ZXN0X2IxUEsBAhQAFAAAAAgASX9sVejTBPk0AAAAOAAAAAcA
+AAAAAAAAAQAgAAAAnwIAAHRlc3RfYjJQSwECFAAUAAAACABJf2xVMZKEqkAAAAClAAAABwAAAAAA
+AAABACAAAAD4AgAAdGVzdF9iM1BLAQIUABQAAAAAAEl/bFVx1JnXLwAAAC8AAAAHAAAAAAAAAAEA
+IAAAAF0DAAB0ZXN0X2I0UEsBAhQAFAAAAAgASX9sVTBeueJVAAAAXAAAAAcAAAAAAAAAAQAgAAAA
+sQMAAHRlc3RfYjVQSwECFAAUAAAAAABJf2xVTJY8eTEAAAAxAAAABwAAAAAAAAABACAAAAArBAAA
+dGVzdF9iNlBLAQIUABQAAAAIAEl/bFV3arJoNgAAADkAAAAHAAAAAAAAAAEAIAAAAIEEAAB0ZXN0
+X3AxUEsBAhQAFAAAAAAASX9sVfdpy2lFAAAARQAAAAcAAAAAAAAAAQAgAAAA3AQAAHRlc3RfcDJQ
+SwECFAAUAAAACABJf2xVfmvPMToAAACEAAAABwAAAAAAAAABACAAAABGBQAAdGVzdF9zMFBLAQIU
+ABQAAAAIAEl/bFXWGgUjYQAAAMcAAAAHAAAAAAAAAAEAIAAAAKUFAAB0ZXN0X3MyUEsBAhQAFAAA
+AAgASX9sVXAxd5ljAAAAxwAAAAcAAAAAAAAAAQAgAAAAKwYAAHRlc3RfczNQSwECFAAUAAAACABJ
+f2xVRBzw4GMAAADHAAAABwAAAAAAAAABACAAAACzBgAAdGVzdF9zNFBLAQIUABQAAAAIAEl/bFUv
+ROecYwAAAMcAAAAHAAAAAAAAAAEAIAAAADsHAAB0ZXN0X3M1UEsBAhQAFAAAAAgASX9sVQBKG4Jj
+AAAAxwAAAAcAAAAAAAAAAQAgAAAAwwcAAHRlc3RfczZQSwECFAAUAAAACABJf2xV7LG6bm0AAADi
+AAAABwAAAAAAAAABACAAAABLCAAAdGVzdF9zN1BLAQIUABQAAAAIAEl/bFUQLDZ7YwAAAMcAAAAH
+AAAAAAAAAAEAIAAAAN0IAAB0ZXN0X3M4UEsBAhQAFAAAAAgASX9sVQX2amVsAAAA4gAAAAcAAAAA
+AAAAAQAgAAAAZQkAAHRlc3RfczlQSwECFAAUAAAACABJf2xVwQ6hqG0AAAB8AAAABwAAAAAAAAAB
+ACAAAAD2CQAAdGVzdF96MVBLAQIUABQAAAAIAEl/bFXRAFQ+WQAAAGIAAAAHAAAAAAAAAAEAIAAA
+AIgKAAB0ZXN0X3oyUEsBAhQAFAAAAAAASX9sVUXoEqBCAAAAQgAAAAcAAAAAAAAAAQAgAAAABgsA
+AHRlc3RfejNQSwECFAAUAAAACABJf2xVG3J941kAAABiAAAABwAAAAAAAAABACAAAABtCwAAdGVz
+dF96NFBLAQIUABQAAAAAAEl/bFUkZp0aNAAAADQAAAAHAAAAAAAAAAEAIAAAAOsLAAB0ZXN0X3o1
+UEsFBgAAAAAdAB0A/gUAAEQMAAAAAA==
+--------=_MBD6E6A643-6835-4904-8C2F-552D07FDF4A2--

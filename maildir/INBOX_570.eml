@@ -1,0 +1,57 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 32SBs3iQ093791
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 28 Mar 2023 13:54:48 +0200 (CEST)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id C1D76102F67
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 28 Mar 2023 13:54:04 +0200 (CEST)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id C15AE313FE4A
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 28 Mar 2023 13:54:04 +0200 (CEST)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id BFC42103C758; Tue, 28 Mar 2023 13:54:04 +0200 (CEST)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?utf-8?B?VmHFocOtxI1layBPbmTFmWVqIEluZy4gb2hvZG5vdGlsIMO6a29sIFphZA==?=  =?utf-8?B?w6Fuw60gcHJvamVrdHUgxI0uIDI=?=
+Date: Tue, 28 Mar 2023 13:54:04 +0200
+From: "=?utf-8?B?VmHFocOtxI1layBPbmTFmWVqIEluZy4gcMWZZXMgRS1MRUFSTklORyBWVVQ=?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <6422d55cbcb1b3.25524851@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_2HthWHlmAYp0H4BxP4b8BeQORVF7HlnDIVSBeObc"
+X-Spam-Status: No, score=-0.253 required=7 tests=AWL,HTML_MESSAGE,KHOP_HELO_FCRDNS
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_2HthWHlmAYp0H4BxP4b8BeQORVF7HlnDIVSBeObc
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AITY 22/23L (231036) -> =C3=9Akol -> Zad=C3=A1n=C3=AD projektu =C4=8D. 2=
+=0A---------------------------------------------------------------------=0A=
+Va=C5=A1=C3=AD=C4=8Dek Ond=C5=99ej Ing. ohodnotil v=C3=A1=C5=A1 odevzdan=
+=C3=BD =C3=BAkol "Zad=C3=A1n=C3=AD projektu=0A=C4=8D. 2 ".=0A=0AHodnocen=
+=C3=AD si m=C5=AF=C5=BEete zobrazit u sv=C3=A9ho odevzdan=C3=A9ho =C3=BAkol=
+u:=0A=0Ahttps://moodle.vut.cz/mod/assign/view.php?id=3D307301=0A=0A--------=
+-------------------------------------------------------------=0A
+--b1_2HthWHlmAYp0H4BxP4b8BeQORVF7HlnDIVSBeObc
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p><font face=3D"sans-serif"><a href=3D"https://moodle.vut.cz/course/view.p=
+hp?id=3D231036">ITY 22/23L (231036)</a> -><a href=3D"https://moodle.vut.cz/=
+mod/assign/index.php?id=3D231036">=C3=9Akol</a> -><a href=3D"https://moodle=
+.vut.cz/mod/assign/view.php?id=3D307301">Zad=C3=A1n=C3=AD projektu =C4=
+=8D. 2 </a></font></p><hr /><font face=3D"sans-serif"><p>Va=C5=A1=C3=AD=
+=C4=8Dek Ond=C5=99ej Ing. ohodnotil v=C3=A1=C5=A1 odevzdan=C3=BD =C3=BAkol =
+"<i>Zad=C3=A1n=C3=AD projektu =C4=8D. 2 </i>".<br /><br />=0AHodnocen=C3=
+=AD si m=C5=AF=C5=BEete zobrazit u sv=C3=A9ho <a href=3D"https://moodle.vut=
+.cz/mod/assign/view.php?id=3D307301">odevzdan=C3=A9ho =C3=BAkolu</a>.</p></=
+font><hr />
+
+--b1_2HthWHlmAYp0H4BxP4b8BeQORVF7HlnDIVSBeObc--

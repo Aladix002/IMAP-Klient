@@ -1,0 +1,47 @@
+Return-Path: <bidlom@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2AP9QKju063894
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vutbr.cz>; Fri, 25 Nov 2022 10:26:20 +0100 (CET)
+	(envelope-from bidlom@fit.vutbr.cz)
+Received: from [IPV6:2001:67c:1220:80c:1ac0:4dff:fe61:ee84] ([IPv6:2001:67c:1220:80c:1ac0:4dff:fe61:ee84])
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 2AP9QG5K036188
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+	for <xbotlo01@stud.fit.vutbr.cz>; Fri, 25 Nov 2022 10:26:20 +0100 (CET)
+	(envelope-from bidlom@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vutbr.cz; s=mx1;
+	t=1669368380; bh=jafhFndXyH/F/gti2ZbmlAQ4DDiF/NZaPi71KDkSzno=;
+	h=Date:Subject:To:References:From:In-Reply-To;
+	b=Q9bC+wAb7qB3/PbsOqWRoVK5XWVW88L4lsFGBDRfcC8FSi6Xa8oE36kFqpt9A7rqY
+	 9ny3dFkdUFlMdAR3E+d1MDI6guAXk8v14ngTzdT1I2ZizgKhwhEsK6EuMNx+/y94D0
+	 VXgqCQZjeweV5UjQUB9wd9IL+k0fKA8LmTESdJLw=
+Message-ID: <47f22591-6f5a-6e0f-bc9a-c9d484d395ce@fit.vutbr.cz>
+Date: Fri, 25 Nov 2022 10:26:16 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101
+ Thunderbird/102.3.0
+Subject: Re: Nepritomnost na cviku
+To: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>
+References: <ebaf9f68e4252e7c6a0950ec60fc9f23@stud.fit.vutbr.cz>
+Content-Language: en-US
+From: Michal Bidlo <bidlom@fit.vutbr.cz>
+In-Reply-To: <ebaf9f68e4252e7c6a0950ec60fc9f23@stud.fit.vutbr.cz>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+Pane kolego,
+
+s Vasi skupinou je dnes v planu uloha c. 4, pokud byste na ni chtel 
+prijit pristi tyden, je to u me mozne uz jen ve ctvrtek od 17 nebo od 19 
+hod. V patecni skupine uz bude uloha 5.
+
+Zdravi
+Michal Bidlo
+
+
+Dne 25. 11. 22 v 10:02 Botlo Filip napsal(a):
+> Dobrý deň, bolo by možné si dnešné 13:00 IEL cviko presunúť na budúci 
+> piatok? Dnes musím odchádzať z Brna skôr na rodinnú oslavu.

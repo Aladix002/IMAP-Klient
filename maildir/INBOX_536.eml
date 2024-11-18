@@ -1,0 +1,57 @@
+Return-Path: <beranv@fit.vut.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 32JK7KCf071156
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Sun, 19 Mar 2023 21:07:21 +0100 (CET)
+	(envelope-from beranv@fit.vut.cz)
+Received: from [192.168.1.117] (ip-62-245-100-63.bb.vodafone.cz [62.245.100.63])
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 32JK7IvR021692
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO);
+	Sun, 19 Mar 2023 21:07:18 +0100 (CET)
+	(envelope-from beranv@fit.vut.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vutbr.cz; s=mx1;
+	t=1679256438; bh=QFpAaMUlZjDVeLWjIQ3quagc41e6H3No/htHzqzz1T4=;
+	h=Date:Subject:To:Cc:References:From:In-Reply-To;
+	b=ZnE97MNA198NkpRhnV2RjnTycw3RHQkZOj5B/Rqn557D+pWstHOfc1EWAJcyQk7Ve
+	 ZGwi/3IWGujnXAx/mPiSeP/5sz5+tFq/Ap2tmOfebf5x9i+LUqbMDePUQJ84AFigWY
+	 EiE6juhIL05U9rbjqdfLOXngIVu+vpwvRLYg0qmg=
+Message-ID: <7f9f8be0-60d7-62c8-a176-111e5cbb658d@fit.vutbr.cz>
+Date: Sun, 19 Mar 2023 21:07:18 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.9.0
+Subject: =?UTF-8?B?UmU6IFPDusWlYcW+IG5hIEZJVGUgLSAoQlNFQyk=?=
+Content-Language: cs
+To: =?UTF-8?Q?Koz=c3=a1k_Martin?= <xkozak18@stud.fit.vutbr.cz>
+Cc: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>,
+        =?UTF-8?B?QmVyYW4gVsOtdMSbenNsYXY=?= <beranv@fit.vut.cz>
+References: <423e8088400f66f1ed3ba03cf0dd5240@stud.fit.vutbr.cz>
+From: =?UTF-8?Q?V=c3=adta_Beran?= <beranv@fit.vutbr.cz>
+In-Reply-To: <423e8088400f66f1ed3ba03cf0dd5240@stud.fit.vutbr.cz>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=-2.559 required=7 tests=ALL_TRUSTED,AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HEADER_FROM_DIFFERENT_DOMAINS,NICE_REPLY_A
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+Dobrý den,
+
+určitě, co třeba v úterý 28.3. v 15:00 u mě v kanceláři?
+
+Děkuji a zdravím,
+Víťa Beran
+
+Dne 13.03.2023 v 9:37 Kozák Martin napsal(a):
+> Dobrý deň,
+>
+> vo februári sme sa stretli ohľadom propagácia súťaže BSEC, 
+> organizovanou študentským spolkom BEST. Diskutovali sme možnosti BESTu 
+> v rámci FITu. Na schôdzke sme sa "dohodli", že ak budeme niečo 
+> organizovať v blízkej dobe tak to máme riešiť v predstihu. Momentálne 
+> plánujeme ďalšiu súťaž na jeseň v ďalšom semestri. Vedeli by sme sa 
+> stretnúť niekedy tento/budúci týždeň? Do kópie prikladám aj hlavného 
+> organizátora súťaže Filipa Botla
+>
+> S pozdravom
+> Martin Kozák
+> člen BEST Brno

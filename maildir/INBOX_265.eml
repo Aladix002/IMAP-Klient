@@ -1,0 +1,44 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 2AU93j7T088342
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 30 Nov 2022 10:03:45 +0100 (CET)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 46B9B10D281
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 30 Nov 2022 10:03:44 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz 46B9B10D281
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1669799024;
+	bh=62xK7i/CHw28rLxfGs0itPeZk+HL4PK47xjz0fhon1o=; l=1010;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=OqPDxw2Zk99Dmkz+mEg1j5cJRrHVqp/IsIndujEjFOiitunuIirMe9zipgvZLxBSH
+	 x1JcpEkKgCu7crKkh0E1oLVOWRcZ6bFM2SMKK/9Hb+urtlAcgtsi3bQ6UTMPeSgqEE
+	 /vDdP4qDo47TS68SD668zNF7TmISWmz7n+Y0uwSs=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id 45C6830896FA; Wed, 30 Nov 2022 10:03:44 +0100 (CET)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogTWdyLiBFdmEgU2VkbMOha292w6EgKGlkIDM3NzQ2KQ==?= <zpravy-is@vutbr.cz>
+Reply-to: Eva.Sedlakova4@ceitec.vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?SUxHIC0gTsOhaHJhZG7DrSB0ZXJtw61uIHDDrXNlbWVrIA==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Message-Id: <20221130090344.45C6830896FA@emu.ro.vutbr.cz>
+Date: Wed, 30 Nov 2022 10:03:44 +0100 (CET)
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+TWlsw60gc3R1ZGVudGksIApwcm8gdHkgeiB2w6FzLCBrdGXFmcOtIG5lbcSbbGkgbW/Fvm5vc3Qg
+cHPDoXQgbsSba3Rlcm91IHogcMOtc2VtZWsgeiBJTEcsIHBvc8OtbMOhbSBpbmZvcm1hY2UgbyBu
+w6FocmFkbsOtbSB0ZXJtw61udS4gCk3Fr8W+ZXRlIHNpIHDDrXNlbWt1IGRvcHNhdCBuYSBrb25j
+aSBjdmnEjWVuw60gcMWZw63FoXTDrSB0w71kZW4gKHRqLiA1LjEyLiwgcmVzcC4gNy4xMi4pLiAo
+WmHEjWFsaSBieWNob20gY2NhIDEwIG1pbnV0IHDFmWVkIGtvbmNlbSBob2RpbnkgYSBwb2tyYcSN
+b3ZhbGkgMTAgbWludXQgZG8gcMWZZXN0w6F2a3kuKSAKTmFwacWhdGUgbWkgcHJvc8OtbSwga2Rv
+IG3DoSBvIG7DoWhyYWRuw60gdGVybcOtbiB6w6FqZW0sIGt0ZXJvdSBww61zZW1rdSBwb3TFmWVi
+dWpldGUgZG9wc2F0IGEgeiBrdGVyw6kganN0ZSBza3VwaW55LCBhYnljaCB2xJtkxJtsYSwga29s
+aWsgbmFjaHlzdGF0IHphZMOhbsOtLiAKWmRyYXbDrW0sIApFdmEgU2VkbMOha292w6EKCgpWVVQg
+enByw6F2YSBvZDogTWdyLiBFdmEgU2VkbMOha292w6EgRXZhLlNlZGxha292YTRAY2VpdGVjLnZ1
+dGJyLmN6IChpZCAzNzc0NikKT2Rwb3bEm8SPIGplIG1vxb5uw6EgcG9tb2PDrSBWVVQgenByw6F2
+IC0gcG91xb5panRlIHByb3PDrW0gbsOhc2xlZHVqw61jw60gb2RrYXo6Cmh0dHBzOi8vd3d3LnZ1
+dC5jei9pbnRyYS92dXQtenByYXZ5P2FjdGlvbj1ub3ZhJm9kcG92ZWRfbmE9MTc3OTI5NzMK

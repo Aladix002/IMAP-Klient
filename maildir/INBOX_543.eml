@@ -1,0 +1,137 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 32LFZG6U066410
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 21 Mar 2023 16:35:16 +0100 (CET)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id A266310B2AF
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 21 Mar 2023 16:34:06 +0100 (CET)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id A19E0313FE44
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 21 Mar 2023 16:34:06 +0100 (CET)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id A0266103BFBE; Tue, 21 Mar 2023 16:34:06 +0100 (CET)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogVXDFmWVzbsSbbsOtIHNwZWNpZmlrYWM=?=  =?utf-8?B?ZSBmaWx0csWvIC1hIGEgLWI=?=
+Date: Tue, 21 Mar 2023 16:34:06 +0100
+From: "=?utf-8?B?SmFuxaF0YSBGaWxpcCBwxZllcyBFLUxFQVJOSU5HIFZVVA==?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <05634aa9f9161cb160d3acfdee3a559769a9d27cf612215b5bc3e40c74c981a6@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: "Diskuze k 1. projektu IOS" <moodleforum9517@moodle.vut.cz>
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=9517
+X-Course-Id: 231005
+X-Course-Name: =?utf-8?B?T3BlcmHEjW7DrSBzeXN0w6lteSAoSU9TIDIyLzIzTCk=?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=9517&d=2038>
+Thread-Topic: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogVXDFmWVzbsSbbsOtIHNwZWNpZmlrYWM=?=
+ =?utf-8?B?ZSBmaWx0csWvIC1hIGEgLWI=?=
+Thread-Index: 05634aa9f9161cb160d3acfdee3a
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_Rn4BXNCfjrt2HC5xqySU4KwNEWFOBbsL6iaE8f5sgY"
+X-Spam-Status: No, score=-0.79 required=7 tests=AWL,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_Rn4BXNCfjrt2HC5xqySU4KwNEWFOBbsL6iaE8f5sgY
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIOS 22/23L (231005) -> F=C3=B3ra -> Diskuze k 1. projektu IOS -> Up=
+=C5=99esn=C4=9Bn=C3=AD=0Aspecifikace filtr=C5=AF -a a -b=0Ahttps://moodle.v=
+ut.cz/mod/forum/discuss.php?d=3D2038#p3152=0AUp=C5=99esn=C4=9Bn=C3=AD speci=
+fikace filtr=C5=AF -a a -b=0Aautor Jan=C5=A1ta Filip - =C3=9Ater=C3=BD, 21.=
+ b=C5=99ezna 2023, 16.03=0A------------------------------------------------=
+---------------------=0ADobr=C3=BD den,=0A=0Av moj=C3=AD implementaci proje=
+ktu jsem se rozhodl v souboru MOLE_RC=0Aobsahuj=C3=ADc=C3=ADm data o editov=
+an=C3=BDch souborech ukl=C3=A1dat ka=C5=BEd=C3=A9mu souboru=0Av=C5=A1echna =
+jeho data o minul=C3=BDch editac=C3=ADch na jeden =C5=99=C3=A1dek.=0A=0AZ =
+=C4=8D=C3=A1sti specifikace mluv=C3=ADc=C3=AD o form=C3=A1tu tajn=C3=A9ho l=
+ogu je z=C5=99ejm=C3=A9, =C5=BEe=0Az=C3=A1znamem o souboru je my=C5=A1len p=
+r=C3=A1v=C4=9B jeden =C5=99=C3=A1dek souboru.=0A=0AFiltry -a a -b zp=C5=
+=AFsob=C3=AD, =C5=BEe z=C3=A1znamy o editovan=C3=BDch souborech p=C5=99ed/p=
+o=0Azadan=C3=A9m datu nebudou uva=C5=BEov=C3=A1ny.=0A=0ACh=C3=A1pu tedy spr=
+=C3=A1vn=C4=9B, =C5=BEe je-li pro ka=C5=BEd=C3=BD soubor, kter=C3=BD kdy by=
+l pomoc=C3=AD=0Amole otev=C5=99en=C2=A0v MOLE_RC pr=C3=A1v=C4=9B jeden z=
+=C3=A1znam a z=C3=A1rove=C5=88 je to z=C3=A1znam o=0Aka=C5=BEd=C3=A9m datu,=
+ kdy byl soubor otev=C5=99en, nem=C4=9Bl by soubor b=C3=BDt skriptem=0Auva=
+=C5=BEov=C3=A1n, spad=C3=A1-li =C4=8Das a datum alespo=C5=88 jedn=C3=A9 z j=
+eho =C3=BAprav v tomto=0Az=C3=A1znamu pod restrikce zvolen=C3=A9ho filtru?=
+=0A=0AD=C4=9Bkuji za odpov=C4=9B=C4=8F.=0A=0A------------------------------=
+---------------------------------------=0AToto je kopie zpr=C3=A1vy zve=
+=C5=99ejn=C4=9Bn=C3=A9 na IOS 22/23L (231005) .=0A=0AChcete-li odpov=C4=
+=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahttps://moodle.vut.cz/mod/forum=
+/post.php?reply=3D3152=0AOdhl=C3=A1sit se z f=C3=B3ra: https://moodle.vut.c=
+z/mod/forum/subscribe.php?id=3D9517=0AOdhl=C3=A1sit se z diskuse:=0Ahttps:/=
+/moodle.vut.cz/mod/forum/subscribe.php?id=3D9517&d=3D2038=0AZm=C4=9Bnit nas=
+taven=C3=AD voleb f=C3=B3ra:=0Ahttps://moodle.vut.cz/mod/forum/index.php?id=
+=3D231005=0A
+--b1_Rn4BXNCfjrt2HC5xqySU4KwNEWFOBbsL6iaE8f5sgY
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231005">IOS 22/23L (231005)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231005">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D9517">Diskuze k 1. projektu IO=
+S</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vut.c=
+z/mod/forum/discuss.php?d=3D2038">Up=C5=99esn=C4=9Bn=C3=AD specifikace filt=
+r=C5=AF -a a -b</a>=0A</div>=0A=0A<table border=3D"0" cellpadding=3D"3" cel=
+lspacing=3D"0" class=3D"forumpost">=0A    <tr class=3D"header">=0A        <=
+td width=3D"35" valign=3D"top" class=3D"picture left">=0A            <a hre=
+f=3D"https://moodle.vut.cz/user/view.php?id=3D250607&amp;course=3D231005" c=
+lass=3D"d-inline-block aabtn"><img src=3D"https://moodle.vut.cz/theme/image=
+.php/_s/vut/core/1657648469/u/f2" class=3D"userpicture defaultuserpic" widt=
+h=3D"35" height=3D"35" alt=3D"Obr=C3=A1zek: Jan=C5=A1ta Filip" title=3D"Obr=
+=C3=A1zek: Jan=C5=A1ta Filip" /></a>=0A        </td>=0A        <td class=3D=
+"topic starter">=0A            <div class=3D"subject">=0A                Up=
+=C5=99esn=C4=9Bn=C3=AD specifikace filtr=C5=AF -a a -b=0A            </div>=
+=0A            <div class=3D"author">=0A                autor <a target=3D'=
+_blank' href=3D'https://moodle.vut.cz/user/view.php?id=3D250607&course=3D23=
+1005'>Jan=C5=A1ta Filip</a> - =C3=9Ater=C3=BD, 21. b=C5=99ezna 2023, 16.03=
+=0A            </div>=0A        </td>=0A    </tr>=0A    <tr>=0A        <td =
+class=3D"left side" valign=3D"top">=0A                &nbsp;=0A        </td=
+>=0A        <td class=3D"content">=0A            <p dir=3D"ltr" style=3D"te=
+xt-align:left;">Dobr=C3=BD den,</p><p dir=3D"ltr" style=3D"text-align:left;=
+">v moj=C3=AD implementaci projektu jsem se rozhodl v souboru MOLE_RC obsah=
+uj=C3=ADc=C3=ADm data o editovan=C3=BDch souborech ukl=C3=A1dat ka=C5=BEd=
+=C3=A9mu souboru v=C5=A1echna jeho data o minul=C3=BDch editac=C3=ADch na j=
+eden =C5=99=C3=A1dek.</p><p dir=3D"ltr" style=3D"text-align:left;">Z =C4=
+=8D=C3=A1sti specifikace mluv=C3=ADc=C3=AD o form=C3=A1tu tajn=C3=A9ho logu=
+ je z=C5=99ejm=C3=A9, =C5=BEe z=C3=A1znamem o souboru je my=C5=A1len pr=
+=C3=A1v=C4=9B jeden =C5=99=C3=A1dek souboru.</p><p dir=3D"ltr" style=3D"tex=
+t-align:left;"><span style=3D"font-size:.9375rem;">Filtry -a a -b zp=C5=
+=AFsob=C3=AD, =C5=BEe z=C3=A1znamy o editovan=C3=BDch souborech p=C5=99ed/p=
+o zadan=C3=A9m datu nebudou uva=C5=BEov=C3=A1ny.</span></p><p dir=3D"ltr" s=
+tyle=3D"text-align:left;">Ch=C3=A1pu tedy spr=C3=A1vn=C4=9B, =C5=BEe je-li =
+pro ka=C5=BEd=C3=BD soubor, kter=C3=BD kdy byl pomoc=C3=AD mole otev=C5=
+=99en=C2=A0<span style=3D"font-size:.9375rem;">v MOLE_RC pr=C3=A1v=C4=9B je=
+den z=C3=A1znam a z=C3=A1rove=C5=88 je to z=C3=A1znam o ka=C5=BEd=C3=A9m da=
+tu, kdy byl soubor otev=C5=99en, nem=C4=9Bl by soubor b=C3=BDt skriptem uva=
+=C5=BEov=C3=A1n, spad=C3=A1-li =C4=8Das a datum alespo=C5=88 jedn=C3=A9 z j=
+eho =C3=BAprav v tomto z=C3=A1znamu pod restrikce zvolen=C3=A9ho filtru?</s=
+pan></p><p dir=3D"ltr" style=3D"text-align:left;"><span style=3D"font-size:=
+.9375rem;">D=C4=9Bkuji za odpov=C4=9B=C4=8F.</span></p>=0A=0A            <d=
+iv class=3D"commands">=0A                    <a target=3D"_blank" href=3D"h=
+ttps://moodle.vut.cz/mod/forum/post.php?reply=3D3152">=0A                  =
+      Odpov=C4=9Bd=C4=9Bt=0A                    </a>=0A            </div>=
+=0A=0A            <div class=3D"link">=0A                <a target=3D"_blan=
+k" href=3D"https://moodle.vut.cz/mod/forum/discuss.php?d=3D2038#p3152">=0A =
+                   Uk=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A      =
+          </a>=0A            </div>=0A        </td>=0A    </tr>=0A</table>=
+=0A=0A<hr />=0A<div class=3D"mdl-align unsubscribelink">=0A    <a href=3D"h=
+ttps://moodle.vut.cz/mod/forum/subscribe.php?id=3D9517">Neodeb=C3=ADrat p=
+=C5=99=C3=ADsp=C4=9Bvky z tohoto f=C3=B3ra</a>&nbsp;=0A    <a href=3D"https=
+://moodle.vut.cz/mod/forum/subscribe.php?id=3D9517&d=3D2038">Vypnout odeb=
+=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&=
+nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/index.php?id=3D23100=
+5">Zm=C4=9Bna nastaven=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_Rn4BXNCfjrt2HC5xqySU4KwNEWFOBbsL6iaE8f5sgY--

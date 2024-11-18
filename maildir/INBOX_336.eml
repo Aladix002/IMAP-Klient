@@ -1,0 +1,36 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 306Da6hP014964
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 6 Jan 2023 14:36:06 +0100 (CET)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 1E5CA10B334
+	for <xbotlo01@stud.fit.vut.cz>; Fri,  6 Jan 2023 14:36:06 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz 1E5CA10B334
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1673012166;
+	bh=AdBoUmo9ahcPcZ03zZoAcBwE0yc+jqPDjOfhD6+CKdY=; l=358;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=ZB0JqMGPVLCvwKauCCYI8A5nHiXCdZLuaxDWClwYX6WZJ1LSGjWiNZwut43bNsC6s
+	 xv/YEhULq3zPn3lzdsZkpgwrKIQots79HCXa97irGC5AF/fln0rABtH4osRa9mCPqQ
+	 5D4PgImOzxmkHvldhwzArj4pCDR+Z5fOenLO/WnM=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id 1D8DF30E9FF8; Fri,  6 Jan 2023 14:36:06 +0100 (CET)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogSW5mb3JtYcSNbsOtIHN5c3TDqW0gVlVU?= <zpravy-is@vutbr.cz>
+Reply-to: zpravy-is@vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?SG9kbm9jZW7DrSB0ZXJtw61udQ==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <20230106133606.1D8DF30E9FF8@emu.ro.vutbr.cz>
+Date: Fri,  6 Jan 2023 14:36:06 +0100 (CET)
+X-Spam-Status: No, score=-0.138 required=7 tests=AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+QnlsIGpzdGUgaG9kbm9jZW4geiBwxZllZG3Em3R1ICJMaW5lw6FybsOtIGFsZ2VicmEoSUxHKSIK
+aG9kbm9jZW7DrW0gIjY0Ii4gCkhvZG5vY2Vuw60gcHJvdmVkbGE6IE1nci4gSXJlbmEgSGxhdmnE
+jWtvdsOhLCBQaC5ELiBkbmU6IDA2LjAxLjIwMjMgMTQ6MzUKClZVVCB6cHLDoXZhIG9kOiBJbmZv
+cm1hxI1uw60gc3lzdMOpbSBWVVQgCk9kcG92xJvEjyBuYSB0dXRvIHpwcsOhdnUgbmVuw60gbW/F
+vm7DoS4gWnByw6F2dSBvZGVzbGFsIGF1dG9tYXQuCg==

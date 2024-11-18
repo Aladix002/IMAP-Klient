@@ -1,0 +1,68 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 335NZttO025339
+	for <xbotlo01@stud.fit.vut.cz>; Thu, 6 Apr 2023 01:35:55 +0200 (CEST)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 8223D10B331
+	for <xbotlo01@stud.fit.vut.cz>; Thu,  6 Apr 2023 01:35:55 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz 8223D10B331
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1680737755;
+	bh=BtIph+llqd9SnFKEKSnsXrmV2iyvfUDzyISe2gOYwbo=; l=2830;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=BP9vVLuNtazi2+Hos/wpcEfwhH+TozJ2+VU2wDllxx6mt7dJALixYTye4nPpNZxhk
+	 6VpJov9HMpGfgc6AxL2DMcH0tPBKEMvr2BHTZlrNQSUAxfhRSD5SAQf2uofq9dnSU2
+	 8Mz/Hi6sQL1zPDb/LFnbqIWxADBm/Lwcmq+NzXaQ=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id 813823067CC9; Thu,  6 Apr 2023 01:35:55 +0200 (CEST)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogSW5mb3JtYcSNbsOtIHN5c3TDqW0gVlVU?= <zpravy-is@vutbr.cz>
+Reply-to: zpravy-is@vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?UHJvYmxlbWF0aWthIFRpa1Rvaw==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <20230405233555.813823067CC9@emu.ro.vutbr.cz>
+Date: Thu,  6 Apr 2023 01:35:55 +0200 (CEST)
+X-Spam-Status: No, score=-0.166 required=7 tests=AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+VsOhxb5lbsOpIHN0dWRlbnRreSwgdsOhxb5lbsOtIHN0dWRlbnRpLA0KDQpOw6Fyb2Ruw60gw7rF
+mWFkIHBybyBreWJlcm5ldGlja291IGEgaW5mb3JtYcSNbsOtIGJlenBlxI1ub3N0IChOw5pLSUIp
+IHZ5ZGFsIHZhcm92w6Fuw60gcMWZZWQgaHJvemJvdSB2IG9ibGFzdGkga3liZXJuZXRpY2vDqSBi
+ZXpwZcSNbm9zdGkgc3BvxI3DrXZhasOtY8OtIHYgaW5zdGFsYWNpIGEgcG91xb7DrXbDoW7DrSBh
+cGxpa2FjZSBUaWtUb2sgbmEgemHFmcOtemVuw61jaCBwxZlpc3R1cHVqw61jw61jaCBrIGluZm9y
+bWHEjW7DrW0gYSBrb211bmlrYcSNbsOtbSBzeXN0w6ltxa9tLg0KDQpaIHByb3ZlZGVuw6kgYW5h
+bMO9enkgTsOaS0lCIHZ5cGzDvXbDoSwgxb5lIGFwbGlrYWNlIFRpa1RvayByZXNwLiBqZWrDrSB2
+w71yb2JjZSBhIHByb3Zvem92YXRlbCwgxI3DrW5za8OhIHNwb2xlxI1ub3N0IEJ5dGVEYW5jZSwg
+c2LDrXLDoSBleGNlc2l2bsOtIG1ub8W+c3R2w60gdcW+aXZhdGVsc2vDvWNoIGRhdC4gVG90byDE
+jWluw60gemVqbcOpbmEgbsOhc2xlZHVqw61jw61taSB6cMWvc29ieToNCg0K4oCiICBtYXBvdsOh
+bsOtIHphxZnDrXplbsOtLCBrZHkgYXBsaWthY2UgemppxaHFpXVqZSBpbmZvcm1hY2UgbyBqaW7D
+vWNoIHNwdcWhdMSbbsO9Y2ggYSBpbnN0YWxvdmFuw71jaCBhcGxpa2Fjw61jaCwNCg0K4oCiICBv
+YnNhaCBzb3Vrcm9tw6kga29tdW5pa2FjZSBqZSB1a2zDoWTDoW4gbmEgc2VydmVyeSBzcG9sZcSN
+bm9zdGkgQnl0ZURhbmNlLA0KDQrigKIgIHByYXZpZGVsbsOhIGtvbnRyb2xhIGxva2FjZSB6YcWZ
+w616ZW7DrSwNCg0K4oCiICBwxZnDrXN0dXAga2Uga29udGFrdMWvbSB2IHphxZnDrXplbsOtLA0K
+DQrigKIgIGluZm9ybWFjZSBvIHphxZnDrXplbsOtIHbEjWV0bsSbIFdpLUZpIFNTSUQsIHDFmWVk
+ZcWhbMOpIGtvbmZpZ3VyYWNlIFdpLUZpLCBzw6lyaW92w6lobyDEjcOtc2xhIHphxZnDrXplbsOt
+IGEgU0lNIGthcnR5LCBJRCB6YcWZw616ZW7DrSwgSU1FSSB6YcWZw616ZW7DrSwgTUFDIGFkcmVz
+eSwgdGVsZWZvbm7DrWhvIMSNw61zbGEsIHbDvcSNdHUgdsWhZWNoIHXFvml2YXRlbHNrw71jaCDD
+usSNdMWvIHBvdcW+w612YW7DvWNoIG5hIHphxZnDrXplbsOtIGEga29tcGxldG7DrWhvIHDFmcOt
+c3R1cHUga2UgY2xpcGJvYXJkdSwNCg0K4oCiICBwZXJ6aXN0ZW50bsOtIHDFmcOtc3R1cCBrZSBr
+YWxlbmTDocWZaSB1bW/FvsWIdWrDrWPDrSBqZWhvIMSNdGVuw60gYSB6bcSbbnUsIG5lYm8NCg0K
+4oCiICB2eW51Y292w6Fuw60gdnl1xb5pdMOtIG5hdGl2bsOtaG8gcHJvaGzDrcW+ZcSNZSwgamVu
+xb4gdW1vxb7FiHVqZSBzbGVkb3ZhdCB0w6ltxJvFmSB2ZcWha2Vyb3UgYWt0aXZpdHUgdcW+aXZh
+dGVsZSAobmFwxZkuIHN0aXNrbnV0w60ga2zDoXZlcyBuYSBvYnJhem92Y2UpLg0KDQpCbGnFvsWh
+w60gaW5mb3JtYWNlIGpzb3UgZG9zdHVwbsOpIHpkZTogaHR0cHM6Ly93d3cubnVraWIuY3ovZG93
+bmxvYWQvdXJlZG5pX2Rlc2thLzIwMjMtMDMtMDhfVmFyb3ZhbmktVGlrVG9rX2ZpbmFsLnBkZg0K
+DQpSZWt0b3IgcMWZaXN0b3VwaWwgayB2eWTDoW7DrSByb3pob2RudXTDrSwga3RlcsO9bSB6YWth
+enVqZSBwb3XFvsOtdsOhbsOtIGFwbGlrYWNlIFRpa1RvayBuYSBwcmFjb3Zuw61jaCB6YcWZw616
+ZW7DrWNoIHphbcSbc3RuYW5jxa8gVlVULiBTb3XEjWFzbsSbIG5hxZnDrWRpbCBwb3Zpbm5vc3Qg
+dnl1xb7DrXZhdCBkZWRpa292YW7DqWhvIHphxZnDrXplbsOtIG5lcMWZaXBvamVuw6lobyBrIHN5
+c3TDqW1vdsO9bSBhIGluZnJhc3RydWt0dXJuw61tIHpkcm9qxa9tIFZVVCBwcm8gc3Byw6F2dSB1
+bml2ZXJ6aXRuw61obyBuZWJvIGZha3VsdG7DrWNoIHByb2ZpbMWvIG5hIHTDqXRvIHNvY2nDoWxu
+w60gc8OtdGkuDQoNClN0dWR1asOtY8OtbSBuYSBWVVQgdiBuw6F2YXpub3N0aSBuYSB2YXJvdsOh
+bsOtIE7DmktJQiB2IHR1dG8gY2h2w61saSBkb3BvcnXEjXVqZW1lIG5hZMOhbGUgYXBsaWthY2kg
+VGlrVG9rIG5lcG91xb7DrXZhdC4NCg0KUyBwb3pkcmF2ZW0NCk1nci4gS2FtaWwgR3JlZ29yZWss
+IE1CQQ0Ka2FuY2zDqcWZ

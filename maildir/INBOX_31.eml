@@ -1,0 +1,705 @@
+Return-Path: <1axb0dvq0njhsk9r2wu4lamv20yr1127r2rcm7-xbotlo01=stud.fit.vut.cz@bf05x.hubspotemail.net>
+Received: from bid46oo.bf05x.hubspotemail.net (bid46oo.bf05x.hubspotemail.net [158.247.18.134])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPS id 26P8PPva068096
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)
+	for <xbotlo01@stud.fit.vut.cz>; Mon, 25 Jul 2022 10:25:26 +0200 (CEST)
+	(envelope-from 1axb0dvq0njhsk9r2wu4lamv20yr1127r2rcm7-xbotlo01=stud.fit.vut.cz@bf05x.hubspotemail.net)
+Received: by 172.16.92.38 with SMTP id ax2nko4a19iuwixumjlkxxxq99sqqnuc94lhe;
+        Mon, 25 Jul 2022 08:25:25 GMT
+DKIM-Signature: v=1; s=hs1; d=bf05x.hubspotemail.net; 
+        i=@bf05x.hubspotemail.net; 
+        h=sender:from:from:reply-to:to:to:cc:cc:subject:subject:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=K1ezSSmANrCI8KTTo5i2eEIB5gnUL3RauFv9eWbP4ZU=; 
+        b=hzEZES84mgGKnIqesOJgHIWrm5hfzwWJZuPwrhwaYVKpybD++oKDjVm8Hh8iyV
+         VBfO6/nGANeBBogZe3eY5sihynCbdGugieAd2RBqCnLrY4EDNN755qIFnN6I/9G
+         OZ8pO7ZjeIQS3svo5ApMYrvlOd/3SQkmW6mBuIGANp8Rs0+oRsLw9g+ovZsAYEF
+         73llXHwdXJ/qDSL79KupXS3PsdjB7D02YczvRObFa7/C9FpNiX4z3vcg/C4oo4o
+         jQhavHOWM5dJ8oPcx4DoCA7UDdT34S9t32K2bARQUfRBcqKAm7FdyKVa14W8S8T
+         XePDruL+pnfEbNnGH62w7p2QUf7w==; q=dns/txt; t=1658737524; 
+        x=1658910324;
+DKIM-Signature: v=1; s=hs1; d=vaadin.com; i=@vaadin.com; 
+        h=sender:from:from:reply-to:to:to:cc:cc:subject:subject:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=K1ezSSmANrCI8KTTo5i2eEIB5gnUL3RauFv9eWbP4ZU=; 
+        b=EW+I+33T84rpPdQ2/15fEIWHuFC0GHn1i62hCUWFt+JqdNzI/AZcpTVYx6AuFp
+         yZ86kRbXSwLr62yKnzdc4Q6LTOI3zYUinim0uIir8Nf0ZHTGlcAXC6WDs3mmNRj
+         qY5Adp5FMt6W3hDeRpq+SY8CtJULpNIX1X2MQd4/DPUcvbrcX6nF/nZ9MDQgvUW
+         XyCkUr/3qgRT2pr9o4y0HE1RAJ6jP6FyZj6rBY6JVSom0TYj9IVJaFIiVkr7eMh
+         WaCGZQ4+9Z/cIRCYcrtLXpFa5cm5i2zvZclQ1xex7whgJakc7lUjrPSdFM0TpPK
+         BEAX1L3aAelHZ9CPlkgFDtnkPS8A==; q=dns/txt; t=1658737524; 
+        x=1658910324;
+X-HS-Cid: 1axe8odcebvcjf0prcjpxe7ypamqw500cqhner
+List-Unsubscribe: <mailto:1axcxwhavtct89ade96qj2ppq60gc543imibwj-xbotlo01=stud.fit.vut.cz@bf05x.hubspotemail.net?subject=unsubscribe>
+Date: Mon, 25 Jul 2022 11:25:25 +0300
+From: Vaadin Team <team@vaadin.com>
+Reply-To: team@vaadin.com
+To: xbotlo01@stud.fit.vutbr.cz
+Message-ID: <1658737523582.be2dedaa-3882-415a-8113-4bb17d7c087e@bf05x.hubspotemail.net>
+Subject: =?utf-8?Q?Here=E2=80=99s_how_Vaadin_helps_professional_developers?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8668702_1740738747.1658737524307"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://policy.hubspot.com/abuse-complaints)
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+------=_Part_8668702_1740738747.1658737524307
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+(6/6) Find out what Vaadin has to offer for professional developers
+
+vaadin-logo (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTp=
+CfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdp3pdqSV1-WJV7CgVJDN1M7Cs-CzxkyV8bK0v8L2q3=
+YW7vHsnb4QH36RW4Vm7fT7ldCRdW7Nlg9h1yB-g5W3wKl0x8J1Yz7W60wmP26WVb9WW43P2G948=
+972hW5d7c9k6jNgdgW8G9jXW3jRrJ4W3xLv_J7yFqD5W74N8Hx6jsY1FW1w5j7N2h6HZkW66C-L=
+532cJzrW3nzB873QJ3NWW20QBfH91Y-fpW5HWLXQ6gdPqqVmRL0C1GrS44W52jDRV10M8SdW6rK=
+2TC1HS0CK3d_R1 )
+
+VAADIN FOR PROFESSIONALS
+
+Hi Aladix002,
+
+Thank you for sticking by with us! This is the last email in this series fr=
+om us :).
+
+We just wanted to let you know, that in addition to our free Core tier, we =
+provide a wide variety of products and services that enable you to speed up=
+ development and provide value to your customers.
+
+- Vaadin Pro includes commercial components and tools that make you product=
+ive! The package contains among others the Designer (https://analytics.vaad=
+in.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ=
+3pdr7V1-WJV7CgPBMW44fTy-2RBNH3W2jN4424nQfbZW8h3MXj625gchW2HbxQw53nzc4W6y5T1=
+41-pwf6V6Ln2D61Vpb4W6HrPcX5lR0yJW8FbJMD7mLXd7VL5Qn97pZFf0W4bqX-m45R7xwW7bpg=
+_p2cZ4-0W1gwJdY76X0nQW7tVfDB88mnfCW8HJpcB5dBpMMW7mV3vv87sZ9zN6N8r38SsMJGVQl=
+-Tr13lf8PW3fszYP57ZvmpW1RGDZH57LTJQW2sx7YJ5bK_D8W1898SJ6JnJWlW1kBRN646jN_z3=
+8_j1 ) , Charts (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ=
+6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3pdrrV1-WJV7CgLbSN7Z0b3Czn9MgW3YfjW2=
+8m2gxjV_1rR52wxfs1W5V3Fzg38lLlBW6bgL9n2h0LXDN56rYyY5LDsPW18H3DB6XqWN-W1Fqp4=
+79bMPxrW7hD5Cy1K_gbWW6j8ZtS7StjXcW90XvfX8mthNkW6PvS5L78M880W2_sc2b1HbBN-W7H=
+j72v2RfVMcW4Z003H7LQLpSVPFQl-2hN4dDW381w1q4Z44wVVzLzQx7fS3RJW8lr3wx2LTzF1W2=
+VnfxG5c8CtRW1LL5gz6FTWLgW12R-d61VVC2nW8R5-ch8xsFLJW3z4_Y955rG0Q3bQR1 ) , an=
+d TestBench (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTp=
+CfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3pdr7V1-WJV7CgWKFW6k9V_c3Rq0f8W5GdKWb7qR=
+CH8V5V-bc2BKcz6W5txHnC468g5NW3Q4_yw1wcjQHW7MVnsP6yLgDxW3W93kS4V6RzhN45LMC8Y=
+nrjyVGd6vw4XmRSSW6pKJkf5KXGt1W9grmg58g6TlhW61gH1z4R15ZwW3vND9s34YdmzW72Mndm=
+2Y9NCrVm8tD396TK4ZW5Rdt4q2CC2GSW3fj0BJ6R5YlWW6n9_lp7KgXKGW68FQjp1fmBzfVh_72=
+73yJ2nGW4SsqNT3ZBLgSW2Y2g6w3GhMy83hZx1 ) . Start your free 14-day trial for=
+ Pro (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTpCfW3jzW=
+dm6vbYkvW4CCSrm4MWTv7N4CDgdJ3pdr7V1-WJV7CgVKJW7K32Xt5pDLYmW4V_Ks_6XYMz-W30R=
+Hvd6RSsJrW8NhfRR3cGZPFW4102K78zMFsGW6m3ZnN4-4jqkW2QH3186kTLv2N5xD13NKkVj1W8=
+2xDSn5vwYg7W8kS0hc5JtrXkW3c4ZrC2SDvxfW7PkFfy6lysnMW3DT63c3xm6sMW7wkjZm1ZfM5=
+HW7DdK4M8k_p_3W6K3CkR47Wm7vW7k2RwJ35H_HyW4DBjhQ6S1vFqN5hH0yVVCL7bW1088SN3By=
+lX4W7rkBN27GyddSW8t_Gsy1wld7J39Np1 ) today!
+
+- Vaadin Prime is the team package that gives you all the features listed i=
+n Pro, as well as Expert Chat (https://analytics.vaadin.com/e3t/Ctc/49+113/=
+ccJdQ04/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3pdr7V1-WJV7CgSmLW17dw=
+hd3twsHfW4T633l49z2S8W73Hp814Bg45dN6hRPmDb7hrsW2YHnSv8xy8W6W5hkKL960h5m4W8h=
+FKY94-kmnYW4lpFhf12JTKJW6JvLwk44dKJNW7LZ2rp58_grwW3N6dSz1LwQn1W4vn11Y2mXVZ_=
+W1LMc1c64Qj5pW3fdcXq5XVWSlW7_jgV_90_3frW7w2PR332GP4RW8m5Tvv2RMqKlW6xP5MJ78p=
+yfpW3wh-1f8kBrpvN7sdkPsc-t8xW3LbFCy29P_HTW5mPkRm2C2GGy3pmX1 ) , Multiplatfo=
+rm Runtime (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTpC=
+fW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3pdrrV1-WJV7CgGPDW7nLvMQ4ds87CW85z1jQ5xzm=
+zFV_cJ0Y53ZYGNW7K1MtL7scBJxW4pS7Bk18z9sDW9hMSDZ3297ggN92h53j1qm4cN1FssLWYv9=
+vKW6-LzB_1TPNRhW58XNZR8NN26HW8L-nTM1lDTr0W8w58nJ32twvDW4YdzDx8h5ByJV1tDHr63=
+BVMwW89J9Mk8VR7z9W93Rfgv2Trg9ZW5LnKMG1B7MtKVQp5jC7JV5fgW6h_BnN3JJKP0W3pgwlz=
+6rWRNFW53rVBd1LyGPKW485QZ82v86kZW70W5Pv927nRPW1M0N3X6W3_ch3fVZ1 ) , Warrant=
+y (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTpCfW3jzWdm6=
+vbYkvW4CCSrm4MWTv7N4CDgd_3pdrrV1-WJV7Cg-lwW2b20-n7nDfz7VCYWXJ8NHkHRW1r3C8w8=
+hdc3PW5pTWR243JgzbW4XqJym2TnJLYW3fdj6G4l85TXW6RmMKc9bSn4QN1pvw7N949Z_W6Cgwk=
+m2SZRdWN39nLQzbF7kwW7qffJx7n8NK7W1sqsbF70gyLgW7SkMFR63kSl5W4byFd210nMGFW3k3=
+h7c1c3rF2W6bCYWv97mVR3W4Vd8x02yPYSlW25h4rV6bJp5YW3rbQWz4fk_LzW9hHQs84mS7QZW=
+8nBnPt4bHS49W4mdCkS6W5KVvW1nF0zk5vypPQW3MxBwx3lRzBD33Pf1 ) that covers all =
+Vaadin products, and more!
+
+- Vaadin Enterprise is a solution that is specifically tailored to match yo=
+ur business needs. On top of the other packages, Enterprise comes with Expe=
+rt on Demand (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cT=
+pCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3pdrrV1-WJV7CgRbfW5ZQXcz41Fr8pW5dHvr37c=
+K0pNW5N9xTC3q2f-lW6hmYJW6Ttv3XW5B6mM-5RBs08W5fgvc-21M0W7W1MZ6TQ2JtFC7W5WntN=
+D90yjxzW3kVgQM4GgTHsW6QcGWJ6KHGfMW957Zdj35JqVLW1nFWKn8SN66CW8hKvwM2cPnbRW4y=
+cXsZ84WwXgW49SrxK6yzYypW88lSqP4rT19LN3d_lgKnJq-vN2W5W7f3Gy0tW61Jr8w2zT5c1W5=
+Q9fv42ZmctfW61gTLG3QtvBbN3LL5qvybxWBW8XJgJS1X7BNcW6XvgnT8V4_BH3mYK1 ) , 10 =
+years of extended maintenance, indemnification, 24/7 support and a Vaadin m=
+entor.
+
+If you have any questions, just ask by replying to this email. We=E2=80=99r=
+e happy to help you!
+
+Enjoy your Vaadin journey!
+
+The Vaadin team
+
+Not rendering correctly? View this email as a web page here.
+
+Update your email preferences (https://analytics.vaadin.com/hs/manage-prefe=
+rences/unsubscribe?languagePreference=3Den&d=3DVnfmCc6jdDl8W4pxxKj3ZZhhmW2m=
+911m3GGZ8_W4fdKF14fdH-2VWQDyZ1fkvKFVkMkjx8CSFFKW51jyhF7_7rylW5_0Q2T6YWgkjW9=
+128fJ1MSMWMW7jDJDW77lNyjW23g7Bk6s-WB7W64yTzK73wmMq0&v=3D3&_hsenc=3Dp2ANqtz-=
+_N84ZuLFQLqFBgGH7Bs3MTwy1JxQrJcH5bzgtAy7DpWuI65g1c54jjdwNwvoFGG0NbF0gVhypqd=
+EnCInEJxofXqIIZjQ&_hsmi=3D216774051 ) to choose the type of emails you rece=
+ive.
+
+Unsubscribe from all future emails (https://analytics.vaadin.com/hs/manage-=
+preferences/unsubscribe-all?languagePreference=3Den&d=3DVnfmCc6jdDl8W4pxxKj=
+3ZZhhmW2m911m3GGZ8_W4fdKF14fdH-2VWQDyZ1fkvKFVkMkjx8CSFFKW51jyhF7_7rylW5_0Q2=
+T6YWgkjW9128fJ1MSMWMW7jDJDW77lNyjW23g7Bk6s-WB7W64yTzK73wmMq0&v=3D3&_hsenc=
+=3Dp2ANqtz-_N84ZuLFQLqFBgGH7Bs3MTwy1JxQrJcH5bzgtAy7DpWuI65g1c54jjdwNwvoFGG0=
+NbF0gVhypqdEnCInEJxofXqIIZjQ&_hsmi=3D216774051 )
+
+Vaadin Ltd, Ruukinkatu 2-4, Turku, FI-20540, Finland
+
+Vaadin GmbH, Boxhagener Str. 119 10245 Berlin, Germany
+
+Vaadin, Inc. 226 Airport Parkway, Ste. 428 San Jose, CA, 95110, USA
+------=_Part_8668702_1740738747.1658737524307
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head>
+  <title>Here=E2=80=99s how Vaadin helps professional developers</title>
+  <meta property=3D"og:title" content=3D"Here=E2=80=99s how Vaadin helps pr=
+ofessional developers">
+  <meta name=3D"twitter:title" content=3D"Here=E2=80=99s how Vaadin helps p=
+rofessional developers">
+  <meta property=3D"og:image" content=3D"https://analytics.vaadin.com/hubfs=
+/Images/New_Brand/vaadin-og-image.png">
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0, maximum-scale=3D1.0,">=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+  <link href=3D"https://fonts.googleapis.com/css?family=3DMontserrat:400,50=
+0,600" rel=3D"stylesheet">
+  <style>
+   =20
+    .email--container {
+      background-color: #F6F9FA;
+      padding: 24px 0;
+      color: #646C74;
+      font-size: 16px;
+    }
+    table, tr, td, h1, h2, h3, h4, h5, h6, p, span {
+      font-family: Montserrat, sans-serif;=20
+    }
+   =20
+    h1, h2, h3, h4, h5, h6,
+    h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
+      color: #33383A;
+      line-height: 1.6;
+    }
+   =20
+    h1 {
+      font-size: 32px !important;
+    }
+   =20
+    h2 {
+      font-size: 24px !important;
+    }
+   =20
+    h3 {
+      font-size: 18.72px !important;
+    }
+   =20
+    h4 {
+      font-size: 16px !important;
+    }
+   =20
+    h5 {
+      font-size: 14px !important;
+    }
+   =20
+    h6 {
+      font-size: 12px !important;
+    }
+   =20
+    h1, h2  {
+      margin: 32px 0 16px;
+    }
+   =20
+    h3, h4, h5 {
+      margin: 0 0 8px;
+    }
+   =20
+    p, span, ul, li {
+      color: #646C74;
+    }
+   =20
+    p {
+      margin: 0 0 8px !important;
+      font-size: 16px;
+    }
+   =20
+    a,
+    a:visited,
+    a:focus,
+    a:active {
+      color: #0096EA !important;
+      font-weight: 500;
+    }
+   =20
+    hr {
+      outline: none;
+      border: none;
+      border-bottom: 1px solid #f0f5f7 !important;
+    }
+    .hidden {
+      display: none;
+    }
+   =20
+    .featured-article, .main-article, .leadgen-section table, .bottom-cta {
+      padding: 0 80px;
+    }
+   =20
+    .featured-article--image {
+      padding-bottom: 16px;
+    }
+   =20
+    .space-btm {
+      margin-bottom: 24px;
+    }
+   =20
+    /* Constrain email width for small screens */
+    @media screen and (max-width: 650px) {
+   =20
+      .email--container {
+        background-color: #fff !important;
+        padding: 2 0 !important;
+      }
+        /* Makes image expand to take 100% of width*/
+        img {
+            width:100%;
+            height:auto !important;
+        }
+       =20
+/*       h1 {
+        font-size: 1.5rem !important;
+      }
+      h2 {
+        font-size: 1.2rem !important;
+      }
+      p {
+        font-size: 14px;
+        line-height: 1.5;
+      }
+      h3 {
+        font-size: 1rem;
+      } */
+     =20
+      h5 {
+        margin: 24px 0 8px;
+      }
+     =20
+      .featured-article--image {
+        display: none !important;
+      }
+      .featured-article--text {
+        padding-left: 0 !important;
+      }
+      .featured-article, .main-article, .leadgen-section table, .bottom-cta=
+  {
+        padding: 0;
+      }
+     =20
+      .main {
+        width: 100% !important;
+      }
+    }
+  </style>
+<meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" cont=
+ent=3D"https://analytics.vaadin.com/-temporary-slug-298b21a1-bee6-4767-9ed6=
+-5af4be878dac"><meta name=3D"x-apple-disable-message-reformatting"><meta na=
+me=3D"robots" content=3D"noindex,follow"></head>
+ =20
+<!-- Preview text (text which appears right after subject) -->
+ =20
+<body style=3D"-ms-text-size-adjust:none; -webkit-text-size-adjust:none; ma=
+rgin:0; height: 100%;width:100%" width=3D"100%" height=3D"100%"><div id=3D"=
+preview_text" style=3D"display:none;font-size:1px;color:#F3F4F5;line-height=
+:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">(6/6) Find ou=
+t what Vaadin has to offer for professional developers</div>
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"line-hei=
+ght:26px; margin:0 auto; height: 100%;width:100%" width=3D"100%" height=3D"=
+100%">
+    <tbody><tr>
+      <td class=3D"email--container" align=3D"center">
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"ma=
+in" style=3D"background-color: #fff; margin: auto; width: 600px; border: 1p=
+x solid #f0f5f7; border-radius: 8px;">
+          <tbody><tr>
+            <td align=3D"center" class=3D"main-inner" style=3D"padding: 0 2=
+4px; border-bottom: 1px solid #F3F4F5;">
+              <table align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"main-inner-inner" style=3D"height: 80px; margin:0; mso=
+-cellspacing:0; width:100%;" width=3D"100%">
+                <tbody><tr>
+                  <td class=3D"logo" valign=3D"middle" align=3D"left" width=
+=3D"25%" style=3D"">
+                    <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/=
+ccJdQ04/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3q3npV1-WJV7CgGB-VB_N6=
+K4m9CW4W5wCVj42Wp-RTW55gtTq6Pxbc9VyK69319WMS5W7KHC3t4jVWPnW7C7zkW1MyWWqN3Kh=
+M8QXr8knW4p9P1k584xncW58YK5m7w53F3W40d4d-4z96VrVd-PgY1T-5cpW53FPzV75ynxxN3l=
+RZSh3y1ylVk2gPP8T_h5TW2T8w1r8Z7ZRSW76xLrW5vYV-jN2-hR28r6r4ZW4RS4pB4R7K6CV5N=
+xPL66wpLdW6hG7YH4wGmMwW4Mvwmy5h48xpW1h9q1x5JshR739q21" data-hs-link-id=3D"0=
+" target=3D"_blank"><img style=3D"width: 50px; margin-top:6px;" src=3D"http=
+s://analytics.vaadin.com/hubfs/Email%20Templates/Logo%20badge@2x.png" alt=
+=3D"vaadin-logo"></a>
+                  </td> =20
+                  <td style=3D"text-align: right;">
+                    <span style=3D"text-transform: uppercase; font-size: 16=
+px; letter-spacing: 2px;">VAADIN FOR PROFESSIONALS</span>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td style=3D"padding: 24px 24px 0;">
+              <div id=3D"hs_cos_wrapper_module_1602680139527101" class=3D"h=
+s_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"co=
+lor: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-genera=
+l-type=3D"widget" data-hs-cos-type=3D"module"></div><div id=3D"hs_cos_wrapp=
+er_module_1602680841190109" class=3D"hs_cos_wrapper hs_cos_wrapper_widget h=
+s_cos_wrapper_type_module" style=3D"color: inherit; font-size: inherit; lin=
+e-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D=
+"module"></div><div id=3D"hs_cos_wrapper_module_1602682215253127" class=3D"=
+hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"c=
+olor: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-gener=
+al-type=3D"widget" data-hs-cos-type=3D"module"></div><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" height=3D"100%" style=3D""=
+>
+               =20
+               =20
+                <tbody><tr>
+  <td style=3D"border-bottom: 1px solid #f0f5f7;">
+    <div class=3D"space-btm" style=3D"">
+      <div id=3D"hs_cos_wrapper_module_1602680139527101_" class=3D"hs_cos_w=
+rapper hs_cos_wrapper_widget hs_cos_wrapper_type_inline_rich_text" style=3D=
+"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-gen=
+eral-type=3D"widget" data-hs-cos-type=3D"inline_rich_text" data-hs-cos-fiel=
+d=3D"first_section_content"><p style=3D"margin-bottom: 1em; ">Hi Aladix002,=
+</p>
+<p style=3D"margin-bottom: 1em; "><br>Thank you for sticking by with us! Th=
+is is the last email in this series from us :).<br><br>We just wanted to le=
+t you know, that in addition to our free Core tier, we provide a wide varie=
+ty of products and services that enable you to speed up development and pro=
+vide value to your customers.</p>
+<ul>
+<li aria-level=3D"1"><strong>Vaadin Pro</strong> includes commercial compon=
+ents and tools that make you productive! The package contains among others =
+the <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6c=
+TpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3q3npV1-WJV7CgHcgW948zFV8S0DVgW4wcZ615=
+jrSkgW8jhKG-9kTZy-W98dNYD1h9KqZVkDLBH31QzkwW24XjV07L9hjYN48DyrklgX4CW2pDCyS=
+6mvlv2W90fNrl7sVzGVW35LdGW6Y34FjW490FB28P9jGVW1FZTmc1zfSBLW5tG0cH7Qnfb5W3_x=
+v4g5Fflp6N1pj60b3xd0kW7Ng5dp8Qf2KdW3CbPyf2_Z9WyW69XXnF5DvJsYW7sxwPy4sR9DNW5=
+T3xS22K1WnnW8mRGBG6mGxvfW5mn4zS6znnVL35901" data-hs-link-id=3D"0" target=3D=
+"_blank"><span>Designer</span></a>, <a href=3D"https://analytics.vaadin.com=
+/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3q3nJV=
+1-WJV7CgLwBVwNx543pDxsXN7HHn7RN0C4ZW8MLfdN8WCD8nW7bphsH6XlJTRW8C-lh-1hF53nN=
+5SF1SlzvrzdW6dSFTj1-BBtkW4vqMj_4yfg3XN8r9Z1Y8VWk5W2HrknH4_KXvpW3LF4dF2_x2Hr=
+W4SR4cn5M6_9gW6Yts6l5YnTswW8_hxV57MTJ7_W3vJPKB88BKWkW3FMmGY5B-MDrN36GJRq5nh=
+Y1W57xd3_1ZjJDYW1jV2gz3d6hysW2DTkrv7pQ5_cW8GyS-97NJ6gkW5tr0zh7M21mhW7FQKd06=
+m0m3ZN1n8d4skdlbw3gyz1" data-hs-link-id=3D"0" target=3D"_blank"><span>Chart=
+s</span></a>, and <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/cc=
+JdQ04/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3q3npV1-WJV7CgPpzW5DVLvy=
+1mxTpZW3vBDj233Q3vBW7tjQYF7wWDKVW8KB1jg5LmLMzW1Hx-Xz3-G52bW7KCfWq2F6LQYW13f=
+4Xh6RLrBJW40nvN_1GyCFXW6k9R3x7XbVWPW7N1Yyd73hPGTW7sdGCQ60zRxXW1kHs0Z5VZ2gxW=
+4FVvQ647dmB7W8Y2PKb1HrB2WW1dT1rh8H8RpSW6CPPHD8VjjggW4zgy171NcR5wW7g8Qhr8dzn=
+lpW6lgFRm3hnzpmW1QkLRD1XWKqZW7NZQ5d97NhkcMzB00CtSZpv33qg1" data-hs-link-id=
+=3D"0" target=3D"_blank"><span>TestBench</span></a>. Start your <a href=3D"=
+https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTpCfW3jzWdm6vbY=
+kvW4CCSrm4MWTv7N4CDgdJ3q3npV1-WJV7CgWTSW1fYRH_5QXRy2W18rVnm2pr5C8W3DyHyp8Ht=
+DYxW3-qNVd5Z7WcwW1GdJ495SYjq9W5B1qv_6TcKktW3Tl5gt7xN7x1W84GsCl5SN-7YW3S9tTC=
+4bTpBHW3ygvR13Gj9tQW9lS3mr7sPPdDW5wl7h13z8DCJW2-d-xC2-lsgMF7bQw-klKHbN5zhPb=
+Jn9BdrW59NZRP7s2bdSVMghDF7Lh28dW2NwQKh4lBNjbW90QyPy7LnstbW4d7Qnc2kDM0PW7xtl=
+-w6V3p7gV3z96q1xpN_w3jJg1" data-hs-link-id=3D"0" target=3D"_blank"><span>fr=
+ee 14-day trial for Pro</span></a> today!<br><br></li>
+<li aria-level=3D"1"><strong>Vaadin Prime</strong> is the team package that=
+ gives you all the features listed in Pro, as well as <a href=3D"https://an=
+alytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4=
+MWTv7N4CDgdJ3q3npV1-WJV7CgPY5W8G70hx99ByLDW3SWJx41xdhXJW31-jTY4lNsg3W7f9XyH=
+6RBL2cMzMGMckl8j9W9lb4h46zJ8xxW35qchC2hx2CNW6d_2r91qj9ZHW4kMN5x8Mcj9wW5NqbR=
+V6Q51ktW96RVgH16q1ZBW7-bkfP3995KQW6JF3J48sKmDJW6jwk4P3V0kBPW6XyK7P253LHsW6Z=
+GPXH7pMGywW92xFJ34dxgvcVwz3fJ8TQW1-W807X5m1DzmT2VzrHRx1wk_3nW70DNk94t0c63W4=
+MPj265Blxcy3qj-1" data-hs-link-id=3D"0" target=3D"_blank"><span>Expert Chat=
+</span></a>, <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04=
+/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3q3nJV1-WJV7Cg_58W2r9KMk24wPw=
+lW5qcsW597cm6DW95Qwd85DLbYdW3VVZ4X4nbdSRW92mYsG2H48XRW39_mTg1YsqZJW1jKRF69c=
+H_-XW3fZ57N7gTXPZN2sPWz27_dfFW3r_R-57YndQFW8P8H1h6k-gn8F3VfmT3dS-sW8kGZ437L=
+_pr3W2Fl6dL3HhSCpN1MfxRQqv7f3W1Q17SM3LQMhyW608R-p4c5hz7VZnXrP3CPmxKN7y1fTmK=
+qvZ4W3XZ1n-54WRLzW7fbjfd1yS6pBVr8K5m1c8TFtW2hxY8D847PyjVfrk4x3ry71j31xL1" d=
+ata-hs-link-id=3D"0" target=3D"_blank"><span>Multiplatform Runtime</span></=
+a>, <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ6c=
+TpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3q3nJV1-WJV7CgJQwW725Dv73z7yJtN3d0-L4V=
+K4-RW3MqFVz3zCny3W6gMjjf99Bm2lW56jys98lxZDcW70_YsQ4q6QG1W4XyWGy7bZpJDW8lbtv=
+c2X6MFmN29PCrzBWrt_W85Sfpr22_3S4W1m5zT42Rxx6ZW1s66P45b_YggW6pF01_5bkP01W1Kd=
+g8c90N3QRN7w82dwz-QPhW2sMbSk70-rg8W5J3HM36q89gPW2-X1LQ3DSM54W26NJQy10MQ8DW5=
+PFPzK668_yxW21xvvj4LsBcTW6m4Swr24jl9vVvZLYl7MbCP0W7n9Z1l5prD1M36kB1" data-h=
+s-link-id=3D"0" target=3D"_blank"><span>Warranty</span></a> that covers all=
+ Vaadin products, and more!<br><br></li>
+<li aria-level=3D"1"><strong>Vaadin Enterprise</strong> is a solution that =
+is specifically tailored to match your business needs. On top of the other =
+packages, Enterprise comes with <a href=3D"https://analytics.vaadin.com/e3t=
+/Ctc/49+113/ccJdQ04/VWRghQ6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3q3nJV1-WJ=
+V7CgTQsW7v-wcH8mkb92W8FrD3D1cnMJGW3HdDxg2pG6NrV7FLzG4S7FMqW6yQ2JF7zsjpDW9kb=
+HWt8gyN0zW5QxwbN64kX-HW7qLfpy8hR_f9W17p9vS8vKHtpW7kKg1k6Y5PcfW5PJc0P6Tb20TW=
+1Ml53G2TpDJFW4VQFb22lYLXrW5H7Lz4603Y4ZN8Nwc3D7c18wW3_wt6B6KvN-KW35h6WC6JDW-=
+7W4zqHZH18sXj7W3M5Y315Hs8HMW8sB0CV7MmHtQW2CGMjS471S6CW3DZB-Y6XWvcVW1Hy8Py2q=
+M24hW1JM4jn28tYzw3l9m1" data-hs-link-id=3D"0" target=3D"_blank"><span>Exper=
+t on Demand</span></a>, 10 years of extended maintenance, indemnification, =
+24/7 support and a Vaadin mentor.</li>
+</ul>
+<p style=3D"margin-bottom: 1em; ">If you have any questions, just ask by re=
+plying to this email. We=E2=80=99re happy to help you!<br><br>Enjoy your Va=
+adin journey!</p>
+<p style=3D"margin-bottom: 1em; ">The Vaadin team</p></div>
+     =20
+    </div>
+  </td>
+</tr>
+                <tr>
+                  <td class=3D"cards-list">
+                    <div style=3D"">
+                      <div id=3D"hs_cos_wrapper_module_160095064625712" cla=
+ss=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" styl=
+e=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos=
+-general-type=3D"widget" data-hs-cos-type=3D"module"></div>
+                    </div>
+                  </td>
+                </tr>
+               =20
+               =20
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td style=3D"padding: 0 24px 40px">
+              <div id=3D"hs_cos_wrapper_module_1602681618735119" class=3D"h=
+s_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"co=
+lor: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-genera=
+l-type=3D"widget" data-hs-cos-type=3D"module"></div><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%" height=3D"100%">
+                <tbody><tr>
+                  <td>
+                    <div id=3D"hs_cos_wrapper_module_160266836712757" class=
+=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"module"></div>
+                  </td>
+                </tr>
+                <tr>
+  <td>
+    <p style=3D"margin-bottom: 1em; text-align: center; margin: 0; padding:=
+ 40px 0">
+      <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ=
+6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3q3npV1-WJV7Cg-pKW6cF4P_1vqj11VGMNNB=
+7XxrhbW8Xh4Dt44kDCPW49Vpvq5vR2GgN3JWnQ2Zyv8SN3td9ww8vn18W6x53702y4Z3VW3CclK=
+p5WwBXYW3jfPMp9jmk78W4xHQwc77DRRHW4mHB7g8f8LJhW1pRLK62bYkqmW7PBQR24JvLp4W4x=
+182Z2bDVhtW26JMM48pmVwsW8BqbL54tz5Z9W5dFFcW264jDmW8xVQyR7pTwBRW1WB1ks2_R3g_=
+N7FqNjnnffrMW4PPqg71J6JyDN6Y_97Tsc7yB35551" style=3D"display: inline-block;=
+ margin:0 8px; width: 48px;" data-hs-link-id=3D"0" target=3D"_blank"><img s=
+tyle=3D"width: 48px; height: auto;" src=3D"https://analytics.vaadin.com/hub=
+fs/Email%20Templates/FB@2x.png"></a>
+      <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ=
+6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3q3npV1-WJV7CgSjzW1w7l866bxY9gW2Sp7t=
+t4_2RSFW2PDN3N4hj6TQN7yTYZDBDThxW2WTwmn1C1QGrW6_bQsQ3BVPX3VPrvxs8c7_nYN3HdC=
+dK_jmnJW4GQLf-96f02vW3htCdc60HwCBW4YLV823S5N_gVzkyFn1gbTpcW2KMyjP6yjFWbW78m=
+tQY4TkwrCN5zfDCN36FVsW5QMTrV2KLnt2W5F2fqN9dYH7lW6N3TcY2Zs104N1qSFzC_t8TlW90=
+sbmK2cd8R8W5Ln80s64x6sKW6tPBWT78l3dd2LX1" style=3D"display: inline-block; m=
+argin:0 8px; width: 48px;" data-hs-link-id=3D"0" target=3D"_blank"><img sty=
+le=3D"width: 48px; height: auto;" src=3D"https://analytics.vaadin.com/hubfs=
+/Email%20Templates/TW@2x.png"></a>
+      <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ=
+6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgdJ3q3npV1-WJV7CgGFNW7kCy5N8sp018N8n1lP=
+wjv5SqW427JkX2Q26PxVKcwVg1tsPYYN4m4zTW1CJbsW37QkM_8gq6rCW8mFh3w4JWS9pW98H17=
+48y-cG3W6YTCxN2H62yPW6cqjGk2HvxxFW4z2bfP2dQHVLW7Lp0BQ5FHYnFW3J4q0d2Z8bs2W3S=
+JLBT21-52kW2gThrj1cr-YKVdqTrY7XDNTLVqqm_P3--3c7W2Yn3Kv2fSQWKW87CTpS3_ctcfW2=
+ly7nL8tqcbJN7q00jvftJjdW3brr9w8b1G023h9X1" style=3D"display: inline-block; =
+margin:0 8px; width: 48px;" data-hs-link-id=3D"0" target=3D"_blank"><img st=
+yle=3D"width: 48px; height: auto;" src=3D"https://analytics.vaadin.com/hubf=
+s/Email%20Templates/IG@2x.png"></a>
+      <a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VWRghQ=
+6cTpCfW3jzWdm6vbYkvW4CCSrm4MWTv7N4CDgd_3q3nJV1-WJV7CgMGbW7rtV545cwLWFW59jb-=
+k6vLnZfW3_j2108Gk2N-W325w_d2zjxq5W8T4Dpm8dNzPGW6FFVdW4SHJfzW4SJ4ZS7fm1nFW7g=
+2JLK2h9RqgW3JFG-l4YLDwwW6X6vcZ26cv_RW93f1682JQ52pN7mB7K35cV8dW809WWQ5gymjvW=
+82m_3l1zKMGTW27Wk6v5kZPttW9kG8T169qMmYW2GSl5s8Q9nMGW4NCCkn8-8v8KW2XHrrZ7MMd=
+wJW41Ht5d3ckdH4W4N22gF2syQWVW6RbRm57rgjMYW14F4Db1yYt-9W6Gfkl294h6x235-V1" s=
+tyle=3D"display: inline-block; margin:0 8px; width: 48px;" data-hs-link-id=
+=3D"0" target=3D"_blank"><img style=3D"width: 48px; height: auto;" src=3D"h=
+ttps://analytics.vaadin.com/hubfs/Email%20Templates/LI@2x.png"></a>
+    </p>
+  </td>
+</tr>
+                <tr>
+                  <td>
+                    <p style=3D"margin-bottom: 1em; text-align: center; fon=
+t-size: 12px; margin: 0 0 8px !important;">
+                      Not rendering correctly? View this email as a web pag=
+e <a style=3D"color: #646C74 !important;" data-viewaswebpage=3D"true" href=
+=3D"" data-hs-link-id=3D"0" target=3D"_blank">here</a>.
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"text-align: center; padding: 16px 0;">
+                    <p style=3D"font-size: 12px; display: inline-block; mar=
+gin-bottom: 16px; color: #646C74 !important;">
+                      Update your <a style=3D"font-size: 12px; display: inl=
+ine-block; color: #646C74 !important;" data-unsubscribe=3D"true" href=3D"ht=
+tps://analytics.vaadin.com/hs/manage-preferences/unsubscribe?languagePrefer=
+ence=3Den&amp;d=3DVnfmCc6jdDl8W4pxxKj3ZZhhmW2m911m3GGZ8_W4fdKF14fdH-2VWQDyZ=
+1fkvKFVkMkjx8CSFFKW51jyhF7_7rylW5_0Q2T6YWgkjW9128fJ1MSMWMW7jDJDW77lNyjW23g7=
+Bk6s-WB7W64yTzK73wmMq0&amp;v=3D3&amp;utm_campaign=3DRegistration%202022&amp=
+;utm_source=3Dhs_automation&amp;utm_medium=3Demail&amp;utm_content=3D216774=
+051&amp;_hsenc=3Dp2ANqtz-9rcm33x4JDd6b4IidHfx7WVwJboLk74f570mYibvY8367l_MQH=
+amYbofPcgdfL68rCp6Gzx1sCb06fDDD7ewD_D4oZIQ&amp;_hsmi=3D216774051" data-hs-l=
+ink-id=3D"0" target=3D"_blank">email preferences</a> to choose the type of =
+emails you receive.
+                    </p>
+                    <p style=3D"font-size: 12px; display: inline-block; mar=
+gin-bottom: 16px; color: #646C74 !important;">
+                      <a style=3D"font-size: 12px; display: inline-block; c=
+olor: #646C74 !important;" data-unsubscribe=3D"true" href=3D"https://analyt=
+ics.vaadin.com/hs/manage-preferences/unsubscribe-all?languagePreference=3De=
+n&amp;d=3DVnfmCc6jdDl8W4pxxKj3ZZhhmW2m911m3GGZ8_W4fdKF14fdH-2VWQDyZ1fkvKFVk=
+Mkjx8CSFFKW51jyhF7_7rylW5_0Q2T6YWgkjW9128fJ1MSMWMW7jDJDW77lNyjW23g7Bk6s-WB7=
+W64yTzK73wmMq0&amp;v=3D3&amp;utm_campaign=3DRegistration%202022&amp;utm_sou=
+rce=3Dhs_automation&amp;utm_medium=3Demail&amp;utm_content=3D216774051&amp;=
+_hsenc=3Dp2ANqtz-9rcm33x4JDd6b4IidHfx7WVwJboLk74f570mYibvY8367l_MQHamYbofPc=
+gdfL68rCp6Gzx1sCb06fDDD7ewD_D4oZIQ&amp;_hsmi=3D216774051" data-hs-link-id=
+=3D"0" target=3D"_blank">Unsubscribe from all future emails</a>
+                    </p>
+<!--                     <a style=3D"font-size: 14px; display: inline-block=
+; margin-bottom: 16px; color: #646C74 !important;" data-unsubscribe=3D"true=
+" href=3D"https://analytics.vaadin.com/hs/manage-preferences/unsubscribe-al=
+l?languagePreference=3Den&amp;d=3DVnfmCc6jdDl8W4pxxKj3ZZhhmW2m911m3GGZ8_W4f=
+dKF14fdH-2VWQDyZ1fkvKFVkMkjx8CSFFKW51jyhF7_7rylW5_0Q2T6YWgkjW9128fJ1MSMWMW7=
+jDJDW77lNyjW23g7Bk6s-WB7W64yTzK73wmMq0&amp;v=3D3">Unsubscribe</a>
+                    <a style=3D"font-size: 14px; display: inline-block; mar=
+gin-bottom: 16px; color: #646C74 !important;" data-unsubscribe=3D"true" hre=
+f=3D"https://analytics.vaadin.com/hs/manage-preferences/unsubscribe?languag=
+ePreference=3Den&amp;d=3DVnfmCc6jdDl8W4pxxKj3ZZhhmW2m911m3GGZ8_W4fdKF14fdH-=
+2VWQDyZ1fkvKFVkMkjx8CSFFKW51jyhF7_7rylW5_0Q2T6YWgkjW9128fJ1MSMWMW7jDJDW77lN=
+yjW23g7Bk6s-WB7W64yTzK73wmMq0&amp;v=3D3">Unsubscribe</a> -->
+                  </td>
+                </tr>
+                <tr>
+                  <td style=3D"text-align: center;">
+                    <p style=3D"margin-bottom: 1em; font-size: 10px; color:=
+ #646C74 !important; margin: 0 !important;">Vaadin Ltd,&nbsp;Ruukinkatu 2-4=
+,&nbsp;Turku,&nbsp;FI-20540,&nbsp;Finland</p>
+                    <p style=3D"margin-bottom: 1em; font-size: 10px; color:=
+ #646C74 !important; margin: 0 !important;">Vaadin GmbH, Boxhagener Str. 11=
+9 10245 Berlin, Germany</p>
+                    <p style=3D"margin-bottom: 1em; font-size: 10px; color:=
+ #646C74 !important; margin: 0 !important;">Vaadin, Inc. 226 Airport Parkwa=
+y, Ste. 428 San Jose, CA, 95110, USA</p>
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+ =20
+<script>
+(function () {
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            var xhr =3D new XMLHttpRequest();
+            xhr.open('POST', '/_hcms/perf', true /*async*/);
+            xhr.setRequestHeader("Content-type", "application/json");
+            xhr.onreadystatechange =3D function () {
+                // do nothing.
+            };
+            var connection =3D navigator.connection || navigator.mozConnect=
+ion || navigator.webkitConnection;
+            function populateNetworkInfo(name, connection, info) {
+                if (name in connection) {
+                    info[name] =3D connection[name];
+                }
+            }
+            var networkInfo =3D {};
+            if (connection) {
+                ['type', 'effectiveType', 'downlink', 'rtt'].forEach(functi=
+on(name) {
+                    populateNetworkInfo(name, connection, networkInfo);
+                });
+            }
+            var perfData =3D {
+                url: location.href,
+                portal: 1840687,
+                content: 76632943924,
+                group: -1,
+                connection: networkInfo,
+                timing: performance.timing
+            };
+            xhr.send(JSON.stringify(perfData));
+        }, 3000);  // Execute this 3 seconds after onload.
+    });
+})();
+</script>
+<script>
+var hsVars =3D hsVars || {}; hsVars['language'] =3D 'en';
+</script>
+<script src=3D"/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></scri=
+pt>
+<!-- Start of HubSpot Analytics Code Not Loaded -->
+<script>
+(function(){
+  const timeoutEvent =3D document.createEvent('CustomEvent');
+  timeoutEvent.initCustomEvent("content-analytics-code-not-loaded", true, t=
+rue, { detail: "Not loaded in preview mode" });
+  window.dispatchEvent(timeoutEvent);
+})();
+</script>
+<!-- End of HubSpot Analytics Code Not Loaded -->
+<script type=3D"text/javascript">
+var hsVars =3D {
+    ticks: 1658736970424,
+    page_id: 76632943924,
+   =20
+    content_group_id: 0,
+    portal_id: 1840687,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "email",
+    analytics_page_id: "76632943924",
+    category_id: 2,
+    folder_id: 0,
+    is_hubspot_user: null
+}
+</script>
+<script defer src=3D"/hs/hsstatic/HubspotToolsMenu/static-1.128/js/index.js=
+"></script>
+<script>
+  const _MFSettings =3D {
+    apiKey: "e5dd71e8-5cbd-499e-a3d9-7773fef08266",
+  };
+  window.addEventListener('message', event =3D> {
+    if(event.data.type =3D=3D=3D 'hsFormCallback' && event.data.eventName =
+=3D=3D=3D 'onFormReady' && document.querySelector("input[type=3D'email']"))=
+ {
+      let myScript =3D document.createElement("script");
+      myScript.setAttribute("src", "https://cdn.mailifier.io/mf-widget.js")=
+;
+      document.body.appendChild(myScript);
+    }
+  });
+</script>=20
+<img src=3D"https://analytics.vaadin.com/e3t/Cto/49+113/ccJdQ04/VWRghQ6cTpC=
+fW3jzWdm6vbYkvW4CCSrm4MWTv7W4CDf_P3CKGxR103" alt=3D"" width=3D"1" height=3D=
+"1" border=3D"0" style=3D"display:none!important;min-height:1px!important;w=
+idth:1px!important;border-width:0!important;margin-top:0!important;margin-b=
+ottom:0!important;margin-right:0!important;margin-left:0!important;padding-=
+top:0!important;padding-bottom:0!important;padding-right:0!important;paddin=
+g-left:0!important"></body></html>
+------=_Part_8668702_1740738747.1658737524307--

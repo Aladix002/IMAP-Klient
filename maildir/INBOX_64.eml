@@ -1,0 +1,339 @@
+Return-Path: <studinfo-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPS id 28KAxfvu039620
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Tue, 20 Sep 2022 12:59:41 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.20/8.17.1) with ESMTPS id 28KAxaFp012818
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Tue, 20 Sep 2022 12:59:40 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTP id 28KAxZ2j000556;
+	Tue, 20 Sep 2022 12:59:36 +0200 (CEST)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTPS id 28KA72iF097833
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@tereza.fit.vutbr.cz>; Tue, 20 Sep 2022 12:07:02 +0200 (CEST)
+Received: from pckolar.localnet (pckolar.fit.vutbr.cz [147.229.12.93])
+ (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.20/8.17.1) with ESMTPSA id 28KA72qA077715
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <studinfo@fit.vutbr.cz>; Tue, 20 Sep 2022 12:07:02 +0200 (CEST)
+ (envelope-from kolar@fit.vutbr.cz)
+To: studinfo <studinfo@fit.vutbr.cz>
+Date: Tue, 20 Sep 2022 12:07:02 +0200
+Message-ID: <3697099.kQq0lBPeGt@pckolar>
+Organization: FIT BUT Brno, Czech Republic
+MIME-Version: 1.0
+X-Mailman-Approved-At: Tue, 20 Sep 2022 12:59:35 +0200
+Subject: [Studinfo] Volby do AS FIT
+X-BeenThere: studinfo@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: informace pro studenty FIT tykajici se studia <studinfo.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <http://www.fit.vutbr.cz/pipermail/studinfo/>
+List-Post: <mailto:studinfo@fit.vutbr.cz>
+List-Help: <mailto:studinfo-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?Du=B9an_Kol=E1=F8_via_Studinfo?= <studinfo@fit.vutbr.cz>
+Reply-To: =?utf-8?B?RHXFoWFuIEtvbMOhxZk=?= <kolar@fit.vut.cz>
+Content-Type: multipart/mixed; boundary="===============8369101657932900551=="
+Errors-To: studinfo-bounces@fit.vutbr.cz
+Sender: "Studinfo" <studinfo-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--===============8369101657932900551==
+Content-Type: multipart/alternative; boundary="nextPart3459850.iIbC2pHGDl"
+Content-Transfer-Encoding: 7Bit
+
+This is a multi-part message in MIME format.
+
+--nextPart3459850.iIbC2pHGDl
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="utf-8"
+
+VsOhxb5lbsOpIGtvbGVneW7EmyBhIGtvbGVnb3bDqSEKCkFTIEZJVCB2eWhsw6FzaWwgbmEgc3bD
+qW0gemFzZWTDoW7DrSBkbmUgMjcuIDYuIDIwMjIgdm9sYnkgZG8gYWthZGVtaWNrw6lobyBzZW7D
+oXR1IEZJVCBwcm8gCm5vdsOpIGZ1bmvEjW7DrSBvYmRvYsOtIDIwMjIgYcW+IDIwMjUgbmEgZGVu
+IDIwLiAxMC4gMjAyMi4KClZvbGJ5IGRvIEFTIEZJVCBWVVQganNvdSBvcmdhbml6b3bDoW55IHBv
+ZGxlIHrDoWtvbmEgMTExLzE5OTggU2IuLCBvIHZ5c29rw71jaCDFoWtvbMOhY2ggCmEgbyB6bcSb
+bsSbIGEgZG9wbG7Em27DrSBkYWzFocOtY2ggesOha29uxa8gKHrDoWtvbiBvIHZ5c29rw71jaCDF
+oWtvbMOhY2gpLCBTdGF0dXR1IEZJVCBWVVQgYSAKVm9sZWJuw61obyDFmcOhZHUgQVMgRklUIFZV
+VC4gQVMgRklUIHNlIHNrbMOhZMOhIHoga29tb3J5IGFrYWRlbWlja8O9Y2ggcHJhY292bsOta8Wv
+IG8gcG/EjXR1IAo4IMSNbGVuxa8gYSBzdHVkZW50c2vDqSBrb21vcnkgbyBwb8SNdHUgNSDEjWxl
+bsWvLCB6IHRvaG8gNCBzdHVkZW50aSBiYWthbMOhxZlza8OpaG8gYSAKbWFnaXN0ZXJza8OpaG8g
+c3R1ZGlqbsOtaG8gcHJvZ3JhbXUgYSAxIHN0dWRlbnQgZG9rdG9yc2vDqWhvIHN0dWRpam7DrWhv
+IHByb2dyYW11LiDEjGxlbnkgCkFTIEZJVCB2b2zDrSB6ZSBzdsO9Y2ggxZlhZCBwxZnDrXNsdcWh
+bsOhIMSNw6FzdCBha2FkZW1pY2vDqSBvYmNlIEZJVCBWVVQgdiBCcm7Emy4gQWthZGVtaWNrb3Ug
+Cm9iZWMgZmFrdWx0eSB0dm/FmcOtIGFrYWRlbWnEjXTDrSBwcmFjb3Zuw61jaSBwxa9zb2LDrWPD
+rSBuYSB0w6l0byBmYWt1bHTEmyBhIHN0dWRlbnRpIHphcHNhbsOtIG5hIAp0w6l0byBmYWt1bHTE
+my4gxIxsZW5zdHbDrSB2IEFTIEZJVCBqZSBuZXNsdcSNaXRlbG7DqSBzIGZ1bmtjw60gcmVrdG9y
+YSwgcHJvcmVrdG9yYSwgZMSba2FuYSwgCnByb2TEm2thbmEsIHRhamVtbsOta2EgZmFrdWx0eSBh
+IMWZZWRpdGVsZSB2eXNva2/FoWtvbHNrw6lobyDDunN0YXZ1LgoKVm9sZWJuw60gb2J2b2R5CgpQ
+b2RsZSDEjWwuIDggb2RzdC4gMSBWb2xlYm7DrWhvIMWZw6FkdSBBUyBGSVQgVlVUIGplIGFrYWRl
+bWlja8OhIG9iZWMgZmFrdWx0eSByb3pkxJtsZW5hIGRvIAp0xZnDrSB2b2xlYm7DrWNoIG9idm9k
+xa86Ciogb2J2b2QgYWthZGVtaWNrw71jaCBwcmFjb3Zuw61rxa8sCiogb2J2b2Qgc3R1ZGVudMWv
+IGJha2Fsw6HFmXNrw71jaCBhIG1hZ2lzdGVyc2vDvWNoIHN0dWRpam7DrWNoIHByb2dyYW3FrywK
+KiBvYnZvZCBzdHVkZW50xa8gZG9rdG9yc2vDvWNoIHN0dWRpam7DrWNoIHByb2dyYW3Fry4KClZv
+bGJ5IHByb2LDrWhhasOtIHYga2HFvmTDqW0gdm9sZWJuw61tIG9idm9kdSBvZGTEm2xlbsSbLiBL
+YcW+ZMO9IMSNbGVuIGFrYWRlbWlja8OpIG9iY2UgRklUIAptw6EgcHLDoXZvIHZvbGl0IHBvdXpl
+IHYgamVkbm9tIHZvbGVibsOtbSBvYnZvZHUuIFN0dWRlbnQgYmFrYWzDocWZc2vDqWhvIG5lYm8g
+Cm1hZ2lzdGVyc2vDqWhvIHN0dWRpam7DrWhvIHByb2dyYW11LCBrdGVyw70gc291xI1hc27EmyBz
+dHVkdWplIGRva3RvcnNrw70gc3R1ZGlqbsOtIHByb2dyYW0sIApqZSBwb3Zhxb5vdsOhbiB6YSB2
+b2xpxI1lIHYgb2J2b2R1IHN0dWRlbnTFryBiYWthbMOhxZlza8OpaG8gbmVibyBtYWdpc3RlcnNr
+w6lobyBzdHVkaWpuw61obyAKcHJvZ3JhbXUsIHBva3VkIG5lcG/FvsOhZMOhIHZvbGVibsOtIGtv
+bWlzaSBvIHphxZlhemVuw60gZG8gdm9sZWJuw61obyBvYnZvZHUgc3R1ZGVudMWvIApkb2t0b3Jz
+a8O9Y2ggc3R1ZGlqbsOtY2ggcHJvZ3JhbcWvLiBTdHVkZW50LCBrdGVyw70gamUgc291xI1hc27E
+myBha2FkZW1pY2vDvW0gCnByYWNvdm7DrWtlbSwgamUgcG92YcW+b3bDoW4gemEgdm9sacSNZSB2
+IHDFmcOtc2x1xaFuw6ltIHZvbGVibsOtbSBvYnZvZHUgc3R1ZGVudMWvLCBwb2t1ZCAKbmVwb8W+
+w6Fkw6Egdm9sZWJuw60ga29taXNpIG8gemHFmWF6ZW7DrSBkbyB2b2xlYm7DrWhvIG9idm9kdSBh
+a2FkZW1pY2vDvWNoIHByYWNvdm7DrWvFry4gCsW9w6Fkb3N0IGplIG51dG7DqSBwb2RhdCBww61z
+ZW1uxJsgYSB2IGxpc3Rpbm7DqSBwb2RvYsSbIGRvcnXEjWl0IG5hIHNla3JldGFyacOhdCBkxJtr
+YW5hIEZJVCAKbmVqcG96ZMSbamkgZG8gMTIuIDEwLiAyMDIyICh2xI1ldG7EmykuCgpLYW5kaWTD
+oXRuw60gbGlzdGluYQoKTsOhdnJoIGthbmRpZMOhdGEgZG8gQVMgRklUIG3Fr8W+ZSBwb2RhdCBr
+YcW+ZMO9IMSNbGVuIGFrYWRlbWlja8OpIG9iY2UuIFDDrXNlbW7DvSBuw6F2cmggbHplIApwb2Rh
+dCBkbyAxMi4gMTAuIDIwMjIgbmEgc2VrcmV0YXJpw6F0IGTEm2thbmEgRklULiBOw6F2cmggbXVz
+w60gb2JzYWhvdmF0OgoqIHZvbGVibsOtIG9idm9kLCB6YSBrdGVyw70gamUga2FuZGlkw6F0IG5h
+dnJob3bDoW4gKGFrYWRlbWnEjXTDrSBwcmFjb3Zuw61jaSwgc3R1ZGVudGkgCmRva3RvcnNrw71j
+aCBzdHVkaWpuw61jaCBwcm9ncmFtxa8gbmVibyBzdHVkZW50aSBiYWthbMOhxZlza8O9Y2ggYSBt
+YWdpc3RlcnNrw71jaCBzdHVkaWpuw61jaCAKcHJvZ3JhbcWvKSwKKiBqbcOpbm8sIHDFmcOtam1l
+bsOtIGEgdGl0dWx5IGthbmRpZMOhdGEsCiogxaFrb2xuw60gYWRyZXN1IGVsZWt0cm9uaWNrw6kg
+cG/FoXR5IGthbmRpZMOhdGEsCiogdSBzdHVkZW50xa8gcm/EjW7DrWssIHByb2dyYW0vb2JvciBz
+dHVkaWEgYSBhZHJlc3UgdHJ2YWzDqWhvIG5lYm8gcMWZZWNob2Ruw6lobyBieWRsacWhdMSbIApr
+YW5kaWTDoXRhLAoqIHZ5asOhZMWZZW7DrSBrYW5kaWTDoXRhLCDFvmUgcyBuw6F2cmhlbSBzb3Vo
+bGFzw60sCiogZGF0dW0gYSBwb2RwaXMga2FuZGlkw6F0YSwKKiBqbcOpbm8sIHDFmcOtam1lbsOt
+IGEgdGl0dWx5IG5hdnJob3ZhdGVsZSwKKiDFoWtvbG7DrSBhZHJlc3UgZWxla3Ryb25pY2vDqSBw
+b8WhdHkgbmF2cmhvdmF0ZWxlLAoqIGRhdHVtIGEgcG9kcGlzIG5hdnJob3ZhdGVsZS4KCkthxb5k
+w70gxI1sZW4gYWthZGVtaWNrw6kgb2JjZSBGSVQgbcWvxb5lIGthbmRpZG92YXQgdmUgdm9sZWJu
+w61tIG9idm9kdSwgdmUga3RlcsOpbSBtw6EgCnByw6F2byB2b2xpdC4KClBva3VkIG7DoXZyaCBu
+ZWJ1ZGUgb2JzYWhvdmF0IHDFmWVkZXBzYW7DqSBuw6FsZcW+aXRvc3RpLCBuZWJ1ZGUgYWtjZXB0
+b3bDoW4uIFZvbGVibsOtIAprb21pc2Ugc2VzdGF2w60geiBvYmRyxb5lbsO9Y2ggcGxhdG7DvWNo
+IG7DoXZyaMWvIGthbmRpZMOhdG7DrSBsaXN0aW51IGEgenZlxZllam7DrSBqaSBkbmUgMTMuIDEw
+LiAKMjAyMiBuYSB3ZWJvdsOpIHN0csOhbmNlIEFTIEZJVC4KClByxa9ixJtoIHZvbGViCgpWb2xi
+eSBkbyBBUyBGSVQgcHJvYsSbaG5vdSBlbGVrdHJvbmlja3kgcHJvc3TFmWVkbmljdHbDrW0gbW9k
+dWx1IFZvbGJ5IHYgSW50cmFwb3J0w6FsdSAKaW5mb3JtYcSNbsOtaG8gc3lzdMOpbXUgVlVUIG5h
+IGFkcmVzZSBodHRwczovL3d3dy52dXQuY3ovaW50cmEvdm9sYnkgZG5lIDIwLiAxMC4gMjAyMiB2
+IApkb2LEmyBvZCAwOjAwIGRvIDIzOjU5IGhvZC4gVm9sw60gc2UgcHJvc3TFmWVkbmljdHbDrW0g
+d2Vib3bDqWhvIGZvcm11bMOhxZllLCBrdGVyw70gCnDFmWVkc3RhdnVqZSBobGFzb3ZhY8OtIGzD
+rXN0ZWsgcHJvIHR5dG8gdm9sYnksIHphxaFrcnRudXTDrW0gemHFoWtydMOhdmFjw61obyBwb2xl
+IHUgam3DqW5hIAprYW5kaWTDoXRhIChwxZnDrXAuIHphxaFrcnTDoXZhY8OtY2ggcG9sw60gdSBq
+bWVuIGthbmRpZMOhdMWvKSBhIG9kZXNsw6Fuw61tIHRvaG90byBmb3JtdWzDocWZZS4gClBva3Vk
+IGJ1ZGUgb2Rldnpkw6FuIGhsYXNvdmFjw60gbMOtc3RlayBzIHbDrWNlIHphxaFrcnRudXTDvW1p
+IGthbmRpZMOhdHksIG5lxb4gamUgcG92b2xlbm8sIApidWRlIGhsYXNvdmFjw60gbMOtc3RlayB6
+cHJhY292w6FuIGpha28gbmVwbGF0bsO9ICh2ZSB2w71zbGVkY8OtY2ggc2Ugc3Rlam7EmyB6b2Jy
+YXrDrSBpIApobGFzb3ZhY8OtIGzDrXN0ZWssIGtkZSBuZWJ5bCBuaWtkbyB6YcWha3J0bnV0KS4g
+SGxhc292YWPDrSBsw61zdGVrIGx6ZSB2eXBsbml0IHBvdXplIGplZG5vdS4KCkthxb5kw70gYWth
+ZGVtaWNrw70gcHJhY292bsOtayBtw6EgcHLDoXZvIHZvbGl0IDgga2FuZGlkw6F0xa8gdm9sZWJu
+w61obyBvYnZvZHUgCmFrYWRlbWlja8O9Y2ggcHJhY292bsOta8WvLiBLYcW+ZMO9IHN0dWRlbnQg
+YmFrYWzDocWZc2vDqWhvIG5lYm8gbWFnaXN0ZXJza8OpaG8gc3R1ZGlqbsOtaG8gCnByb2dyYW11
+IG3DoSBwcsOhdm8gdm9saXQgNCBrYW5kaWTDoXR5IHZvbGVibsOtaG8gb2J2b2R1IHN0dWRlbnTF
+ryBiYWthbMOhxZlza8O9Y2ggYSAKbWFnaXN0ZXJza8O9Y2ggc3R1ZGlqbsOtY2ggcHJvZ3JhbcWv
+LiBLYcW+ZMO9IHN0dWRlbnQgZG9rdG9yc2vDqWhvIHN0dWRpam7DrWhvIHByb2dyYW11IG3DoSAK
+cHLDoXZvIHZvbGl0IGplZG5vaG8ga2FuZGlkw6F0YSB2b2xlYm7DrWhvIG9idm9kdSBzdHVkZW50
+xa8gZG9rdG9yc2vDvWNoIHN0dWRpam7DrWNoIApwcm9ncmFtxa8uCgpWeWhsw6HFoWVuw60gdsO9
+c2xlZGvFrwpWw71zbGVka3kgdm9sZWIgYnVkb3UgenZlxZllam7Em255IGRuZSAyMS4gMTAuIDIw
+MjIgbmEgd2Vib3bDqSBzdHLDoW5jZSBBUyBGSVQuCgpWb2xlYm7DrSBrb21pc2U6ClrDoXN0dXBj
+aSBha2FkZW1pY2vDvWNoIHByYWNvdm7DrWvFrzoKZG9jLiBEci4gSW5nLiBEdcWhYW4gS29sw6HF
+mSAocMWZZWRzZWRhKSwgSW5nLiBBbGXFoSBTbXLEjWthIFBoLkQuClrDoXN0dXBjaSBzdHVkZW50
+xa86Ck1hcnRpbiDFoGtvcnVwYSwgQmMuIE9uZMWZZWogT25kcnnDocWhLgoKLS0gCgogRHVzYW4g
+S29sYXIgICAgICAgICAgICB0ZWw6ICs0MjAgNTQgMTE0IDEyMzgKIFVJRlMgRklUIFZVVCBCcm5v
+ICAgICAgZmF4OiArNDIwIDU0IDExNCAxMjcwCiBCb3pldGVjaG92YSAyICAgICAgIGUtbWFpbDog
+a29sYXJAZml0LnZ1dC5jegogQnJubyA2MTIgNjYKIEN6ZWNoIFJlcHVibGljCgotLQoK
+
+
+--nextPart3459850.iIbC2pHGDl
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8">
+</head>
+<body><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">V=C3=A1=C5=BEen=C3=A9 kolegyn=C4=9B a kolegov=C3=A9!</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">AS FIT vyhl=C3=A1sil na sv=C3=A9m zased=C3=A1n=C3=AD dne 27. 6. 2022 vol=
+by do akademick=C3=A9ho sen=C3=A1tu FIT pro nov=C3=A9 funk=C4=8Dn=C3=AD obd=
+ob=C3=AD 2022 a=C5=BE 2025 na den 20. 10. 2022.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Volby do AS FIT VUT jsou organizov=C3=A1ny podle z=C3=A1kona 111/1998 Sb=
+=2E, o vysok=C3=BDch =C5=A1kol=C3=A1ch a o zm=C4=9Bn=C4=9B a dopln=C4=9Bn=
+=C3=AD dal=C5=A1=C3=ADch z=C3=A1kon=C5=AF (z=C3=A1kon o vysok=C3=BDch =C5=
+=A1kol=C3=A1ch), Statutu FIT VUT a Volebn=C3=ADho =C5=99=C3=A1du AS FIT VUT=
+=2E AS FIT se skl=C3=A1d=C3=A1 z komory akademick=C3=BDch pracovn=C3=ADk=C5=
+=AF o po=C4=8Dtu 8 =C4=8Dlen=C5=AF a studentsk=C3=A9 komory o po=C4=8Dtu 5 =
+=C4=8Dlen=C5=AF, z toho 4 studenti bakal=C3=A1=C5=99sk=C3=A9ho a magistersk=
+=C3=A9ho studijn=C3=ADho programu a 1 student doktorsk=C3=A9ho studijn=C3=
+=ADho programu. =C4=8Cleny AS FIT vol=C3=AD ze sv=C3=BDch =C5=99ad p=C5=99=
+=C3=ADslu=C5=A1n=C3=A1 =C4=8D=C3=A1st akademick=C3=A9 obce FIT VUT v Brn=C4=
+=9B. Akademickou obec fakulty tvo=C5=99=C3=AD akademi=C4=8Dt=C3=AD pracovn=
+=C3=ADci p=C5=AFsob=C3=ADc=C3=AD na t=C3=A9to fakult=C4=9B a studenti zapsa=
+n=C3=AD na t=C3=A9to fakult=C4=9B. =C4=8Clenstv=C3=AD v AS FIT je neslu=C4=
+=8Diteln=C3=A9 s funkc=C3=AD rektora, prorektora, d=C4=9Bkana, </p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">pro=
+d=C4=9Bkana, tajemn=C3=ADka fakulty a =C5=99editele vysoko=C5=A1kolsk=C3=A9=
+ho =C3=BAstavu.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Volebn=C3=AD obvody</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Podle =C4=8Dl. 8 odst. 1 Volebn=C3=ADho =C5=99=C3=A1du AS FIT VUT je aka=
+demick=C3=A1 obec fakulty rozd=C4=9Blena do t=C5=99=C3=AD volebn=C3=ADch ob=
+vod=C5=AF:</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* o=
+bvod akademick=C3=BDch pracovn=C3=ADk=C5=AF,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* o=
+bvod student=C5=AF bakal=C3=A1=C5=99sk=C3=BDch a magistersk=C3=BDch studijn=
+=C3=ADch program=C5=AF,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* o=
+bvod student=C5=AF doktorsk=C3=BDch studijn=C3=ADch program=C5=AF.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Volby prob=C3=ADhaj=C3=AD v ka=C5=BEd=C3=A9m volebn=C3=ADm obvodu odd=C4=
+=9Blen=C4=9B. Ka=C5=BEd=C3=BD =C4=8Dlen akademick=C3=A9 obce FIT m=C3=A1 pr=
+=C3=A1vo volit pouze v jednom volebn=C3=ADm obvodu. Student bakal=C3=A1=C5=
+=99sk=C3=A9ho nebo </p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">mag=
+istersk=C3=A9ho studijn=C3=ADho programu, kter=C3=BD sou=C4=8Dasn=C4=9B stu=
+duje doktorsk=C3=BD studijn=C3=AD program, je pova=C5=BEov=C3=A1n za voli=
+=C4=8De v obvodu student=C5=AF bakal=C3=A1=C5=99sk=C3=A9ho nebo magistersk=
+=C3=A9ho studijn=C3=ADho programu, pokud nepo=C5=BE=C3=A1d=C3=A1 volebn=C3=
+=AD komisi o za=C5=99azen=C3=AD do volebn=C3=ADho obvodu student=C5=AF dokt=
+orsk=C3=BDch studijn=C3=ADch program=C5=AF. Student, kter=C3=BD je sou=C4=
+=8Dasn=C4=9B akademick=C3=BDm pracovn=C3=ADkem, je pova=C5=BEov=C3=A1n za v=
+oli=C4=8De v p=C5=99=C3=ADslu=C5=A1n=C3=A9m volebn=C3=ADm obvodu student=C5=
+=AF, pokud nepo=C5=BE=C3=A1d=C3=A1 volebn=C3=AD komisi o za=C5=99azen=C3=AD=
+ do volebn=C3=ADho obvodu akademick=C3=BDch pracovn=C3=ADk=C5=AF. =C5=BD=C3=
+=A1dost je nutn=C3=A9 podat p=C3=ADsemn=C4=9B a v listinn=C3=A9 podob=C4=9B=
+ doru=C4=8Dit na sekretari=C3=A1t d=C4=9Bkana FIT nejpozd=C4=9Bji do 12. 10=
+=2E 2022 (v=C4=8Detn=C4=9B).</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Kandid=C3=A1tn=C3=AD listina</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">N=C3=A1vrh kandid=C3=A1ta do AS FIT m=C5=AF=C5=BEe podat ka=C5=BEd=C3=BD=
+ =C4=8Dlen akademick=C3=A9 obce. P=C3=ADsemn=C3=BD n=C3=A1vrh lze podat do =
+12. 10. 2022 na sekretari=C3=A1t d=C4=9Bkana FIT. N=C3=A1vrh mus=C3=AD obsa=
+hovat:</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* v=
+olebn=C3=AD obvod, za kter=C3=BD je kandid=C3=A1t navrhov=C3=A1n (akademi=
+=C4=8Dt=C3=AD pracovn=C3=ADci, studenti doktorsk=C3=BDch studijn=C3=ADch pr=
+ogram=C5=AF nebo studenti bakal=C3=A1=C5=99sk=C3=BDch a magistersk=C3=BDch =
+studijn=C3=ADch program=C5=AF),</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* j=
+m=C3=A9no, p=C5=99=C3=ADjmen=C3=AD a tituly kandid=C3=A1ta,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* =
+=C5=A1koln=C3=AD adresu elektronick=C3=A9 po=C5=A1ty kandid=C3=A1ta,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* u=
+ student=C5=AF ro=C4=8Dn=C3=ADk, program/obor studia a adresu trval=C3=A9ho=
+ nebo p=C5=99echodn=C3=A9ho bydli=C5=A1t=C4=9B kandid=C3=A1ta,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* v=
+yj=C3=A1d=C5=99en=C3=AD kandid=C3=A1ta, =C5=BEe s n=C3=A1vrhem souhlas=C3=
+=AD,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* d=
+atum a podpis kandid=C3=A1ta,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* j=
+m=C3=A9no, p=C5=99=C3=ADjmen=C3=AD a tituly navrhovatele,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* =
+=C5=A1koln=C3=AD adresu elektronick=C3=A9 po=C5=A1ty navrhovatele,</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">* d=
+atum a podpis navrhovatele.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Ka=C5=BEd=C3=BD =C4=8Dlen akademick=C3=A9 obce FIT m=C5=AF=C5=BEe kandid=
+ovat ve volebn=C3=ADm obvodu, ve kter=C3=A9m m=C3=A1 pr=C3=A1vo volit.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Pokud n=C3=A1vrh nebude obsahovat p=C5=99edepsan=C3=A9 n=C3=A1le=C5=BEit=
+osti, nebude akceptov=C3=A1n. Volebn=C3=AD komise sestav=C3=AD z obdr=C5=BE=
+en=C3=BDch platn=C3=BDch n=C3=A1vrh=C5=AF kandid=C3=A1tn=C3=AD listinu a zv=
+e=C5=99ejn=C3=AD ji dne 13. 10. 2022 na webov=C3=A9 str=C3=A1nce AS FIT.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Pr=C5=AFb=C4=9Bh voleb</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Volby do AS FIT prob=C4=9Bhnou elektronicky prost=C5=99ednictv=C3=ADm mo=
+dulu Volby v Intraport=C3=A1lu informa=C4=8Dn=C3=ADho syst=C3=A9mu VUT na a=
+drese https://www.vut.cz/intra/volby dne 20. 10. 2022 v dob=C4=9B od 0:00 d=
+o 23:59 hod. Vol=C3=AD se prost=C5=99ednictv=C3=ADm webov=C3=A9ho formul=C3=
+=A1=C5=99e, kter=C3=BD p=C5=99edstavuje hlasovac=C3=AD l=C3=ADstek pro tyto=
+ volby, za=C5=A1krtnut=C3=ADm za=C5=A1krt=C3=A1vac=C3=ADho pole u jm=C3=A9n=
+a kandid=C3=A1ta (p=C5=99=C3=ADp. za=C5=A1krt=C3=A1vac=C3=ADch pol=C3=AD u =
+jmen kandid=C3=A1t=C5=AF) a odesl=C3=A1n=C3=ADm tohoto formul=C3=A1=C5=99e.=
+ Pokud bude odevzd=C3=A1n hlasovac=C3=AD l=C3=ADstek s v=C3=ADce za=C5=A1kr=
+tnut=C3=BDmi kandid=C3=A1ty, ne=C5=BE je povoleno, bude hlasovac=C3=AD l=C3=
+=ADstek zpracov=C3=A1n jako neplatn=C3=BD (ve v=C3=BDsledc=C3=ADch se stejn=
+=C4=9B zobraz=C3=AD i hlasovac=C3=AD l=C3=ADstek, kde nebyl nikdo za=C5=A1k=
+rtnut). Hlasovac=C3=AD l=C3=ADstek lze vyplnit pouze jednou.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Ka=C5=BEd=C3=BD akademick=C3=BD pracovn=C3=ADk m=C3=A1 pr=C3=A1vo volit =
+8 kandid=C3=A1t=C5=AF volebn=C3=ADho obvodu </p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">aka=
+demick=C3=BDch pracovn=C3=ADk=C5=AF. Ka=C5=BEd=C3=BD student bakal=C3=A1=C5=
+=99sk=C3=A9ho nebo magistersk=C3=A9ho studijn=C3=ADho programu m=C3=A1 pr=
+=C3=A1vo volit 4 kandid=C3=A1ty volebn=C3=ADho obvodu student=C5=AF bakal=
+=C3=A1=C5=99sk=C3=BDch a magistersk=C3=BDch studijn=C3=ADch program=C5=AF. =
+Ka=C5=BEd=C3=BD student doktorsk=C3=A9ho studijn=C3=ADho programu m=C3=A1 p=
+r=C3=A1vo volit jednoho kandid=C3=A1ta volebn=C3=ADho obvodu student=C5=AF =
+doktorsk=C3=BDch studijn=C3=ADch program=C5=AF.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Vyhl=C3=A1=C5=A1en=C3=AD v=C3=BDsledk=C5=AF</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">V=
+=C3=BDsledky voleb budou zve=C5=99ejn=C4=9Bny dne 21. 10. 2022 na webov=C3=
+=A9 str=C3=A1nce AS FIT.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">Volebn=C3=AD komise:</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">Z=
+=C3=A1stupci akademick=C3=BDch pracovn=C3=ADk=C5=AF:</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">doc=
+=2E Dr. Ing. Du=C5=A1an Kol=C3=A1=C5=99 (p=C5=99edseda), Ing. Ale=C5=A1 Smr=
+=C4=8Dka Ph.D.</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">Z=
+=C3=A1stupci student=C5=AF:</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">Mar=
+tin =C5=A0korupa, Bc. Ond=C5=99ej Ondry=C3=A1=C5=A1.</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">-- </p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">&nbsp;Dusan Kolar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp; tel: +420 54 114 1238</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">&nb=
+sp;UIFS FIT VUT Brno&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fax: +420 54 114 1270</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">&nb=
+sp;Bozetechova 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e-mail: kolar@fit.vut.=
+cz</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">&nb=
+sp;Brno 612 66</p>
+<p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;">&nb=
+sp;Czech Republic</p>
+<br /><p style=3D"margin-top:0;margin-bottom:0;margin-left:0;margin-right:0=
+;">--</p>
+<br /></body>
+</html>
+--nextPart3459850.iIbC2pHGDl--
+
+
+
+
+--===============8369101657932900551==
+Content-Type: text/plain; charset="iso-8859-2"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+_______________________________________________
+Studinfo mailing list
+Studinfo@fit.vutbr.cz
+https://www.fit.vutbr.cz/mailman/listinfo/studinfo
+
+Konference studinfo slouzi vyhradne pro zasilani informaci studentum, ktere=
+ se tykaji jejich pusobeni na FIT.
+Zadne dotazy zaslane na adresu konference nikdo nezodpovi a vsechny nerelev=
+antni prispevky budou bez dalsiho oznameni zahozeny. Eventuelni dotazy smer=
+ujte na studijni oddeleni.
+
+--===============8369101657932900551==--
+
+

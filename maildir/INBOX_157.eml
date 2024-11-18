@@ -1,0 +1,36 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vutbr.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTP id 29PI3eD2069432
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 25 Oct 2022 20:03:40 +0200 (CEST)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id B8B0710B32F
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 25 Oct 2022 20:03:34 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz B8B0710B32F
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1666721014;
+	bh=rFu5P0DOM5nVVWs/upcQDj8sQ6JcSxEkVs3wQBvOAcw=; l=382;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=KPRJjEnrWbWosmCxwc/16uRaRmLGMpqv8TgtCzT+F3PIzML/c8j1QNglc1P+iYUIs
+	 EecapgH0P7GCwmh//l3R6kbR+muBUwFXnRnOl/f+ddHYCzKUeg3LlC4PxRmMaGpBOo
+	 tqCgzOn3zsc/5+UeSfPOl4nTzzhJE7mFuCiwacZg=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id B72AF30473CA; Tue, 25 Oct 2022 20:03:34 +0200 (CEST)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogSW5mb3JtYcSNbsOtIHN5c3TDqW0gVlVU?= <zpravy-is@vutbr.cz>
+Reply-to: zpravy-is@vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?SG9kbm9jZW7DrSB6YWTDoW7DrQ==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Message-Id: <20221025180334.B72AF30473CA@emu.ro.vutbr.cz>
+Date: Tue, 25 Oct 2022 20:03:34 +0200 (CEST)
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+QnlsIGpzdGUgaG9kbm9jZW4geiBwxZllZG3Em3R1ICJEaXNrcsOpdG7DrSBtYXRlbWF0aWthKElE
+TSkiClphZMOhbsOtOiAyLiBww61zZW1rYQpVZMSbbGVuw6kgYm9keTogNAoKSG9kbm9jZW7DrSBw
+cm92ZWRsOiBNZ3IuIE1hcnRpbiBUxa9tYSwgUGguRC4gZG5lOiAyNS4xMC4yMDIyIDIwOjAzCgpW
+VVQgenByw6F2YSBvZDogSW5mb3JtYcSNbsOtIHN5c3TDqW0gVlVUIApPZHBvdsSbxI8gbmEgdHV0
+byB6cHLDoXZ1IG5lbsOtIG1vxb5uw6EuIFpwcsOhdnUgb2Rlc2xhbCBhdXRvbWF0Lgo=

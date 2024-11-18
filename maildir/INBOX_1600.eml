@@ -1,0 +1,466 @@
+Return-Path: <1axcj3e0q8n9c68nq0cfcajrbwvjflso2o0ekj-xbotlo01=stud.fit.vut.cz@bf05x.hubspotemail.net>
+Received: from bid46on.bf05x.hubspotemail.net (bid46on.bf05x.hubspotemail.net [158.247.18.133])
+	by eva.fit.vutbr.cz (8.18.1/8.18.1) with ESMTPS id 4AGFnWTU086234
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)
+	for <xbotlo01@stud.fit.vut.cz>; Sat, 16 Nov 2024 16:49:33 +0100 (CET)
+	(envelope-from 1axcj3e0q8n9c68nq0cfcajrbwvjflso2o0ekj-xbotlo01=stud.fit.vut.cz@bf05x.hubspotemail.net)
+Received: by 172.16.92.38 with SMTP id a0cgfhxxtp4xciymb4uifltaftiwnzn0rri26t9pq50;
+        Sat, 16 Nov 2024 15:49:32 GMT
+DKIM-Signature: v=1; s=hs1; d=bf05x.hubspotemail.net; 
+        i=@bf05x.hubspotemail.net; 
+        h=sender:from:from:reply-to:to:to:cc:cc:subject:subject:list-unsubscribe:form-sub:feedback-id:list-unsubscribe-post; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=//W885SPHOGOhfPwseU8vpMlq6mXfYbijbtIjdlYaS8=; 
+        b=o3qu/e4aBO9TlzuKMXReEOIVLUBbXv+tWgwbSx611n4spCgPhmRFjBq8NkXTPM
+         jcgEVMjlm5gpzJ+d/u0HFgNFXatrphquq2Kv/3xg8/6Bhcq6R4pZnNle3cKKnjv
+         ymlGSw/wZRQz+nNPxC770l1oAYenc1BDUSEHfkQfMUS3vGPvGXl1uLuiKEdgm84
+         bLEs8Mw1DQPf6gr5xiHTDB11/rVCKwRUA3ancPH+X0ZagUadI1UHFYNzuzQ2mH5
+         +BdkYD4cMKJ0PANn+SJjda2mdhi0u2fsPNUIa4aUxom0EXgeZdTwu0miSKCHnUT
+         Q2/EWnfxktfyVROvDVtQnvGT7F0w==; q=dns/txt; t=1731772172; 
+        x=1732034972;
+DKIM-Signature: v=1; s=hs1; d=vaadin.com; i=@vaadin.com; 
+        h=sender:from:from:reply-to:to:to:cc:cc:subject:subject:list-unsubscribe:form-sub:feedback-id:list-unsubscribe-post; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=//W885SPHOGOhfPwseU8vpMlq6mXfYbijbtIjdlYaS8=; 
+        b=VYEhpyRBmgaMfJAiVklvR5bJaWzyEk3FhzV8x+HU3ImixFIWLkOZjrtn2u0Byr
+         uYckjY1PAoLlfdYISeRO+qkCkFoRy0TJanKaoIdZizvhtp8Cbn2Az6i5zvBRbgh
+         0UdErCRCRtrP8p5Ds79DImvmDKEQb/cDpvhP4y78D6YTHFQ302cpfDJaN/0AtHf
+         B9fNH3kR9/oG2eHnXgBviqoqL4+QvsClmbkRsU13sr6c4n5E6IDtRibnPk1Qkm9
+         ub0I2SZbhAIYffAmYkEfaWvzEEV7l7XA8dphNilP1Wg17Nrodp5cFHFLbf3XjbY
+         qRjd5Rs12FT2CeTrTMKzKSZD+Keg==; q=dns/txt; t=1731772172; 
+        x=1732034972;
+X-HS-Cid: 1axfsgwll0wqg3fvqfhl6hl4wsb5bbg2fkwptv
+List-Unsubscribe: <mailto:1axdj5cbahnuayhpzfi9ma4z9olsd243x13b8z-xbotlo01=stud.fit.vut.cz@bf05x.hubspotemail.net?subject=unsubscribe>, <https://analytics.vaadin.com/hs/subscription-preferences/v2/unsubscribe-all?data=W2nXS-N30h-MCW3jcX8Z365kZ5W3GJ_CZ25pDG6W1S34LD3gy7ZtW23kGgz4rmBBjW2nH8l72PlYwDW2vzy3c47Wb40W3QM_5F3VRK_1W3d82V03T4f4SW3NMMzj4pFLgsW3Y3pjt3zhs3bW2s_bQF3bdvs-W3VSt5y3C9NRqW49S7tJ1QvFYJW3dt7tv3dtd69W49l3jB4rqSNkW1Lhl5b1LDfz1W2CXTQ03Q-Z8MW4hLzhX4pG-lXW1BC1YM3jt9yVW4rhPYG43YKKcW4rwQC_45n-1kW2RrG062vRCXCW3R2jP31XfxHkW23n81F2WfLgwW1Qtmd83bzm6jW1XxvxX2sDHxzW2vZP8b4m71T1W1VdTJl4thDgwW4kGY082p25mVW4cgw182p7yLCW3C1Wnv2p2_1sW43B_4V1Q6BkrW3VLgmz2Ysg86W45qgDz3XNyJRW1VjfnK32mv5GW1NcnST2MpylxW3VZphR3dygz8W1VvG4H3C6w_3W1L5qSd4cwsR4W3QKQ1s2nQf6fW3gwsLW1BJp6_W3Xvcp84rb1gtW2WrjR13gnkN5W3dpSqB3JHWNHW3M1vMx3g8hYp0>
+Date: Sat, 16 Nov 2024 17:49:32 +0200
+From: Sami from Vaadin <sami@vaadin.com>
+Reply-To: devrel@vaadin.com
+To: xbotlo01@stud.fit.vutbr.cz
+Message-ID: <1731772171247.fc19943d-45b5-41a5-9406-77c84b63f7d7@bf05x.hubspotemail.net>
+Subject: Vaadin 24.6 Takes Shape, Keynotes, and Community Highlights
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_197555_598433698.1731772171844"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://policy.hubspot.com/abuse-complaints)
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Spam-Status: No, score=-0.194 required=7 tests=AWL,DKIMWL_WL_MED,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,HEADER_FROM_DIFFERENT_DOMAINS,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,RCVD_IN_MSPIKE_H4,RCVD_IN_MSPIKE_WL,RCVD_IN_VALIDITY_CERTIFIED_BLOCKED,RCVD_IN_VALIDITY_RPBL_BLOCKED,RCVD_IN_VALIDITY_SAFE_BLOCKED,SPF_HELO_NONE,SPF_PASS
+X-Spam-Checker-Version: SpamAssassin 4.0.1 (2024-03-26) on eva.fit.vutbr.cz
+
+------=_Part_197555_598433698.1731772171844
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Vaadin October newsletter: Vaadin 24.6 getting closer, discovering how your=
+ ideas shape the framework, and catching up on Vaadin Create 2024.
+
+Vaadin Newsletter
+
+November 2024
+
+Vaadin 24.6 Beta Scheduled for the Next Week (https://analytics.vaadin.com/=
+e3t/Ctc/49+113/ccJdQ04/VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB06Y3prCCW7=
+lCdLW6lZ3p7W92lHrq6ngXpMW8vm_Xp76QcXhW5_ZzmH2SjzctW7cvlHz32Rc0bV7PpCz15Wxdg=
+W1wPYKw3VhY2GW4z7w4_8L51-1W20PXhd85_TGTW5Frzgx7006DfW3gKS-K8RjZVjW6NFFRy1g9=
+-lnW7ChLk12vvYbxN1Z-p5twbJFvVkvcjY7lpZSsW6j9Hhn81m1RBN2YkFTrD4ycKW8kbR7f2sz=
+zKYW3QgSlG5S241jW3lHLFh899XDSW2Y5wC41rz7cmW5nJ8Pc2pDQ5nW8jsgkx32Q4nWW2hh5sh=
+8Mw6QzW1FT4cd8f7zd9f8C_r-n04 )
+
+The beta version of Vaadin 24.6 is set to release next week, with alpha ver=
+sions already available (currently at version 3).  This release primarily f=
+ocuses on fixes and improvements to the developer experience. However, a fe=
+w enhancements are also included, such as WebPushMessage extensions allowin=
+g customized desktop notifications and drag image for DragSource. Check out=
+ the release notes for details!
+
+How to Shape the Future of Vaadin (https://analytics.vaadin.com/e3t/Ctc/49+=
+113/ccJdQ04/VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB07R3prCCW95jsWP6lZ3l4=
+W5rWVy22mYzwlW2QNrbY6jkJ5nW9f924C25Gvn9N5bPhFTp8NRPW1sGL-P5SF8YgVnCLkC2Tnjz=
+4W6NlCFr44QnglW756BcL7wwDNCW4vpdF59dvW2PW7Cj5qg3_bZK-Vrvxz139H7XGW5LB5kR9cx=
+3X4W7m0bld4g6Fz4N5wp1xhfry_JW7jsLpx1JzSZZW2pkJR_71zZgGW4YC2833GJPZwW6n9w3c2=
+QppBWVhW1n98HP6qGW8DS_Bn4Lh4rLW7mS6CS8v1bcSW25qwYR39gLpQW7pXlsN6WlS53W29xnD=
+x1NzM3zW8pbKCl7nSx8ZW91pJpg81YKChW54GvsJ8-gKrYW2hBmbY4mxvrCW11tG8Z99PQf7V60=
+S588RTv92f1FwNrv04 )
+
+Your ideas can help improve Vaadin!  While add-ons are a great way to exten=
+d the framework, some ideas are better suited for inclusion in the core. In=
+ this blog post, Lilli dives into how Vaadin incorporates customer feedback=
+ and community ideas into fixes and new features. Good overview for anyone =
+looking to shape the future of Vaadin.
+
+Vaadin Create Was Great (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ0=
+4/VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB06F3prCCW6N1vHY6lZ3mTW2qnq8V8lJ=
+RlCW4shc4W5M4TLDW6SGB-K6jMkY4W1-G4885BGlY6W6FJ2kT2r399lW6qZ1Z55rRH_JW80z8Bx=
+5rV-HPN7jPDjvgbPwnW8pFKS77z6VKwM3J17wS1t1rN5R4glcv7h6XW5cSYs33zMF5QW8JbTY97=
+0DvQmW6RKBLz8085wKW2p3GSc79F0bnN5crWBwgC-3yW79sN8N6GmnYBW1YThgX29-cmTW3pKdF=
+X8WW66lW4CwVlB5J9r6HW5hQkr669njrqW8DnBwJ8CSJvnf1gGv6d04 )
+
+Vaadin Create returned to Frankfurt this year for two days of deep dives in=
+to Vaadin topics. Attendees explored everything from CSS design tips to ful=
+l-stack architecture. While more recordings will be released soon, you can =
+already watch the keynotes and relive the event virtually with us.
+
+Events and Online Meetups (https://analytics.vaadin.com/e3t/Ctc/49+113/ccJd=
+Q04/VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB06F3prCCW6N1vHY6lZ3kTW7kHSFn5=
+m8S1YW2cNLXN33W-TLW3ZwN7t8g8rn5W4CbjZQ8hVJTXW6LY0HM6h6hycW76dsvL3dRbVMW2gpG=
+kX1X0RMrW6HHbB198J4KqW52G1Qn8r-3W2Vs6qhQ25tLLdVkLFdh2L5hhRW68R7vP88qd0MW5CQ=
+4Yg6JVr9vW432c4S2Vb6z8W6Bphq715DfDCW5kHQSP5g2b8fW1xttFC2J1XmwW70GYTc1NFndpW=
+6d6Jws1wzQGLW45GKdB51-Kj4W6LlwtC1FzHXTW8Jv28N5sWxYGf44KhqW04 )
+
+Looking to connect with other Vaadin developers? Check out vaadin.com/event=
+s for the events we=E2=80=99re attending. If you are interested in particip=
+ating or hosting your own Vaadin-related events you can join the discussion=
+ at vaadin.com/forum/tag/meetup (https://analytics.vaadin.com/e3t/Ctc/49+11=
+3/ccJdQ04/VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB06Y3prCCW7lCdLW6lZ3mhW9=
+9xCpg6pdmsDW7xctfZ1rJwWMW5RGyQB901gtwN6dXhGhk4vRCW3fRyxR7ZKjv0W6lMSH27-b1cr=
+W5n4xZP97tR_nW34DHhd8N8YMdW35XkX241ZtzQW8GMcdl216mDxVss0QR1QXHLzN4PC9d-r7Np=
+fN38vXHHKb9P-W8X_tFQ7dJTs0W4-xsJD39TpDyW1mWpxk1lJ92fW2t22vh5099VSW4N8f9N7ps=
+gYVW4G6v-g1xT4VFW1BkV1p5gTmVTW33NHpy8LzZvYW5t7-QG5nyjbMW6jbrHb3qFF6YW3_FwGZ=
+4ct4JWf2DwB2C04 ) . Don=E2=80=99t miss next online meetup on November 25, 2=
+024!
+
+See you online!
+
+Sami
+
+Vaadin Newsletter curated by the Vaadin DevRel team! In this newsletter, we=
+'ll share the most important and interesting news in and around the Vaadin =
+ecosystem each month. If you have topics you think we should share with the=
+ Vaadin community, please send us your feedback. You can always email us at=
+ devrel@vaadin.com.
+
+Vaadin, Lemmink=C3=A4isenkatu 3, Turku, FI-20540, Finland
+
+Unsubscribe (https://analytics.vaadin.com/hs/preferences-center/en/direct?d=
+ata=3DW2nXS-N30h-zvW4tkcnb34vlMCW1BJqwC3SXRf0W3dwbZD1NCh7yW3f-Kw83_SNv3W3F6=
+H6m43Pp6xW4pHrKp2HQfnDW3BLJLc2sTYnqW2pbrzG30rwjwW4rBDpv2CsTj2W4p9Q4c2zZJR7W=
+2HCpPH45PC-kW3gds4k1BKhMbW3db_V41Z4CqzW4hm7yz2YmgFSW4rhStm2nYk0lW3d1QXx2Mzm=
+lzW3gg9jT3LS15xW4mDkP94kx0VtW2p50C53GM317W2-LrZd30ps-4W4kKTF43gs62QW1Q44cz3=
+ghl91W32lLWg1ZgbcqW2FTktp4tnFVJW4rpzSk1Lv-85W43yWn43SLx8QW2-q2Y92xwN20W45qg=
+JG41rXGvW3DXp6Y43Yl9vW3VwDxg2YPFRfW3djNV123n8jDW2CZ5Vj3bgx6_W2TM6k54mL6BxW2=
+FZPL82xYMYzW3Vx3p71L7rJsW34HnYw4kLh5DW3VKnVg3LYVBdW2KNj5x2FvqGVW2p73Xf34Dw6=
+4W3VKtrh2WpFR1W3S_fcR2qDSj6W2PV-Fj3X-kYMW3VxXSq2F_VKVW3P5vV24tqdR-W213HQt3g=
+6Jzvf2nMGZh04&_hsenc=3Dp2ANqtz-_n_O0cIRFT6fRjMHYnbNLY7ufu540dCdXvCyywSgFuTh=
+jzalxiXV0ir0ICAESXHLJnD7q7B-0u8rYSVqrLmGT43NtKbQ&_hsmi=3D334230651 )
+Manage preferences (https://analytics.vaadin.com/hs/preferences-center/en/p=
+age?data=3DW2nXS-N30h-zvW4tkcnb34vlMCW1BJqwC3SXRf0W3dwbZD1NCh7yW3f-Kw83_SNv=
+3W3F6H6m43Pp6xW4pHrKp2HQfnDW3BLJLc2sTYnqW2pbrzG30rwjwW4rBDpv2CsTj2W4p9Q4c2z=
+ZJR7W2HCpPH45PC-kW3gds4k1BKhMbW3db_V41Z4CqzW4hm7yz2YmgFSW4rhStm2nYk0lW3d1QX=
+x2MzmlzW3gg9jT3LS15xW4mDkP94kx0VtW2p50C53GM317W2-LrZd30ps-4W4kKTF43gs62QW1Q=
+44cz3ghl91W32lLWg1ZgbcqW2FTktp4tnFVJW4rpzSk1Lv-85W43yWn43SLx8QW2-q2Y92xwN20=
+W45qgJG41rXGvW3DXp6Y43Yl9vW3VwDxg2YPFRfW3djNV123n8jDW2CZ5Vj3bgx6_W2TM6k54mL=
+6BxW2FZPL82xYMYzW3Vx3p71L7rJsW34HnYw4kLh5DW3VKnVg3LYVBdW2KNj5x2FvqGVW2p73Xf=
+34Dw64W3VKtrh2WpFR1W3S_fcR2qDSj6W2PV-Fj3X-kYMW3VxXSq2F_VKVW3P5vV24tqdR-W213=
+HQt3g6Jzvf2nMGZh04&_hsenc=3Dp2ANqtz-_n_O0cIRFT6fRjMHYnbNLY7ufu540dCdXvCyywS=
+gFuThjzalxiXV0ir0ICAESXHLJnD7q7B-0u8rYSVqrLmGT43NtKbQ&_hsmi=3D334230651 )
+------=_Part_197555_598433698.1731772171844
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:=
+v=3D"urn:schemas-microsoft-com:vml" lang=3D"en"><head>
+    <title>Vaadin 24.6 Takes Shape, Keynotes, and Community Highlights</tit=
+le>
+    <meta property=3D"og:title" content=3D"Vaadin 24.6 Takes Shape, Keynote=
+s, and Community Highlights">
+    <meta name=3D"twitter:title" content=3D"Vaadin 24.6 Takes Shape, Keynot=
+es, and Community Highlights">
+   =20
+   =20
+   =20
+<meta name=3D"x-apple-disable-message-reformatting">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+    <!--[if gte mso 9]>
+  <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+  </xml>
+ =20
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type=3D"text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+ .hse-body-wrapper-table {background-color: #ffffff;}
+</style>
+<![endif]-->
+   =20
+     =20
+ =20
+   =20
+  <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" co=
+ntent=3D"https://analytics.vaadin.com/-temporary-slug-88dedd88-94f1-4213-b8=
+8b-1f7c0bc08a8c"><meta name=3D"robots" content=3D"noindex,follow"><!--[if !=
+((mso)|(IE))]><!-- --><style type=3D"text/css">@media only screen and (max-=
+width:639px){img.stretch-on-mobile,.hs_rss_email_entries_table img,.hs-stre=
+tch-cta .hs-cta-img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px =
+!important;padding-right:20px !important}
+.hs-hm,table.hs-hm{display:none}.hs-hd{display:block !important}table.hs-hd=
+{display:table !important}
+}</style><!--<![endif]--><style type=3D"text/css">#hs_body #hs_cos_wrapper_=
+main a[x-apple-data-detectors]{color:inherit !important;text-decoration:non=
+e !important;font-size:inherit !important;font-family:inherit !important;fo=
+nt-weight:inherit !important;line-height:inherit !important}
+a{text-decoration:underline}p{margin:0}body{-ms-text-size-adjust:100%;-webk=
+it-text-size-adjust:100%;-webkit-font-smoothing:antialiased;moz-osx-font-sm=
+oothing:grayscale}
+table{border-spacing:0;mso-table-lspace:0;mso-table-rspace:0}table,td{borde=
+r-collapse:collapse}
+img{-ms-interpolation-mode:bicubic}p,a,li,td,blockquote{mso-line-height-rul=
+e:exactly}</style></head>
+  <body id=3D"hs_body" bgcolor=3D"#ffffff" style=3D"margin:0 !important; pa=
+dding:0 !important; font-family:Arial, sans-serif; font-size:15px; color:#2=
+3496d; word-break:break-word">
+    <div id=3D"preview_text" style=3D"display:none;font-size:1px;color:#fff=
+fff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;=
+" lang=3D"en">Vaadin October newsletter: Vaadin 24.6 getting closer, discov=
+ering how your ideas shape the framework, and catching up on Vaadin Create =
+2024.</div>
+   =20
+<!--[if gte mso 9]>
+<v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"t">
+    <v:fill type=3D"tile" size=3D"100%,100%" color=3D"#ffffff"/>
+</v:background>
+<![endif]-->
+    <div class=3D"hse-body-background" lang=3D"en" style=3D"background-colo=
+r:#ffffff" bgcolor=3D"#ffffff">
+      <table role=3D"presentation" class=3D"hse-body-wrapper-table hse-full=
+-width-template" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin:0; pad=
+ding:0; width:100% !important; min-width:320px !important; height:100% !imp=
+ortant" width=3D"100%" height=3D"100%">
+        <tbody><tr>
+          <td class=3D"hse-body-wrapper-td" valign=3D"top" style=3D"font-fa=
+mily:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-wor=
+d">
+            <div id=3D"hs_cos_wrapper_main" class=3D"hs_cos_wrapper hs_cos_=
+wrapper_widget hs_cos_wrapper_type_email_flex_area" style=3D"color: inherit=
+; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wi=
+dget" data-hs-cos-type=3D"email_flex_area">  <div id=3D"builtin_section-0" =
+class=3D"hse-section hse-section-full-width" style=3D"padding-left:0px; pad=
+ding-right:0px; background-color:#ffffff" bgcolor=3D"#ffffff">
+   =20
+     =20
+      <!--[if gte mso 9]><table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation"
+        width=3D"100%" style=3D"width:100%" bgcolor=3D"#ffffff"
+       =20
+      ><tbody><tr><td valign=3D"top"><![endif]-->
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:100%; Margin-left:0; Margin-right:0">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;width:10=
+0%;">
+      <table align=3D"center" style=3D"width:100%;" cellpadding=3D"0" cells=
+pacing=3D"0" role=3D"presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:100%;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"width:100%">
+<![endif]-->
+<div id=3D"builtin_column_0-0" class=3D"hse-column">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%"><tbody><tr><td class=3D"hs_padded" style=3D"font-family:Arial, sans-=
+serif; font-size:15px; color:#23496d; word-break:break-word; padding:10px 2=
+0px"><div id=3D"hs_cos_wrapper_primary_rich_text_module" class=3D"hs_cos_wr=
+apper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inh=
+erit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_wrapper_primary_r=
+ich_text_module_" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrap=
+per_type_rich_text" style=3D"color: inherit; font-size: inherit; line-heigh=
+t: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"rich_t=
+ext"><div style=3D"mso-line-height-rule:exactly; line-height:175%; max-widt=
+h:600px">
+<h1 style=3D"margin:0; mso-line-height-rule:exactly; line-height:175%; font=
+-size:28px; text-align:left" align=3D"left"><span style=3D"color: #000000;"=
+>Vaadin Newsletter</span></h1>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%; text-align:left=
+" align=3D"left"><span style=3D"color: #000000;">November 2024</span></p>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style=3D"margin:0; mso-line-height-rule:exactly; line-height:175%; font=
+-size:22px"><a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/=
+VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB06Y3qgyTW7lCdLW6lZ3n_W2rCKTd2VLYB=
+6VlNS3D4M3TyDW8DBv4828BK31W7MzJv83dtGdWW6JF0336Ry1-YW6Y7kL_4qCkDqW8Hbg6H5Cd=
+tzCW4wB0234bQdSpW5qBKDr4KHWS8W6C4JjY5ZkVBNW6DYcbM3gB2YfW9cDbnK5N37p3W6fm68q=
+257VbjW2g4P3L8kbS8mW492vSk1xv0YVW8XyNm_2hZNW0W5Zv8y-67fD0VV4Wtq-97YmrtW2St3=
+MH9gyLNKW798kS686YgT6N3FwMl0BCcgSW3YWjf01GYxtSW9lTXqG6sY4n3V9kzJK199fZpf76H=
+qgn04" style=3D"color:#00a4bd; font-size:14px" data-hs-link-id=3D"0" target=
+=3D"_blank"><span style=3D"font-size: 22px;">Vaadin 24.6 Beta Scheduled for=
+ the Next Week</span></a></h2>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">The beta versio=
+n of Vaadin 24.6 is set to release next week, with alpha versions already a=
+vailable (currently at version 3). &nbsp;This release primarily focuses on =
+fixes and improvements to the developer experience. However, a few enhancem=
+ents are also included, such as WebPushMessage extensions allowing customiz=
+ed desktop notifications and drag image for DragSource. Check out the relea=
+se notes for details!</p>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style=3D"margin:0; mso-line-height-rule:exactly; line-height:175%; font=
+-size:22px"><a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/=
+VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB07R3qgyTW95jsWP6lZ3k_W8pPTx471hRX=
+0W1wtpFJ3JbN2CW7D-vp53-bfbsF1-K4ZXjSr1W3XqCqd1_jgjGW5-4_Sh3DYf4CW1pWrHK11s1=
+p7W8Tdxj94ltb6lW25sMTT3GRVLNW8YHT9X3LsczxW5gRcBv2WslqzW2S2-Cw7jHLx9VBzh_47-=
+xJFFW7gMmKg5r7zfxW6f4HXG59FDYBW95KvM33dW_CDW6kFh7p6Q8yw-Tk6fz3q4YZzN8JPTThr=
+ccPLW304l0V7tnlFLW7_SpXj57QJjSW7KtpYp8df35wW5sN04_51n91vW4GMG3z2_pChbVJ_LqH=
+8hNSSbW5kCTCY619k-TW3-YRx22tVvVSW4f_tBf84BgmJVSlxJK4G59BCN57X3NX5_YJHf5cWFS=
+P04" style=3D"color:#00a4bd; font-size:14px" data-hs-link-id=3D"0" target=
+=3D"_blank"><span style=3D"font-size: 22px;">How to Shape the Future of Vaa=
+din</span></a></h2>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">Your ideas can =
+help improve Vaadin!&nbsp; While add-ons are a great way to extend the fram=
+ework, some ideas are better suited for inclusion in the core. In this blog=
+ post, Lilli dives into how Vaadin incorporates customer feedback and commu=
+nity ideas into fixes and new features. Good overview for anyone looking to=
+ shape the future of Vaadin.</p>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style=3D"margin:0; mso-line-height-rule:exactly; line-height:175%; font=
+-size:22px"><a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/=
+VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB06F3qgyTW6N1vHY6lZ3q5W5yMDLM5Dwx5=
+JW5xBqyL782ZHSW2x5Rw-7TzW77W1BLb6-5nb9HwW3BcXMb6Wkn0JV7K9-M45LnltW17VlCF73N=
+j8RW4mC0DS1jGzP3W2ZS4Ld1nk6PBW1wNPtY3lMbKFW2Lf8YZ2cMK-lW6FRGhx4y0qhmW6BlpJc=
+1D_QppN16M9zjK6dDtW69B6BM1lWDgQW1g1v0y90cqjyW6htpR04jxPRCVPQYpp85Y6xSW5TB1t=
+96M80hMW379t-S1XlW7_W3YGYPz1ggZ6ZW2zM1rH2Lf19Yf38ptvM04" style=3D"color:#00=
+a4bd; font-size:14px" data-hs-link-id=3D"0" target=3D"_blank"><span style=
+=3D"font-size: 22px;">Vaadin Create Was Great</span></a></h2>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">Vaadin Create r=
+eturned to Frankfurt this year for two days of deep dives into Vaadin topic=
+s. Attendees explored everything from CSS design tips to full-stack archite=
+cture. While more recordings will be released soon, you can already watch t=
+he keynotes and relive the event virtually with us.</p>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+<h2 style=3D"margin:0; mso-line-height-rule:exactly; line-height:175%; font=
+-size:22px"><a href=3D"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/=
+VXj1Yn2dWln1W62JMVp7kbG39W7TctdS5nsG5NN8LB06F3qgyTW6N1vHY6lZ3ptW3YF70z8YK2C=
+sN5cJTZtwH4hYTLrFT7mfWXsW9dLzcq6HvL2mW5kBTdG1jTr6XW3ndNnQ482_qwW4thw8r88P1F=
+cV8Sx9d8Y4P-PVZrszP3rdnFsVSR6HQ5FcJnYW24H_Mh2tPLnVN5SnFKDq84rfW8-mgF48QgG3h=
+W80kplR4lbJZKW31njhG39_LQqW4m6P_f7W_2H2W1dDKWm68YFPfW52Gx1b23b7qqW7jdGm74vD=
+D0-W3mQ0Qc5hJ6dDW1RCftT2_4rr5W7vVrHH6Mvm-Mf5ySb5F04" style=3D"color:#00a4bd=
+; font-size:14px" data-hs-link-id=3D"0" target=3D"_blank"><span style=3D"fo=
+nt-size: 22px;">Events and Online Meetups</span></a></h2>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">Looking to conn=
+ect with other Vaadin developers? Check out vaadin.com/events for the event=
+s we=E2=80=99re attending. If you are interested in participating or hostin=
+g your own Vaadin-related events you can join the discussion at <a  href=3D=
+"https://analytics.vaadin.com/e3t/Ctc/49+113/ccJdQ04/VXj1Yn2dWln1W62JMVp7kb=
+G39W7TctdS5nsG5NN8LB06Y3qgyTW7lCdLW6lZ3m1W7HBlpg3YWQmGW61bjGg5Jgv-JW6YmT351=
+fdHQjVymWg811Nb0SW5Bmkdg5QkkqhW8tfjQn4qrtPZV-KSV04c7H_fW2mQFF08CbB4nW4t0prH=
+4dz_7jW8MwGJd1RT6cyN6472l5pFjywW9kgdPl92_xh-V9JflN4mk5wrW47sTZj2vWV8JW8gs5m=
+t4B31g1W7ZMDPn883QCnW4gFTMl5PXZq8W4CNfWw8KDkB9W1RKmVF3M-RpDW4sBs1B8vPwBCVCl=
+8YQ156hCBW26xRT33gsdplDNc_7FM7T2W6YH2qH7Vch98f4xy8lx04" style=3D"color:#00a=
+4bd" data-hs-link-id=3D"0" target=3D"_blank">vaadin.com/forum/tag/meetup</a=
+>. Don=E2=80=99t miss next online meetup on November 25, 2024!</p>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">&nbsp;&nbsp;</p=
+>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">See you online!=
+<br><br></p>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">Sami<br><br></p=
+>
+<p style=3D"mso-line-height-rule:exactly; font-size:14px; line-height:175%"=
+><span style=3D"font-style: italic;">Vaadin Newsletter curated by the Vaadi=
+n DevRel team! In this newsletter, we'll share the most important and inter=
+esting news in and around the Vaadin ecosystem each month. If you have topi=
+cs you think we should share with the Vaadin community, please send us your=
+ feedback. You can always email us at </span><a style=3D"color:#00a4bd; fon=
+t-style:italic" rel=3D"noreferrer" data-hs-link-id=3D"0" target=3D"_blank">=
+devrel@vaadin.com</a><span style=3D"font-style: italic;">.</span></p>
+<span style=3D"font-style: italic;"> </span>
+<p style=3D"mso-line-height-rule:exactly; line-height:175%">&nbsp;</p>
+</div></div></div></td></tr></tbody></table>
+<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%"><tbody><tr><td class=3D"hs_padded" style=3D"font-family:Arial, sans-se=
+rif; font-size:15px; color:#23496d; word-break:break-word; padding:10px 20p=
+x"><div id=3D"hs_cos_wrapper_footer_module" class=3D"hs_cos_wrapper hs_cos_=
+wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; font-si=
+ze: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" dat=
+a-hs-cos-type=3D"module"><table role=3D"presentation" class=3D"hse-footer h=
+se-secondary" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"f=
+ont-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#2349=
+6d; margin-bottom:0; padding:0">
+  <tbody>
+    <tr>
+      <td align=3D"left" valign=3D"top" style=3D"font-family:Arial, sans-se=
+rif; font-size:15px; color:#23496d; word-break:break-word; text-align:left;=
+ margin-bottom:0; line-height:135%; padding:10px 0px">
+        <p style=3D"font-family:Arial, sans-serif;font-size:12px;font-weigh=
+t:normal;text-decoration:none;font-style:normal;color:#23496d">
+          Vaadin, Lemmink=C3=A4isenkatu 3, Turku, FI-20540, Finland
+        </p>
+        <p>
+          <a data-unsubscribe=3D"true" href=3D"https://analytics.vaadin.com=
+/hs/preferences-center/en/direct?data=3DW2nXS-N30h-zvW4tkcnb34vlMCW1BJqwC3S=
+XRf0W3dwbZD1NCh7yW3f-Kw83_SNv3W3F6H6m43Pp6xW4pHrKp2HQfnDW3BLJLc2sTYnqW2pbrz=
+G30rwjwW4rBDpv2CsTj2W4p9Q4c2zZJR7W2HCpPH45PC-kW3gds4k1BKhMbW3db_V41Z4CqzW4h=
+m7yz2YmgFSW4rhStm2nYk0lW3d1QXx2MzmlzW3gg9jT3LS15xW4mDkP94kx0VtW2p50C53GM317=
+W2-LrZd30ps-4W4kKTF43gs62QW1Q44cz3ghl91W32lLWg1ZgbcqW2FTktp4tnFVJW4rpzSk1Lv=
+-85W43yWn43SLx8QW2-q2Y92xwN20W45qgJG41rXGvW3DXp6Y43Yl9vW3VwDxg2YPFRfW3djNV1=
+23n8jDW2CZ5Vj3bgx6_W2TM6k54mL6BxW2FZPL82xYMYzW3Vx3p71L7rJsW34HnYw4kLh5DW3VK=
+nVg3LYVBdW2KNj5x2FvqGVW2p73Xf34Dw64W3VKtrh2WpFR1W3S_fcR2qDSj6W2PV-Fj3X-kYMW=
+3VxXSq2F_VKVW3P5vV24tqdR-W213HQt3g6Jzvf2nMGZh04&amp;utm_campaign=3DGeneric%=
+20Newsletter&amp;utm_source=3Dhs_email&amp;utm_medium=3Demail&amp;utm_conte=
+nt=3D334228828&amp;_hsenc=3Dp2ANqtz--MBYPkE_r0Ejn0lsXgRYYCzFqS78Q5BTfmUjKfi=
+8sTjJGfUYcUg2GXQM38U5U4H7kyYMtxsm98Ru9xs6GY_AsvK4Tygg&amp;_hsmi=3D334230651=
+" style=3D"font-family:Helvetica,Arial,sans-serif; font-size:12px; color:#0=
+0a4bd; font-weight:normal; text-decoration:underline; font-style:normal" da=
+ta-hs-link-id=3D"0" target=3D"_blank">Unsubscribe</a>
+          <a data-unsubscribe=3D"true" href=3D"https://analytics.vaadin.com=
+/hs/preferences-center/en/page?data=3DW2nXS-N30h-zvW4tkcnb34vlMCW1BJqwC3SXR=
+f0W3dwbZD1NCh7yW3f-Kw83_SNv3W3F6H6m43Pp6xW4pHrKp2HQfnDW3BLJLc2sTYnqW2pbrzG3=
+0rwjwW4rBDpv2CsTj2W4p9Q4c2zZJR7W2HCpPH45PC-kW3gds4k1BKhMbW3db_V41Z4CqzW4hm7=
+yz2YmgFSW4rhStm2nYk0lW3d1QXx2MzmlzW3gg9jT3LS15xW4mDkP94kx0VtW2p50C53GM317W2=
+-LrZd30ps-4W4kKTF43gs62QW1Q44cz3ghl91W32lLWg1ZgbcqW2FTktp4tnFVJW4rpzSk1Lv-8=
+5W43yWn43SLx8QW2-q2Y92xwN20W45qgJG41rXGvW3DXp6Y43Yl9vW3VwDxg2YPFRfW3djNV123=
+n8jDW2CZ5Vj3bgx6_W2TM6k54mL6BxW2FZPL82xYMYzW3Vx3p71L7rJsW34HnYw4kLh5DW3VKnV=
+g3LYVBdW2KNj5x2FvqGVW2p73Xf34Dw64W3VKtrh2WpFR1W3S_fcR2qDSj6W2PV-Fj3X-kYMW3V=
+xXSq2F_VKVW3P5vV24tqdR-W213HQt3g6Jzvf2nMGZh04&amp;utm_campaign=3DGeneric%20=
+Newsletter&amp;utm_source=3Dhs_email&amp;utm_medium=3Demail&amp;utm_content=
+=3D334228828&amp;_hsenc=3Dp2ANqtz--MBYPkE_r0Ejn0lsXgRYYCzFqS78Q5BTfmUjKfi8s=
+TjJGfUYcUg2GXQM38U5U4H7kyYMtxsm98Ru9xs6GY_AsvK4Tygg&amp;_hsmi=3D334230651" =
+style=3D"font-family:Helvetica,Arial,sans-serif; font-size:12px; color:#00a=
+4bd; font-weight:normal; text-decoration:underline; font-style:normal" data=
+-hs-link-id=3D"0" target=3D"_blank">Manage preferences</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table></div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+      <!--[if gte mso 9]></td></tr></table><![endif]-->
+  =20
+  </div></div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+ =20
+<img src=3D"https://analytics.vaadin.com/e3t/Cto/49+113/ccJdQ04/VXj1Yn2dWln=
+1W62JMVp7kbG39W7TctdS5nsG5NW8Lz_VK3CKGxR103" alt=3D"" width=3D"1" height=3D=
+"1" border=3D"0" style=3D"display:none!important;min-height:1px!important;w=
+idth:1px!important;border-width:0!important;margin-top:0!important;margin-b=
+ottom:0!important;margin-right:0!important;margin-left:0!important;padding-=
+top:0!important;padding-bottom:0!important;padding-right:0!important;paddin=
+g-left:0!important"></body></html>
+------=_Part_197555_598433698.1731772171844--

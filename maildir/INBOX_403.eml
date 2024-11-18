@@ -1,0 +1,55 @@
+Return-Path: <dytrych@fit.vut.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 321NBvUj007418
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 2 Mar 2023 00:11:57 +0100 (CET)
+	(envelope-from dytrych@fit.vut.cz)
+Received: from [IPV6:2a00:1028:83a2:55fa:2b3f:2cd1:da38:5a19] (dynamic-2a00-1028-83a2-55fa-2b3f-2cd1-da38-5a19.ipv6.o2.cz [IPv6:2a00:1028:83a2:55fa:2b3f:2cd1:da38:5a19])
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 321NBtSC042700
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO);
+	Thu, 2 Mar 2023 00:11:55 +0100 (CET)
+	(envelope-from dytrych@fit.vut.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vut.cz; s=mx1;
+	t=1677712317; bh=FdSIqtT+dIU2juIs1A+aTK0Ul4/SvIy9lFdFJ8V30q8=;
+	h=Date:From:Subject:To;
+	b=mURSVgcHEL9UcdLk+hdAR7JoQ2/IbXMnBkC7fh+MFLRwNz837wEI31vsTUXNmy0rb
+	 /2FRQqttVs2o85hqTzhlhKDB91L8JcXdxlJOO6eY2e+pIBMLhzN+fY2wkgStWiX0mp
+	 OxzyFyhlsvdMEC0pkjX19cSuFt7VyStDt6s9m+u0=
+Message-ID: <a95ca8e5-5ad3-21b0-b130-b2f6ef6a1da6@fit.vut.cz>
+Date: Thu, 2 Mar 2023 00:11:54 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101
+ Thunderbird/102.7.1
+Content-Language: cs-CZ
+From: Jaroslav Dytrych <dytrych@fit.vut.cz>
+Subject: =?UTF-8?Q?IVS_-_registrace_t=c3=bdm=c5=af_-_posun_term=c3=adnu?=
+To: "undisclosed-recipients (utajeni adresati)": utajeni.adresati@fit.vutbr.cz;
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=-1.651 required=7 tests=ALL_TRUSTED,AWL,DKIM_INVALID,DKIM_SIGNED
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+Vážené studentky, vážení studenti,
+
+podle IS patříte mezi cca 70 ze 374 studentů, co v IVS dosud nemají 
+zaregistrovaný tým na projekt, přičemž registrace před pár minutami 
+skončily. S ohledem na to, že je Vás stále hodně a neúspěšný projekt je 
+nevyhnutelné hodnocení předmětu stupněm F, jsem registrace o 24 hod. 
+prodloužil. Registrace se provádí ve Studisu přes El. index - po 
+kliknutí na předmět přepnete na záložku Týmy a ...
+
+Nevíte-li, kde vzít kolegy do týmu, můžete inzerovat na fóru v Moodle, 
+nebo třeba založit tým a počkat, kdo se do něj přihlásí.
+
+Další postup bude takový, že po skončení prodlouženého termínu pošlu 
+poslední možnost, jak se přihlásit, ale již s určitou penalizací v 
+podobě práce navíc nebo srážky z hodnocení. Ti, co neutvoří tým ani po 
+poslední výzvě, budou v předmětu hodnoceni stupněm F.
+
+Přeji pěkný den
+
+Jaroslav Dytrych
+
+
+

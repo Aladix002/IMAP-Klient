@@ -1,0 +1,64 @@
+# IMAP klient s podporou TLS
+
+**Autor:** Filip Botlo, xbotlo01 
+**Dátum:** 17.11. 2024
+
+## Popis
+Tento program je IMAP klient s podporou TLS, ktorý umožňuje sťahovať e-maily zo zvolenej schránky na serveri pomocou IMAP protokolu. Program podporuje sťahovanie iba nových správ alebo iba hlavičiek, pripojenie cez TLS a interaktívny režim, kde môžu byť príkazy zadávané manuálne.
+
+## Zoznam súborov
+- `Makefile` - Skript na preklad projektu a jeho prípravu na odovzdanie
+- `imapcl.h`, `config_parser.h`, `error_handling.h` - Hlavičkové súbory s deklaráciami potrebných funkcií
+- `imapcl.cc`, `config_parser.cpp`, `error_handling.cpp` - Implementácia IMAP klienta, parsovanie konfigurácie a spracovanie chýb
+
+## Preklad
+```bash
+$ make       # Preloží projekt
+$ make clean # Vymaže preložené súbory
+$ make tar   # Vytvorí archív xbotlo01.tar
+```
+
+
+
+## Spustenie:
+```bash
+$ imapcl server [-p port] [-T [-c certfile] [-C certaddr]] [-n] [-h] -a auth_file [-b MAILBOX] -o out_dir [--interactive]
+```
+Poradie argumentov je ľubovoľné.
+
+### Popis argumentov:
+- `server` - Povinný argument, názov servera alebo IP adresa.
+- `-p port` - Voliteľný, špecifikuje port servera. Implicitný je 143.
+- `-T` - Zapína šifrovanie (TLS). Implicitne používa port 993.
+- `-c certfile` - Voliteľný, súbor s certifikátmi na overenie SSL/TLS certifikátu servera.
+- `-C certaddr` - Voliteľný, adresár s certifikátmi. Implicitne `/etc/ssl/certs`.
+- `-n` - Sťahuje iba nové (neprečítané) správy.
+- `-h` - Sťahuje iba hlavičky správ (nenastavujú sa správy ako videné).
+- `-a auth_file` - Povinný, cesta k autentifikačnému súboru s prihlasovacími údajmi.
+- `-b MAILBOX` - Voliteľný, názov schránky. Implicitne `INBOX`.
+- `-o out_dir` - Povinný, výstupný adresár na uloženie správ.
+- `--i` - Spustí program v interaktívnom režime.
+
+### Štruktúra autentifikačného súboru:
+```
+username = jmeno
+password = heslo
+```
+
+## Výstup:
+1. Na štandardný výstup sa vypíše počet stiahnutých správ.
+2. Správy sa uložia do zadaného výstupného adresára. Každá správa sa uloží do samostatného súboru s príponou `.eml`.
+
+## Príklad použitia:
+```bash
+imapcl mail.server.com -p 993 -T -a auth_file -b INBOX -o /path/to/output --i
+```
+
+V interaktívnom režime môžete zadávať príkazy:
+- `DOWNLOADNEW` - Stiahne nové (neprečítané) správy.
+- `DOWNLOADALL` - Stiahne všetky správy.
+- `READNEW` - Označí nové správy ako prečítané.
+- `QUIT` - Ukončí interaktívny režim.
+
+## Rozšírenia:
+Program podporuje interaktívny režim, ktorý umožňuje dynamicky pracovať s rôznymi schránkami a príkazmi.

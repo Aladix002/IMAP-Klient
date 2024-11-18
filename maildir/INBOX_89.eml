@@ -1,0 +1,895 @@
+Return-Path: <fitnews-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPS id 29A7ondm062485
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Mon, 10 Oct 2022 09:50:49 +0200 (CEST)
+	(envelope-from fitnews-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 29A7on4r078399
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Mon, 10 Oct 2022 09:50:49 +0200 (CEST)
+	(envelope-from fitnews-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTP id 29A7og3b010606;
+	Mon, 10 Oct 2022 09:50:49 +0200 (CEST)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTPS id 29A7ksQt010433
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <fitnews@tereza.fit.vutbr.cz>; Mon, 10 Oct 2022 09:46:54 +0200 (CEST)
+Received: from [IPV6:2001:67c:1220:80c:b62e:99ff:fee3:ed22]
+ ([IPv6:2001:67c:1220:80c:b62e:99ff:fee3:ed22]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 29A7kr6u077600
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <fitnews@fit.vutbr.cz>; Mon, 10 Oct 2022 09:46:53 +0200 (CEST)
+ (envelope-from hornapetra@fit.vutbr.cz)
+Content-Type: multipart/alternative;
+ boundary="------------0uj7EqYqHANIKWULFbc4RwvD"
+Message-ID: <ed1a6145-b3b7-afd6-3f22-dc62a96f1e1e@fit.vut.cz>
+Date: Mon, 10 Oct 2022 09:46:53 +0200
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.3.0
+Content-Language: cs
+To: fitnews@fit.vutbr.cz
+X-Mailman-Approved-At: Mon, 10 Oct 2022 09:50:41 +0200
+Subject: [Fitnews] =?utf-8?q?Newsletter_FIT_VUT_v_Brn=C4=9B=2C_10=2E_10?=
+ =?utf-8?q?=2E_2022?=
+X-BeenThere: fitnews@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: Newsletter FIT VUT v Brne <fitnews.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/fitnews>,
+ <mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <https://www.fit.vutbr.cz/mailman/private/fitnews/>
+List-Post: <mailto:fitnews@fit.vutbr.cz>
+List-Help: <mailto:fitnews-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/fitnews>,
+ <mailto:fitnews-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?Petra_Horn=E1_via_Fitnews?= <fitnews@fit.vutbr.cz>
+Reply-To: =?UTF-8?Q?Petra_Horn=c3=a1?= <hornapetra@fit.vut.cz>
+Errors-To: fitnews-bounces@fit.vutbr.cz
+Sender: "Fitnews" <fitnews-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+--------------0uj7EqYqHANIKWULFbc4RwvD
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Týdenní krátký přehled ze života fakulty - novinky, aktuality a události 
+z FIT, odkazy na zajímavé články, pracovní stáže, apod.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+<https://www.fit.vut.cz/>
+
+Newsletter FIT VUT v Brně, 10. 10. 2022
+
+[dnyai.png]
+
+
+    Poznejte umělou inteligenci jako chytrého pomocníka pro každodenní
+    život. Interaktivní festival Dny AI se koná 17. - 23.10. 2022
+
+Autonomní auto, recepční, aplikace pro nevidomé, ale i rozpoznávání 
+hlasu, virtuální elektrárna nebo vývoj léku proti koronaviru - tam všude 
+má své místo umělá inteligence. Brněnská komunita Brno.AI připravuje 
+akci, na které chce využití umělé inteligence v praxi představit různým 
+cílovým skupinám.  Dny AI se uskuteční od 17. do 23. října na několika 
+místech v Brně. Program jednotlivých dílčích akcí je zveřejněn na webu 
+dny-ai.cz <https://dny-ai.cz/>.
+
+Na FIT VUT bude řeč i o etických a právních otázkách souvisejících 
+s umělou inteligencí. Fakulta informačních technologií je rovněž 
+spoluorganizátorem dílčí akce Dnů AI s názvem AI 4 Talents, určené 
+studentům a studentkám středních škol, konané v pátek 21.10. 2022 ve 
+VIDA centru. Na programu jsou přednášky, kvízy, interaktivní ukázky, 
+workshopy i prezentace průmyslových partnerů. Kompletní program AI 4 
+Talents zde <https://www.dny-ai.cz/AI-4-Talents/>.
+
+[milani.png]
+
+
+    Vědci z FIT se podílejí na přípravě sondy Milani, která bude v rámci
+    testu planetární obrany mapovat složení asteroidů
+
+Dne 27.9. 2022 uskutečnila americká sonda Double Asteroid Redirection 
+Test (DART) první úspěšný test planetární obrany v historii a narazila 
+do asteroidu Dimorphos (řecky "dvě podoby"), který jako měsíc obíhá 
+větší asteroid Didymos (řecky "dvojče"). Žádný z asteroidů 
+nepředstavoval pro planetu Zemi riziko, mohly být tedy využity jako 
+přirozená laboratoř pro testování. První výsledky experimentu, tedy 
+změna oběžné dráhy asteroidu Dimorphos, bude za několik týdnů známa 
+z pozemních pozorování. Ale až v roce 2027, kdy ke dvojici asteroidů 
+doletí sonda mise ESA HERA, bude možné detailní zmapování obou asteroidů 
+i následků cíleného dopadu sondy DART. HERA ponese také menší sondu 
+Milani, která bude vybavena finsko-českou hyperspektrální kamerou 
+ASPECT, mapující mineralogické složení obou těles.
+
+
+Na analýze dat misí DART i HERA se aktivně účastní čeští vědci 
+a inženýři z Astronomického ústavu AV ČR, Geologického ústavu AV ČR 
+a Vysokého učení technického v Brně. Na FIT VUT se Tomáš Kašpárek a jeho 
+kolegové ze skupiny AeroWorks, pod vedením prof. Pavla Zemčíka a doc. 
+Petera Chudého, podílejí na zpracování dat z kamery ASPECT na palubě 
+sondy Milani před jejich odesláním na Zem.
+
+Více o celém projektu v TZ AVČR 
+<https://www.avcr.cz/cs/pro-media/tiskove-zpravy/NASA-potvrdila-prvni-uspesny-test-planetarni-obrany-v-historii-Zeme/>.
+
+[butspeech.png]
+
+
+    Vědci z FIT vyvíjejí aplikaci pro psychoterapeuty. Pomocí deep
+    learningu chtějí analyzovat terapeutická sezení
+
+Nabídnout psychoterapeutům systematickou zpětnou vazbu k jednotlivým 
+terapiím a celkově tak zkvalitnit úroveň psychoterapeutické péče v Česku 
+- to by měla dokázat nová aplikace DeePsy umožňující automatické 
+zpracování řeči. Na jejím vývoji aktuálně pracují výzkumníci ze skupiny 
+BUT Speech@FIT a jejich kolegové z Masarykovy univerzity. Aplikace by 
+měla být dokončena v červnu příštího roku.
+
+Více v článku na webu <https://www.fit.vut.cz/fit/press/3402/.cs>.
+
+[diplprac.png]
+
+
+    Za akademický rok 2021/22 bylo v rámci partnerského programu FIT s
+    IT firmami oceněno 11 vynikajících diplomových prací
+
+V rámci partnerského programu FIT s IT firmami bývají každoročně 
+oceňováni autoři bakalářských a magisterských diplomových prací. 
+Hodnotícím odborným kritériem je kvalita řešení a současně vynikající 
+zpracování. Za uplynulý akademický rok bylo vybráno 5 magisterských a 6 
+bakalářských prací na témata vzešlá z firem Avast Software, Honeywell, 
+Intel Czech Tradings, Red Hat Czech, Sewio Networks a TESCAN 3DIM těchto 
+autorů: Tomáš Kučma, Samuel Vojtáš, Martin Voščinár, Daniel Gavenda, 
+Michal Zavadil, Timotej Ponek, Maroš Orsák, Henrich Zrnčík, Attila 
+Lakatos, David, Průdek, Drahomír Dlabaja.
+
+Oceněným absolventům gratulujeme a děkujeme vedoucím prací 
+i konzultantům ve firmách za skvělou práci.
+
+[siemens.png]
+
+
+    Byl vyhlášen jubilejní 25. ročník ceny Wernera Siemense
+
+Pětadvacátý ročník Ceny Wernera von Siemense pro studenty technických, 
+přírodovědeckých a medicínských oborů a mladé vědce byl vyhlášen. Letos 
+se v 8 kategoriích rozdělí jeden milion korun, v kategorii nejlepší 
+diplomová a disertační práce spolu se studenty ocenění i finanční odměnu 
+získají i vedoucí prací/školitelé. Podávat přihlášky je možné do 30.11. 
+2022. Více informací o Cenách Wernera Siemense, vyhlašovaných 
+kategoriích a přihláškách naleznete zde <https://www.cenasiemens.cz/>.
+
+
+    Odebírejte novinky FIT
+
+Týdenní krátký přehled ze života fakulty - novinky, aktuality a události 
+z FIT, odkazy na zajímavé články, pracovní stáže, apod.
+
+Odebírat <mailto:fitnews-request@fit.vutbr.cz?subject=subscribe> Přestat 
+odebírat <mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe>
+
+
+Všechny novinky <https://www.fit.vut.cz/fit/news/.cs?type=news>
+
+
+
+Facebook <https://www.facebook.com/FIT.VUT/> Instagram 
+<https://www.instagram.com/fit.vut/>
+
+
+Fakulta informačních technologií VUT v Brně • https://www.fit.vut.cz/
+
+--------------0uj7EqYqHANIKWULFbc4RwvD
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta name="format-detection"
+      content="telephone=no,address=no,email=no,date=no,url=no">
+    <title>Newsletter FIT VUT v Brně, 10. 10. 2022</title>
+    <style>
+        html,
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+        img {
+            -ms-interpolation-mode:bicubic;
+        }
+        a {
+            text-decoration: none;
+        }
+        a[x-apple-data-detectors],
+        .unstyle-auto-detected-links a,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        .im {
+            color: inherit !important;
+        }
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+        img.g-img + div {
+            display: none !important;
+        }
+        @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+            u ~ div .email-container {
+                min-width: 320px !important;
+            }
+        }
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+            u ~ div .email-container {
+                min-width: 375px !important;
+            }
+        }
+        @media only screen and (min-device-width: 414px) {
+            u ~ div .email-container {
+                min-width: 414px !important;
+            }
+        }
+    </style>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <style>
+	    .button-td,
+	    .button-a {
+	        transition: all 100ms ease-in;
+	    }
+	    .button-td-primary:hover,
+	    .button-a-primary:hover {
+	        background: #555555 !important;
+	        border-color: #555555 !important;
+	    }
+        @media screen and (max-width: 480px) {
+            .fn_url .sub_button{
+                display: block !important;
+            }
+        }
+	    @media screen and (max-width: 700px) {
+	        .stack-column,
+	        .stack-column-center {
+	            display: block !important;
+	            width: 100% !important;
+	            max-width: 100% !important;
+	            direction: ltr !important;
+	        }
+	        .stack-column-center {
+	            text-align: center !important;
+	        }
+	        .center-on-narrow {
+	            display: block !important;
+	            margin-left: auto !important;
+	            margin-right: auto !important;
+	            float: none !important;
+	        }
+	        table.center-on-narrow {
+	            display: inline-block !important;
+	        }
+	        .stack-column p, .stack-column div {
+	            font-size: 17px !important;
+	        }
+	    }
+    </style>
+  </head>
+  <body width="100%" style="margin: 0; padding: 0 !important;
+    mso-line-height-rule: exactly; background-color: #fff">
+    <center style="width: 100%; background-color: #fff;">
+      <!--[if mso | IE]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fff;">
+    <tr>
+    <td>
+    <![endif]-->
+      <div style="display: none; font-size: 1px; line-height: 1px;
+        max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;
+        mso-hide: all; font-family: sans-serif;"> Týdenní krátký přehled
+        ze života fakulty - novinky, aktuality a události z FIT, odkazy
+        na zajímavé články, pracovní stáže, apod. </div>
+      <div style="display: none; font-size: 1px; line-height: 1px;
+        max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;
+        mso-hide: all; font-family: sans-serif;">
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  </div>
+      <div style="max-width: 680px; margin: 0 auto;"
+        class="email-container">
+        <!--[if mso]>
+            <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="680">
+            <tr>
+            <td>
+            <![endif]-->
+        <table role="presentation" style="margin: auto;" width="100%"
+          cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td style="padding: 10px 0; text-align: left"> <a
+                  href="https://www.fit.vut.cz/"><img
+                    src="https://www.fit.vut.cz/fit/fitnews/images/fitnewb.png"
+                    alt="" style="height: auto; background: #fff;
+                    border: 0" width="280" border="0"></a> </td>
+            </tr>
+            <tr>
+              <td style="text-align: center; background:
+                url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                repeat #e6efec;">
+                <!--[if gte mso 9]>
+                        <v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:680px;height:100px;" src="https://www.fit.vut.cz/fit/fitnews/images/fill.png" />
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="false" stroke="false" style="border: 0; display: inline-block; position: absolute; width: 680px; height: 100px;">
+                            <v:textbox inset="0,0,0,0">
+                        <![endif]-->
+                <div>
+                  <!--[if mso]>
+                            <table align="center" role="presentation" border="0" cellspacing="0" cellpadding="0" width="500">
+                            <tr>
+                            <td width="500">
+                            <![endif]-->
+                  <table role="presentation" style="max-width:500px;
+                    margin: auto;" width="100%" cellspacing="0"
+                    cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td style="text-align: center; padding: 40px
+                          20px; font-family: sans-serif; font-size:
+                          15px; line-height: 20px; color: #ffffff;">
+                          <p style="text-align: center; font-weight:
+                            bold; background: #00a9e0;padding: 20px
+                            10px;color: white;text-transform:
+                            uppercase;font-size: 16px; ">Newsletter FIT
+                            VUT v Brně, 10. 10. 2022</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <!--[if mso]>
+                            </td>
+                            </tr>
+                            </table>
+                            <![endif]--> </div>
+                <!--[if gte mso 9]>
+                            </v:textbox>
+                        </v:rect>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3407/dnyai.png"
+                            alt="[dnyai.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Poznejte
+                            umělou inteligenci jako chytrého pomocníka
+                            pro každodenní život. Interaktivní festival
+                            Dny AI se koná 17. - 23.10. 2022</h2>
+                          <p>Autonomní auto, recepční,
+                            aplikace pro nevidomé, ale i rozpoznávání
+                            hlasu, virtuální elektrárna nebo
+                            vývoj léku proti koronaviru - tam všude má
+                            své místo umělá inteligence.
+                            Brněnská komunita Brno.AI připravuje akci,
+                            na které chce využití umělé inteligence
+                            v praxi představit různým cílovým skupinám.
+                             Dny AI se uskuteční od 17. do 23. října na
+                            několika místech v Brně. Program
+                            jednotlivých dílčích akcí je zveřejněn na
+                            webu
+                            <a href="https://dny-ai.cz/">dny-ai.cz</a>.</p>
+                          <p>Na FIT VUT bude řeč i o
+                            etických a právních otázkách souvisejících
+                            s umělou inteligencí. Fakulta
+                            informačních technologií je rovněž
+                            spoluorganizátorem dílčí akce Dnů AI
+                            s názvem
+                            AI 4 Talents, určené studentům a studentkám
+                            středních škol, konané v pátek
+                            21.10. 2022 ve VIDA centru. Na programu jsou
+                            přednášky, kvízy, interaktivní
+                            ukázky, workshopy i prezentace průmyslových
+                            partnerů. Kompletní program AI 4
+                            Talents <a
+                              href="https://www.dny-ai.cz/AI-4-Talents/">zde</a>.
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3399/milani.png"
+                            alt="[milani.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Vědci
+                            z FIT se podílejí na přípravě sondy Milani,
+                            která bude v rámci testu planetární obrany
+                            mapovat složení asteroidů</h2>
+                          <p>Dne 27.9. 2022
+                            uskutečnila americká sonda Double Asteroid
+                            Redirection Test (DART) první
+                            úspěšný test planetární obrany v historii
+                            a narazila do asteroidu Dimorphos
+                            (řecky "dvě podoby"), který jako měsíc obíhá
+                            větší asteroid Didymos (řecky
+                            "dvojče"). Žádný z asteroidů nepředstavoval
+                            pro planetu Zemi riziko, mohly
+                            být tedy využity jako přirozená laboratoř
+                            pro testování. První výsledky
+                            experimentu, tedy změna oběžné dráhy
+                            asteroidu Dimorphos, bude za několik týdnů
+                            známa z pozemních pozorování. Ale až v roce
+                            2027, kdy ke dvojici asteroidů
+                            doletí sonda mise ESA HERA, bude možné
+                            detailní zmapování obou asteroidů i následků
+                            cíleného dopadu sondy DART. HERA ponese také
+                            menší sondu Milani, která
+                            bude vybavena finsko-českou hyperspektrální
+                            kamerou ASPECT, mapující
+                            mineralogické složení obou těles. </p>
+                          <div><br>
+                            <div>
+                              <div>Na analýze dat misí DART i HERA se
+                                aktivně účastní
+                                čeští vědci a inženýři z Astronomického
+                                ústavu AV ČR, Geologického ústavu AV ČR
+                                a Vysokého učení technického v Brně. Na
+                                FIT VUT se Tomáš Kašpárek a jeho
+                                kolegové ze skupiny AeroWorks, pod
+                                vedením prof. Pavla Zemčíka a doc.
+                                Petera Chudého,
+                                podílejí na zpracování dat z kamery
+                                ASPECT na palubě sondy Milani před
+                                jejich
+                                odesláním na Zem.</div>
+                              <div>
+                                <br>
+                                Více o celém projektu v <a
+href="https://www.avcr.cz/cs/pro-media/tiskove-zpravy/NASA-potvrdila-prvni-uspesny-test-planetarni-obrany-v-historii-Zeme/">TZ AVČR</a>.</div>
+                            </div>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3403/butspeech.png"
+                            alt="[butspeech.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Vědci
+                            z FIT vyvíjejí aplikaci pro psychoterapeuty.
+                            Pomocí deep learningu chtějí analyzovat
+                            terapeutická sezení</h2>
+                          <p>Nabídnout psychoterapeutům systematickou
+                            zpětnou vazbu k jednotlivým terapiím
+                            a celkově tak zkvalitnit úroveň
+                            psychoterapeutické péče v Česku - to by měla
+                            dokázat nová aplikace DeePsy umožňující
+                            automatické zpracování řeči. Na jejím vývoji
+                            aktuálně pracují výzkumníci ze skupiny BUT
+                            Speech@FIT a jejich kolegové z Masarykovy
+                            univerzity. Aplikace by měla být dokončena
+                            v červnu příštího roku.<br>
+                            <br>
+                            Více v <a
+                              href="https://www.fit.vut.cz/fit/press/3402/.cs">článku
+                              na webu</a>. </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3406/diplprac.png"
+                            alt="[diplprac.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Za
+                            akademický rok 2021/22 bylo v rámci
+                            partnerského programu FIT s IT firmami
+                            oceněno 11 vynikajících diplomových prací</h2>
+                          <p>V rámci partnerského programu FIT s IT
+                            firmami bývají každoročně oceňováni autoři
+                            bakalářských a magisterských diplomových
+                            prací. Hodnotícím odborným kritériem je
+                            kvalita řešení a současně vynikající
+                            zpracování. Za uplynulý akademický rok bylo
+                            vybráno 5 magisterských a 6 bakalářských
+                            prací na témata vzešlá z firem Avast
+                            Software, Honeywell, Intel Czech Tradings,
+                            Red Hat Czech, Sewio Networks a TESCAN 3DIM
+                            těchto autorů: Tomáš Kučma, Samuel Vojtáš,
+                            Martin Voščinár, Daniel Gavenda, Michal
+                            Zavadil, Timotej Ponek, Maroš Orsák, Henrich
+                            Zrnčík, Attila Lakatos, David, Průdek,
+                            Drahomír Dlabaja. <br>
+                            <br>
+                            Oceněným absolventům gratulujeme a děkujeme
+                            vedoucím prací i konzultantům ve firmách za
+                            skvělou práci. </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3401/siemens.png"
+                            alt="[siemens.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Byl
+                            vyhlášen jubilejní 25. ročník ceny Wernera
+                            Siemense</h2>
+                          <p>Pětadvacátý ročník Ceny
+                            Wernera von Siemense pro studenty
+                            technických, přírodovědeckých a medicínských
+                            oborů a mladé vědce byl vyhlášen. Letos se
+                            v 8 kategoriích rozdělí jeden milion
+                            korun, v kategorii nejlepší diplomová
+                            a disertační práce spolu se studenty
+                            ocenění i finanční odměnu získají i vedoucí
+                            prací/školitelé. Podávat
+                            přihlášky je možné do 30.11. 2022. Více
+                            informací o Cenách Wernera Siemense,
+                            vyhlašovaných kategoriích a přihláškách
+                            naleznete <a
+                              href="https://www.cenasiemens.cz/">zde</a>.
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td aria-hidden="true" style="font-size: 0px; line-height:
+                0px;" height="40">   </td>
+            </tr>
+          </tbody>
+        </table>
+        <table role="presentation" style="max-width: 680px;"
+          width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td style="padding: 24px 0; font-family: sans-serif;
+                font-size: 12px; line-height: 15px; text-align: center;
+                color: #888888;">
+                <h2 style="color: black;font-size:20px;line-height:24px">Odebírejte
+                  novinky FIT</h2>
+                <span class="unstyle-auto-detected-links">Týdenní krátký
+                  přehled ze života fakulty - novinky, aktuality a
+                  události z FIT, odkazy na zajímavé články, pracovní
+                  stáže, apod.</span> <br>
+                <br>
+                <p style="line-height:1.0;text-align:center"> <span
+                    class="fn_url"><a class="sub_button"
+                      href="mailto:fitnews-request@fit.vutbr.cz?subject=subscribe"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      30px;font-weight: bold;margin: 5px 0px;">Odebírat</a></span>
+                  <span class="fn_url"><a class="sub_button"
+                      href="mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      10px;font-weight: bold;margin: 5px 0px;">Přestat
+                      odebírat</a></span> </p>
+                <br>
+                <p style="line-height:1.0;text-align:center"> <span
+                    class="fn_url"><a class="sub_button"
+                      href="https://www.fit.vut.cz/fit/news/.cs?type=news"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      10px;font-weight: bold;margin: 5px 0px;">Všechny
+                      novinky</a></span> </p>
+                <br>
+                <p class="social_block" style="margin:0 auto;text-align:
+                  center;display: block;"><br>
+                  <a href="https://www.facebook.com/FIT.VUT/"><img
+                      alt="Facebook"
+                      src="https://www.fit.vut.cz/fit/fitnews/images/fb_logo.png"
+                      title="" style="width: 25px;"></a>     <a
+                    href="https://www.instagram.com/fit.vut/"><img
+                      alt="Instagram"
+                      src="https://www.fit.vut.cz/fit/fitnews/images/instagram_logo.png"
+                      title="" style="width: 25px;"></a> </p>
+                <br>
+                <p style="font-size:12px"> Fakulta informačních
+                  technologií VUT v Brně • <a
+                    href="https://www.fit.vut.cz/"
+                    class="moz-txt-link-freetext">https://www.fit.vut.cz/</a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <!--[if mso]>
+            </td>
+            </tr>
+            </table>
+            <![endif]--> </div>
+      <!--[if mso | IE]>
+    </td>
+    </tr>
+    </table>
+    <![endif]--> </center>
+  </body>
+</html>
+
+--------------0uj7EqYqHANIKWULFbc4RwvD--

@@ -1,0 +1,37 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vutbr.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTP id 25MJ1QU0083675
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 22 Jun 2022 21:01:26 +0200 (CEST)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id EBD4110B32B
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 22 Jun 2022 21:01:22 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz EBD4110B32B
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1655924482;
+	bh=XQF2YVG1vO20YqHwncM/G+8pl4Cu0P9LUsOIBJSUcg0=; l=400;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=G9CTd+ZafJga0rIspatBV7pvBP16kDikOVrUjS7Pl2HkhdI8A02iL8LY0kT+p3X4w
+	 scr1VwC0caiArRnPdcSTnJRMzV9kEixQPVzfeJVfaSgMbaOwed60KUPOOavFdqT7oW
+	 QuNMNxjHJgUlOY1grjssVQxn83j0rJo1bBIBARlE=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id E4DD93004466; Wed, 22 Jun 2022 21:01:22 +0200 (CEST)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogQXV0b21hdCBJbmZvcm1hxI1uw60gc3lzdMOpbQ==?= <zpravy-is@vutbr.cz>
+Reply-to: zpravy-is@vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?Wm3Em25hIHN0YXZ1IHYgxZnDrXplbsOtICM4MjM=?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Message-Id: <20220622190122.E4DD93004466@emu.ro.vutbr.cz>
+Date: Wed, 22 Jun 2022 21:01:22 +0200 (CEST)
+X-Spam-Status: No, score=-0.2 required=7 tests=AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF
+X-Spam-Checker-Version: SpamAssassin 3.4.5 (2021-03-20) on eva.fit.vutbr.cz
+
+ViDFmcOtemVuw60gKCM4MjMpLCBrdGVyw6kgamUgdmVkZW5vIGsgVmHFoWVtdSBzdHVkaXUgZG/F
+oWxvIGtlIHptxJtuxJsgc3RhdnUuIFN0YXYgc2Ugem3Em25pbCBuYSAic2NodmFsb3bDoW7DrSIu
+Cg1TZXpuYW0gxZnDrXplbsOtIHYgSVMgVlVUOiBodHRwczovL3d3dy52dXQuY3ovcml6ZW5pLXph
+ZG9zdGkKClZVVCB6cHLDoXZhIG9kOiBBdXRvbWF0IEluZm9ybWHEjW7DrSBzeXN0w6ltIApPZHBv
+dsSbxI8gbmEgdHV0byB6cHLDoXZ1IG5lbsOtIG1vxb5uw6EuIFpwcsOhdnUgb2Rlc2xhbCBhdXRv
+bWF0Lgo=

@@ -1,0 +1,39 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vutbr.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTP id 29IGUpiR012894
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 18 Oct 2022 18:30:51 +0200 (CEST)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id D1D0010B334
+	for <xbotlo01@stud.fit.vut.cz>; Tue, 18 Oct 2022 18:30:20 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz D1D0010B334
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1666110620;
+	bh=MyGg1UzZzg/FExde3utkCHpclkzTKza1CtJRmanVbIQ=; l=596;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=NLg4ATugktNdjLI/B8sZrRybwpAb9229v/UGUImFF8YEz6X6ALd+Zye/olJuwkQBQ
+	 T8/Jx8m7+Yklu6poBIZeT/ZN3XEIkukBkW8qRbqwV+SUP1dqs6/jptnpLWgKPAsaJR
+	 g7hRFsM3FDXx60FXcX6gd03iwXv4jx2Bn3jdl6WI=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id D01F030BEAEA; Tue, 18 Oct 2022 18:30:20 +0200 (CEST)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogSW5nLiBKYW4gWmF2xZllbCAoaWQgMTk2MzY4KQ==?= <zpravy-is@vutbr.cz>
+Reply-to: izavrel@fit.vut.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?SG9kbm9jZW7DrSBzdHVkZW50YQ==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Message-Id: <20221018163020.D01F030BEAEA@emu.ro.vutbr.cz>
+Date: Tue, 18 Oct 2022 18:30:20 +0200 (CEST)
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+QnlsbyBWw6FtIG9wcmF2ZW5vIGhvZG5vY2Vuw60geiBwxZllZG3Em3R1OiBaw6FrbGFkeSBwcm9n
+cmFtb3bDoW7DrQpaYWTDoW7DrTogw5p0ZXLDvSAxNjowMCB2IEIvTjEwMwpVZMSbbGVuw6kgYm9k
+eTogNC4wMAoKQ2Vsa292w6kgaG9kbm9jZW7DrSBwxZllZG3Em3R1OiAwIGJvZMWvIApIb2Rub2Nl
+bsOtIHByb3ZlZGw6IEluZy4gSmFuIFphdsWZZWwsIGRuZTogMjkuMDkuMjAyMgoKVlVUIHpwcsOh
+dmEgb2Q6IEluZy4gSmFuIFphdsWZZWwgaXphdnJlbEBmaXQudnV0LmN6IChpZCAxOTYzNjgpCk9k
+cG92xJvEjyBqZSBtb8W+bsOhIHBvbW9jw60gVlVUIHpwcsOhdiAtIHBvdcW+aWp0ZSBwcm9zw61t
+IG7DoXNsZWR1asOtY8OtIG9ka2F6OgpodHRwczovL3d3dy52dXQuY3ovaW50cmEvdnV0LXpwcmF2
+eT9hY3Rpb249bm92YSZvZHBvdmVkX25hPTE3NTIyMjk4Cg==

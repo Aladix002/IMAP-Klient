@@ -1,0 +1,194 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 325068fw028460
+	for <xbotlo01@stud.fit.vut.cz>; Sun, 5 Mar 2023 01:07:30 +0100 (CET)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id 8A0BB10B2BF
+	for <xbotlo01@stud.fit.vut.cz>; Sun,  5 Mar 2023 01:06:05 +0100 (CET)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id 89530300950E
+	for <xbotlo01@stud.fit.vut.cz>; Sun,  5 Mar 2023 01:06:05 +0100 (CET)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 880041066668; Sun,  5 Mar 2023 01:06:05 +0100 (CET)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: IZLO 22/23L (262847): Testovani
+Date: Sun, 5 Mar 2023 01:06:05 +0100
+From: "=?utf-8?B?U2hjaGV0aW5pdWsgS2lyaWxsIHDFmWVzIEUtTEVBUk5JTkcgVlVU?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <82d4bdda93e99045195ccd0831c824b19c09b3979c6a675e13f0b2a71d62470d@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: =?utf-8?B?IkRpc2t1emUgayBwcm9qZWt0xa9tIiA8bW9vZGxlZm9ydW05ODk1QG1vb2Q=?=
+ =?utf-8?B?bGUudnV0LmN6Pg==?=
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=9895
+X-Course-Id: 262847
+X-Course-Name: =?utf-8?B?WsOha2xhZHkgbG9naWt5IHBybyBpbmZvcm1hdGlreSAoSVpMTyAyMi8yM0wp?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=9895&d=1887>
+Thread-Topic: IZLO 22/23L (262847): Testovani
+Thread-Index: 82d4bdda93e99045195ccd0831c8
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_mKXIaC7hSwQxJOgA6148S8yLQ4YksV1QD1QZgkWJP8"
+X-Spam-Status: No, score=-0.8 required=7 tests=AWL,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_mKXIaC7hSwQxJOgA6148S8yLQ4YksV1QD1QZgkWJP8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIZLO 22/23L (262847) -> F=C3=B3ra -> Diskuze k projekt=C5=AFm -> Testova=
+ni=0Ahttps://moodle.vut.cz/mod/forum/discuss.php?d=3D1887#p2863=0ATestovani=
+=0Aautor Shchetiniuk Kirill - Ned=C4=9Ble, 5. b=C5=99ezna 2023, 00.37=0A---=
+------------------------------------------------------------------=0ADobr=
+=C3=BD den,=0A=0Am=C3=A1m dotaz ohledn=C4=9B testov=C3=A1n=C3=AD. Projekt b=
+ude testov=C3=A1n jako, d=C3=A1v=C3=A1 SAT=0Atam kde mus=C3=AD byt SAT nebo=
+ UNSAT tam kde mus=C3=AD byt UNSAT, nebo po v=C3=BDpo=C4=8Dtu=0Aformuly v S=
+AT solveru, v p=C5=99=C3=ADpad=C4=9B ze formula je SAT, mus=C3=AD byt=0Aspr=
+=C3=A1vn=C3=A1=C2=A0 v=C3=BDsledn=C3=A1=C2=A0 kombinace True a False?=0A=0A=
+M=C3=A1m dva algoritmy kter=C3=A9 proch=C3=A1z=C3=AD=C2=A0 v=C5=A1echna=
+=C2=A0 testy, ale jeden z ni=0Ad=C3=A1v=C3=A1 chybnou kombinace v SAT solve=
+ru. N=C3=AD=C5=BEe=C2=A0 jsou uveden jeden=0Ap=C5=99=C3=ADklad , algoritm k=
+ter=C3=BD dal formulu pro=C2=A0 1. =C4=8D=C3=A1stku=C2=A0 pasuje v=C5=A1ech=
+na=0Atestu z kostry stejn=C4=9B jako algoritm kter=C3=BD dal formulu pro=
+=C2=A0 2. =C4=8D=C3=A1stku=0A=0ANapr. :=0A=0A3=C2=A03=C2=A02=0A=0A0=C2=
+=A01=0A1=C2=A02=0A=0A1=C2=A0-=C2=A0predmet=C2=A00,=C2=A0semester=C2=A00=0A2=
+=C2=A0-=C2=A0predmet=C2=A00,=C2=A0semester=C2=A01=0A3=C2=A0-=C2=A0predmet=
+=C2=A00,=C2=A0semester=C2=A02=0A4=C2=A0-=C2=A0predmet=C2=A01,=C2=A0semester=
+=C2=A00=0A5=C2=A0-=C2=A0predmet=C2=A01,=C2=A0semester=C2=A01=0A6=C2=A0-=
+=C2=A0predmet=C2=A01,=C2=A0semester=C2=A02=0A7=C2=A0-=C2=A0predmet=C2=A02,=
+=C2=A0semester=C2=A00=0A8=C2=A0-=C2=A0predmet=C2=A02,=C2=A0semester=C2=
+=A01=0A9=C2=A0-=C2=A0predmet=C2=A02,=C2=A0semester=C2=A02=0A=0APo spu=C5=
+=A1t=C4=9Bn=C3=AD m=C3=A9ho 1. algoritmu dostav=C3=ADm formulu, a pak kdy=
+=C5=BE dam tu=0Aformulu do SAT solveru, tak on mi nap=C3=AD=C5=A1e :=C2=
+=A0=0A=0A1.=C2=A0 =C2=A0-1 -2 3 -4 5 -6 7 -8 -9=C2=A0=0A=0ATento v=C3=BDsle=
+dek znamen=C3=A1 posloupnost p=C5=99edm=C4=9Btu:=C2=A0=0A=0A| 0 | 1 | 2 | -=
+ semestry=0A| -- | -- | -- |=0A| 2 | 1 | 0 | - predmety=0A=0Aale (pokud spr=
+=C3=A1vn=C4=9B mysl=C3=ADm) v=C3=BDsledek SAT soveru mus=C3=AD byt:=0A=0A2.=
+=C2=A0 =C2=A01 -2 -3 -4 5 -6 -7 -8 9=0A=0AKter=C3=BD znamen=C3=A1 posloupno=
+st p=C5=99edm=C4=9Btu , kter=C3=A1 je pops=C3=A1na (0-1-2) v=0Ainputu:=0A=
+=0A| 0 | 1 | 2 | - semestry=0A| -- | -- | -- |=0A| 0 | 1 | 2 | - predmety=
+=0A=0AS pozdravem,=0AKirill Shchetiniuk.=0A=0A-----------------------------=
+----------------------------------------=0AToto je kopie zpr=C3=A1vy zve=
+=C5=99ejn=C4=9Bn=C3=A9 na IZLO 22/23L (262847) .=0A=0AChcete-li odpov=C4=
+=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahttps://moodle.vut.cz/mod/forum=
+/post.php?reply=3D2863=0AOdhl=C3=A1sit se z f=C3=B3ra: https://moodle.vut.c=
+z/mod/forum/subscribe.php?id=3D9895=0AOdhl=C3=A1sit se z diskuse:=0Ahttps:/=
+/moodle.vut.cz/mod/forum/subscribe.php?id=3D9895&d=3D1887=0AZm=C4=9Bnit nas=
+taven=C3=AD voleb f=C3=B3ra:=0Ahttps://moodle.vut.cz/mod/forum/index.php?id=
+=3D262847=0A
+--b1_mKXIaC7hSwQxJOgA6148S8yLQ4YksV1QD1QZgkWJP8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D262847">IZLO 22/23L (262847)</a>=0A    &raquo;=0A=
+    <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?=
+id=3D262847">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D=
+"https://moodle.vut.cz/mod/forum/view.php?f=3D9895">Diskuze k projekt=C5=
+=AFm</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/mod/forum/discuss.php?d=3D1887">Testovani</a>=0A</div>=0A=0A<table bor=
+der=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"forumpost">=0A    <t=
+r class=3D"header">=0A        <td width=3D"35" valign=3D"top" class=3D"pict=
+ure left">=0A            <a href=3D"https://moodle.vut.cz/user/view.php?id=
+=3D250792&amp;course=3D262847" class=3D"d-inline-block aabtn"><img src=3D"h=
+ttps://moodle.vut.cz/theme/image.php/_s/vut/core/1657648469/u/f2" class=3D"=
+userpicture defaultuserpic" width=3D"35" height=3D"35" alt=3D"Obr=C3=A1zek:=
+ Shchetiniuk Kirill" title=3D"Obr=C3=A1zek: Shchetiniuk Kirill" /></a>=0A  =
+      </td>=0A        <td class=3D"topic starter">=0A            <div class=
+=3D"subject">=0A                Testovani=0A            </div>=0A          =
+  <div class=3D"author">=0A                autor <a target=3D'_blank' href=
+=3D'https://moodle.vut.cz/user/view.php?id=3D250792&course=3D262847'>Shchet=
+iniuk Kirill</a> - Ned=C4=9Ble, 5. b=C5=99ezna 2023, 00.37=0A            </=
+div>=0A        </td>=0A    </tr>=0A    <tr>=0A        <td class=3D"left sid=
+e" valign=3D"top">=0A                &nbsp;=0A        </td>=0A        <td c=
+lass=3D"content">=0A            <p dir=3D"ltr">Dobr=C3=BD den,</p><p dir=3D=
+"ltr"><span style=3D"font-size:.9375rem;">m=C3=A1m dotaz ohledn=C4=9B testo=
+v=C3=A1n=C3=AD. Projekt bude testov=C3=A1n jako, d=C3=A1v=C3=A1 SAT tam kde=
+ mus=C3=AD byt SAT nebo UNSAT tam kde mus=C3=AD byt UNSAT, nebo po v=C3=
+=BDpo=C4=8Dtu formuly v SAT solveru, v p=C5=99=C3=ADpad=C4=9B ze formula je=
+ SAT, mus=C3=AD byt spr=C3=A1vn=C3=A1=C2=A0 v=C3=BDsledn=C3=A1=C2=A0 kombin=
+ace True a False?</span><br /></p><p dir=3D"ltr">M=C3=A1m dva algoritmy kte=
+r=C3=A9 proch=C3=A1z=C3=AD=C2=A0 v=C5=A1echna=C2=A0 testy, ale jeden z ni d=
+=C3=A1v=C3=A1 chybnou kombinace v SAT solveru. N=C3=AD=C5=BEe=C2=A0 jsou uv=
+eden jeden p=C5=99=C3=ADklad , algoritm kter=C3=BD dal formulu pro=C2=A0 1.=
+ =C4=8D=C3=A1stku=C2=A0 pasuje v=C5=A1echna testu z kostry stejn=C4=9B jako=
+ algoritm kter=C3=BD dal formulu pro=C2=A0 2. =C4=8D=C3=A1stku</p><p dir=3D=
+"ltr" style=3D"text-align:left;">Napr. :<br /></p><pre><span style=3D"color=
+:rgb(0,169,224);">3 3 2
+</span><br /><span style=3D"color:rgb(0,169,224);">0 1</span><br /><span st=
+yle=3D"color:rgb(0,169,224);">1 2</span></pre><pre></pre><pre><span style=
+=3D"color:rgb(0,171,142);">1 - predmet 0, semester 0</span><br /><span styl=
+e=3D"color:rgb(0,171,142);">2 - predmet 0, semester 1</span><br /><span sty=
+le=3D"color:rgb(0,171,142);">3 - predmet 0, semester 2</span><br /><span st=
+yle=3D"color:rgb(0,171,142);">4 - predmet 1, semester 0</span><br /><span s=
+tyle=3D"color:rgb(0,171,142);">5 - predmet 1, semester 1</span><br /><span =
+style=3D"color:rgb(0,171,142);">6 - predmet 1, semester 2</span><br /><span=
+ style=3D"color:rgb(0,171,142);">7 - predmet 2, semester 0</span><br /><spa=
+n style=3D"color:rgb(0,171,142);">8 - predmet 2, semester 1</span><br /><sp=
+an style=3D"color:rgb(0,171,142);">9 - predmet 2, semester 2</span></pre><p=
+>Po spu=C5=A1t=C4=9Bn=C3=AD m=C3=A9ho 1. algoritmu dostav=C3=ADm formulu, a=
+ pak kdy=C5=BE dam tu formulu do SAT solveru, tak on mi nap=C3=AD=C5=A1e :=
+=C2=A0</p><p><span><span>
+</span><span style=3D"font-size:11.4844px;color:rgb(101,141,27);"><span></s=
+pan><span style=3D"color:rgb(228,0,43);"><strong><span style=3D"color:rgb(4=
+4,42,41);">1.</span></strong><strong>=C2=A0 =C2=A0-1</strong></span><strong=
+ style=3D"font-weight:bold;"><span style=3D"color:rgb(228,0,43);"> </span><=
+/strong><span style=3D"font-weight:bold;color:rgb(228,0,43);">-2</span><str=
+ong> 3</strong></span><strong style=3D"font-size:11.4844px;"> </strong><spa=
+n style=3D"font-size:11.4844px;font-weight:bold;color:rgb(228,0,43);">-4</s=
+pan><strong style=3D"font-size:11.4844px;"> </strong><span style=3D"font-si=
+ze:11.4844px;font-weight:bold;color:rgb(101,141,27);">5</span><strong style=
+=3D"font-size:11.4844px;"> </strong><span style=3D"font-size:11.4844px;font=
+-weight:bold;color:rgb(228,0,43);">-6</span><strong style=3D"font-size:11.4=
+844px;"> </strong><span style=3D"font-size:11.4844px;font-weight:bold;color=
+:rgb(101,141,27);">7</span><strong style=3D"font-size:11.4844px;"> </strong=
+><span style=3D"font-size:11.4844px;font-weight:bold;color:rgb(228,0,43);">=
+-8 -9=C2=A0</span></span></p><p>
+Tento v=C3=BDsledek znamen=C3=A1 posloupnost p=C5=99edm=C4=9Btu:=C2=A0</p><=
+p>| 0 | 1 | 2 | - semestry
+<br />| -- | -- | -- |
+<br />| 2 | 1 | 0 | - predmety</p><p><span style=3D"font-size:.9375rem;">al=
+e (pokud spr=C3=A1vn=C4=9B  mysl=C3=ADm) v=C3=BDsledek SAT soveru mus=C3=
+=AD byt:</span></p><p><span style=3D"font-size:.9375rem;"><span style=3D"co=
+lor:rgb(101,141,27);font-size:11.4844px;"><span><b>2.</b></span></span></sp=
+an><span style=3D"font-size:11.4844px;font-weight:bold;color:rgb(101,141,27=
+);">=C2=A0 =C2=A01</span><strong style=3D"font-size:11.4844px;"> </strong><=
+span style=3D"font-size:11.4844px;font-weight:bold;color:rgb(228,0,43);">-2=
+ -3</span><strong style=3D"font-size:11.4844px;"> </strong><span style=3D"f=
+ont-size:11.4844px;font-weight:bold;color:rgb(228,0,43);">-4</span><strong =
+style=3D"font-size:11.4844px;"> </strong><span style=3D"font-size:11.4844px=
+;font-weight:bold;color:rgb(101,141,27);">5</span><strong style=3D"font-siz=
+e:11.4844px;"> </strong><span style=3D"font-size:11.4844px;font-weight:bold=
+;color:rgb(228,0,43);">-6 -7 -8</span><strong style=3D"font-size:11.4844px;=
+"> </strong><span style=3D"font-size:11.4844px;color:rgb(101,141,27);"><str=
+ong>9</strong></span></p><p>Kter=C3=BD znamen=C3=A1 posloupnost p=C5=99edm=
+=C4=9Btu , kter=C3=A1 je pops=C3=A1na (0-1-2) v inputu:</p><p><span style=
+=3D"font-size:.9375rem;">| 0 | 1 | 2 | - semestry<br /></span><span style=
+=3D"font-size:.9375rem;">| -- | -- | -- |<br /></span><span style=3D"font-s=
+ize:.9375rem;">| 0 | 1 | 2 | - predmety</span></p><p>S pozdravem,
+<br />Kirill Shchetiniuk.</p>
+<p></p>
+<p></p><br /><p></p>=0A=0A            <div class=3D"commands">=0A          =
+          <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/post=
+.php?reply=3D2863">=0A                        Odpov=C4=9Bd=C4=9Bt=0A       =
+             </a>=0A            </div>=0A=0A            <div class=3D"link"=
+>=0A                <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/=
+forum/discuss.php?d=3D1887#p2863">=0A                    Uk=C3=A1zat p=
+=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A                </a>=0A            </d=
+iv>=0A        </td>=0A    </tr>=0A</table>=0A=0A<hr />=0A<div class=3D"mdl-=
+align unsubscribelink">=0A    <a href=3D"https://moodle.vut.cz/mod/forum/su=
+bscribe.php?id=3D9895">Neodeb=C3=ADrat p=C5=99=C3=ADsp=C4=9Bvky z tohoto f=
+=C3=B3ra</a>&nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/subscri=
+be.php?id=3D9895&d=3D1887">Vypnout odeb=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=
+=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&nbsp;=0A    <a href=3D"https://=
+moodle.vut.cz/mod/forum/index.php?id=3D262847">Zm=C4=9Bna nastaven=C3=AD pr=
+eferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_mKXIaC7hSwQxJOgA6148S8yLQ4YksV1QD1QZgkWJP8--

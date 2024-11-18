@@ -1,0 +1,53 @@
+Return-Path: <cadova@skm.vutbr.cz>
+Received: from palak.adm.skm.vutbr.cz ([147.229.185.11])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 3136W4Oe000353
+	(version=TLSv1.2 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vutbr.cz>; Fri, 3 Feb 2023 07:32:04 +0100 (CET)
+	(envelope-from cadova@skm.vutbr.cz)
+Received: from Palace.adm.skm.vutbr.cz (147.229.185.55) by
+ palak.adm.skm.vutbr.cz (147.229.185.11) with Microsoft SMTP Server (TLS) id
+ 14.3.498.0; Fri, 3 Feb 2023 07:31:47 +0100
+Received: from Palace.adm.skm.vutbr.cz (147.229.185.55) by
+ Palace.adm.skm.vutbr.cz (147.229.185.55) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2507.17; Fri, 3 Feb 2023 07:31:47 +0100
+Received: from Palace.adm.skm.vutbr.cz ([::1]) by Palace.adm.skm.vutbr.cz
+ ([::1]) with mapi id 15.01.2507.017; Fri, 3 Feb 2023 07:31:47 +0100
+From: =?utf-8?B?xIxhZG92w6EgQW5uYQ==?= <cadova@skm.vutbr.cz>
+To: "'Botlo Filip'" <xbotlo01@stud.fit.vutbr.cz>
+Subject: RE: Ziadost o kratkodobe ubytovanie na akademicky kurz
+Thread-Topic: Ziadost o kratkodobe ubytovanie na akademicky kurz
+Thread-Index: AQHZNxvmCnbjtYDmqke3kunmw0wQNK68w4Yw
+Date: Fri, 3 Feb 2023 06:31:47 +0000
+Message-ID: <1998409f51d9449386d8ab9092630cdb@skm.vutbr.cz>
+References: <2de6a22c1ac2caf37b29a99e37a94de4@stud.fit.vutbr.cz>
+In-Reply-To: <2de6a22c1ac2caf37b29a99e37a94de4@stud.fit.vutbr.cz>
+Accept-Language: cs-CZ, en-US
+Content-Language: cs-CZ
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [147.229.184.50]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-Spam-Status: No, score=1.275 required=7 tests=AWL,RDNS_NONE
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+RG9icsO9IGRlbiwgDQpWw6HFoSBwb8W+YWRhdmVrIGpzZW0gcMWZZXBvc2xhbGEgbmEgb2RkxJts
+ZW7DrSB1Ynl0b3bDoW7DrSBrIHByb2plZG7DoW7DrS4gTnluw60gamXFoXTEmyBuZW7DrSByb3po
+b2RudXRvLCB6ZGEgUHVya3nFiG92eSBrb2xlamUgYnVkb3UgcMWZZXMgcHLDoXpkbmlueSB2IHBy
+b3ZvenUuDQpTwqBwb3pkcmF2ZW0gDQpBbm5hIMSMYWRvdsOhIOKAkyBwcm92b3puw60gQjA1K0Iw
+Nw0KDQoNCg0KLS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS0NCkZyb206IEJvdGxvIEZpbGlwIDx4
+Ym90bG8wMUBzdHVkLmZpdC52dXRici5jej4gDQpTZW50OiBUaHVyc2RheSwgRmVicnVhcnkgMiwg
+MjAyMyA0OjM1IFBNDQpUbzogcHJvdm96LnB1cmstYjA3IDxwcm92b3oucHVyay1iMDdAYWRtLnNr
+bS52dXRici5jej4NClN1YmplY3Q6IFppYWRvc3QgbyBrcmF0a29kb2JlIHVieXRvdmFuaWUgbmEg
+YWthZGVtaWNreSBrdXJ6DQoNCkRvYnLDvSBkZcWILA0KDQprb250YWt0dWplbSBWw6FzIGFrbyDF
+oXR1ZGVudCBWVVQgYSB6w6Fyb3ZlxYggxI1sZW4gxaF0dWRlbnRza2VqIG9yZ2FuaXrDoWNpZSBC
+RVNUIEJybm8sIGt0b3LDoSBww7Rzb2LDrSBwb2Qgb2RkZWxlbsOtbSBpbnRlcm5hY2lvbmFsaXrD
+oWNpZSBWVVQuDQoNClBvxI1hcyBsZXRhIDIwMjMsIGtvbnLDqXRuZSB2IHRlcm3DrW5lIDkuLSAx
+Ni4wNy4yMDIzIGJ5IHNtZSBjaGNlbGkgb3JnYW5pem92YcWlIGFrYWRlbWlja8O9IGt1cnogYSBt
+w6FtZSB2IHrDoXVqZW0gb2JqZWRuYcWlIHNpIDEwIGl6aWViIHByZSAyNg0KxL51ZMOtKDggM2l6
+Ym92w71jaCBhIDIgMml6Ym92w6kpICBuYSBQdXJrecWIb3Z5Y2gga29sZWrDrWNoLg0KDQpaYXVq
+w61tYSBtYSBwcmV0byBkb3N0dXBub3PFpSBpemllYiBhIGNlbmEgdiB0b210byB0ZXJtw61uZS4N
+Cg0KVm9wcmVkIFbDoW0gxI9ha3VqZW0gemEgb2Rwb3ZlxI8uDQoNCg0KUyBwb3pkcmF2b20sDQpG
+aWxpcCBCb3Rsbw0K

@@ -1,0 +1,39 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 2AG9k4pi017110
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 16 Nov 2022 10:46:04 +0100 (CET)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id BBD3910120C
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 16 Nov 2022 10:46:00 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz BBD3910120C
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1668591960;
+	bh=D/1IXLgH1S5bkPMOm+EqTHjLf225G4RMLNtwBMcaM3U=; l=596;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=Y2g0pXMyaaaLE0BODjSBQZ/XTkOVk5pNINnWmI9MtXa/Pb1SUsX2pXv5FBJzAUNUp
+	 u7PpnCW9ECRFDAgeHGdI2+8UPSHnn5Spk/VML1DiGN1Q0ieLC5g+ZOfITLvZ7RBEeG
+	 OT5MA4IGcS5Hnsc32csG4mYc69TDOPyGnTWPXguY=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id BAD2430637E2; Wed, 16 Nov 2022 10:46:00 +0100 (CET)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogSW5nLiBKYW4gWmF2xZllbCAoaWQgMTk2MzY4KQ==?= <zpravy-is@vutbr.cz>
+Reply-to: izavrel@fit.vut.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?SG9kbm9jZW7DrSBzdHVkZW50YQ==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Message-Id: <20221116094600.BAD2430637E2@emu.ro.vutbr.cz>
+Date: Wed, 16 Nov 2022 10:46:00 +0100 (CET)
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+QnlsbyBWw6FtIG9wcmF2ZW5vIGhvZG5vY2Vuw60geiBwxZllZG3Em3R1OiBaw6FrbGFkeSBwcm9n
+cmFtb3bDoW7DrQpaYWTDoW7DrTogw5p0ZXLDvSAxNjowMCB2IEIvTjEwMwpVZMSbbGVuw6kgYm9k
+eTogNS4wMAoKQ2Vsa292w6kgaG9kbm9jZW7DrSBwxZllZG3Em3R1OiAxMCBib2TFryAKSG9kbm9j
+ZW7DrSBwcm92ZWRsOiBJbmcuIEphbiBaYXbFmWVsLCBkbmU6IDI5LjA5LjIwMjIKClZVVCB6cHLD
+oXZhIG9kOiBJbmcuIEphbiBaYXbFmWVsIGl6YXZyZWxAZml0LnZ1dC5jeiAoaWQgMTk2MzY4KQpP
+ZHBvdsSbxI8gamUgbW/Fvm7DoSBwb21vY8OtIFZVVCB6cHLDoXYgLSBwb3XFvmlqdGUgcHJvc8Ot
+bSBuw6FzbGVkdWrDrWPDrSBvZGthejoKaHR0cHM6Ly93d3cudnV0LmN6L2ludHJhL3Z1dC16cHJh
+dnk/YWN0aW9uPW5vdmEmb2Rwb3ZlZF9uYT0xNzcxNDk0Nwo=

@@ -1,0 +1,53 @@
+Return-Path: <bidlom@fit.vut.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 30NEbow2030786
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vut.cz>; Mon, 23 Jan 2023 15:37:50 +0100 (CET)
+	(envelope-from bidlom@fit.vut.cz)
+Received: from [IPV6:2001:67c:1220:80c:1ac0:4dff:fe61:ee84] ([IPv6:2001:67c:1220:80c:1ac0:4dff:fe61:ee84])
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 30NEbnn3066985
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+	for <xbotlo01@stud.fit.vut.cz>; Mon, 23 Jan 2023 15:37:50 +0100 (CET)
+	(envelope-from bidlom@fit.vut.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vutbr.cz; s=mx1;
+	t=1674484670; bh=LXt+lqQXkhPujW0023VV8k6dcMip4TsuOJxPYOPJtUY=;
+	h=Date:Subject:To:References:From:In-Reply-To;
+	b=d3PzGbDLHOSBpy+GgDp7S96C43XZwb0T6b6yQ3FK7KJ1zU2PPglwnPS+co+yTxuC5
+	 TrKQhnv8x17iurL8V8vyGif7NzvMkzNNUm1IVdn6yntw0DGrvCuRDQnJWli/XuPBkH
+	 17DxaHxl5fYRaijEUNqbZ1upCZGuDbKCu8Xxy15I=
+Message-ID: <93cc7a54-79ce-82e5-085b-0a806faa5ce7@fit.vutbr.cz>
+Date: Mon, 23 Jan 2023 15:37:49 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101
+ Thunderbird/102.3.0
+Subject: =?UTF-8?Q?Re=3a_Letn=c3=bd_ademick=c3=bd_kurz_s_BESTom?=
+Content-Language: en-US
+To: xbotlo01@stud.fit.vutbr.cz
+References: <20230123135229.DE0D8307C561@emu.ro.vutbr.cz>
+From: Michal Bidlo <bidlom@fit.vutbr.cz>
+In-Reply-To: <20230123135229.DE0D8307C561@emu.ro.vutbr.cz>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=-1.974 required=7 tests=ALL_TRUSTED,AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HEADER_FROM_DIFFERENT_DOMAINS,NICE_REPLY_A
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+Pane kolego,
+
+konzultaci k tomuto tématu určitě dát můžeme, zvolte si termín a zapište 
+se prosím sem:
+
+https://ehw.fit.vutbr.cz/rezervace/bidlom
+
+Zdraví
+Michal Bidlo
+
+
+Dne 23. 01. 23 v 14:52 ZPRÁVY IS: Filip Botlo (id 238667) napsal(a):
+> Dobrý deň pán doktor Bidlo,
+> som členom medzinárodnej študentskej organizácie BEST (Board of European Students of Technology) a každoročne organizujeme akademický kurz pre študentov z Európy. Tento rok by sme radi spravili kurz zameraný na mikrokontrolery a senzory, ideálne zostavenie a programovanie mobilných robotov. Na mail z Ústavu počítačových systémov zatiaľ nereagovali a píšem práve Vám kvôli vašej prezentácii auta detekujúceho bariéry na Noci vědců a skúsenostiam z labákov :D. Bolo by možné s Vami mať krátku schôdzku alebo prípadne predať info o záujme o kurz na ústave?
+> Vopred ďakujem za odpoveď.
+>
+> VUT zpráva od: Filip Botlo xbotlo01@stud.fit.vut.cz (id 238667)
+> Odpověď je možná pomocí VUT zpráv - použijte prosím následující odkaz:
+> https://www.vut.cz/intra/vut-zpravy?action=nova&odpoved_na=18282393

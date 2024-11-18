@@ -1,0 +1,230 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 2AANKBO5003096
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 11 Nov 2022 00:20:11 +0100 (CET)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 21A9A104A5C
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 11 Nov 2022 00:18:08 +0100 (CET)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id 741EE305AF5E
+	for <xbotlo01@stud.fit.vut.cz>; Fri, 11 Nov 2022 00:18:06 +0100 (CET)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 1F87B105EB11; Fri, 11 Nov 2022 00:18:08 +0100 (CET)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: IZP 22/23Z (231045): Implementace -DNDEBUG
+Date: Fri, 11 Nov 2022 00:18:08 +0100
+From: "=?utf-8?B?VGVzYcWZIEx1a8OhxaEgcMWZZXMgRS1MRUFSTklORyBWVVQ=?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <92a44959646f743ecb7ba7f3eda83cc4dd17779392afa790705ad56e872a05d3@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: =?utf-8?B?IklaUCAtIGRpc2t1emUgayBwcm9qZWt0dSDEjS4gMiIgPG1vb2RsZWZvcnU=?=
+ =?utf-8?B?bTgyMDlAbW9vZGxlLnZ1dC5jej4=?=
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=8209
+X-Course-Id: 231045
+X-Course-Name: =?utf-8?B?WsOha2xhZHkgcHJvZ3JhbW92w6Fuw60gKElaUCAyMi8yM1op?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=8209&d=1394>
+Thread-Topic: IZP 22/23Z (231045): Implementace -DNDEBUG
+Thread-Index: 92a44959646f743ecb7ba7f3eda8
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_wVBYQrJGwJQVc2xeUDiyTC0uVGV7w0z0nGh8Xwj6c"
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_wVBYQrJGwJQVc2xeUDiyTC0uVGV7w0z0nGh8Xwj6c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIZP 22/23Z (231045) -> F=C3=B3ra -> IZP - diskuze k projektu =C4=8D. 2 -=
+>=0AImplementace -DNDEBUG=0Ahttps://moodle.vut.cz/mod/forum/discuss.php?d=
+=3D1394#p2118=0AImplementace -DNDEBUG=0Aautor Tesa=C5=99 Luk=C3=A1=C5=A1 - =
+=C4=8Ctvrtek, 10. listopadu 2022, 23.59=0A---------------------------------=
+------------------------------------=0ATL;DR Referen=C4=8Dn=C3=AD implement=
+ace DNDEBUG z p=C5=99edn=C3=A1=C5=A1ek neprojde kompilac=C3=AD=0As -Wall.=
+=0A=0ADobr=C3=BD den,=C2=A0=0Av zad=C3=A1n=C3=AD stoj=C3=AD:=0A=0AP=C5=
+=99eklad: Program bude p=C5=99ekl=C3=A1d=C3=A1n s n=C3=A1sleduj=C3=ADc=
+=C3=ADmi argumenty=0A=0A$=C2=A0gcc=C2=A0-std=3Dc99=C2=A0-Wall=C2=A0-Wextra=
+=C2=A0-Werror=C2=A0-DNDEBUG=C2=A0cluster.c=C2=A0-o=C2=A0cluster=C2=A0-lm=0A=
+=0ADefinice makra NDEBUG (argument -DNDEBUG) je z d=C5=AFvodu anulov=C3=
+=A1n=C3=AD efektu=0Aladic=C3=ADch informac=C3=AD.=0A=0APokusil jsem se o je=
+dnoduchou uk=C3=A1zkovou implementaci logov=C3=A1n=C3=AD toto=C5=BEn=C3=
+=BDm=0Azp=C5=AFsobem, jako to bylo uk=C3=A1z=C3=A1no na p=C5=99edn=C3=A1=
+=C5=A1ce [1]=C2=A0(slide =C4=8D. 29):=0A=0A#include=C2=A0=0A#include=C2=
+=A0=0A=0A/*=C2=A0Debugging=C2=A0*/=0A#ifndef=C2=A0NDEBUG=0A#define=C2=A0pme=
+sg(s,=C2=A0...)=C2=A0fprintf(stderr,=C2=A0__FILE__=C2=A0":%u:=C2=A0"=C2=
+=A0s=C2=A0"\n",=C2=A0__LINE__,=C2=A0__VA_ARGS__)=0A#else=0A#define=C2=A0pme=
+sg(...)=C2=A0(0)=0A#endif=0A=0Aint=C2=A0main(void)=0A{=0A=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0pmesg("Entering=C2=A0main...=C2=A0%s",=
+=C2=A0"\n");=0A=0A=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0return=
+=C2=A00;=0A}=0A=0AS p=C5=99ep=C3=ADna=C4=8Di _-Wall_ a _-DNDEBUG_ (p=C5=
+=99esn=C4=9B tak, jak vel=C3=AD zad=C3=A1n=C3=AD)=0Av=C5=A1ak p=C5=99eklada=
+=C4=8D s n=C3=A1sleduj=C3=ADc=C3=ADm upozorn=C4=9Bn=C3=ADm (resp. chybou)=
+=0ANEDOVOL=C3=8D=C2=A0k=C3=B3d zkompilovat:=C2=A0=0A=0A~/p/debug_test=C2=
+=A0$=C2=A0gcc=C2=A0-std=3Dc99=C2=A0-Wall=C2=A0-Wextra=C2=A0-Werror=C2=A0-DN=
+DEBUG=C2=A0debug_test.c=C2=A0-o=C2=A0debug_test=0Adebug_test.c:=C2=A0In=
+=C2=A0function=C2=A0=E2=80=98main=E2=80=99:=0Adebug_test.c:6:20:=C2=A0error=
+:=C2=A0statement=C2=A0with=C2=A0no=C2=A0effect=C2=A0[-Werror=3Dunused-value=
+]=0A=C2=A0=C2=A0=C2=A0=C2=A06=C2=A0|=C2=A0#define=C2=A0pmesg(...)=C2=A0(0)=
+=0A=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0|=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0^=0Adebug_test.c:11:9:=C2=A0note:=C2=A0in=C2=A0expansion=
+=C2=A0of=C2=A0macro=C2=A0=E2=80=98pmesg=E2=80=99=0A=C2=A0=C2=A0=C2=A011=
+=C2=A0|=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0pmesg("Enterin=
+g=C2=A0main...=C2=A0%s",=C2=A0"\n");=0A=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0|=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0^~~~~=0Acc1:=
+=C2=A0all=C2=A0warnings=C2=A0being=C2=A0treated=C2=A0as=C2=A0errors=0A~/p/d=
+ebug_test=C2=A0[1]$=C2=A0=0A=0As od=C5=AFvodn=C4=9Bn=C3=ADm, =C5=BEe nastav=
+en=C3=AD _-__NDEBUG_ vyprodukuje na v=C5=A1ech=0Am=C3=ADstech, kde je pou=
+=C5=BEito makro pmesg(...), v=C3=BDraz bez re=C3=A1ln=C3=A9ho=0Aefektu.=
+=C2=A0S t=C3=ADmto probl=C3=A9mem jsem se setkal i u p=C5=99edchoz=C3=ADho =
+projektu, a=0Aproto jsem nakonec debugging z v=C3=BDsledn=C3=A9 verze =
+=C3=9APLN=C4=9A ODSTRANIL.=C2=A0=0APokud odstran=C3=ADm kter=C3=BDkoliv z p=
+=C5=99ep=C3=ADna=C4=8D=C5=AF _-NDEBUG_ =C4=8Di _-Wall_, soubor=0Aje zkompil=
+ov=C3=A1n bez warning=C5=AF:=0A=0A~/p/debug_test=C2=A0$=C2=A0gcc=C2=A0-std=
+=3Dc99=C2=A0-Wall=C2=A0-Wextra=C2=A0-Werror=C2=A0debug_test.c=C2=A0-o=C2=
+=A0debug_test=0A~/p/debug_test=C2=A0$=C2=A0gcc=C2=A0-std=3Dc99=C2=A0-Wextra=
+=C2=A0-Werror=C2=A0-DNDEBUG=C2=A0debug_test.c=C2=A0-o=C2=A0debug_test=0A~/p=
+/debug_test=C2=A0$=C2=A0=0A=0AM=C3=A1m za to, =C5=BEe podle na=C5=A1ich dos=
+avadn=C3=ADch znalost=C3=AD a informac=C3=AD=0Avypl=C3=BDvaj=C3=ADc=C3=
+=ADch ze zad=C3=A1n=C3=AD projekt NELZE KOREKTN=C4=9A IMPLEMENTOVAT (s plno=
+u=0Afunk=C4=8Dnost=C3=AD makra _NDEBUG_).=0A=0APros=C3=ADm o vysv=C4=9Btlen=
+=C3=AD zp=C5=AFsobu, jak toto (p=C5=99edpokl=C3=A1d=C3=A1m korektn=C3=AD)=
+=0Achov=C3=A1n=C3=AD p=C5=99eklada=C4=8De obej=C3=ADt.=0ASoubor s ref. impl=
+ementac=C3=AD zas=C3=ADl=C3=A1m v p=C5=99=C3=ADloze.=0A=0AD=C4=9Bkuji,=0ALu=
+k=C3=A1=C5=A1 Tesa=C5=99=0A=0ALinks:=0A------=0A[1]=0Ahttps://moodle.vut.cz=
+/pluginfile.php/467065/mod_folder/content/0/7s-ladeni-programu.pdf=0A=0AP=
+=C5=99=C3=ADloha debug_test.c:=0Ahttps://moodle.vut.cz/pluginfile.php/49493=
+4/mod_forum/attachment/2118/debug_test.c=0A=0A-----------------------------=
+----------------------------------------=0AToto je kopie zpr=C3=A1vy zve=
+=C5=99ejn=C4=9Bn=C3=A9 na IZP 22/23Z (231045) .=0A=0AChcete-li odpov=C4=
+=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahttps://moodle.vut.cz/mod/forum=
+/post.php?reply=3D2118=0AOdhl=C3=A1sit se z f=C3=B3ra: https://moodle.vut.c=
+z/mod/forum/subscribe.php?id=3D8209=0AOdhl=C3=A1sit se z diskuse:=0Ahttps:/=
+/moodle.vut.cz/mod/forum/subscribe.php?id=3D8209&d=3D1394=0AZm=C4=9Bnit nas=
+taven=C3=AD voleb f=C3=B3ra:=0Ahttps://moodle.vut.cz/mod/forum/index.php?id=
+=3D231045=0A
+--b1_wVBYQrJGwJQVc2xeUDiyTC0uVGV7w0z0nGh8Xwj6c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231045">IZP 22/23Z (231045)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231045">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D8209">IZP - diskuze k projektu=
+ =C4=8D. 2</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moo=
+dle.vut.cz/mod/forum/discuss.php?d=3D1394">Implementace -DNDEBUG</a>=0A</di=
+v>=0A=0A<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"fo=
+rumpost">=0A    <tr class=3D"header">=0A        <td width=3D"35" valign=3D"=
+top" class=3D"picture left">=0A            <a href=3D"https://moodle.vut.cz=
+/user/view.php?id=3D250419&amp;course=3D231045" class=3D"d-inline-block aab=
+tn"><img src=3D"https://moodle.vut.cz/theme/image.php/_s/vut/core/165764846=
+9/u/f2" class=3D"userpicture defaultuserpic" width=3D"35" height=3D"35" alt=
+=3D"Obr=C3=A1zek: Tesa=C5=99 Luk=C3=A1=C5=A1" title=3D"Obr=C3=A1zek: Tesa=
+=C5=99 Luk=C3=A1=C5=A1" /></a>=0A        </td>=0A        <td class=3D"topic=
+ starter">=0A            <div class=3D"subject">=0A                Implemen=
+tace -DNDEBUG=0A            </div>=0A            <div class=3D"author">=0A =
+               autor <a target=3D'_blank' href=3D'https://moodle.vut.cz/use=
+r/view.php?id=3D250419&course=3D231045'>Tesa=C5=99 Luk=C3=A1=C5=A1</a> - =
+=C4=8Ctvrtek, 10. listopadu 2022, 23.59=0A            </div>=0A        </td=
+>=0A    </tr>=0A    <tr>=0A        <td class=3D"left side" valign=3D"top">=
+=0A                &nbsp;=0A        </td>=0A        <td class=3D"content">=
+=0A                <div class=3D"attachments">=0A                    <a hre=
+f=3D"https://moodle.vut.cz/pluginfile.php/494934/mod_forum/attachment/2118/=
+debug_test.c"><img class=3D"icon icon" alt=3D"Textov=C3=BD soubor" title=3D=
+"Textov=C3=BD soubor" src=3D"https://moodle.vut.cz/theme/image.php/_s/vut/c=
+ore/1657648469/f/sourcecode" /></a> <a href=3D"https://moodle.vut.cz/plugin=
+file.php/494934/mod_forum/attachment/2118/debug_test.c">debug_test.c</a><br=
+ />=0A                </div>=0A            <p dir=3D"ltr" style=3D"text-ali=
+gn:left;"><strong>TL;DR</strong> Referen=C4=8Dn=C3=AD implementace DNDEBUG =
+z p=C5=99edn=C3=A1=C5=A1ek neprojde kompilac=C3=AD s -Wall.</p><p dir=3D"lt=
+r" style=3D"text-align:left;">Dobr=C3=BD den,=C2=A0<br /><span style=3D"fon=
+t-size:.9375rem;">v zad=C3=A1n=C3=AD stoj=C3=AD:</span></p><p dir=3D"ltr" s=
+tyle=3D"text-align:left;"></p><div class=3D"editor-indent" style=3D"margin-=
+left:30px;"><div class=3D"editor-indent" style=3D"margin-left:30px;"><cite>=
+</cite><p>P=C5=99eklad: Program bude p=C5=99ekl=C3=A1d=C3=A1n s n=C3=A1sled=
+uj=C3=ADc=C3=ADmi argumenty</p></div><div class=3D"editor-indent" style=3D"=
+margin-left:30px;"><cite></cite><pre>$ gcc -std=3Dc99 -Wall -Wextra -Werror=
+ -DNDEBUG cluster.c -o cluster -lm</pre></div><div class=3D"editor-indent" =
+style=3D"margin-left:30px;">Definice makra NDEBUG (argument -DNDEBUG) je z =
+d=C5=AFvodu anulov=C3=A1n=C3=AD efektu ladic=C3=ADch informac=C3=AD.</div><=
+/div><cite></cite><p></p>Pokusil jsem se o jednoduchou uk=C3=A1zkovou imple=
+mentaci logov=C3=A1n=C3=AD toto=C5=BEn=C3=BDm zp=C5=AFsobem, jako to bylo u=
+k=C3=A1z=C3=A1no <a href=3D"https://moodle.vut.cz/pluginfile.php/467065/mod=
+_folder/content/0/7s-ladeni-programu.pdf">na p=C5=99edn=C3=A1=C5=A1ce</a>=
+=C2=A0(slide =C4=8D. 29):<br /><br /><pre>#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+
+/* Debugging */
+#ifndef NDEBUG
+#define pmesg(s, ...) fprintf(stderr, __FILE__ ":%u: " s "\n", __LINE__, __=
+VA_ARGS__)
+#else
+#define pmesg(...) (0)
+#endif
+
+int main(void)
+{
+        pmesg("Entering main... %s", "\n");
+
+        return 0;
+}</pre><p>S p=C5=99ep=C3=ADna=C4=8Di <em>-Wall</em> a <em>-DNDEBUG</em> (p=
+=C5=99esn=C4=9B tak, jak vel=C3=AD zad=C3=A1n=C3=AD) v=C5=A1ak p=C5=99eklad=
+a=C4=8D s n=C3=A1sleduj=C3=ADc=C3=ADm upozorn=C4=9Bn=C3=ADm (resp. chybou) =
+<strong>nedovol=C3=AD</strong>=C2=A0k=C3=B3d zkompilovat:=C2=A0</p><pre>~/p=
+/debug_test $ gcc -std=3Dc99 -Wall -Wextra -Werror -DNDEBUG debug_test.c -o=
+ debug_test
+debug_test.c: In function =E2=80=98main=E2=80=99:
+debug_test.c:6:20: error: statement with no effect [-Werror=3Dunused-value]
+    6 | #define pmesg(...) (0)
+      |                    ^
+debug_test.c:11:9: note: in expansion of macro =E2=80=98pmesg=E2=80=99
+   11 |         pmesg("Entering main... %s", "\n");
+      |         ^~~~~
+cc1: all warnings being treated as errors
+~/p/debug_test [1]$ <br /></pre><p>s od=C5=AFvodn=C4=9Bn=C3=ADm, =C5=BEe na=
+staven=C3=AD <em>-</em><em>NDEBUG</em> vyprodukuje na v=C5=A1ech m=C3=ADste=
+ch, kde je pou=C5=BEito makro pmesg(...), v=C3=BDraz bez re=C3=A1ln=C3=
+=A9ho efektu.=C2=A0<span style=3D"font-size:.9375rem;">S t=C3=ADmto probl=
+=C3=A9mem jsem se setkal i u p=C5=99edchoz=C3=ADho projektu, a proto jsem n=
+akonec debugging z v=C3=BDsledn=C3=A9 verze <strong>=C3=BApln=C4=9B odstran=
+il</strong>.=C2=A0<br />Pokud odstran=C3=ADm kter=C3=BDkoliv z p=C5=99ep=
+=C3=ADna=C4=8D=C5=AF <em>-NDEBUG</em> =C4=8Di <em>-Wall</em>, soubor je zko=
+mpilov=C3=A1n bez warning=C5=AF:</span></p><pre><span><span style=3D"font-s=
+ize:15px;">~/p/debug_test $ gcc -std=3Dc99 -Wall -Wextra -Werror debug_test=
+.c -o debug_test
+~/p/debug_test $ gcc -std=3Dc99 -Wextra -Werror -DNDEBUG debug_test.c -o de=
+bug_test
+~/p/debug_test $=20
+</span></span></pre><p>M=C3=A1m za to, =C5=BEe podle na=C5=A1ich dosavadn=
+=C3=ADch znalost=C3=AD a informac=C3=AD vypl=C3=BDvaj=C3=ADc=C3=ADch ze zad=
+=C3=A1n=C3=AD projekt <strong>nelze korektn=C4=9B implementovat</strong> (s=
+ plnou funk=C4=8Dnost=C3=AD makra <em>NDEBUG</em>).</p><p>Pros=C3=ADm o vys=
+v=C4=9Btlen=C3=AD zp=C5=AFsobu, jak toto (p=C5=99edpokl=C3=A1d=C3=A1m korek=
+tn=C3=AD) chov=C3=A1n=C3=AD p=C5=99eklada=C4=8De obej=C3=ADt.<br />Soubor s=
+ ref. implementac=C3=AD zas=C3=ADl=C3=A1m v p=C5=99=C3=ADloze.</p><p>D=
+=C4=9Bkuji, <br />Luk=C3=A1=C5=A1 Tesa=C5=99</p><p></p>=0A=0A            <d=
+iv class=3D"commands">=0A                    <a target=3D"_blank" href=3D"h=
+ttps://moodle.vut.cz/mod/forum/post.php?reply=3D2118">=0A                  =
+      Odpov=C4=9Bd=C4=9Bt=0A                    </a>=0A            </div>=
+=0A=0A            <div class=3D"link">=0A                <a target=3D"_blan=
+k" href=3D"https://moodle.vut.cz/mod/forum/discuss.php?d=3D1394#p2118">=0A =
+                   Uk=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A      =
+          </a>=0A            </div>=0A        </td>=0A    </tr>=0A</table>=
+=0A=0A<hr />=0A<div class=3D"mdl-align unsubscribelink">=0A    <a href=3D"h=
+ttps://moodle.vut.cz/mod/forum/subscribe.php?id=3D8209">Neodeb=C3=ADrat p=
+=C5=99=C3=ADsp=C4=9Bvky z tohoto f=C3=B3ra</a>&nbsp;=0A    <a href=3D"https=
+://moodle.vut.cz/mod/forum/subscribe.php?id=3D8209&d=3D1394">Vypnout odeb=
+=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&=
+nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/index.php?id=3D23104=
+5">Zm=C4=9Bna nastaven=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_wVBYQrJGwJQVc2xeUDiyTC0uVGV7w0z0nGh8Xwj6c--

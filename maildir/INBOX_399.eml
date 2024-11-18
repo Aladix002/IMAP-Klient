@@ -1,0 +1,43 @@
+Return-Path: <noreply@github.com>
+Received: from out-22.smtp.github.com (out-22.smtp.github.com [192.30.252.205])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 31QIexWZ041968
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vut.cz>; Sun, 26 Feb 2023 19:40:59 +0100 (CET)
+	(envelope-from noreply@github.com)
+Received: from github.com (hubbernetes-node-de53a38.ac4-iad.github.net [10.52.131.21])
+	by smtp.github.com (Postfix) with ESMTPA id 2F3DF720476
+	for <xbotlo01@stud.fit.vut.cz>; Sun, 26 Feb 2023 10:40:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1677436858;
+	bh=D2HbmhHIXk9Ujjq2fANNK9z2loQAe3H3sZ6Q9/aTU6U=;
+	h=Date:From:To:Subject:From;
+	b=q4hsm5dH4dwBqeVYfMGl0kSUp5G8EZKFiY3cZjZBm7fWyCGzIJWb8l+/HXT6AFyH+
+	 /nVP7VwAnMdM7FHOPiReLwQszoEryL4YnKjuxgq8NQFzgAA6iZn2TJ4Nho9zda/TWp
+	 eRFFH1eQbmYRyR9/d9tsJefbDj6a4gRA6vUcynBQ=
+Date: Sun, 26 Feb 2023 10:40:58 -0800
+From: GitHub <noreply@github.com>
+To: Aladix002 <xbotlo01@stud.fit.vutbr.cz>
+Message-ID: <63fba7ba2db53_9be0c5bc7983b@lowworker-6dd587bf56-bxgwd.mail>
+Subject: [GitHub] A third-party OAuth application has been added to your
+ account
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Auto-Response-Suppress: All
+X-Spam-Status: No, score=-3.146 required=7 tests=AWL,DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,RCVD_IN_DNSWL_MED,RCVD_IN_MSPIKE_H2
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+Hey Aladix002!
+
+
+
+A third-party OAuth application (JetBrains Account) with read:user and user:email scopes was recently authorized to access your account.
+Visit https://github.com/settings/connections/applications/5b308a169444ecb85e3f for more information.
+
+To see this and other security events for your account, visit https://github.com/settings/security-log
+
+If you run into problems, please contact support by visiting https://github.com/contact
+
+Thanks,
+The GitHub Team

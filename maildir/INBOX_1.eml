@@ -1,0 +1,46 @@
+Return-Path: <toasterrubbergod@gmail.com>
+Received: from mail-ed1-x52b.google.com (mail-ed1-x52b.google.com [IPv6:2a00:1450:4864:20:0:0:0:52b])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTPS id 25JIC5IN045845
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vutbr.cz>; Sun, 19 Jun 2022 20:12:06 +0200 (CEST)
+	(envelope-from toasterrubbergod@gmail.com)
+Received: by mail-ed1-x52b.google.com with SMTP id eq6so4922591edb.6
+        for <xbotlo01@stud.fit.vutbr.cz>; Sun, 19 Jun 2022 11:12:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=message-id:date:from:subject;
+        bh=VR9t5u7oRwblcRyvsAn/4nbUqYLV8CtrYuFfpjalUAA=;
+        b=aRf9jwL5/WSMi0Eo1S0tkmun9/UqlbRUq1/FEook3qA+kRHFgkfOOVXtDTbVhMaROD
+         LYVW7zY20AFNhIuWVo5Y9dojK7OD0r77ec9u2GcZo/DDCYDR3nPzLRhnhgLMefQfzAGH
+         yhaoxRRKCYqHKPGs+8c8EqGUtIzShLdITH1WPqV9+1ajAmLf1n5VjPpi3Kv91rX0m8pa
+         6Qbjq4/269YkY91XRBk8cN1jpBr6FZcJTc7YA6gnspPSm581pw1X4xV2SA37V45bmx33
+         wWA5ttVCpXDk0pUWA8wTGruBQPtHthWwRO7571XRIPG5MhEmZYv+hnK7MjilgSOGUf2T
+         mtBQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:message-id:date:from:subject;
+        bh=VR9t5u7oRwblcRyvsAn/4nbUqYLV8CtrYuFfpjalUAA=;
+        b=pWz//Xm3zEsHGD5x4qxPUTK76etzUDzy25t2JdP31nmY7ygkYNiKGDRRb4GDfw/FSZ
+         tiM5jcp5X+TmUBxdy9G5CPwmtFjzWsI9ehdXn9ywJUIYGpG0tUjjrQ9Nsj/r+IGupAKY
+         Y4oGeSopi6adweCI4cLyavs/sfBJrWmO9pKy1r1ssD1sNw8GI+WG7c2C4o/ou0a+cmGZ
+         gQTK6dUjbAnZmVRHjrzJRzoRcBWaHlEtDe+R3cTCisatSEToRul50zAPmPEVovvYcuPS
+         7MCfv4tNNz3MIFSmGvMw71MoRMzhPX8IxIskAQeRDcsIc5PDH7+QJYftSttRGhue9WUs
+         Nlrg==
+X-Gm-Message-State: AJIora+I5GtX2w6/do3lPjx0AfxYdTmxRt4aKnY7NX42nN4ODZlqozCo
+	nk9jiwoWD19tUmI+UD8RJHsFUGEflOV7Iw==
+X-Google-Smtp-Source: AGRyM1tft0qsh5AWNoZCEK+V4AWQPFLibcari3J3smfoRVlOpTBxXbsJS9qPlEhVnkpGhmaZpONmiw==
+X-Received: by 2002:a05:6402:51d3:b0:431:6c7b:c35 with SMTP id r19-20020a05640251d300b004316c7b0c35mr25400280edd.28.1655662325125;
+        Sun, 19 Jun 2022 11:12:05 -0700 (PDT)
+Received: from [127.0.1.1] (su-dev.fit.vutbr.cz. [2001:67c:1220:8b0::93e5:b1b5])
+        by smtp.gmail.com with ESMTPSA id h7-20020a05640250c700b004315f96fd24sm8651140edb.31.2022.06.19.11.12.04
+        for <xbotlo01@stud.fit.vutbr.cz>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Sun, 19 Jun 2022 11:12:04 -0700 (PDT)
+Message-ID: <62af66f4.1c69fb81.e34d0.0556@mx.google.com>
+Date: Sun, 19 Jun 2022 11:12:04 -0700 (PDT)
+From: toasterrubbergod@gmail.com
+Subject: FIT Discord verifikace
+X-Spam-Status: No, score=1.009 required=7 tests=DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,FREEMAIL_FROM,MISSING_HEADERS,RCVD_IN_DNSWL_NONE,TVD_SPACE_RATIO
+X-Spam-Checker-Version: SpamAssassin 3.4.5 (2021-03-20) on eva.fit.vutbr.cz
+
+?verify xbotlo01 SGRCVIBA57FT4UC0FCGL

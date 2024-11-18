@@ -1,0 +1,41 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vut.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 2B5Gr4cr050038
+	for <xbotlo01@stud.fit.vut.cz>; Mon, 5 Dec 2022 17:53:04 +0100 (CET)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id A10C710B2CD
+	for <xbotlo01@stud.fit.vut.cz>; Mon,  5 Dec 2022 17:53:01 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz A10C710B2CD
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1670259181;
+	bh=dp6JccF2ELgRI4NrS4rNihi3xZSWmo8ZACy9dzrJvGU=; l=720;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=Gnqystk5VLr/5Oaq8s0NapDhdLnQFq3LpHo4XhsutF4xvAtSq4lNvAzIp/B23E47S
+	 IxkY0+HLZ6N0jmzsyOZvZdkaY++me8WhclO+lv8DKQe2DEOZHGwEOBQJxXiW+ZZINW
+	 +KZX9Ruy2CYtYrNS1qXeuNLGRVJSkK1RwbNuZjxw=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id A00FD30637AA; Mon,  5 Dec 2022 17:53:01 +0100 (CET)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogZG9jLiBJbmcuIFZsYWRpbcOtciBKYW5vdcWhZWssIFBoLkQuIChpZCAyMTkxKQ==?= <zpravy-is@vutbr.cz>
+Reply-to: janousek@fit.vut.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?SG9kbm9jZW7DrSBzdHVkZW50YQ==?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <20221205165301.A00FD30637AA@emu.ro.vutbr.cz>
+Date: Mon,  5 Dec 2022 17:53:01 +0100 (CET)
+X-Spam-Status: No, score=-0.125 required=7 tests=AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQnlsIGpzdGUgaG9kbm9jZW4geiBwxZll
+ZG3Em3R1OiDDmnZvZCBkbyBzb2Z0d2Fyb3bDqWhvIGluxb5lbsO9cnN0dsOtCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgaG9kbm9jZW7DrW06IDMuCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgSG9kbm9jZW7DrSBwcm92ZWRsOiBkb2MuIEluZy4gVmxhZGltw61yIEphbm91
+xaFlaywgUGguRC4gZG5lOiAwNS4xMi4yMDIyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCgpWVVQgenByw6F2YSBvZDogZG9jLiBJbmcuIFZsYWRpbcOtciBKYW5vdcWhZWssIFBoLkQu
+IGphbm91c2VrQGZpdC52dXQuY3ogKGlkIDIxOTEpCk9kcG92xJvEjyBqZSBtb8W+bsOhIHBvbW9j
+w60gVlVUIHpwcsOhdiAtIHBvdcW+aWp0ZSBwcm9zw61tIG7DoXNsZWR1asOtY8OtIG9ka2F6Ogpo
+dHRwczovL3d3dy52dXQuY3ovaW50cmEvdnV0LXpwcmF2eT9hY3Rpb249bm92YSZvZHBvdmVkX25h
+PTE3ODM3Nzg5Cg==

@@ -1,0 +1,130 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 325Bi4CF048432
+	for <xbotlo01@stud.fit.vut.cz>; Sun, 5 Mar 2023 12:45:06 +0100 (CET)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id C770310B2A0
+	for <xbotlo01@stud.fit.vut.cz>; Sun,  5 Mar 2023 12:44:04 +0100 (CET)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id C6B8F313FF99
+	for <xbotlo01@stud.fit.vut.cz>; Sun,  5 Mar 2023 12:44:04 +0100 (CET)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id C56BD105769F; Sun,  5 Mar 2023 12:44:04 +0100 (CET)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: IZLO 22/23L (262847): Re: Testovani
+Date: Sun, 5 Mar 2023 12:44:04 +0100
+From: "=?utf-8?B?TGVuZ8OhbCBPbmTFmWVqIEluZy4gUGguRC4gcMWZZXMgRS1MRUFSTklORyA=?=
+ =?utf-8?B?VlVU?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <3a622ba332f94b78752d60804d7cadf65a803bb4af3a0f3e4be11a7ef92aed70@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: =?utf-8?B?IkRpc2t1emUgayBwcm9qZWt0xa9tIiA8bW9vZGxlZm9ydW05ODk1QG1vb2Q=?=
+ =?utf-8?B?bGUudnV0LmN6Pg==?=
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=9895
+X-Course-Id: 262847
+X-Course-Name: =?utf-8?B?WsOha2xhZHkgbG9naWt5IHBybyBpbmZvcm1hdGlreSAoSVpMTyAyMi8yM0wp?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=9895&d=1887>
+In-Reply-To: <82d4bdda93e99045195ccd0831c824b19c09b3979c6a675e13f0b2a71d62470d@moodle.vut.cz>
+References: <82d4bdda93e99045195ccd0831c824b19c09b3979c6a675e13f0b2a71d62470d@moodle.vut.cz>
+Thread-Topic: IZLO 22/23L (262847): Testovani
+Thread-Index: 82d4bdda93e99045195ccd0831c8
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_MDpbM0jMkm7LjOz5Wmzdva1a47sS5NRq1plP9JNgRvM"
+X-Spam-Status: No, score=-0.812 required=7 tests=AWL,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_MDpbM0jMkm7LjOz5Wmzdva1a47sS5NRq1plP9JNgRvM
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIZLO 22/23L (262847) -> F=C3=B3ra -> Diskuze k projekt=C5=AFm -> Testova=
+ni=0Ahttps://moodle.vut.cz/mod/forum/discuss.php?d=3D1887#p2866=0ARe: Testo=
+vani=0Aautor Leng=C3=A1l Ond=C5=99ej Ing. Ph.D. - Ned=C4=9Ble, 5. b=C5=
+=99ezna 2023, 12.42=0A-----------------------------------------------------=
+----------------=0ADobr=C3=BD den,=0Avizte druh=C3=BD odstavec v =C4=8D=
+=C3=A1sti Zad=C3=A1n=C3=AD:=0A=0A_"Nav=C3=ADc mus=C3=AD platit, =C5=BEe ka=
+=C5=BEd=C3=BD model vygenerovan=C3=A9 formule spl=C5=88uje=0At=C5=99i n=
+=C3=AD=C5=BEe uveden=C3=A9 podm=C3=ADnky..."_=0ATak=C5=BEe nesta=C4=8D=
+=C3=AD, aby Va=C5=A1e =C5=99e=C5=A1en=C3=AD vytvo=C5=99ilo n=C4=9Bjakou spl=
+nitelnou=0Aformuli pro p=C5=99=C3=ADpad, =C5=BEe probl=C3=A9m m=C3=A1 =
+=C5=99e=C5=A1en=C3=AD, ale je pot=C5=99eba, aby=0Aformule reprezentovala v=
+=C5=A1echna =C5=99e=C5=A1en=C3=AD dan=C3=A9ho probl=C3=A9mu (ka=C5=BEd=
+=C3=BD model=0Aformule bude odpov=C3=ADdat jednomu =C5=99e=C5=A1en=C3=AD).=
+=0AS pozdravem,=0AOnd=C5=99ej Leng=C3=A1l=0A=0A----------------------------=
+-----------------------------------------=0AToto je kopie zpr=C3=A1vy zve=
+=C5=99ejn=C4=9Bn=C3=A9 na IZLO 22/23L (262847) .=0A=0AChcete-li odpov=C4=
+=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahttps://moodle.vut.cz/mod/forum=
+/post.php?reply=3D2866=0AOdhl=C3=A1sit se z f=C3=B3ra: https://moodle.vut.c=
+z/mod/forum/subscribe.php?id=3D9895=0AOdhl=C3=A1sit se z diskuse:=0Ahttps:/=
+/moodle.vut.cz/mod/forum/subscribe.php?id=3D9895&d=3D1887=0AZm=C4=9Bnit nas=
+taven=C3=AD voleb f=C3=B3ra:=0Ahttps://moodle.vut.cz/mod/forum/index.php?id=
+=3D262847=0A
+--b1_MDpbM0jMkm7LjOz5Wmzdva1a47sS5NRq1plP9JNgRvM
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D262847">IZLO 22/23L (262847)</a>=0A    &raquo;=0A=
+    <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?=
+id=3D262847">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D=
+"https://moodle.vut.cz/mod/forum/view.php?f=3D9895">Diskuze k projekt=C5=
+=AFm</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/mod/forum/discuss.php?d=3D1887">Testovani</a>=0A</div>=0A=0A<table bor=
+der=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"forumpost">=0A    <t=
+r class=3D"header">=0A        <td width=3D"35" valign=3D"top" class=3D"pict=
+ure left">=0A            <a href=3D"https://moodle.vut.cz/user/view.php?id=
+=3D78581&amp;course=3D262847" class=3D"d-inline-block aabtn"><img src=3D"ht=
+tps://moodle.vut.cz/theme/image.php/_s/vut/core/1657648469/u/f2" class=3D"u=
+serpicture defaultuserpic" width=3D"35" height=3D"35" alt=3D"Obr=C3=A1zek: =
+Leng=C3=A1l Ond=C5=99ej Ing. Ph.D." title=3D"Obr=C3=A1zek: Leng=C3=A1l Ond=
+=C5=99ej Ing. Ph.D." /></a>=0A        </td>=0A        <td class=3D"topic ">=
+=0A            <div class=3D"subject">=0A                Re: Testovani=0A  =
+          </div>=0A            <div class=3D"author">=0A                aut=
+or <a target=3D'_blank' href=3D'https://moodle.vut.cz/user/view.php?id=3D78=
+581&course=3D262847'>Leng=C3=A1l Ond=C5=99ej Ing. Ph.D.</a> - Ned=C4=9Ble, =
+5. b=C5=99ezna 2023, 12.42=0A            </div>=0A        </td>=0A    </tr>=
+=0A    <tr>=0A        <td class=3D"left side" valign=3D"top">=0A           =
+     &nbsp;=0A        </td>=0A        <td class=3D"content">=0A            =
+<div class=3D"text_to_html">Dobr=C3=BD den,<br />
+vizte druh=C3=BD odstavec v =C4=8D=C3=A1sti Zad=C3=A1n=C3=AD:</div><div cla=
+ss=3D"editor-indent" style=3D"margin-left:30px;"><div class=3D"text_to_html=
+"><span style=3D"font-size:.9375rem;"><em>"Nav=C3=ADc mus=C3=AD platit, =
+=C5=BEe ka=C5=BEd=C3=BD model vygenerovan=C3=A9 formule spl=C5=88uje t=
+=C5=99i n=C3=AD=C5=BEe uveden=C3=A9 podm=C3=ADnky..."</em></span></div></di=
+v><div class=3D"text_to_html"><span style=3D"font-size:.9375rem;">Tak=C5=
+=BEe nesta=C4=8D=C3=AD, aby Va=C5=A1e =C5=99e=C5=A1en=C3=AD vytvo=C5=99ilo =
+n=C4=9Bjakou splnitelnou formuli pro p=C5=99=C3=ADpad, =C5=BEe probl=C3=
+=A9m m=C3=A1 =C5=99e=C5=A1en=C3=AD, ale je pot=C5=99eba, aby formule reprez=
+entovala v=C5=A1echna =C5=99e=C5=A1en=C3=AD dan=C3=A9ho probl=C3=A9mu (ka=
+=C5=BEd=C3=BD model formule bude odpov=C3=ADdat jednomu =C5=99e=C5=A1en=
+=C3=AD).</span></div><div class=3D"text_to_html"><span style=3D"font-size:.=
+9375rem;">S pozdravem,</span></div><div class=3D"text_to_html"><span style=
+=3D"font-size:.9375rem;">Ond=C5=99ej Leng=C3=A1l</span></div>=0A=0A        =
+    <div class=3D"commands">=0A                    <a target=3D"_blank" hre=
+f=3D"https://moodle.vut.cz/mod/forum/discuss.php?d=3D1887&parent=3D2863">=
+=0A                        Uk=C3=A1zat p=C5=99edch=C5=AFdce=0A             =
+       </a>=0A                        |=0A                    <a target=3D"=
+_blank" href=3D"https://moodle.vut.cz/mod/forum/post.php?reply=3D2866">=0A =
+                       Odpov=C4=9Bd=C4=9Bt=0A                    </a>=0A   =
+         </div>=0A=0A            <div class=3D"link">=0A                <a =
+target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/discuss.php?d=3D1=
+887#p2866">=0A                    Uk=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v ko=
+ntextu=0A                </a>=0A            </div>=0A        </td>=0A    </=
+tr>=0A</table>=0A=0A<hr />=0A<div class=3D"mdl-align unsubscribelink">=0A  =
+  <a href=3D"https://moodle.vut.cz/mod/forum/subscribe.php?id=3D9895">Neode=
+b=C3=ADrat p=C5=99=C3=ADsp=C4=9Bvky z tohoto f=C3=B3ra</a>&nbsp;=0A    <a h=
+ref=3D"https://moodle.vut.cz/mod/forum/subscribe.php?id=3D9895&d=3D1887">Vy=
+pnout odeb=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to di=
+skuse</a>&nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/index.php?=
+id=3D262847">Zm=C4=9Bna nastaven=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_MDpbM0jMkm7LjOz5Wmzdva1a47sS5NRq1plP9JNgRvM--

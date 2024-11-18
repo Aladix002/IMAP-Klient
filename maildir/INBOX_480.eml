@@ -1,0 +1,136 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 32BCI616014683
+	for <xbotlo01@stud.fit.vut.cz>; Sat, 11 Mar 2023 13:19:14 +0100 (CET)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id 1530410B2B0
+	for <xbotlo01@stud.fit.vut.cz>; Sat, 11 Mar 2023 13:18:06 +0100 (CET)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id 14626313FE37
+	for <xbotlo01@stud.fit.vut.cz>; Sat, 11 Mar 2023 13:18:06 +0100 (CET)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 1306B1007719; Sat, 11 Mar 2023 13:18:06 +0100 (CET)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogUmU6IE/FoWV0xZllbsOtIGNoeWJuw71j?=  =?utf-8?B?aCBwxZnDrWthesWvIGEgY2h5YiBvYmVjbsSb?=
+Date: Sat, 11 Mar 2023 13:18:06 +0100
+From: "=?utf-8?B?TGVuZ8OhbCBPbmTFmWVqIEluZy4gUGguRC4gcMWZZXMgRS1MRUFSTklORyA=?=
+ =?utf-8?B?VlVU?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <e19be91edb1998d201e3d3c88efaab136905fed5ed252f93996a3056668b37d6@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: "Diskuze k 1. projektu IOS" <moodleforum9517@moodle.vut.cz>
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=9517
+X-Course-Id: 231005
+X-Course-Name: =?utf-8?B?T3BlcmHEjW7DrSBzeXN0w6lteSAoSU9TIDIyLzIzTCk=?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=9517&d=1942>
+In-Reply-To: <4dbd2a6cb852cb429efbf52a4b3f2846b853c38d5857b51c864523c0873c427a@moodle.vut.cz>
+References: <4dbd2a6cb852cb429efbf52a4b3f2846b853c38d5857b51c864523c0873c427a@moodle.vut.cz>
+Thread-Topic: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogT8WhZXTFmWVuw60gY2h5Ym7DvWNoIHA=?=
+ =?utf-8?B?xZnDrWthesWvIGEgY2h5YiBvYmVjbsSb?=
+Thread-Index: 4dbd2a6cb852cb429efbf52a4b3f
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_auaAZyEmCXSnSi7LfGmFQ3A69cUEbwPQvfKRgm6Pwo"
+X-Spam-Status: No, score=-0.774 required=7 tests=AWL,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_auaAZyEmCXSnSi7LfGmFQ3A69cUEbwPQvfKRgm6Pwo
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIOS 22/23L (231005) -> F=C3=B3ra -> Diskuze k 1. projektu IOS -> O=C5=
+=A1et=C5=99en=C3=AD=0Achybn=C3=BDch p=C5=99=C3=ADkaz=C5=AF a chyb obecn=
+=C4=9B=0Ahttps://moodle.vut.cz/mod/forum/discuss.php?d=3D1942#p2988=0ARe: O=
+=C5=A1et=C5=99en=C3=AD chybn=C3=BDch p=C5=99=C3=ADkaz=C5=AF a chyb obecn=
+=C4=9B=0Aautor Leng=C3=A1l Ond=C5=99ej Ing. Ph.D. - Sobota, 11. b=C5=99ezna=
+ 2023, 13.16=0A------------------------------------------------------------=
+---------=0ADobry den,=0A=0A1) jde o chybne spusteni - staci vypsat chybovo=
+u hlasku a skoncit s=0Achybovym kodem.=0A=0A2) nechte to na editoru - vetsi=
+na editoru by nejspis u prvniho volani=0Askoncila chybou a u druheho soubor=
+ vytvorila.=0A=0A3) otevreni nechte na editoru, pokud by doslo k chyba behe=
+m spusteni=0Askriptu (napr. nemate pravo cteni/zapisu do $MOLE_RC), vypiste=
+ chybovou=0Ahlasku a skoncete s chybovym kodem.=0A=0A4) viz (3)=0A=0A5) zku=
+ste se drzet toho, co jsem psal vyse - tj. nechat to na editoru,=0Apripadne=
+ skoncit s chybou. Moznosti, kde k tomu muze dojit, moc neni -=0Avetsina pr=
+ace skriptu by nemela nikam zapisovat (nemate povoleno pouzivat=0Adocasne s=
+oubory) - chyby typu out of memory nereste, z tech se stejne moc=0Azotavit =
+neda.=0A=0AHezky den,=0A=0AOndrej Lengal=0A=0A-----------------------------=
+----------------------------------------=0AToto je kopie zpr=C3=A1vy zve=
+=C5=99ejn=C4=9Bn=C3=A9 na IOS 22/23L (231005) .=0A=0AChcete-li odpov=C4=
+=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahttps://moodle.vut.cz/mod/forum=
+/post.php?reply=3D2988=0AOdhl=C3=A1sit se z f=C3=B3ra: https://moodle.vut.c=
+z/mod/forum/subscribe.php?id=3D9517=0AOdhl=C3=A1sit se z diskuse:=0Ahttps:/=
+/moodle.vut.cz/mod/forum/subscribe.php?id=3D9517&d=3D1942=0AZm=C4=9Bnit nas=
+taven=C3=AD voleb f=C3=B3ra:=0Ahttps://moodle.vut.cz/mod/forum/index.php?id=
+=3D231005=0A
+--b1_auaAZyEmCXSnSi7LfGmFQ3A69cUEbwPQvfKRgm6Pwo
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231005">IOS 22/23L (231005)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231005">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D9517">Diskuze k 1. projektu IO=
+S</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vut.c=
+z/mod/forum/discuss.php?d=3D1942">O=C5=A1et=C5=99en=C3=AD chybn=C3=BDch p=
+=C5=99=C3=ADkaz=C5=AF a chyb obecn=C4=9B</a>=0A</div>=0A=0A<table border=3D=
+"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"forumpost">=0A    <tr clas=
+s=3D"header">=0A        <td width=3D"35" valign=3D"top" class=3D"picture le=
+ft">=0A            <a href=3D"https://moodle.vut.cz/user/view.php?id=3D7858=
+1&amp;course=3D231005" class=3D"d-inline-block aabtn"><img src=3D"https://m=
+oodle.vut.cz/theme/image.php/_s/vut/core/1657648469/u/f2" class=3D"userpict=
+ure defaultuserpic" width=3D"35" height=3D"35" alt=3D"Obr=C3=A1zek: Leng=
+=C3=A1l Ond=C5=99ej Ing. Ph.D." title=3D"Obr=C3=A1zek: Leng=C3=A1l Ond=
+=C5=99ej Ing. Ph.D." /></a>=0A        </td>=0A        <td class=3D"topic ">=
+=0A            <div class=3D"subject">=0A                Re: O=C5=A1et=
+=C5=99en=C3=AD chybn=C3=BDch p=C5=99=C3=ADkaz=C5=AF a chyb obecn=C4=9B=0A  =
+          </div>=0A            <div class=3D"author">=0A                aut=
+or <a target=3D'_blank' href=3D'https://moodle.vut.cz/user/view.php?id=3D78=
+581&course=3D231005'>Leng=C3=A1l Ond=C5=99ej Ing. Ph.D.</a> - Sobota, 11. b=
+=C5=99ezna 2023, 13.16=0A            </div>=0A        </td>=0A    </tr>=0A =
+   <tr>=0A        <td class=3D"left side" valign=3D"top">=0A               =
+ &nbsp;=0A        </td>=0A        <td class=3D"content">=0A            <p d=
+ir=3D"ltr" style=3D"text-align:left;">Dobry den,</p><p dir=3D"ltr" style=3D=
+"text-align:left;">1) jde o chybne spusteni - staci vypsat chybovou hlasku =
+a skoncit s chybovym kodem.</p><p dir=3D"ltr" style=3D"text-align:left;">2)=
+ nechte to na editoru - vetsina editoru by nejspis u prvniho volani skoncil=
+a chybou a u druheho soubor vytvorila.</p><p dir=3D"ltr" style=3D"text-alig=
+n:left;">3) otevreni nechte na editoru, pokud by doslo k chyba behem spuste=
+ni skriptu (napr. nemate pravo cteni/zapisu do $MOLE_RC), vypiste chybovou =
+hlasku a skoncete s chybovym kodem.</p><p dir=3D"ltr" style=3D"text-align:l=
+eft;">4) viz (3)</p><p dir=3D"ltr" style=3D"text-align:left;">5) zkuste se =
+drzet toho, co jsem psal vyse - tj. nechat to na editoru, pripadne skoncit =
+s chybou. Moznosti, kde k tomu muze dojit, moc neni - vetsina prace skriptu=
+ by nemela nikam zapisovat (nemate povoleno pouzivat docasne soubory) - chy=
+by typu out of memory nereste, z tech se stejne moc zotavit neda.</p><p dir=
+=3D"ltr" style=3D"text-align:left;">Hezky den,</p><p dir=3D"ltr" style=3D"t=
+ext-align:left;">Ondrej Lengal</p><p dir=3D"ltr" style=3D"text-align:left;"=
+><br /></p>=0A=0A            <div class=3D"commands">=0A                   =
+ <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/discuss.php?d=
+=3D1942&parent=3D2973">=0A                        Uk=C3=A1zat p=C5=99edch=
+=C5=AFdce=0A                    </a>=0A                        |=0A        =
+            <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/po=
+st.php?reply=3D2988">=0A                        Odpov=C4=9Bd=C4=9Bt=0A     =
+               </a>=0A            </div>=0A=0A            <div class=3D"lin=
+k">=0A                <a target=3D"_blank" href=3D"https://moodle.vut.cz/mo=
+d/forum/discuss.php?d=3D1942#p2988">=0A                    Uk=C3=A1zat p=
+=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A                </a>=0A            </d=
+iv>=0A        </td>=0A    </tr>=0A</table>=0A=0A<hr />=0A<div class=3D"mdl-=
+align unsubscribelink">=0A    <a href=3D"https://moodle.vut.cz/mod/forum/su=
+bscribe.php?id=3D9517">Neodeb=C3=ADrat p=C5=99=C3=ADsp=C4=9Bvky z tohoto f=
+=C3=B3ra</a>&nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/subscri=
+be.php?id=3D9517&d=3D1942">Vypnout odeb=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=
+=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&nbsp;=0A    <a href=3D"https://=
+moodle.vut.cz/mod/forum/index.php?id=3D231005">Zm=C4=9Bna nastaven=C3=AD pr=
+eferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_auaAZyEmCXSnSi7LfGmFQ3A69cUEbwPQvfKRgm6Pwo--

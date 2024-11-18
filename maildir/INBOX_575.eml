@@ -1,0 +1,227 @@
+Return-Path: <studinfo-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 32UGjiLZ081837
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 30 Mar 2023 18:45:44 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 32UGjhwf046468
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 30 Mar 2023 18:45:43 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vutbr.cz; s=mx1;
+	t=1680194744; bh=MOblt9pjvh82nw+J64/ovWp6iFVJ0ig8kCXkuGbrT/E=;
+	h=Date:To:Subject:List-Id:List-Unsubscribe:List-Archive:List-Post:
+	 List-Help:List-Subscribe:From:Reply-To;
+	b=g4ILDBatpNkK5hO5GSIQPZXFmmRg8g2ZcyZvvNhPfR/lAn2WdjuQDfOwtLYThgCyQ
+	 7u5eVBjme+VSDv5E6BC6n7l5oaS+lep7hYz0YOV/ugR8M6sbKyKf00gjsMycRZRvag
+	 JNCtBg1f3HqjkcRJ+OgABoQboI8Ec7eLK9qIWDc0=
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTP id 32UGjhHF070063;
+	Thu, 30 Mar 2023 18:45:43 +0200 (CEST)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.17.1/8.17.1.21) with ESMTPS id 32UGgXs2069893
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@tereza.fit.vutbr.cz>; Thu, 30 Mar 2023 18:42:33 +0200 (CEST)
+ (envelope-from xbrazd23@stud.fit.vutbr.cz)
+Received: from eva.fit.vutbr.cz (eva.fit.vutbr.cz
+ [IPv6:2001:67c:1220:8b0:0:0:93e5:b00e])
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 32UGgWqO044911
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@fit.vutbr.cz>; Thu, 30 Mar 2023 18:42:32 +0200 (CEST)
+ (envelope-from xbrazd23@stud.fit.vutbr.cz)
+Received: from mail-wr1-f45.google.com (mail-wr1-f45.google.com
+ [209.85.221.45]) (authenticated bits=0)
+ by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPSA id 32UGgW2a080827
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK)
+ for <studinfo@fit.vutbr.cz>; Thu, 30 Mar 2023 18:42:32 +0200 (CEST)
+ (envelope-from xbrazd23@stud.fit.vut.cz)
+Received: by mail-wr1-f45.google.com with SMTP id r11so19727747wrr.12
+ for <studinfo@fit.vutbr.cz>; Thu, 30 Mar 2023 09:42:32 -0700 (PDT)
+X-Gm-Message-State: AAQBX9fXja7QH59NtJOSiEZK6A80cUx2MfGZCS0mXC9bXzA85GQGencV
+ zg91MF5anL/7BIYB/kHk7SKsM2ZqYrd5358qMNHqR1bY
+X-Google-Smtp-Source: AKy350YoRFcI6CGbLxsPJbGzEhVq39BO5GfKyHwAQF9EqRE217JKIgd5HmzFdJAWhCRix3hgxDvtSt14i6Oa6kwEPZg=
+X-Received: by 2002:adf:f14b:0:b0:2e4:abb1:3e87 with SMTP id
+ y11-20020adff14b000000b002e4abb13e87mr832523wro.2.1680194551662; Thu, 30 Mar
+ 2023 09:42:31 -0700 (PDT)
+MIME-Version: 1.0
+Date: Thu, 30 Mar 2023 18:42:16 +0200
+X-Gmail-Original-Message-ID: <CAD3XXtPzsDX6xYb+TwPqNo=c1w55+i8maWktrT2_fo0-B2H7dA@mail.gmail.com>
+Message-ID: <CAD3XXtPzsDX6xYb+TwPqNo=c1w55+i8maWktrT2_fo0-B2H7dA@mail.gmail.com>
+To: studinfo@fit.vutbr.cz
+X-Spam-Status: No, score=-1.124 required=7 tests=ALL_TRUSTED,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HEADER_FROM_DIFFERENT_DOMAINS,HTML_IMAGE_ONLY_28,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+X-Mailman-Approved-At: Thu, 30 Mar 2023 18:45:42 +0200
+Subject: [Studinfo] =?utf-8?q?Sb=C4=9Br_ot=C3=A1zek_od_student=C5=AF_na_d?=
+ =?utf-8?q?iskuzi_s_akademiky?=
+X-BeenThere: studinfo@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: informace pro studenty FIT tykajici se studia <studinfo.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <http://www.fit.vutbr.cz/pipermail/studinfo/>
+List-Post: <mailto:studinfo@fit.vutbr.cz>
+List-Help: <mailto:studinfo-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?Luk=E1=B9_Br=E1zdil_via_Studinfo?= <studinfo@fit.vutbr.cz>
+Reply-To: =?UTF-8?B?THVrw6HFoSBCcsOhemRpbA==?= <xbrazd23@stud.fit.vutbr.cz>
+Content-Type: multipart/mixed; boundary="===============1380792625518069476=="
+Errors-To: studinfo-bounces@fit.vutbr.cz
+Sender: "Studinfo" <studinfo-bounces@fit.vutbr.cz>
+
+--===============1380792625518069476==
+Content-Type: multipart/alternative; boundary="00000000000067e19b05f820c786"
+
+--00000000000067e19b05f820c786
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+ V=C3=A1=C5=BEen=C3=A9 studentky, V=C3=A1=C5=BEen=C3=AD studenti,
+
+za 2 t=C3=BDdny, v *p=C3=A1tek 14. 4. od 15:00*, prob=C4=9Bhne v u=C4=8Debn=
+=C4=9B *D105* tradi=C4=8Dn=C3=AD*
+diskuze s akademiky k zimn=C3=ADmu semestru 2022/23*. Prob=C4=9Bhne formou =
+Q&A,
+m=C5=AF=C5=BEete tedy p=C5=99ij=C3=ADt a zeptat se na v=C4=9Bci, kter=C3=A9=
+ V=C3=A1s v semestru u p=C5=99edm=C4=9Bt=C5=AF
+tr=C3=A1pily a nech=C3=A1pali jste, pro=C4=8D jsou tak, jak jsou, nebo navr=
+hnout zlep=C5=A1en=C3=AD
+a dostat hned od garant=C5=AF zp=C4=9Btnou vazbu.
+
+Sb=C4=9Br ot=C3=A1zek dop=C5=99edu slou=C5=BE=C3=AD hlavn=C4=9B k lep=C5=A1=
+=C3=AD organizaci cel=C3=A9 diskuze a mo=C5=BEn=C3=A9
+p=C5=99=C3=ADprav=C4=9B akademik=C5=AF na odpov=C4=9Bdi. P=C5=99ijdou d=C3=
+=ADky nim lid=C3=A9, na kter=C3=A9 budou
+n=C4=9Bjak=C3=A9 ot=C3=A1zky, a na tyto ot=C3=A1zky budou m=C3=ADt p=C5=99i=
+praven=C3=A9 odpov=C4=9Bdi, pokud se
+jedn=C3=A1 o n=C4=9Bco, co nemus=C3=AD v=C4=9Bd=C4=9Bt z hlavy, nap=C5=99. =
+statistiky.
+
+Ot=C3=A1zky pros=C3=ADm pi=C5=A1te do tohoto formul=C3=A1=C5=99e: https://f=
+orms.gle/aKY4vVbkgYRPWv4G6
+
+Pokud se chcete pod=C3=ADvat, zda se u=C5=BE n=C4=9Bkdo zeptal na stejnou o=
+t=C3=A1zku, nebo
+jste jen zv=C4=9Bdav=C3=AD, co tr=C3=A1p=C3=AD ostatn=C3=AD, m=C5=AF=C5=BEe=
+te se pod=C3=ADvat v t=C3=A9to tabulce (je
+pot=C5=99eba se p=C5=99ihl=C3=A1sit Google VUT =C3=BA=C4=8Dtem, tedy mailem=
+ ve form=C4=9B
+xlogin00@vutbr.cz):
+https://docs.google.com/spreadsheets/d/1XW94VnrBV-wzr6ETHPPLd7Ev0i0usmZXE9q=
+ywnk2C74
+
+Budeme moc r=C3=A1di, kdy=C5=BE se zept=C3=A1te a n=C3=A1sledn=C4=9B pak i =
+p=C5=99ijdete osobn=C4=9B. P=C5=99ednost
+v ot=C3=A1zk=C3=A1ch toti=C5=BE budou m=C3=ADt na diskuzi lid=C3=A9, kte=C5=
+=99=C3=AD se budou pt=C3=A1t osobn=C4=9B.
+Pot=C3=A9 se a=C5=BE budou =C4=8D=C3=ADst ot=C3=A1zky z formul=C3=A1=C5=99e=
+.
+
+D=C4=9Bkujeme, =C5=BEe n=C3=A1m pom=C3=A1h=C3=A1te zlep=C5=A1it studium na =
+FITu. Touto aktivitou toti=C5=BE
+vyjad=C5=99ujete, =C5=BEe v=C3=A1m z=C3=A1le=C5=BE=C3=AD na kvalit=C4=9B v=
+=C3=BDuky a na tom, jak zde v=C4=9Bci funguj=C3=AD.
+=C4=8C=C3=ADm v=C3=ADce ot=C3=A1zek bude a =C4=8D=C3=ADm v=C3=ADce lid=C3=
+=AD pot=C3=A9 i p=C5=99ijde na diskuzi, t=C3=ADm v=C4=9Bt=C5=A1=C3=AD
+bude na veden=C3=AD fakulty vysl=C3=A1n sign=C3=A1l. Z=C3=A1rove=C5=88 i n=
+=C3=A1m, jako Studentsk=C3=A9 unii,
+d=C3=A1 lep=C5=A1=C3=AD pozici p=C5=99i snaze o zlep=C5=A1en=C3=AD r=C5=AFz=
+n=C3=BDch v=C4=9Bc=C3=AD. Bez v=C3=A1s by to proto
+ne=C5=A1lo.
+
+Va=C5=A1e Studentsk=C3=A1 unie
+
+www.su.fit.vut.cz/
+
+--00000000000067e19b05f820c786
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+V=C3=A1=C5=BEen=C3=A9 studentky, V=C3=A1=C5=BEen=C3=AD studenti,<br><div><b=
+r></div><div>za 2 t=C3=BDdny, v <b>p=C3=A1tek 14. 4. od 15:00</b>, prob=C4=
+=9Bhne v u=C4=8Debn=C4=9B <b>D105</b> tradi=C4=8Dn=C3=AD<b> diskuze s akade=
+miky k zimn=C3=ADmu semestru 2022/23</b>.
+ Prob=C4=9Bhne formou Q&amp;A, m=C5=AF=C5=BEete tedy p=C5=99ij=C3=ADt a zep=
+tat se na v=C4=9Bci, kter=C3=A9=20
+V=C3=A1s v semestru u p=C5=99edm=C4=9Bt=C5=AF tr=C3=A1pily a nech=C3=A1pali=
+ jste, pro=C4=8D jsou tak, jak=20
+jsou, nebo navrhnout zlep=C5=A1en=C3=AD a dostat hned od garant=C5=AF zp=C4=
+=9Btnou vazbu.<br></div><div><br></div><div>Sb=C4=9Br
+ ot=C3=A1zek dop=C5=99edu slou=C5=BE=C3=AD hlavn=C4=9B k lep=C5=A1=C3=AD or=
+ganizaci cel=C3=A9 diskuze a mo=C5=BEn=C3=A9=20
+p=C5=99=C3=ADprav=C4=9B akademik=C5=AF na odpov=C4=9Bdi. P=C5=99ijdou d=C3=
+=ADky nim lid=C3=A9, na kter=C3=A9 budou=20
+n=C4=9Bjak=C3=A9 ot=C3=A1zky, a na tyto ot=C3=A1zky budou m=C3=ADt p=C5=99i=
+praven=C3=A9 odpov=C4=9Bdi, pokud se=20
+jedn=C3=A1 o n=C4=9Bco, co nemus=C3=AD v=C4=9Bd=C4=9Bt z hlavy, nap=C5=99. =
+statistiky.<br></div><div><br></div><div>Ot=C3=A1zky pros=C3=ADm pi=C5=A1te=
+ do tohoto formul=C3=A1=C5=99e:=20
+<a href=3D"https://forms.gle/aKY4vVbkgYRPWv4G6" rel=3D"noreferrer" target=
+=3D"_blank">https://forms.gle/aKY4vVbkgYRPWv4G6</a></div><div><br></div><di=
+v>Pokud
+ se chcete pod=C3=ADvat, zda se u=C5=BE n=C4=9Bkdo zeptal na stejnou ot=C3=
+=A1zku, nebo jste=20
+jen zv=C4=9Bdav=C3=AD, co tr=C3=A1p=C3=AD ostatn=C3=AD, m=C5=AF=C5=BEete se=
+ pod=C3=ADvat v t=C3=A9to tabulce (je=20
+pot=C5=99eba se p=C5=99ihl=C3=A1sit Google VUT =C3=BA=C4=8Dtem, tedy mailem=
+ ve form=C4=9B <a href=3D"mailto:xlogin00@vutbr.cz" target=3D"_blank">xlogi=
+n00@vutbr.cz</a>):=20
+<a href=3D"https://docs.google.com/spreadsheets/d/1XW94VnrBV-wzr6ETHPPLd7Ev=
+0i0usmZXE9qywnk2C74" rel=3D"noreferrer" target=3D"_blank">https://docs.goog=
+le.com/spreadsheets/d/1XW94VnrBV-wzr6ETHPPLd7Ev0i0usmZXE9qywnk2C74</a>
+
+
+
+</div><div><br></div><div>Budeme moc r=C3=A1di, kdy=C5=BE se zept=C3=A1te a=
+ n=C3=A1sledn=C4=9B=20
+pak i p=C5=99ijdete osobn=C4=9B. P=C5=99ednost v ot=C3=A1zk=C3=A1ch toti=C5=
+=BE budou m=C3=ADt na diskuzi=20
+lid=C3=A9, kte=C5=99=C3=AD se budou pt=C3=A1t osobn=C4=9B. Pot=C3=A9 se a=
+=C5=BE budou =C4=8D=C3=ADst ot=C3=A1zky z=20
+formul=C3=A1=C5=99e.</div><div><br></div><div>D=C4=9Bkujeme, =C5=BEe n=C3=
+=A1m pom=C3=A1h=C3=A1te zlep=C5=A1it=20
+studium na FITu.=20
+Touto aktivitou toti=C5=BE vyjad=C5=99ujete, =C5=BEe v=C3=A1m z=C3=A1le=C5=
+=BE=C3=AD na kvalit=C4=9B v=C3=BDuky a na=20
+tom, jak zde v=C4=9Bci funguj=C3=AD. =C4=8C=C3=ADm=20
+v=C3=ADce ot=C3=A1zek bude a =C4=8D=C3=ADm v=C3=ADce lid=C3=AD pot=C3=A9 i =
+p=C5=99ijde na diskuzi, t=C3=ADm v=C4=9Bt=C5=A1=C3=AD=20
+bude
+ na veden=C3=AD fakulty vysl=C3=A1n sign=C3=A1l. Z=C3=A1rove=C5=88 i n=C3=
+=A1m, jako Studentsk=C3=A9 unii,=20
+d=C3=A1 lep=C5=A1=C3=AD pozici p=C5=99i snaze o zlep=C5=A1en=C3=AD r=C5=AFz=
+n=C3=BDch v=C4=9Bc=C3=AD. Bez v=C3=A1s by to proto=20
+ne=C5=A1lo.</div><div><br></div><div>Va=C5=A1e Studentsk=C3=A1 unie</div><d=
+iv><br></div><div><div dir=3D"ltr"><div dir=3D"ltr"><div><img src=3D"https:=
+//ci3.googleusercontent.com/mail-sig/AIorK4zTO7dyxISGLZrALN7xSMhy6ThoEA6XMh=
+4mnv5KHU3Dz08KANm9qjQ2Oo9HkzWiZeckTQzEq9U" class=3D"gmail-CToWUd"></div><di=
+v><a href=3D"https://www.su.fit.vut.cz/" target=3D"_blank">www.su.fit.vut.c=
+z/</a></div><div class=3D"gmail-yj6qo"></div><div class=3D"gmail-adL"><br><=
+/div></div></div></div>
+
+</div>
+
+--00000000000067e19b05f820c786--
+
+--===============1380792625518069476==
+Content-Type: text/plain; charset="iso-8859-2"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+_______________________________________________
+Studinfo mailing list
+Studinfo@fit.vutbr.cz
+https://www.fit.vutbr.cz/mailman/listinfo/studinfo
+
+Konference studinfo slouzi vyhradne pro zasilani informaci studentum, ktere=
+ se tykaji jejich pusobeni na FIT.
+Zadne dotazy zaslane na adresu konference nikdo nezodpovi a vsechny nerelev=
+antni prispevky budou bez dalsiho oznameni zahozeny. Eventuelni dotazy smer=
+ujte na studijni oddeleni.
+
+--===============1380792625518069476==--

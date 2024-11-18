@@ -1,0 +1,68 @@
+Return-Path: <f-ubytovatelky@skm.vutbr.cz>
+Received: from palak.adm.skm.vutbr.cz ([147.229.185.11])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 31GBYWka007773
+	(version=TLSv1.2 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vutbr.cz>; Thu, 16 Feb 2023 12:34:32 +0100 (CET)
+	(envelope-from f-ubytovatelky@skm.vutbr.cz)
+Received: from Palace.adm.skm.vutbr.cz (147.229.185.55) by
+ palak.adm.skm.vutbr.cz (147.229.185.11) with Microsoft SMTP Server (TLS) id
+ 14.3.498.0; Thu, 16 Feb 2023 12:34:15 +0100
+Received: from Palace.adm.skm.vutbr.cz (147.229.185.55) by
+ Palace.adm.skm.vutbr.cz (147.229.185.55) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2507.17; Thu, 16 Feb 2023 12:34:15 +0100
+Received: from Palace.adm.skm.vutbr.cz ([::1]) by Palace.adm.skm.vutbr.cz
+ ([::1]) with mapi id 15.01.2507.017; Thu, 16 Feb 2023 12:34:15 +0100
+From: f-ubytovatelky <f-ubytovatelky@skm.vutbr.cz>
+To: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>
+Subject: RE: Zmena izby
+Thread-Topic: Zmena izby
+Thread-Index: AQHZP8HYPYI6G1Of40WTBUH/9KzKJa7RckwA
+Date: Thu, 16 Feb 2023 11:34:15 +0000
+Message-ID: <51f095c974514c61830959a820b741d5@skm.vutbr.cz>
+References: <a238df78b4529031bb84034c919ba5ba@stud.fit.vutbr.cz>
+ <7ddc1efff85e496085e6f4882510c837@skm.vutbr.cz>
+ <3d50c8740391a8aa081f6282d801847c@stud.fit.vutbr.cz>
+In-Reply-To: <3d50c8740391a8aa081f6282d801847c@stud.fit.vutbr.cz>
+Accept-Language: cs-CZ, en-US
+Content-Language: cs-CZ
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-originating-ip: [147.229.185.117]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-Spam-Status: No, score=1.274 required=7 tests=RDNS_NONE
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+RG9icsO9IGRlbiwNCkplIHRvIHDFmWlwcmF2ZW7DqSwgMjIuMDIuMjAyMyBWw6FzIGJ1ZGVtZSDE
+jWVrYXQgbmEgb2RkxJtsZW7DrSB1Ynl0b3bDoW7DrS4gTcSbanRlIHByb3PDrW0gdSBzZWJlIG9k
+aGxhxaFvdmFjw60gbMOtc3Rlay4NCg0KU8KgcG96ZHJhdmVtLyBCZXN0IHJlZ2FyZHMNCg0KRXJp
+ayBCZW7DocSNZWsNCm9kZMSbbGVuw60gdWJ5dG92w6Fuw60NClZ5c29rw6kgdcSNZW7DrSB0ZWNo
+bmlja8OpIHbCoEJybsSbDQpLb2xlamUgYSBtZW56eQ0KS29sZWpuw60gMiwgNjEyIDAwIEJybm8N
+Cmh0dHA6Ly93d3cua2FtLnZ1dGJyLmN6Lz9wPWFkbXUNCg0KYmVuYWNla0Bza20udnV0YnIuY3oN
+Cg0KDQoNCg0KDQoNCi0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tDQpGcm9tOiBCb3RsbyBGaWxp
+cCA8eGJvdGxvMDFAc3R1ZC5maXQudnV0YnIuY3o+IA0KU2VudDogV2VkbmVzZGF5LCBGZWJydWFy
+eSAxNSwgMjAyMyAzOjM0IFBNDQpUbzogZi11Ynl0b3ZhdGVsa3kgPGYtdWJ5dG92YXRlbGt5QHNr
+bS52dXRici5jej4NClN1YmplY3Q6IFJlOiBabWVuYSBpemJ5DQoNCk9uIDIwMjMtMDItMTQgMDg6
+NDEsIGYtdWJ5dG92YXRlbGt5IHdyb3RlOg0KPiBEb2Jyw70gZGVuLA0KPiBQb2t1ZCBtw6F0ZSB6
+w6FqZW0gbcWvxb5lbWUgVsOhcyBwxZllc3TEm2hvdmF0LCBhbGUgbmVtxa/FvmVtZSB6YXJ1xI1p
+dCwgxb5lIGsgDQo+IFbDoW0gbmVidWRlIHBvemTEm2ppIHDFmWlkxJtsZW4gc3R1ZGVudC4gUG9r
+dWQgc2kgaSBwxZllcyB0byBwxZllamV0ZSBzZSANCj4gcMWZZXVieXRvdmF0IG5hcGnFoXRlIG7D
+oW0sIHByZWZlcm92YW7DvSBkZW4gc3TEm2hvdmFuw60gKGplIG51dG5vIGFieSBieWxvIA0KPiBv
+dGV2xZllbm8gb2RkxJtsZW7DrSB1Ynl0b3bDoW7DrSBwcm8gc3TEm2hvdsOhbsOtKS4NCj4gDQo+
+IFPCoHBvemRyYXZlbS8gQmVzdCByZWdhcmRzDQo+IA0KPiBFcmlrIEJlbsOhxI1law0KPiBvZGTE
+m2xlbsOtIHVieXRvdsOhbsOtDQo+IFZ5c29rw6kgdcSNZW7DrSB0ZWNobmlja8OpIHbCoEJybsSb
+DQo+IEtvbGVqZSBhIG1lbnp5DQo+IEtvbGVqbsOtIDIsIDYxMiAwMCBCcm5vDQo+IGh0dHA6Ly93
+d3cua2FtLnZ1dGJyLmN6Lz9wPWFkbXUNCj4gDQo+IGJlbmFjZWtAc2ttLnZ1dGJyLmN6DQo+IA0K
+PiANCj4gDQo+IA0KPiANCj4gDQo+IC0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tDQo+IEZyb206
+IEJvdGxvIEZpbGlwIDx4Ym90bG8wMUBzdHVkLmZpdC52dXRici5jej4NCj4gU2VudDogTW9uZGF5
+LCBGZWJydWFyeSAxMywgMjAyMyA0OjQzIFBNDQo+IFRvOiBtLXVieXRvdmF0ZWxreSA8dWJ5dG92
+YXRlbGt5QHNrbS52dXRici5jej4NCj4gU3ViamVjdDogWm1lbmEgaXpieQ0KPiANCj4gRG9icsO9
+IGRlxYgsDQo+IGNoY2VsIGJ5IHNvbSBzYSBzcMO9dGHFpSwgxI1pIGplIG5hIFB1cmt5xYhvdnlj
+aCBrb2xlasOtY2ggbmVqYWvDoSB2b8S+bsOhIA0KPiBpemJhLCBuYSBrdG9yZWogbmllIGplIHbD
+tGJlYyBuaWt0byB1Ynl0b3ZhbsO9LiBSw6FkIGJ5IHNvbSBzYSB0YW0gdiANCj4gdGFrb20gcHLD
+rXBhZGUgcHJlc8WlYWhvdmFsLg0KPiANCj4gRmlsaXAgQm90bG8sIEIwNSAyMjgNCkRvYnLDvSBk
+ZcWILA0KcsOhZCBieSBzb20gc2EgcHJlc8WlYWhvdmFsIDIyLjIuIHYgc3RyZWR1IGRvb2JlZGEs
+IGFrIGJ5IHRvIGJvbG8gbW/Fvm7DqS4NCg==

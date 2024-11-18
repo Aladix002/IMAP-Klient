@@ -1,0 +1,128 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vutbr.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTP id 29JL42WV033430
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 19 Oct 2022 23:04:02 +0200 (CEST)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 4A666103497
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 19 Oct 2022 23:00:44 +0200 (CEST)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id A02163013CE1
+	for <xbotlo01@stud.fit.vut.cz>; Wed, 19 Oct 2022 23:00:42 +0200 (CEST)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 40403103C6F5; Wed, 19 Oct 2022 23:00:44 +0200 (CEST)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?utf-8?B?SVpQIDIyLzIzWiAoMjMxMDQ1KTogUmU6IE1vaHUgcG91xb7DrXZhdCBmc2U=?=  =?utf-8?B?ZWs/?=
+Date: Wed, 19 Oct 2022 23:00:44 +0200
+From: "=?utf-8?B?SHV0aXJhIE1pY2hhbCBwxZllcyBFLUxFQVJOSU5HIFZVVA==?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <6bd8157a67a139c6cf9122f1c52cb6307b84f65b379fd6e18bff8a2274d0c702@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: =?utf-8?B?IklaUCAtIGRpc2t1emUgayBwcm9qZWt0dSDEjS4gMSIgPG1vb2RsZWZvcnU=?=
+ =?utf-8?B?bTgyMDhAbW9vZGxlLnZ1dC5jej4=?=
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=8208
+X-Course-Id: 231045
+X-Course-Name: =?utf-8?B?WsOha2xhZHkgcHJvZ3JhbW92w6Fuw60gKElaUCAyMi8yM1op?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=8208&d=1243>
+In-Reply-To: <c53ae5a49bb62d1e1f32b3549be2c3d6ba8dfde2797dbc09e15770bf641f6c0f@moodle.vut.cz>
+References: <c53ae5a49bb62d1e1f32b3549be2c3d6ba8dfde2797dbc09e15770bf641f6c0f@moodle.vut.cz>
+Thread-Topic: =?utf-8?B?SVpQIDIyLzIzWiAoMjMxMDQ1KTogTW9odSBwb3XFvsOtdmF0IGZzZWVrPw==?=
+Thread-Index: c53ae5a49bb62d1e1f32b3549be2
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_nSE1hXWwmuf7Tn2LSL1yRCbzMYCu3jTrZMmXa1X9w"
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_nSE1hXWwmuf7Tn2LSL1yRCbzMYCu3jTrZMmXa1X9w
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIZP 22/23Z (231045) -> F=C3=B3ra -> IZP - diskuze k projektu =C4=8D. 1 -=
+> Mohu=0Apou=C5=BE=C3=ADvat fseek?=0Ahttps://moodle.vut.cz/mod/forum/discus=
+s.php?d=3D1243#p1879=0ARe: Mohu pou=C5=BE=C3=ADvat fseek?=0Aautor Hutira Mi=
+chal - St=C5=99eda, 19. =C5=99=C3=ADjna 2022, 22.34=0A---------------------=
+------------------------------------------------=0AOsobne si mysl=C3=ADm, =
+=C5=BEe d=C3=A1ta by mali by=C5=A5 spracovan=C3=A9 pr=C3=BAdovo (stream), a=
+=0Av kontexte pr=C3=BAdu oper=C3=A1cia seek (resp funkcia fseek) ned=C3=
+=A1va zmysel. Inak=0Apovedan=C3=A9, s pou=C5=BEit=C3=ADm fseek predpoklad=
+=C3=A1te =C5=BEe vstup je navigovate=C4=BEn=C3=BD=0As=C3=BAbor, =C4=8Do nem=
+us=C3=AD by=C5=A5 pravda (vlastne ani nikdy nebude, ked=C5=BEe vstup=0Am=
+=C3=A1me =C4=8D=C3=ADta=C5=A5 z STDIN). Okrem in=C3=A9ho, na pou=C5=BEitie =
+fseek by ste si museli=0Aotvori=C5=A5 d=C3=A1tov=C3=BD s=C3=BAbor pomocou f=
+open (ked=C5=BEe na stdin sa ned=C3=A1 pou=C5=BEi=C5=A5=0Afseek), =C4=8Do j=
+e pod=C4=BEa po=C5=BEiadaviek zak=C3=A1zan=C3=A9. Teoreticky si ale m=C3=
+=B4=C5=BEete=0Aimplementova=C5=A5 vlastn=C3=BD fseek ak najprv na=C4=8D=
+=C3=ADtate d=C3=A1ta do nejak=C3=A9ho=0Abufferu na ktorom by sa dalo "seeko=
+va=C5=A5".=0A=0A-----------------------------------------------------------=
+----------=0AToto je kopie zpr=C3=A1vy zve=C5=99ejn=C4=9Bn=C3=A9 na IZP 22/=
+23Z (231045) .=0A=0AChcete-li odpov=C4=9Bd=C4=9Bt klikn=C4=9Bte na tento od=
+kaz:=0Ahttps://moodle.vut.cz/mod/forum/post.php?reply=3D1879=0AOdhl=C3=
+=A1sit se z f=C3=B3ra: https://moodle.vut.cz/mod/forum/subscribe.php?id=3D8=
+208=0AOdhl=C3=A1sit se z diskuse:=0Ahttps://moodle.vut.cz/mod/forum/subscri=
+be.php?id=3D8208&d=3D1243=0AZm=C4=9Bnit nastaven=C3=AD voleb f=C3=B3ra:=0Ah=
+ttps://moodle.vut.cz/mod/forum/index.php?id=3D231045=0A
+--b1_nSE1hXWwmuf7Tn2LSL1yRCbzMYCu3jTrZMmXa1X9w
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231045">IZP 22/23Z (231045)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231045">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D8208">IZP - diskuze k projektu=
+ =C4=8D. 1</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moo=
+dle.vut.cz/mod/forum/discuss.php?d=3D1243">Mohu pou=C5=BE=C3=ADvat fseek?</=
+a>=0A</div>=0A=0A<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" cl=
+ass=3D"forumpost">=0A    <tr class=3D"header">=0A        <td width=3D"35" v=
+align=3D"top" class=3D"picture left">=0A            <a href=3D"https://mood=
+le.vut.cz/user/view.php?id=3D250146&amp;course=3D231045" class=3D"d-inline-=
+block aabtn"><img src=3D"https://moodle.vut.cz/theme/image.php/_s/vut/core/=
+1657648469/u/f2" class=3D"userpicture defaultuserpic" width=3D"35" height=
+=3D"35" alt=3D"Obr=C3=A1zek: Hutira Michal" title=3D"Obr=C3=A1zek: Hutira M=
+ichal" /></a>=0A        </td>=0A        <td class=3D"topic ">=0A           =
+ <div class=3D"subject">=0A                Re: Mohu pou=C5=BE=C3=ADvat fsee=
+k?=0A            </div>=0A            <div class=3D"author">=0A            =
+    autor <a target=3D'_blank' href=3D'https://moodle.vut.cz/user/view.php?=
+id=3D250146&course=3D231045'>Hutira Michal</a> - St=C5=99eda, 19. =C5=99=
+=C3=ADjna 2022, 22.34=0A            </div>=0A        </td>=0A    </tr>=0A  =
+  <tr>=0A        <td class=3D"left side" valign=3D"top">=0A                =
+&nbsp;=0A        </td>=0A        <td class=3D"content">=0A            <div =
+class=3D"text_to_html">Osobne si mysl=C3=ADm, =C5=BEe d=C3=A1ta by mali by=
+=C5=A5 spracovan=C3=A9 pr=C3=BAdovo (stream), a v kontexte pr=C3=BAdu oper=
+=C3=A1cia seek (resp funkcia fseek) ned=C3=A1va zmysel. Inak povedan=C3=
+=A9, s pou=C5=BEit=C3=ADm fseek predpoklad=C3=A1te =C5=BEe vstup je navigov=
+ate=C4=BEn=C3=BD s=C3=BAbor, =C4=8Do nemus=C3=AD by=C5=A5 pravda (vlastne a=
+ni nikdy nebude, ked=C5=BEe vstup m=C3=A1me =C4=8D=C3=ADta=C5=A5 z STDIN). =
+Okrem in=C3=A9ho, na pou=C5=BEitie fseek by ste si museli otvori=C5=A5 d=
+=C3=A1tov=C3=BD s=C3=BAbor pomocou fopen (ked=C5=BEe na stdin sa ned=C3=
+=A1 pou=C5=BEi=C5=A5 fseek), =C4=8Do je pod=C4=BEa po=C5=BEiadaviek zak=
+=C3=A1zan=C3=A9. Teoreticky si ale m=C3=B4=C5=BEete implementova=C5=A5 vlas=
+tn=C3=BD fseek ak najprv na=C4=8D=C3=ADtate d=C3=A1ta do nejak=C3=A9ho buff=
+eru na ktorom by sa dalo "seekova=C5=A5".</div>=0A=0A            <div class=
+=3D"commands">=0A                    <a target=3D"_blank" href=3D"https://m=
+oodle.vut.cz/mod/forum/discuss.php?d=3D1243&parent=3D1877">=0A             =
+           Uk=C3=A1zat p=C5=99edch=C5=AFdce=0A                    </a>=0A  =
+                      |=0A                    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/post.php?reply=3D1879">=0A                 =
+       Odpov=C4=9Bd=C4=9Bt=0A                    </a>=0A            </div>=
+=0A=0A            <div class=3D"link">=0A                <a target=3D"_blan=
+k" href=3D"https://moodle.vut.cz/mod/forum/discuss.php?d=3D1243#p1879">=0A =
+                   Uk=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A      =
+          </a>=0A            </div>=0A        </td>=0A    </tr>=0A</table>=
+=0A=0A<hr />=0A<div class=3D"mdl-align unsubscribelink">=0A    <a href=3D"h=
+ttps://moodle.vut.cz/mod/forum/subscribe.php?id=3D8208">Neodeb=C3=ADrat p=
+=C5=99=C3=ADsp=C4=9Bvky z tohoto f=C3=B3ra</a>&nbsp;=0A    <a href=3D"https=
+://moodle.vut.cz/mod/forum/subscribe.php?id=3D8208&d=3D1243">Vypnout odeb=
+=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&=
+nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/index.php?id=3D23104=
+5">Zm=C4=9Bna nastaven=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_nSE1hXWwmuf7Tn2LSL1yRCbzMYCu3jTrZMmXa1X9w--

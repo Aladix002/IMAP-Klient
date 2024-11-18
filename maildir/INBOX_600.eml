@@ -1,0 +1,113 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles2.ro.vutbr.cz (anopheles2.ro.vut.cz [147.229.2.68])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTP id 33DEg7dn047095
+	for <xbotlo01@stud.fit.vut.cz>; Thu, 13 Apr 2023 16:43:05 +0200 (CEST)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles2.ro.vutbr.cz (Postfix) with ESMTP id D1C6D10B2BD
+	for <xbotlo01@stud.fit.vut.cz>; Thu, 13 Apr 2023 16:42:05 +0200 (CEST)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id C7291313FE49
+	for <xbotlo01@stud.fit.vut.cz>; Thu, 13 Apr 2023 16:42:05 +0200 (CEST)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id C5B731066666; Thu, 13 Apr 2023 16:42:05 +0200 (CEST)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogTW/Fvm5vc3QgcG91xb5pdMOtIG11dGU=?=  =?utf-8?B?eHU=?=
+Date: Thu, 13 Apr 2023 16:42:05 +0200
+From: "=?utf-8?B?QnJhYmxlYyBUb23DocWhIHDFmWVzIEUtTEVBUk5JTkcgVlVU?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <1a0aa27afd3dafc2f3ab1af2000fc30a2d024a37224775201a14a73c7f689b48@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: "Diskuze k 2. projektu IOS" <moodleforum9518@moodle.vut.cz>
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=9518
+X-Course-Id: 231005
+X-Course-Name: =?utf-8?B?T3BlcmHEjW7DrSBzeXN0w6lteSAoSU9TIDIyLzIzTCk=?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=9518&d=2223>
+Thread-Topic: =?utf-8?B?SU9TIDIyLzIzTCAoMjMxMDA1KTogTW/Fvm5vc3QgcG91xb5pdMOtIG11dGU=?=
+ =?utf-8?B?eHU=?=
+Thread-Index: 1a0aa27afd3dafc2f3ab1af2000f
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_Ozsv2Xnrb6tY7e12zLcePDekhKzHp8v2jeGn8ML5Ba4"
+X-Spam-Status: No, score=-0.352 required=7 tests=AWL,HTML_IMAGE_ONLY_28,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_Ozsv2Xnrb6tY7e12zLcePDekhKzHp8v2jeGn8ML5Ba4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIOS 22/23L (231005) -> F=C3=B3ra -> Diskuze k 2. projektu IOS -> Mo=
+=C5=BEnost=0Apou=C5=BEit=C3=AD mutexu=0Ahttps://moodle.vut.cz/mod/forum/dis=
+cuss.php?d=3D2223#p3451=0AMo=C5=BEnost pou=C5=BEit=C3=AD mutexu=0Aautor Bra=
+blec Tom=C3=A1=C5=A1 - =C4=8Ctvrtek, 13. dubna 2023, 16.11=0A--------------=
+-------------------------------------------------------=0ADobr=C3=BD den,=
+=0A=0Azaj=C3=ADmalo by m=C4=9B, zda m=C5=AF=C5=BEeme krom=C4=9B semafor=
+=C5=AF pou=C5=BE=C3=ADt i mutexy=0A(konkr=C3=A9tn=C4=9B mutex z pthread.h),=
+ kdy=C5=BE jde v=C3=ADcem=C3=A9n=C4=9B o zjednodu=C5=A1enou=0Averzi semafor=
+u, nebo jestli mus=C3=ADme pou=C5=BE=C3=ADvat pouze rozhran=C3=AD nazvan=
+=C3=A1=0Ajako semafory.=0A=0AP=C5=99edem d=C3=ADky za odpov=C4=9B=C4=8F.=0A=
+=0A---------------------------------------------------------------------=0A=
+Toto je kopie zpr=C3=A1vy zve=C5=99ejn=C4=9Bn=C3=A9 na IOS 22/23L (231005) =
+.=0A=0AChcete-li odpov=C4=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=0Ahttps:=
+//moodle.vut.cz/mod/forum/post.php?reply=3D3451=0AOdhl=C3=A1sit se z f=
+=C3=B3ra: https://moodle.vut.cz/mod/forum/subscribe.php?id=3D9518=0AOdhl=
+=C3=A1sit se z diskuse:=0Ahttps://moodle.vut.cz/mod/forum/subscribe.php?id=
+=3D9518&d=3D2223=0AZm=C4=9Bnit nastaven=C3=AD voleb f=C3=B3ra:=0Ahttps://mo=
+odle.vut.cz/mod/forum/index.php?id=3D231005=0A
+--b1_Ozsv2Xnrb6tY7e12zLcePDekhKzHp8v2jeGn8ML5Ba4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231005">IOS 22/23L (231005)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231005">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D9518">Diskuze k 2. projektu IO=
+S</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vut.c=
+z/mod/forum/discuss.php?d=3D2223">Mo=C5=BEnost pou=C5=BEit=C3=AD mutexu</a>=
+=0A</div>=0A=0A<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" clas=
+s=3D"forumpost">=0A    <tr class=3D"header">=0A        <td width=3D"35" val=
+ign=3D"top" class=3D"picture left">=0A            <a href=3D"https://moodle=
+.vut.cz/user/view.php?id=3D250512&amp;course=3D231005" class=3D"d-inline-bl=
+ock aabtn"><img src=3D"https://moodle.vut.cz/theme/image.php/_s/vut/core/16=
+57648469/u/f2" class=3D"userpicture defaultuserpic" width=3D"35" height=3D"=
+35" alt=3D"Obr=C3=A1zek: Brablec Tom=C3=A1=C5=A1" title=3D"Obr=C3=A1zek: Br=
+ablec Tom=C3=A1=C5=A1" /></a>=0A        </td>=0A        <td class=3D"topic =
+starter">=0A            <div class=3D"subject">=0A                Mo=C5=
+=BEnost pou=C5=BEit=C3=AD mutexu=0A            </div>=0A            <div cl=
+ass=3D"author">=0A                autor <a target=3D'_blank' href=3D'https:=
+//moodle.vut.cz/user/view.php?id=3D250512&course=3D231005'>Brablec Tom=
+=C3=A1=C5=A1</a> - =C4=8Ctvrtek, 13. dubna 2023, 16.11=0A            </div>=
+=0A        </td>=0A    </tr>=0A    <tr>=0A        <td class=3D"left side" v=
+align=3D"top">=0A                &nbsp;=0A        </td>=0A        <td class=
+=3D"content">=0A            <p dir=3D"ltr" style=3D"text-align:left;">Dobr=
+=C3=BD den, <br /></p><p dir=3D"ltr" style=3D"text-align:left;">zaj=C3=
+=ADmalo by m=C4=9B, zda m=C5=AF=C5=BEeme krom=C4=9B semafor=C5=AF pou=C5=
+=BE=C3=ADt i mutexy (konkr=C3=A9tn=C4=9B mutex z pthread.h), kdy=C5=BE jde =
+v=C3=ADcem=C3=A9n=C4=9B o zjednodu=C5=A1enou verzi semaforu, nebo jestli mu=
+s=C3=ADme pou=C5=BE=C3=ADvat pouze rozhran=C3=AD nazvan=C3=A1 jako semafory=
+.<br /></p><p dir=3D"ltr" style=3D"text-align:left;">P=C5=99edem d=C3=ADky =
+za odpov=C4=9B=C4=8F.<br /></p>=0A=0A            <div class=3D"commands">=
+=0A                    <a target=3D"_blank" href=3D"https://moodle.vut.cz/m=
+od/forum/post.php?reply=3D3451">=0A                        Odpov=C4=9Bd=
+=C4=9Bt=0A                    </a>=0A            </div>=0A=0A            <d=
+iv class=3D"link">=0A                <a target=3D"_blank" href=3D"https://m=
+oodle.vut.cz/mod/forum/discuss.php?d=3D2223#p3451">=0A                    U=
+k=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A                </a>=0A   =
+         </div>=0A        </td>=0A    </tr>=0A</table>=0A=0A<hr />=0A<div c=
+lass=3D"mdl-align unsubscribelink">=0A    <a href=3D"https://moodle.vut.cz/=
+mod/forum/subscribe.php?id=3D9518">Neodeb=C3=ADrat p=C5=99=C3=ADsp=C4=9Bvky=
+ z tohoto f=C3=B3ra</a>&nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/fo=
+rum/subscribe.php?id=3D9518&d=3D2223">Vypnout odeb=C3=ADr=C3=A1n=C3=AD p=
+=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to diskuse</a>&nbsp;=0A    <a href=3D=
+"https://moodle.vut.cz/mod/forum/index.php?id=3D231005">Zm=C4=9Bna nastaven=
+=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_Ozsv2Xnrb6tY7e12zLcePDekhKzHp8v2jeGn8ML5Ba4--

@@ -1,0 +1,44 @@
+Return-Path: <izavrel@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2AMBu2eq030323
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vutbr.cz>; Tue, 22 Nov 2022 12:56:02 +0100 (CET)
+	(envelope-from izavrel@fit.vutbr.cz)
+Received: from roundcube.fit.vutbr.cz (spytihnev.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:9e2])
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 2AMBu2m0068199
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+	for <xbotlo01@stud.fit.vutbr.cz>; Tue, 22 Nov 2022 12:56:02 +0100 (CET)
+	(envelope-from izavrel@fit.vutbr.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vut.cz; s=mx1;
+	t=1669118162; bh=lG9Srw6SfcFCUQE1SFdJFxXPhTNnqNqS9t5INy1FnNI=;
+	h=Date:From:To:Subject;
+	b=yYJT5UFeUA1AltrhVlDMk2bWVWrti+Q9mYwZWpdh8aDyp3ianJLFGe6nJGy0lNO/c
+	 qBr2wnGvL2H2v2OL6Qi0wZ1XfpXLoRevgBPAVd8KnO6TK0VzMAC9da1dBZXjt7FSEN
+	 R/4kZNn1JxIqMAz/L7jj2JipGEa31fZ2u2EZiVeI=
+MIME-Version: 1.0
+Date: Tue, 22 Nov 2022 12:56:02 +0100
+From: =?UTF-8?Q?Zav=C5=99el_Jan?= <izavrel@fit.vut.cz>
+To: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>
+Subject: Re: Nepritomnost na cviku
+User-Agent: Roundcube Webmail
+Message-ID: <ffe6581778103eed7f25f45747811b1f@fit.vut.cz>
+X-Sender: izavrel@fit.vut.cz
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+Pekny den,
+
+vyplnte cviko na replitu 
+https://replit.com/team/fitvut-izp2022-ut16-n103. V 1600 se cviko zapne.
+
+Dne 2022-11-22 10:44, Botlo Filip napsal:
+> Dobrý deň,
+> dnes sa nebudem môct dostaviŤ na cviko, nakoľko mám vysokú teplotu.
+> Bolo by moŽné si toto cviko nahradiť iný deň ?
+> Vopred ďakujem za odpoveď.
+> S pozdravom,
+> Filip Botlo.

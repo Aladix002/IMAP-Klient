@@ -1,0 +1,54 @@
+Return-Path: <3iaeHYxEICBoPFH0LO-8I+DEH4FBOLKJ1H.2PN1EJBEQRIJK3.58J.LKJ1H.2P@listserv.bounces.google.com>
+Received: from mail-ej1-x645.google.com (mail-ej1-x645.google.com [IPv6:2a00:1450:4864:20:0:0:0:645])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2AUIvEVP058004
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vutbr.cz>; Wed, 30 Nov 2022 19:57:14 +0100 (CET)
+	(envelope-from 3iaeHYxEICBoPFH0LO-8I+DEH4FBOLKJ1H.2PN1EJBEQRIJK3.58J.LKJ1H.2P@listserv.bounces.google.com)
+Received: by mail-ej1-x645.google.com with SMTP id sh37-20020a1709076ea500b007c09b177cd1so2245179ejc.12
+        for <xbotlo01@stud.fit.vutbr.cz>; Wed, 30 Nov 2022 10:57:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=vutbr.cz; s=google-vutbrcz;
+        h=content-transfer-encoding:date:message-id:subject:to:from
+         :references:in-reply-to:auto-submitted:mime-version:from:to:cc
+         :subject:date:message-id:reply-to;
+        bh=S9WlfhY3aMS37nkaICMQlvRDYoc24Pmr+npoNnr2WvA=;
+        b=t+KvtsSCXDb0cZkJPq7PHDy7tLihLyjuVTuy1RgtFaI+fy6J/MHldMxU+D+U/pvJMK
+         83xyg1Cib2pluDM7YplOsn1bRgry2TSagLC3yWDGX5RhEJGMV2DGXIhLTDPOjQu83VPt
+         bwtUhH0QTshDtvGfLIxidGQLIJwFOHxwo6Ptjm3r1Bmvx0ZdrubO0SA+y8VtlNezlJq2
+         U7br0WfovrWZ7vJ8zNtLAvR0VJmhqjZ8sd52lTrZL4RV0yZyMrY+PoQL87MipplQwnlU
+         5tCFofSomRYWjeIh3yH8WAeKAZDMBdUi9LI4vYfiX/kVlP4N+uXSGuqZdtDUy9+C6Dlc
+         8Jqw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=content-transfer-encoding:date:message-id:subject:to:from
+         :references:in-reply-to:auto-submitted:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=S9WlfhY3aMS37nkaICMQlvRDYoc24Pmr+npoNnr2WvA=;
+        b=SKcb/PEq+G6K7B4b+NUVkYKOL/PoLdVSczxJVlNZz/gBKmgf+hryyCT3vuen5vg1NF
+         7eKOCG9U37cJWoKAGHA7bSnSdInxEU9w0oY9nFW+5PFlggoYLQH1bTk1XdjrbDBLMFfi
+         dTzonJ8okCcVbyoJda50oFp58zFkj9rCl8X/j0FZ8JLgCRNbASygARu1GPfeBmYToi9t
+         tbBPtkBQEWnrPDfOpW+eEWdysT4T21R45VapZa1PQw0XANagGpdoH4NC33PGaW/X1crt
+         uaIH4RtyEUo9Nb2+Oj1DNMY87z7EXaZ3tPvd3ZZARKH6bq4FXf6pNg/Ozsq/MKTkDkaD
+         q88A==
+X-Gm-Message-State: ANoB5pnzigKfGXFOr6dpY2zQeTvA1cvSOUI+jHutf6ICAncPlVXw/iwQ
+	hkolYLSnkjYOvgElTxEHeWyE9TWefIdkrShTcxIGE62rcNwhAw==
+X-Google-Smtp-Source: AA0mqf6Wid+6K35+UA/VsxiC5+Hz5eTU1B6tswCGTZ2GNKbXZhheI/1Cy++q8mR9I+oBkSF9YBo15s4KDbr0+rVJ6kTt/R/r
+X-Received: by 2002:aa7:c511:0:b0:469:7731:5b29 with SMTP id o17-20020aa7c511000000b0046977315b29mr47027009edq.419.1669834633817;
+        Wed, 30 Nov 2022 10:57:13 -0800 (PST)
+MIME-Version: 1.0
+Auto-Submitted: auto-replied
+In-Reply-To: <41ab5aee00137f91d61bebf0fbc9f697@stud.fit.vutbr.cz>
+References: <20221130122525.9534E308F8C0@emu.ro.vutbr.cz> <41ab5aee00137f91d61bebf0fbc9f697@stud.fit.vutbr.cz>
+From: =?UTF-8?B?WnByw6F2eSB6IGluZm9ybWHEjW7DrWhvIHN5c3TDqW11?= <zpravy-is+noreply@vutbr.cz>
+To: <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?UTF-8?B?UmU6IFJlOiBJS0sgLSB0xZlldMOtIHNldGvDoW7DrQ==?=
+Message-ID: <0000000000002eab3405eeb4aceb@google.com>
+Date: Wed, 30 Nov 2022 18:57:13 +0000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.149 required=7 tests=DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HEADER_FROM_DIFFERENT_DOMAINS,RCVD_IN_DNSWL_NONE
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+Odpov=C4=9B=C4=8F je mo=C5=BEn=C3=A1 pouze pomoc=C3=AD VUT zpr=C3=A1v - pou=
+=C5=BEijte pros=C3=ADm n=C3=A1sleduj=C3=ADc=C3=AD odkaz:
+https://www.vutbr.cz/intra/vut-zpravy?action=3Dnova

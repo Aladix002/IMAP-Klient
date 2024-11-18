@@ -1,0 +1,37 @@
+Return-Path: <zpravy-is@vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vutbr.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTP id 28M71Qug053757
+	for <xbotlo01@stud.fit.vut.cz>; Thu, 22 Sep 2022 09:01:26 +0200 (CEST)
+	(envelope-from zpravy-is@vutbr.cz)
+Received: from emu.ro.vutbr.cz (emu.ro.vutbr.cz [100.64.24.49])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 11BFA10B2C0
+	for <xbotlo01@stud.fit.vut.cz>; Thu, 22 Sep 2022 09:01:25 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.11.0 anopheles1.ro.vutbr.cz 11BFA10B2C0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=vutbr.cz;
+	s=anopheles1; t=1663830085;
+	bh=w7rz8IM517XEVadMS8+D/RcyIsNGEqagayoO2W/MN4g=; l=396;
+	h=From:Reply-to:To:Subject:Date:From;
+	b=rR6DLdXvpcyZO+cdzoHXgfjMlS9gFOdOh01BDhDHPKE02bVb7B7+RfveMj7tNQttu
+	 ZHuG2v6lD/cXwVHUQLtIYfmwyq+6LgkN4YJay7eamGdj5spntrEN/LqWlHi3chAj8J
+	 5/aW8eM9Svf4Xv1bVY4g5kD6FnN3AE8TtGCSQE9s=
+Received: by emu.ro.vutbr.cz (Postfix, from userid 1028)
+	id 1059030A1C3F; Thu, 22 Sep 2022 09:01:25 +0200 (CEST)
+MIME-Version: 1.0
+From: =?utf-8?B?WlBSw4FWWSBJUzogQXV0b21hdCBJbmZvcm1hxI1uw60gc3lzdMOpbQ==?= <zpravy-is@vutbr.cz>
+Reply-to: zpravy-is@vutbr.cz
+To: xbotlo01@stud.fit.vutbr.cz
+Subject: =?utf-8?B?Wm3Em25hIHN0YXZ1IHYgxZnDrXplbsOtICM4MjM=?=
+User-Agent: EmailSend VUTPortal3 emu email_send.pl
+Content-type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Message-Id: <20220922070125.1059030A1C3F@emu.ro.vutbr.cz>
+Date: Thu, 22 Sep 2022 09:01:25 +0200 (CEST)
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+ViDFmcOtemVuw60gKCM4MjMpLCBrdGVyw6kgamUgdmVkZW5vIGsgVmHFoWVtdSBzdHVkaXUgZG/F
+oWxvIGtlIHptxJtuxJsgc3RhdnUuIFN0YXYgc2Ugem3Em25pbCBuYSAidWtvbsSNZW5vIi4KDVNl
+em5hbSDFmcOtemVuw60gdiBJUyBWVVQ6IGh0dHBzOi8vd3d3LnZ1dC5jei9yaXplbmktemFkb3N0
+aQoKVlVUIHpwcsOhdmEgb2Q6IEF1dG9tYXQgSW5mb3JtYcSNbsOtIHN5c3TDqW0gCk9kcG92xJvE
+jyBuYSB0dXRvIHpwcsOhdnUgbmVuw60gbW/Fvm7DoS4gWnByw6F2dSBvZGVzbGFsIGF1dG9tYXQu
+Cg==

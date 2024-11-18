@@ -1,0 +1,53 @@
+Return-Path: <f-ubytovatelky@skm.vutbr.cz>
+Received: from palak.adm.skm.vutbr.cz ([147.229.185.11])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 31E7fbjZ004956
+	(version=TLSv1.2 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <xbotlo01@stud.fit.vutbr.cz>; Tue, 14 Feb 2023 08:41:37 +0100 (CET)
+	(envelope-from f-ubytovatelky@skm.vutbr.cz)
+Received: from Palace.adm.skm.vutbr.cz (147.229.185.55) by
+ palak.adm.skm.vutbr.cz (147.229.185.11) with Microsoft SMTP Server (TLS) id
+ 14.3.498.0; Tue, 14 Feb 2023 08:41:21 +0100
+Received: from Palace.adm.skm.vutbr.cz (147.229.185.55) by
+ Palace.adm.skm.vutbr.cz (147.229.185.55) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id
+ 15.1.2507.17; Tue, 14 Feb 2023 08:41:21 +0100
+Received: from Palace.adm.skm.vutbr.cz ([::1]) by Palace.adm.skm.vutbr.cz
+ ([::1]) with mapi id 15.01.2507.017; Tue, 14 Feb 2023 08:41:21 +0100
+From: f-ubytovatelky <f-ubytovatelky@skm.vutbr.cz>
+To: Botlo Filip <xbotlo01@stud.fit.vutbr.cz>
+Subject: RE: Zmena izby
+Thread-Topic: Zmena izby
+Thread-Index: AQHZP8HYPYI6G1Of40WTBUH/9KzKJa7OD1lQ
+Date: Tue, 14 Feb 2023 07:41:20 +0000
+Message-ID: <7ddc1efff85e496085e6f4882510c837@skm.vutbr.cz>
+References: <a238df78b4529031bb84034c919ba5ba@stud.fit.vutbr.cz>
+In-Reply-To: <a238df78b4529031bb84034c919ba5ba@stud.fit.vutbr.cz>
+Accept-Language: cs-CZ, en-US
+Content-Language: cs-CZ
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-originating-ip: [147.229.185.117]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-Spam-Status: No, score=1.274 required=7 tests=RDNS_NONE
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+RG9icsO9IGRlbiwNClBva3VkIG3DoXRlIHrDoWplbSBtxa/FvmVtZSBWw6FzIHDFmWVzdMSbaG92
+YXQsIGFsZSBuZW3Fr8W+ZW1lIHphcnXEjWl0LCDFvmUgayBWw6FtIG5lYnVkZSBwb3pkxJtqaSBw
+xZlpZMSbbGVuIHN0dWRlbnQuIFBva3VkIHNpIGkgcMWZZXMgdG8gcMWZZWpldGUgc2UgcMWZZXVi
+eXRvdmF0IG5hcGnFoXRlIG7DoW0sIHByZWZlcm92YW7DvSBkZW4gc3TEm2hvdmFuw60gKGplIG51
+dG5vIGFieSBieWxvIG90ZXbFmWVubyBvZGTEm2xlbsOtIHVieXRvdsOhbsOtIHBybyBzdMSbaG92
+w6Fuw60pLg0KDQpTwqBwb3pkcmF2ZW0vIEJlc3QgcmVnYXJkcw0KDQpFcmlrIEJlbsOhxI1law0K
+b2RkxJtsZW7DrSB1Ynl0b3bDoW7DrQ0KVnlzb2vDqSB1xI1lbsOtIHRlY2huaWNrw6kgdsKgQnJu
+xJsNCktvbGVqZSBhIG1lbnp5DQpLb2xlam7DrSAyLCA2MTIgMDAgQnJubw0KaHR0cDovL3d3dy5r
+YW0udnV0YnIuY3ovP3A9YWRtdQ0KDQpiZW5hY2VrQHNrbS52dXRici5jeg0KDQoNCg0KDQoNCg0K
+LS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS0NCkZyb206IEJvdGxvIEZpbGlwIDx4Ym90bG8wMUBz
+dHVkLmZpdC52dXRici5jej4gDQpTZW50OiBNb25kYXksIEZlYnJ1YXJ5IDEzLCAyMDIzIDQ6NDMg
+UE0NClRvOiBtLXVieXRvdmF0ZWxreSA8dWJ5dG92YXRlbGt5QHNrbS52dXRici5jej4NClN1Ympl
+Y3Q6IFptZW5hIGl6YnkNCg0KRG9icsO9IGRlxYgsDQpjaGNlbCBieSBzb20gc2Egc3DDvXRhxaUs
+IMSNaSBqZSBuYSBQdXJrecWIb3Z5Y2gga29sZWrDrWNoIG5lamFrw6Egdm/Evm7DoSBpemJhLCBu
+YSBrdG9yZWogbmllIGplIHbDtGJlYyBuaWt0byB1Ynl0b3ZhbsO9LiBSw6FkIGJ5IHNvbSBzYSB0
+YW0gdiB0YWtvbSBwcsOtcGFkZSBwcmVzxaVhaG92YWwuDQoNCkZpbGlwIEJvdGxvLCBCMDUgMjI4
+DQo=

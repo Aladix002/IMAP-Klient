@@ -1,0 +1,140 @@
+Return-Path: <noreply@moodle-proxy.ro.vutbr.cz>
+Received: from anopheles1.ro.vutbr.cz (anopheles1.ro.vutbr.cz [147.229.2.67])
+	by eva.fit.vutbr.cz (8.17.1.9/8.17.1) with ESMTP id 28QArQKU019295
+	for <xbotlo01@stud.fit.vut.cz>; Mon, 26 Sep 2022 12:53:26 +0200 (CEST)
+	(envelope-from noreply@moodle-proxy.ro.vutbr.cz)
+Received: from mail.ro.vutbr.cz (mail.ro.vutbr.cz [147.229.2.199])
+	by anopheles1.ro.vutbr.cz (Postfix) with ESMTP id 917F0101228
+	for <xbotlo01@stud.fit.vut.cz>; Mon, 26 Sep 2022 12:50:11 +0200 (CEST)
+Received: from moodle2020.ro.vutbr.cz (moodle2020.ro.vutbr.cz [100.68.40.52])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.ro.vutbr.cz (Postfix) with ESMTPS id AA6743013CE1
+	for <xbotlo01@stud.fit.vut.cz>; Mon, 26 Sep 2022 12:50:10 +0200 (CEST)
+Received: by moodle2020.ro.vutbr.cz (Postfix, from userid 1000)
+	id 8F48A1056A40; Mon, 26 Sep 2022 12:50:11 +0200 (CEST)
+To: "Botlo Filip" <xbotlo01@stud.fit.vutbr.cz>
+Subject: =?utf-8?B?SVpQIDIyLzIzWiAoMjMxMDQ1KTogUMWZZWRzdGF2ZW7DrSBzeXN0w6ltdSA=?=  =?utf-8?B?RmVkb3Jh?=
+Date: Mon, 26 Sep 2022 12:50:11 +0200
+From: "=?utf-8?B?U21yxI1rYSBBbGXFoSBJbmcuIFBoLkQuIHDFmWVzIEUtTEVBUk5JTkcgVlVU?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Reply-To: "=?utf-8?B?TmVvZHBvdsOtZGVqdGUgbmEgdGVudG8gZS1tYWls?=" <noreply@moodle-proxy.ro.vutbr.cz>
+Message-ID: <63a5d9fa18999a1c1ee24dd570369ebbb38d48f2d753f6fcee4b447b46ca913f@moodle.vut.cz>
+X-Mailer: PHPMailer 6.5.3 (https://github.com/PHPMailer/PHPMailer)
+List-Id: =?utf-8?B?IklaUCAtIG9iZWNuw6kgaW5mb3JtYWNlIiA8bW9vZGxlZm9ydW04MjA1QG0=?=
+ =?utf-8?B?b29kbGUudnV0LmN6Pg==?=
+List-Help: https://moodle.vut.cz/mod/forum/view.php?f=8205
+X-Course-Id: 231045
+X-Course-Name: =?utf-8?B?WsOha2xhZHkgcHJvZ3JhbW92w6Fuw60gKElaUCAyMi8yM1op?=
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <https://moodle.vut.cz/mod/forum/subscribe.php?id=8205&d=1073>
+Thread-Topic: =?utf-8?B?SVpQIDIyLzIzWiAoMjMxMDQ1KTogUMWZZWRzdGF2ZW7DrSBzeXN0w6ltdSA=?=
+ =?utf-8?B?RmVkb3Jh?=
+Thread-Index: 63a5d9fa18999a1c1ee24dd57036
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_xg6kkaXDZvgmmlnBqW71aDqOQiNqAuzyrSyKH6RVbE"
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+
+--b1_xg6kkaXDZvgmmlnBqW71aDqOQiNqAuzyrSyKH6RVbE
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0AIZP 22/23Z (231045) -> F=C3=B3ra -> IZP - obecn=C3=A9 informace -> P=
+=C5=99edstaven=C3=AD=0Asyst=C3=A9mu Fedora=0Ahttps://moodle.vut.cz/mod/foru=
+m/discuss.php?d=3D1073#p1603=0AP=C5=99edstaven=C3=AD syst=C3=A9mu Fedora=0A=
+autor Smr=C4=8Dka Ale=C5=A1 Ing. Ph.D. - Pond=C4=9Bl=C3=AD, 26. z=C3=A1=
+=C5=99=C3=AD 2022, 12.19=0A------------------------------------------------=
+---------------------=0ADobr=C3=BD den,=0A=0Az=C3=ADtra (=C3=BAter=C3=BD 27=
+.9.) prob=C4=9Bhne v =C4=8Dase 18:00 - 19:00 extern=C3=AD=0Ap=C5=99edn=
+=C3=A1=C5=A1ka v u=C4=8Debn=C4=9B E112, na kter=C3=A9 v=C3=A1m Ji=C5=99=
+=C3=AD Eischmann z firmy Red=0Ahat p=C5=99edvede =C3=BAvod do Linuxov=C3=
+=A9 distribuce Fedora. Na p=C5=99edn=C3=A1=C5=A1ce se=0Adozv=C3=ADte, co to=
+ syst=C3=A9m Linux a pota=C5=BEmo jeho distribuce Fedora je, jak si=0Aji na=
+instalovat (na vlastn=C3=ADm nebo virtu=C3=A1ln=C3=ADm stroji), jak je jedn=
+oduch=C3=A9=0Asi nainstalovat program=C3=A1torsk=C3=A9 prost=C5=99ed=C3=
+=AD a p=C5=99=C3=ADpadn=C4=9B, jak po=C5=BE=C3=A1dat o=0Apomoc kolegy z Red=
+ hatu. Na prezentaci byly od student=C5=AF prvn=C3=ADho ro=C4=8Dn=C3=ADku=
+=0Av=C5=BEdy dobr=C3=A9 ohlasy, a proto ji za=C5=99azujeme do n=C4=9Bkter=
+=C3=A9ho z prvn=C3=ADch=0At=C3=BDdn=C5=AF v=C3=BDuky. T=C3=A9ma p=C5=99edn=
+=C3=A1=C5=A1ky nen=C3=AD nijak za=C5=99azeno v hodnocen=C3=AD=0Ap=C5=99edm=
+=C4=9Btu, ov=C5=A1em osobn=C4=9B v=C3=A1m doporu=C4=8Duji se z=C3=BA=C4=
+=8Dastnit, pakli=C5=BEe=0Anem=C3=A1te s =C5=BE=C3=A1dnou distribuc=C3=AD Li=
+nuxu zku=C5=A1enosti.=0A=0AKolega Eischmann je zam=C4=9Bstn=C3=A1n ve firm=
+=C4=9B Red hat a v=C4=9Bnuje se pr=C3=A1v=C4=9B=0Adistribuci Fedora. Z p=
+=C5=99edn=C3=A1=C5=A1ky bude proveden z=C3=A1znam.=0A=0AAle=C5=A1 Smr=C4=
+=8Dka=0A=0A----------------------------------------------------------------=
+-----=0AToto je kopie zpr=C3=A1vy zve=C5=99ejn=C4=9Bn=C3=A9 na IZP 22/23Z (=
+231045) .=0A=0AChcete-li odpov=C4=9Bd=C4=9Bt klikn=C4=9Bte na tento odkaz:=
+=0Ahttps://moodle.vut.cz/mod/forum/post.php?reply=3D1603=0AOdhl=C3=A1sit se=
+ z f=C3=B3ra: https://moodle.vut.cz/mod/forum/subscribe.php?id=3D8205=0AOdh=
+l=C3=A1sit se z diskuse:=0Ahttps://moodle.vut.cz/mod/forum/subscribe.php?id=
+=3D8205&d=3D1073=0AZm=C4=9Bnit nastaven=C3=AD voleb f=C3=B3ra:=0Ahttps://mo=
+odle.vut.cz/mod/forum/index.php?id=3D231045=0A
+--b1_xg6kkaXDZvgmmlnBqW71aDqOQiNqAuzyrSyKH6RVbE
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"navbar">=0A    <a target=3D"_blank" href=3D"https://moodle.vu=
+t.cz/course/view.php?id=3D231045">IZP 22/23Z (231045)</a>=0A    &raquo;=0A =
+   <a target=3D"_blank" href=3D"https://moodle.vut.cz/mod/forum/index.php?i=
+d=3D231045">F=C3=B3ra</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"=
+https://moodle.vut.cz/mod/forum/view.php?f=3D8205">IZP - obecn=C3=A9 inform=
+ace</a>=0A    &raquo;=0A    <a target=3D"_blank" href=3D"https://moodle.vut=
+.cz/mod/forum/discuss.php?d=3D1073">P=C5=99edstaven=C3=AD syst=C3=A9mu Fedo=
+ra</a>=0A</div>=0A=0A<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0=
+" class=3D"forumpost">=0A    <tr class=3D"header">=0A        <td width=3D"3=
+5" valign=3D"top" class=3D"picture left">=0A            <a href=3D"https://=
+moodle.vut.cz/user/view.php?id=3D16965&amp;course=3D231045" class=3D"d-inli=
+ne-block aabtn"><img src=3D"https://moodle.vut.cz/pluginfile.php/20289/user=
+/icon/vut/f2?rev=3D4415416" class=3D"userpicture" width=3D"35" height=3D"35=
+" alt=3D"Obr=C3=A1zek: Smr=C4=8Dka Ale=C5=A1 Ing. Ph.D." title=3D"Obr=C3=
+=A1zek: Smr=C4=8Dka Ale=C5=A1 Ing. Ph.D." /></a>=0A        </td>=0A        =
+<td class=3D"topic starter">=0A            <div class=3D"subject">=0A      =
+          P=C5=99edstaven=C3=AD syst=C3=A9mu Fedora=0A            </div>=0A=
+            <div class=3D"author">=0A                autor <a target=3D'_bl=
+ank' href=3D'https://moodle.vut.cz/user/view.php?id=3D16965&course=3D231045=
+'>Smr=C4=8Dka Ale=C5=A1 Ing. Ph.D.</a> - Pond=C4=9Bl=C3=AD, 26. z=C3=A1=
+=C5=99=C3=AD 2022, 12.19=0A            </div>=0A        </td>=0A    </tr>=
+=0A    <tr>=0A        <td class=3D"left side" valign=3D"top">=0A           =
+     &nbsp;=0A        </td>=0A        <td class=3D"content">=0A            =
+<p dir=3D"ltr" style=3D"text-align:left;">Dobr=C3=BD den,</p><p dir=3D"ltr"=
+ style=3D"text-align:left;">z=C3=ADtra (=C3=BAter=C3=BD 27.9.) prob=C4=
+=9Bhne v =C4=8Dase 18:00 - 19:00 extern=C3=AD p=C5=99edn=C3=A1=C5=A1ka v u=
+=C4=8Debn=C4=9B E112, na kter=C3=A9 v=C3=A1m Ji=C5=99=C3=AD Eischmann z fir=
+my Red hat p=C5=99edvede =C3=BAvod do Linuxov=C3=A9 distribuce Fedora. Na p=
+=C5=99edn=C3=A1=C5=A1ce se dozv=C3=ADte, co to syst=C3=A9m Linux a pota=
+=C5=BEmo jeho distribuce Fedora je, jak si ji nainstalovat (na vlastn=C3=
+=ADm nebo virtu=C3=A1ln=C3=ADm stroji), jak je jednoduch=C3=A9 si nainstalo=
+vat program=C3=A1torsk=C3=A9 prost=C5=99ed=C3=AD a p=C5=99=C3=ADpadn=C4=
+=9B, jak po=C5=BE=C3=A1dat o pomoc kolegy z Red hatu. Na prezentaci byly od=
+ student=C5=AF prvn=C3=ADho ro=C4=8Dn=C3=ADku v=C5=BEdy dobr=C3=A9 ohlasy, =
+a proto ji za=C5=99azujeme do n=C4=9Bkter=C3=A9ho z prvn=C3=ADch t=C3=BDdn=
+=C5=AF v=C3=BDuky. T=C3=A9ma p=C5=99edn=C3=A1=C5=A1ky nen=C3=AD nijak za=
+=C5=99azeno v hodnocen=C3=AD p=C5=99edm=C4=9Btu, ov=C5=A1em osobn=C4=9B v=
+=C3=A1m doporu=C4=8Duji se z=C3=BA=C4=8Dastnit, pakli=C5=BEe nem=C3=A1te s =
+=C5=BE=C3=A1dnou distribuc=C3=AD Linuxu zku=C5=A1enosti.</p><p dir=3D"ltr" =
+style=3D"text-align:left;">Kolega Eischmann je zam=C4=9Bstn=C3=A1n ve firm=
+=C4=9B Red hat a v=C4=9Bnuje se pr=C3=A1v=C4=9B distribuci Fedora. Z p=
+=C5=99edn=C3=A1=C5=A1ky bude proveden z=C3=A1znam.<br /></p><p dir=3D"ltr" =
+style=3D"text-align:left;">Ale=C5=A1 Smr=C4=8Dka<br /></p>=0A=0A           =
+ <div class=3D"commands">=0A                    <a target=3D"_blank" href=
+=3D"https://moodle.vut.cz/mod/forum/post.php?reply=3D1603">=0A             =
+           Odpov=C4=9Bd=C4=9Bt=0A                    </a>=0A            </d=
+iv>=0A=0A            <div class=3D"link">=0A                <a target=3D"_b=
+lank" href=3D"https://moodle.vut.cz/mod/forum/discuss.php?d=3D1073#p1603">=
+=0A                    Uk=C3=A1zat p=C5=99=C3=ADsp=C4=9Bvek v kontextu=0A  =
+              </a>=0A            </div>=0A        </td>=0A    </tr>=0A</tab=
+le>=0A=0A<hr />=0A<div class=3D"mdl-align unsubscribelink">=0A    <a href=
+=3D"https://moodle.vut.cz/mod/forum/subscribe.php?id=3D8205">Neodeb=C3=
+=ADrat p=C5=99=C3=ADsp=C4=9Bvky z tohoto f=C3=B3ra</a>&nbsp;=0A    <a href=
+=3D"https://moodle.vut.cz/mod/forum/subscribe.php?id=3D8205&d=3D1073">Vypno=
+ut odeb=C3=ADr=C3=A1n=C3=AD p=C5=99=C3=ADsp=C4=9Bvk=C5=AF z t=C3=A9to disku=
+se</a>&nbsp;=0A    <a href=3D"https://moodle.vut.cz/mod/forum/index.php?id=
+=3D231045">Zm=C4=9Bna nastaven=C3=AD preferenc=C3=AD souhrnu</a>=0A</div>
+
+--b1_xg6kkaXDZvgmmlnBqW71aDqOQiNqAuzyrSyKH6RVbE--

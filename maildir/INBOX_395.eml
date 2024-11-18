@@ -1,0 +1,1049 @@
+Return-Path: <fitnews-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 31MAX1nC057166
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Wed, 22 Feb 2023 11:33:01 +0100 (CET)
+	(envelope-from fitnews-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 31MAVx2K007468
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL);
+	Wed, 22 Feb 2023 11:32:59 +0100 (CET)
+	(envelope-from fitnews-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.17.1/8.15.2) with ESMTP id 31MAQxJj035584;
+	Wed, 22 Feb 2023 11:27:02 +0100 (CET)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.17.1/8.15.2) with ESMTPS id 31MAQ7bM035544
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <fitnews@tereza.fit.vutbr.cz>; Wed, 22 Feb 2023 11:26:07 +0100 (CET)
+Received: from [IPV6:2001:67c:1220:80c:b62e:99ff:fee3:ed22]
+ ([IPv6:2001:67c:1220:80c:b62e:99ff:fee3:ed22]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 31MAQ71W006011
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <fitnews@fit.vutbr.cz>; Wed, 22 Feb 2023 11:26:07 +0100 (CET)
+ (envelope-from hornapetra@fit.vut.cz)
+Content-Type: multipart/alternative;
+ boundary="------------4w4RVgTbqDtv4HSHVYQTR56n"
+Message-ID: <835b77b5-d3f3-2509-2617-00018a54a2a8@fit.vut.cz>
+Date: Wed, 22 Feb 2023 11:26:06 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.6.1
+Content-Language: cs
+To: fitnews@fit.vutbr.cz
+X-Mailman-Approved-At: Wed, 22 Feb 2023 11:26:57 +0100
+Subject: [Fitnews] =?utf-8?q?Newsletter_FIT_VUT_v_Brn=C4=9B=2C_22=2E_2=2E?=
+ =?utf-8?q?_2023?=
+X-BeenThere: fitnews@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: Newsletter FIT VUT v Brne <fitnews.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/fitnews>,
+ <mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <https://www.fit.vutbr.cz/mailman/private/fitnews/>
+List-Post: <mailto:fitnews@fit.vutbr.cz>
+List-Help: <mailto:fitnews-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/fitnews>,
+ <mailto:fitnews-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?Petra_Horn=E1_via_Fitnews?= <fitnews@fit.vutbr.cz>
+Reply-To: =?UTF-8?Q?Petra_Horn=c3=a1?= <hornapetra@fit.vut.cz>
+Errors-To: fitnews-bounces@fit.vutbr.cz
+Sender: "Fitnews" <fitnews-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=-1.749 required=7 tests=ALL_TRUSTED,AWL,HEADER_FROM_DIFFERENT_DOMAINS,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+--------------4w4RVgTbqDtv4HSHVYQTR56n
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Týdenní krátký přehled ze života fakulty - novinky, aktuality a události 
+z FIT, odkazy na zajímavé články, pracovní stáže, apod.
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+<https://www.fit.vut.cz/>
+
+Newsletter FIT VUT v Brně, 22. 2. 2023
+
+[barboras.png]
+
+
+    Cena vlády nadanému studentovi putuje na FIT
+
+V pátek 27. ledna 2023 se v sídle vlády ČR uskutečnilo pravidelné 
+zasedání Rady pro výzkum, vývoj a inovace (RVVI). Jeho členové z celkem 
+20 doručených nominací navrhli vládě jmenovat nositelku Ceny vlády 
+nadanému studentovi Bc. Barboru Šmahlíkovou, studentku Fakulty 
+informačních technologií Vysokého učení technického v Brně.
+
+Bc. Barbora Šmahlíková, navržená Radou na udělení Ceny vlády nadanému 
+studentovi, je studentkou magisterského studia programu Informační 
+technologie a umělá inteligence se specializací Matematické metody na 
+Fakultě informačních technologií Vysokého učení technického v Brně.
+
+Barbora Šmahlíková se zapojila do výzkumu už na začátku bakalářského 
+studia. Její práce v oblasti vývoje algoritmů, tzv. omega-automatů, 
+vyústila brzy v publikace na mezinárodních konferenčních fórech, které 
+jsou převážně vyhrazeny doktorským studentům. Algoritmus pro 
+komplementaci, na jehož vytvoření se významně podílela, je v současné 
+době jedním z celosvětově nejlepších. Z doporučení fakulty i dosud 
+dosažených studijních výsledků je Barbora opravdu výjimečná studentka 
+s velkým nadáním pro vědu a výzkum. Získala také Cenu rektora na 
+Akademickém shromáždění 2022 
+<https://www.vut.cz/vut/aktuality-f19528/rektor-ocenil-vyznamne-akademiky-a-studenty-na-akademickem-shromazdeni-vut-d233102>. 
+
+
+Ocenění za rok 2022 bude uděleno historicky poprvé, a to díky rozhodnutí 
+vlády, která tak dává příležitost ocenit každoročně nadaného studenta či 
+studentku střední nebo vysoké školy, kteří projevili mimořádný talent 
+a zájem o výzkumnou či vědeckou práci. O udělení ceny rozhoduje vláda na 
+návrh RVVI. S oceněním je spojena odměna ve výši 50 tisíc Kč. Více 
+informací o Cenách vlády se dočtete zde 
+<https://www.vlada.cz/cz/media-centrum/aktualne/rvvi-navrhla-na-cenu-vlady-nadanemu-studentovi-barboru-smahlikovou-202558/> a 
+na webu brnoregion je k dispozici rozhovor 
+<https://brnoregion.com/cs/novinky/mlada-brnenska-vedkyne-ziskala-cenu-vlady-nadanemu> 
+s talentovanou vědkyní Braborou Šmahlíkovou.
+
+Foto: Barbora Šmahlíková na Akademickém shromáždění, Jan Prokopius
+
+Zdroj: VUT.cz 
+<https://www.vut.cz/vut/aktuality-f19528/rvvi-navrhla-na-cenu-vlady-nadanemu-studentovi-barboru-smahlikovou-z-fit-d236849> 
+
+
+[exelkachna.png]
+
+
+    Excel@FIT již podeváté: Ukažte svůj potenciál
+
+Již devátý ročník konference studentských prací Excel@FIT se bude 
+v areálu Fakulty informačních technologií konat 4. 5. 2023. I letos se 
+na jednom místě potkají studentky a studenti, akademici, odborníci 
+z praxe, a hlavně ty nejlepší nápady, technická řešení a výsledky. 
+Příspěvky studentek a studentů budou opět hodnoceny odbornými panely, 
+odbornou veřejností i zástupci z řad firemních partnerů.
+
+V čem je letošní ročník inovativní? Hlavní důraz bude při hodnocení 
+kladen na prezentaci nápadů prostřednictvím plakátu. Účastníkům tak 
+odpadá starost se psaním dlouhých odborných článků. Příspěvky lze 
+přihlašovat od 28. 2. 2023. Veškeré informace o konferenci a podrobné 
+pokyny týkající se účasti naleznete na webu Excel@FIT 
+<https://excel.fit.vutbr.cz/>.
+
+foto: Jiří Salik Sláma
+
+[israel.png]
+
+
+    Nadační fondy Neuron a IOCB Tech nabízejí stipendia na stáže v Izraeli
+
+Nadační fond Neuron a nadační fond IOCB Tech otevírají první ročník 
+studentského stipendia _Neuron & IOCB Tech Internships in Israel 
+<https://www.avcr.cz/cs/veda-a-vyzkum/mezinarodni-vztahy/aktuality/NEURON-IOCB-TECH-Internship-in-Israel/>_. Cílem 
+programu je přenesení zahraničních poznatků do české vědy: vysokoškoláci 
+budou v Izraeli pracovat na vlastním výzkumu a navíc poznají izraelský 
+vědecký ekosystém se zaměřením na aplikovaný výzkum, komercializaci 
+a transfer. Přihlášky jsou otevřeny do 15. března, v případě zájmu 
+kontaktujte *doc. Ryšavého <https://www.fit.vut.cz/person/rysavy/.cs>*.
+
+[evoconference.png]
+
+
+    Na FIT se sjedou světoví odborníci na biologií inspirované
+    programování. Fakulta bude hostit konferenci EvoStar 2023
+
+Ve dnech 12. - 14. dubna 2023 se bude na Fakultě informačních 
+technologií konat pod záštitou děkana Pavla Zemčíka konference EvoStar 
+2023. Akce je koncipovaná jako 4 dílčí souběžné konference.
+
+EuroGP <https://www.evostar.org/2023/eurogp/> je zaměřena na genetické 
+programování. Druhá dílčí konference EvoAPPS 
+<https://www.evostar.org/2023/evoapps/> nabídne inspirativní prostor pro 
+sdílení zkušeností s aplikacemi evolučního programovaní a jiných, 
+přírodou inspirovaných technologií. EvoCOP 
+<https://www.evostar.org/2023/evocop/> hledající optimalizační řešení 
+v rámci multidisciplinárních přístupů a v neposlední řadě i něco pro 
+kreativce pod hlavičkou EvoMUSART 
+<https://www.evostar.org/2023/evomusart/> propojující AI s uměním, 
+hudbou, a designem.
+
+Konference je určena pro odborníky z řad akademiků, zástupců 
+technologických firem i studenty. Až do 1. března je možné se hlásit 
+v rámci brzké registrace. Veškeré informace o registraci a programu 
+konference jsou k nalezení zde <https://www.evostar.org/2023/>.
+
+[lappdel.png]
+
+
+    Fakulta informačních technologií přivítala delegaci z finské
+    Lappeenranta University of Technology
+
+Ve dnech 14. - 15. února 2023 přivítala naše fakulta delegaci z finské 
+_Lappeenranta University of Technology <https://www.lut.fi/en>_ (LUT). 
+Navštívili nás koordinátoři společného Double Degree 
+<https://www.fit.vut.cz/study/study-abroad/double-degree/#content> 
+uzavřeného v magisterském studijním programu pro specializaci Počítačové 
+vidění. Společně s nimi dorazili čtyři studenti, potenciální uchazeči 
+o studium v rámci DD na Fakultě informačních technologií, aby se blíže 
+seznámili se zdejším prostředím a studiem.
+
+Ve středu 15. února proběhlo ve studentském klubu Kachnička neformální 
+setkání studentů FIT, kteří se přihlásili ke studiu Double Degree 
+programu ve Finsku se studenty z Finska.
+
+[aherout.png]
+
+
+    Lidé a počítače mají jiné komunikační zvyky. Jak přesně se liší je
+    předmětem nového výzkumu z pomezí IT a psychologie
+
+Výzkumník z FIT Adam Herout se věnuje tématu lidského vnímání a IT. 
+"Všeobecně se zajímám o to, jak si počítač může povídat s člověkem. 
+Počítače a lidé mají poněkud jiné zvyky, jinak věcem rozumí," 
+vysvětluje. Ve svém nejnovějším výzkumu se zabývá tím, jak lidé vnímají 
+různé stupnice. "Třeba škála škaredý - hezký. Na této stupnici může být 
+něco hodně škaredé, maličko škaredé, neutrální, celkem hezké, velmi 
+hezké, nejhezčí na světě. Takovým stupnicím lidé rozumí přirozeně od 
+nejútlejšího věku, ale pro počítač jsou to prostě jen různá slova," 
+doplňuje Adam Herout. Cílem tohoto projektu je pochopit, jakým způsobem 
+se liší komunikační vzorce lidí a počítačů.
+
+Pokud vás zajímá protnutí světů IT a psychologie a chcete přispět 
+k rozšiřování znalostí v této oblasti, máte možnost. Na tomto odkazu 
+<http://klara.fit.vutbr.cz/gradients-scales> naleznete on-line dotazník 
+k vyplnění. Nezabere to více než 10 - 15 minut. Zanecháte-li kontakt na 
+sebe, obdržíte výstupy výzkumu. Chcete-li, šiřte mezi ostatní příznivce 
+vědy a výzkumu v IT.
+
+
+    Odebírejte novinky FIT
+
+Týdenní krátký přehled ze života fakulty - novinky, aktuality a události 
+z FIT, odkazy na zajímavé články, pracovní stáže, apod.
+
+Odebírat <mailto:fitnews-request@fit.vutbr.cz?subject=subscribe> Přestat 
+odebírat <mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe>
+
+
+Všechny novinky <https://www.fit.vut.cz/fit/news/.cs?type=news>
+
+
+
+Facebook <https://www.facebook.com/FIT.VUT/> Instagram 
+<https://www.instagram.com/fit.vut/>
+
+
+Fakulta informačních technologií VUT v Brně • https://www.fit.vut.cz/
+
+--------------4w4RVgTbqDtv4HSHVYQTR56n
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta name="format-detection"
+      content="telephone=no,address=no,email=no,date=no,url=no">
+    <title>Newsletter FIT VUT v Brně, 22. 2. 2023</title>
+    <style>
+        html,
+        body {
+            margin: 0 !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+        }
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+        img {
+            -ms-interpolation-mode:bicubic;
+        }
+        a {
+            text-decoration: none;
+        }
+        a[x-apple-data-detectors],
+        .unstyle-auto-detected-links a,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+        .im {
+            color: inherit !important;
+        }
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+        img.g-img + div {
+            display: none !important;
+        }
+        @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+            u ~ div .email-container {
+                min-width: 320px !important;
+            }
+        }
+        @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+            u ~ div .email-container {
+                min-width: 375px !important;
+            }
+        }
+        @media only screen and (min-device-width: 414px) {
+            u ~ div .email-container {
+                min-width: 414px !important;
+            }
+        }
+    </style>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <style>
+	    .button-td,
+	    .button-a {
+	        transition: all 100ms ease-in;
+	    }
+	    .button-td-primary:hover,
+	    .button-a-primary:hover {
+	        background: #555555 !important;
+	        border-color: #555555 !important;
+	    }
+        @media screen and (max-width: 480px) {
+            .fn_url .sub_button{
+                display: block !important;
+            }
+        }
+	    @media screen and (max-width: 700px) {
+	        .stack-column,
+	        .stack-column-center {
+	            display: block !important;
+	            width: 100% !important;
+	            max-width: 100% !important;
+	            direction: ltr !important;
+	        }
+	        .stack-column-center {
+	            text-align: center !important;
+	        }
+	        .center-on-narrow {
+	            display: block !important;
+	            margin-left: auto !important;
+	            margin-right: auto !important;
+	            float: none !important;
+	        }
+	        table.center-on-narrow {
+	            display: inline-block !important;
+	        }
+	        .stack-column p, .stack-column div {
+	            font-size: 17px !important;
+	        }
+	    }
+    </style>
+  </head>
+  <body width="100%" style="margin: 0; padding: 0 !important;
+    mso-line-height-rule: exactly; background-color: #fff">
+    <center style="width: 100%; background-color: #fff;">
+      <!--[if mso | IE]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #fff;">
+    <tr>
+    <td>
+    <![endif]-->
+      <div style="display: none; font-size: 1px; line-height: 1px;
+        max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;
+        mso-hide: all; font-family: sans-serif;"> Týdenní krátký přehled
+        ze života fakulty - novinky, aktuality a události z FIT, odkazy
+        na zajímavé články, pracovní stáže, apod. </div>
+      <div style="display: none; font-size: 1px; line-height: 1px;
+        max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;
+        mso-hide: all; font-family: sans-serif;">
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  </div>
+      <div style="max-width: 680px; margin: 0 auto;"
+        class="email-container">
+        <!--[if mso]>
+            <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="680">
+            <tr>
+            <td>
+            <![endif]-->
+        <table role="presentation" style="margin: auto;" width="100%"
+          cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td style="padding: 10px 0; text-align: left"> <a
+                  href="https://www.fit.vut.cz/"><img
+                    src="https://www.fit.vut.cz/fit/fitnews/images/fitnewb.png"
+                    alt="" style="height: auto; background: #fff;
+                    border: 0" width="280" border="0"></a> </td>
+            </tr>
+            <tr>
+              <td style="text-align: center; background:
+                url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                repeat #e6efec;">
+                <!--[if gte mso 9]>
+                        <v:image xmlns:v="urn:schemas-microsoft-com:vml" style="width:680px;height:100px;" src="https://www.fit.vut.cz/fit/fitnews/images/fill.png" />
+                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="false" stroke="false" style="border: 0; display: inline-block; position: absolute; width: 680px; height: 100px;">
+                            <v:textbox inset="0,0,0,0">
+                        <![endif]-->
+                <div>
+                  <!--[if mso]>
+                            <table align="center" role="presentation" border="0" cellspacing="0" cellpadding="0" width="500">
+                            <tr>
+                            <td width="500">
+                            <![endif]-->
+                  <table role="presentation" style="max-width:500px;
+                    margin: auto;" width="100%" cellspacing="0"
+                    cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td style="text-align: center; padding: 40px
+                          20px; font-family: sans-serif; font-size:
+                          15px; line-height: 20px; color: #ffffff;">
+                          <p style="text-align: center; font-weight:
+                            bold; background: #00a9e0;padding: 20px
+                            10px;color: white;text-transform:
+                            uppercase;font-size: 16px; ">Newsletter FIT
+                            VUT v Brně, 22. 2. 2023</p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <!--[if mso]>
+                            </td>
+                            </tr>
+                            </table>
+                            <![endif]--> </div>
+                <!--[if gte mso 9]>
+                            </v:textbox>
+                        </v:rect>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3447/barboras.png"
+                            alt="[barboras.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">
+                            Cena vlády nadanému studentovi putuje na FIT</h2>
+                          <p>V pátek 27. ledna 2023 se v sídle vlády ČR
+                            uskutečnilo pravidelné zasedání Rady pro
+                            výzkum, vývoj a inovace (RVVI). Jeho
+                            členové z celkem 20 doručených nominací
+                            navrhli vládě jmenovat nositelku Ceny vlády
+                            nadanému studentovi Bc. Barboru Šmahlíkovou,
+                            studentku Fakulty informačních technologií
+                            Vysokého učení technického v Brně.</p>
+                          <p>Bc. Barbora Šmahlíková, navržená Radou na
+                            udělení Ceny vlády nadanému studentovi, je
+                            studentkou magisterského studia programu
+                            Informační technologie a umělá inteligence
+                            se specializací Matematické metody na
+                            Fakultě informačních technologií Vysokého
+                            učení technického v Brně.</p>
+                          <p>Barbora Šmahlíková se zapojila do výzkumu
+                            už na začátku bakalářského studia. Její
+                            práce v oblasti vývoje algoritmů, tzv.
+                            omega-automatů, vyústila brzy v publikace na
+                            mezinárodních konferenčních fórech, které
+                            jsou převážně vyhrazeny doktorským
+                            studentům. Algoritmus pro komplementaci, na
+                            jehož vytvoření se významně podílela, je
+                            v současné době jedním z celosvětově
+                            nejlepších. Z doporučení fakulty i dosud
+                            dosažených studijních výsledků je Barbora
+                            opravdu výjimečná studentka s velkým nadáním
+                            pro vědu a výzkum. Získala také Cenu rektora
+                            na <a
+href="https://www.vut.cz/vut/aktuality-f19528/rektor-ocenil-vyznamne-akademiky-a-studenty-na-akademickem-shromazdeni-vut-d233102">Akademickém shromáždění 2022</a>. </p>
+                          <p>Ocenění za rok 2022 bude uděleno historicky
+                            poprvé, a to díky rozhodnutí vlády, která
+                            tak dává příležitost ocenit každoročně
+                            nadaného studenta či studentku střední nebo
+                            vysoké školy, kteří projevili mimořádný
+                            talent a zájem o výzkumnou či vědeckou
+                            práci. O udělení ceny rozhoduje vláda na
+                            návrh RVVI. S oceněním je spojena odměna ve
+                            výši 50 tisíc Kč. Více informací o Cenách
+                            vlády se dočtete <a
+href="https://www.vlada.cz/cz/media-centrum/aktualne/rvvi-navrhla-na-cenu-vlady-nadanemu-studentovi-barboru-smahlikovou-202558/">zde</a> a
+                            na webu brnoregion je k dispozici <a
+href="https://brnoregion.com/cs/novinky/mlada-brnenska-vedkyne-ziskala-cenu-vlady-nadanemu">rozhovor</a>
+                            s talentovanou vědkyní Braborou Šmahlíkovou.</p>
+                          <p>Foto: Barbora Šmahlíková na Akademickém
+                            shromáždění, Jan Prokopius</p>
+                          <p>Zdroj: <a
+href="https://www.vut.cz/vut/aktuality-f19528/rvvi-navrhla-na-cenu-vlady-nadanemu-studentovi-barboru-smahlikovou-z-fit-d236849">VUT.cz</a>
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3459/exelkachna.png"
+                            alt="[exelkachna.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Excel@FIT
+                            již podeváté: Ukažte svůj potenciál</h2>
+                          <p>Již devátý ročník konference
+                            studentských prací Excel@FIT se bude
+                            v areálu Fakulty informačních technologií
+                            konat 4. 5. 2023. I letos se na jednom místě
+                            potkají studentky a studenti,
+                            akademici, odborníci z praxe, a hlavně ty
+                            nejlepší nápady, technická řešení
+                            a výsledky. Příspěvky studentek a studentů
+                            budou opět hodnoceny odbornými
+                            panely, odbornou veřejností i zástupci z řad
+                            firemních partnerů.
+                          </p>
+                          <p>V čem je letošní
+                            ročník inovativní? Hlavní důraz bude při
+                            hodnocení kladen na prezentaci nápadů
+                            prostřednictvím plakátu. Účastníkům tak
+                            odpadá starost se psaním dlouhých
+                            odborných článků. Příspěvky lze přihlašovat
+                            od 28. 2. 2023. Veškeré informace
+                            o konferenci a podrobné pokyny týkající se
+                            účasti naleznete na webu <a
+                              href="https://excel.fit.vutbr.cz/">Excel@FIT</a>.</p>
+                          <p>foto: Jiří Salik Sláma </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3457/israel.png"
+                            alt="[israel.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Nadační
+                            fondy Neuron a IOCB Tech nabízejí stipendia
+                            na stáže v Izraeli</h2>
+                          <p>Nadační fond Neuron a nadační fond IOCB
+                            Tech otevírají první ročník studentského
+                            stipendia <u><a
+href="https://www.avcr.cz/cs/veda-a-vyzkum/mezinarodni-vztahy/aktuality/NEURON-IOCB-TECH-Internship-in-Israel/">Neuron
+                                &amp; IOCB Tech Internships in Israel</a></u>. Cílem
+                            programu je přenesení zahraničních poznatků
+                            do české vědy: vysokoškoláci budou v Izraeli
+                            pracovat na vlastním výzkumu a navíc poznají
+                            izraelský vědecký ekosystém se zaměřením na
+                            aplikovaný výzkum, komercializaci
+                            a transfer. Přihlášky jsou otevřeny do 15.
+                            března, v případě zájmu kontaktujte <b><a
+                                href="https://www.fit.vut.cz/person/rysavy/.cs">doc.
+                                Ryšavého</a></b>. </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3458/evoconference.png"
+                            alt="[evoconference.png]"
+                            class="center-on-narrow" style="width: 100%;
+                            max-width: 300px; height: auto;" width="200"
+                            border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Na
+                            FIT se sjedou světoví odborníci na biologií
+                            inspirované programování. Fakulta bude
+                            hostit konferenci EvoStar 2023</h2>
+                          <p>Ve dnech 12. - 14. dubna
+                            2023 se bude na Fakultě informačních
+                            technologií konat pod záštitou děkana
+                            Pavla Zemčíka konference EvoStar 2023. Akce
+                            je koncipovaná jako 4 dílčí
+                            souběžné konference.
+                          </p>
+                          <p><a
+                              href="https://www.evostar.org/2023/eurogp/">EuroGP</a>
+                            je zaměřena na genetické
+                            programování. Druhá dílčí konference <a
+                              href="https://www.evostar.org/2023/evoapps/">EvoAPPS</a>
+                            nabídne inspirativní prostor pro
+                            sdílení zkušeností s aplikacemi evolučního
+                            programovaní a jiných, přírodou
+                            inspirovaných technologií. <a
+                              href="https://www.evostar.org/2023/evocop/">EvoCOP</a>
+                            hledající optimalizační řešení v rámci
+                            multidisciplinárních
+                            přístupů a v neposlední řadě i něco pro
+                            kreativce pod hlavičkou <a
+                              href="https://www.evostar.org/2023/evomusart/">EvoMUSART</a>
+                            propojující
+                            AI s uměním, hudbou, a designem. </p>
+                          <p>Konference je určena pro
+                            odborníky z řad akademiků, zástupců
+                            technologických firem i studenty. Až
+                            do 1. března je možné se hlásit v rámci
+                            brzké registrace. Veškeré informace
+                            o registraci a programu konference jsou
+                            k nalezení <a
+                              href="https://www.evostar.org/2023/">zde</a>.
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="rtl" style="font-size:0; padding: 10px;
+                text-align: left; background-color: #ffffff;"
+                width="100%" valign="top" height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3456/lappdel.png"
+                            alt="[lappdel.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Fakulta
+                            informačních technologií přivítala delegaci
+                            z finské Lappeenranta University of
+                            Technology</h2>
+                          <p>Ve dnech 14. - 15. února 2023 přivítala
+                            naše fakulta delegaci z finské <u><a
+                                href="https://www.lut.fi/en">Lappeenranta
+                                University of Technology</a></u> (LUT).
+                            Navštívili nás koordinátoři společného <a
+                              href="https://www.fit.vut.cz/study/study-abroad/double-degree/#content">Double
+                              Degree</a> uzavřeného v magisterském
+                            studijním programu pro specializaci
+                            Počítačové vidění. Společně s nimi dorazili
+                            čtyři studenti, potenciální uchazeči
+                            o studium v rámci DD na Fakultě informačních
+                            technologií, aby se blíže seznámili se
+                            zdejším prostředím a studiem. </p>
+                          <p>Ve středu 15. února proběhlo ve studentském
+                            klubu Kachnička neformální setkání studentů
+                            FIT, kteří se přihlásili ke studiu Double
+                            Degree programu ve Finsku se studenty
+                            z Finska. </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td dir="ltr" style="font-size:0; padding: 10px;
+                background-color: #ffffff;" width="100%" valign="top"
+                height="100%">
+                <!--[if mso]>
+                        <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="660" style="width: 660px;">
+                        <tr>
+                        <td valign="top" width="220" style="width: 220px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 20px -1px 0
+                  -1px; max-width: 220px; min-width:160px;
+                  vertical-align:top; width:100%;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="padding: 10px 15px 10px
+                          15px; background:
+                          url('https://www.fit.vut.cz/img/bg/dots-pattern.svg')
+                          repeat #e6efec;"> <img
+                            src="https://www.fit.vut.cz/fit/news-file/3449/aherout.png"
+                            alt="[aherout.png]" class="center-on-narrow"
+                            style="width: 100%; max-width: 300px;
+                            height: auto;" width="200" border="0"> </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        <td valign="top" width="440" style="width: 440px;">
+                        <![endif]-->
+                <div style="display:inline-block; margin: 0 -1px;
+                  max-width: 440px; min-width:280px;
+                  vertical-align:top;" class="stack-column">
+                  <table role="presentation" width="100%"
+                    cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td dir="ltr" style="font-family: sans-serif;
+                          font-size: 15px; line-height: 20px; color:
+                          #555555; padding: 15px 15px 0; text-align:
+                          left;" class="center-on-narrow">
+                          <h2 style="margin-top: 0; font-family:
+                            sans-serif; font-size: 18px; line-height:
+                            22px; color: #333333; font-weight: bold;">Lidé
+                            a počítače mají jiné komunikační zvyky. Jak
+                            přesně se liší je předmětem nového výzkumu z
+                            pomezí IT a psychologie </h2>
+                          <p>Výzkumník z FIT Adam Herout se věnuje
+                            tématu lidského vnímání a IT. "Všeobecně se
+                            zajímám o to, jak si počítač může
+                            povídat s člověkem. Počítače a lidé mají
+                            poněkud jiné zvyky, jinak věcem
+                            rozumí," vysvětluje. Ve svém nejnovějším
+                            výzkumu se zabývá tím, jak lidé
+                            vnímají různé stupnice. "Třeba škála škaredý
+                            - hezký. Na této stupnici může
+                            být něco hodně škaredé, maličko škaredé,
+                            neutrální, celkem hezké, velmi hezké,
+                            nejhezčí na světě. Takovým stupnicím lidé
+                            rozumí přirozeně od nejútlejšího
+                            věku, ale pro počítač jsou to prostě jen
+                            různá slova," doplňuje Adam Herout. Cílem
+                            tohoto projektu je pochopit, jakým způsobem
+                            se liší komunikační vzorce lidí a počítačů.
+                          </p>
+                          <p>Pokud vás zajímá protnutí světů IT
+                            a psychologie a chcete přispět k rozšiřování
+                            znalostí v této oblasti, máte možnost.
+                            Na tomto <a
+                              href="http://klara.fit.vutbr.cz/gradients-scales">odkazu</a>
+                            naleznete on-line dotazník k vyplnění.
+                            Nezabere to více než 10 -
+                            15 minut. Zanecháte-li kontakt na sebe,
+                            obdržíte výstupy výzkumu. Chcete-li, šiřte
+                            mezi ostatní příznivce vědy a výzkumu v IT.
+                          </p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso]>
+                        </td>
+                        </tr>
+                        </table>
+                        <![endif]--> </td>
+            </tr>
+            <tr>
+              <td aria-hidden="true" style="font-size: 0px; line-height:
+                0px;" height="40">   </td>
+            </tr>
+          </tbody>
+        </table>
+        <table role="presentation" style="max-width: 680px;"
+          width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td style="padding: 24px 0; font-family: sans-serif;
+                font-size: 12px; line-height: 15px; text-align: center;
+                color: #888888;">
+                <h2 style="color: black;font-size:20px;line-height:24px">Odebírejte
+                  novinky FIT</h2>
+                <span class="unstyle-auto-detected-links">Týdenní krátký
+                  přehled ze života fakulty - novinky, aktuality a
+                  události z FIT, odkazy na zajímavé články, pracovní
+                  stáže, apod.</span> <br>
+                <br>
+                <p style="line-height:1.0;text-align:center"> <span
+                    class="fn_url"><a class="sub_button"
+                      href="mailto:fitnews-request@fit.vutbr.cz?subject=subscribe"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      30px;font-weight: bold;margin: 5px 0px;">Odebírat</a></span>
+                  <span class="fn_url"><a class="sub_button"
+                      href="mailto:fitnews-request@fit.vutbr.cz?subject=unsubscribe"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      10px;font-weight: bold;margin: 5px 0px;">Přestat
+                      odebírat</a></span> </p>
+                <br>
+                <p style="line-height:1.0;text-align:center"> <span
+                    class="fn_url"><a class="sub_button"
+                      href="https://www.fit.vut.cz/fit/news/.cs?type=news"
+                      style="background: none;color:
+                      #1676d0;border-color: #1676d0;text-decoration:
+                      none;text-transform: uppercase;font-size:
+                      12px;border: 2px solid #1676d0;padding: 10px
+                      10px;font-weight: bold;margin: 5px 0px;">Všechny
+                      novinky</a></span> </p>
+                <br>
+                <p class="social_block" style="margin:0 auto;text-align:
+                  center;display: block;"><br>
+                  <a href="https://www.facebook.com/FIT.VUT/"><img
+                      alt="Facebook"
+                      src="https://www.fit.vut.cz/fit/fitnews/images/fb_logo.png"
+                      title="" style="width: 25px;"></a>     <a
+                    href="https://www.instagram.com/fit.vut/"><img
+                      alt="Instagram"
+                      src="https://www.fit.vut.cz/fit/fitnews/images/instagram_logo.png"
+                      title="" style="width: 25px;"></a> </p>
+                <br>
+                <p style="font-size:12px"> Fakulta informačních
+                  technologií VUT v Brně • <a
+                    href="https://www.fit.vut.cz/"
+                    class="moz-txt-link-freetext">https://www.fit.vut.cz/</a></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <!--[if mso]>
+            </td>
+            </tr>
+            </table>
+            <![endif]--> </div>
+      <!--[if mso | IE]>
+    </td>
+    </tr>
+    </table>
+    <![endif]--> </center>
+  </body>
+</html>
+
+--------------4w4RVgTbqDtv4HSHVYQTR56n--

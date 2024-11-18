@@ -1,0 +1,340 @@
+Return-Path: <studinfo-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2AO8wUMT030177
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 24 Nov 2022 09:58:30 +0100 (CET)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 2AO8vtiU018400
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 24 Nov 2022 09:57:55 +0100 (CET)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTP id 2AO8vssq066290;
+	Thu, 24 Nov 2022 09:57:55 +0100 (CET)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTPS id 2AO8vKRo066221
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@tereza.fit.vutbr.cz>; Thu, 24 Nov 2022 09:57:20 +0100 (CET)
+Received: from [IPV6:2001:67c:1220:8b4:3476:3148:923a:2e1]
+ ([IPv6:2001:67c:1220:8b4:3476:3148:923a:2e1]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 2AO8vKI8018170
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <studinfo@fit.vutbr.cz>; Thu, 24 Nov 2022 09:57:20 +0100 (CET)
+ (envelope-from beranv@fit.vutbr.cz)
+Message-ID: <32b5944f-092d-bcb1-7cee-5ad3e74254c5@fit.vutbr.cz>
+Date: Thu, 24 Nov 2022 09:57:20 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.5.0
+Content-Language: cs
+To: studinfo@fit.vutbr.cz
+X-Mailman-Approved-At: Thu, 24 Nov 2022 09:57:53 +0100
+Subject: [Studinfo] =?utf-8?q?=C5=BDijemeIT_2022_-_last_call?=
+X-BeenThere: studinfo@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: informace pro studenty FIT tykajici se studia <studinfo.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <http://www.fit.vutbr.cz/pipermail/studinfo/>
+List-Post: <mailto:studinfo@fit.vutbr.cz>
+List-Help: <mailto:studinfo-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=subscribe>
+From: =?iso-8859-2?q?V=EDta_Beran_via_Studinfo?= <studinfo@fit.vutbr.cz>
+Reply-To: =?UTF-8?Q?V=c3=adta_Beran?= <beranv@fit.vutbr.cz>
+Content-Type: multipart/mixed; boundary="===============1729972379040597376=="
+Errors-To: studinfo-bounces@fit.vutbr.cz
+Sender: "Studinfo" <studinfo-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=0 required=7 tests=
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+--===============1729972379040597376==
+Content-Type: multipart/alternative;
+ boundary="------------U4ik3PX7c2w4DKNwwZay1Dc8"
+Content-Language: cs
+
+This is a multi-part message in MIME format.
+--------------U4ik3PX7c2w4DKNwwZay1Dc8
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Vážené studentky, vážení studenti,
+
+pokud zvažujete účast na konferenci ŽijemeIT 2022 
+<https://www.zijemeit.cz/>, registrujte se ještě dnes 
+<https://www.fit.vutbr.cz/gpe-zijemeit/>, pomůžete nám s organizací 
+akce. Registrace na místě je také možná, ale pro hladkou organizaci nám 
+pomůže o Vás vědět dříve.
+
+Symbolický registrační poplatek slouží k eliminaci lehkomyslných 
+registrací a doufáme, že zajímavý program, setkání s odborníky z 
+průmyslu, ale i připravené občerstvení i drobný upomínkový předmět tento 
+poplatek násobně vynahradí.
+
+S přátelským pozdravem,
+
+*Ing. Vítězslav Beran, Ph.D. *
+
+Proděkan pro vnější vztahy
+Fakulta informačních technologií VUT v Brně
+
+logo2
+www.fit.vut.cz
+www.fitslavi20.cz
+
+mobil: +420 777 286 075
+
+
+
+--------------U4ik3PX7c2w4DKNwwZay1Dc8
+Content-Type: multipart/related;
+ boundary="------------qZtZmsIbxexxRnqQU3LkXfiy"
+
+--------------qZtZmsIbxexxRnqQU3LkXfiy
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>Vážené studentky, vážení studenti,</p>
+    <p>pokud zvažujete účast na konferenci <a moz-do-not-send="true"
+        href="https://www.zijemeit.cz/">ŽijemeIT 2022</a>, <a
+        moz-do-not-send="true"
+        href="https://www.fit.vutbr.cz/gpe-zijemeit/">registrujte se
+        ještě dnes</a>, pomůžete nám s organizací akce. Registrace na
+      místě je také možná, ale pro hladkou organizaci nám pomůže o Vás
+      vědět dříve.</p>
+    <p>Symbolický registrační poplatek slouží k eliminaci lehkomyslných
+      registrací a doufáme, že zajímavý program, setkání s odborníky z
+      průmyslu, ale i připravené občerstvení i drobný upomínkový předmět
+      tento poplatek násobně vynahradí.</p>
+    <p>S přátelským pozdravem,</p>
+    <p><b style="-webkit-text-size-adjust: auto;"><font color="#00a9e0">Ing.
+          Vítězslav Beran, Ph.D. </font></b><br
+        style="-webkit-text-size-adjust: auto;">
+    </p>
+    <div class="moz-signature" style="-webkit-text-size-adjust: auto;">
+      <div class="moz-signature">
+        <div class="moz-signature">
+          <div class="moz-signature">
+            <p>Proděkan pro vnější vztahy<br>
+              Fakulta informačních technologií VUT v Brně <br>
+            </p>
+            <img src="cid:part1.KYXcyDIt.aHJak5LX@fit.vutbr.cz"
+              alt="logo2" id="part1.h8rHf7YJ.leaO8EbR@fit.vut.cz"
+              _mf_state="1" title="null" width="200" height="102"></div>
+          <div class="moz-signature"><font size="2" color="#00a9e0"><a
+                class="moz-txt-link-abbreviated"
+                href="http://www.fit.vut.cz/" style="color: rgb(149, 79,
+                114);">www.fit.vut.cz</a><br>
+              <a class="moz-txt-link-abbreviated"
+                href="http://www.fitslavi20.cz/" style="color: rgb(149,
+                79, 114);">www.fitslavi20.cz</a></font><br>
+            <p class="MsoNormal" style="margin-bottom: 0.0001pt;"><font
+                size="2" color="#808080">mobil: <span dir="ltr">+420 777
+                  286 075</span> <br>
+              </font></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+  </body>
+</html>
+--------------qZtZmsIbxexxRnqQU3LkXfiy
+Content-Type: image/png; name="sNApdF3fJs0cBsyd.png"
+Content-Disposition: inline; filename="sNApdF3fJs0cBsyd.png"
+Content-Id: <part1.KYXcyDIt.aHJak5LX@fit.vutbr.cz>
+Content-Transfer-Encoding: base64
+
+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
+ANnEAAAAAElFTkSuQmCC
+
+--------------qZtZmsIbxexxRnqQU3LkXfiy--
+
+--------------U4ik3PX7c2w4DKNwwZay1Dc8--
+
+--===============1729972379040597376==
+Content-Type: text/plain; charset="iso-8859-2"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+_______________________________________________
+Studinfo mailing list
+Studinfo@fit.vutbr.cz
+https://www.fit.vutbr.cz/mailman/listinfo/studinfo
+
+Konference studinfo slouzi vyhradne pro zasilani informaci studentum, ktere=
+ se tykaji jejich pusobeni na FIT.
+Zadne dotazy zaslane na adresu konference nikdo nezodpovi a vsechny nerelev=
+antni prispevky budou bez dalsiho oznameni zahozeny. Eventuelni dotazy smer=
+ujte na studijni oddeleni.
+
+--===============1729972379040597376==--

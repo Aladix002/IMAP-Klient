@@ -1,0 +1,302 @@
+Return-Path: <studinfo-bounces@fit.vutbr.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 31G8csCX060685
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Thu, 16 Feb 2023 09:38:54 +0100 (CET)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (tereza6.fit.vutbr.cz [IPv6:2001:67c:1220:809:0:0:93e5:916])
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPS id 31G8cclm009223
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL);
+	Thu, 16 Feb 2023 09:38:53 +0100 (CET)
+	(envelope-from studinfo-bounces@fit.vutbr.cz)
+Received: from tereza.fit.vutbr.cz (localhost [127.0.0.1])
+	by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTP id 31G8YfiO015652;
+	Thu, 16 Feb 2023 09:34:42 +0100 (CET)
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [147.229.8.12])
+ by tereza.fit.vutbr.cz (8.16.1/8.15.2) with ESMTPS id 31G8XYVB015563
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=FAIL)
+ for <studinfo@tereza.fit.vutbr.cz>; Thu, 16 Feb 2023 09:33:34 +0100 (CET)
+Received: from [IPV6:2001:67c:1220:8b4:9866:7dd7:c2ed:5fa3]
+ ([IPv6:2001:67c:1220:8b4:9866:7dd7:c2ed:5fa3]) (authenticated bits=0)
+ by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 31G8XXqM008183
+ (version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO)
+ for <studinfo@fit.vutbr.cz>; Thu, 16 Feb 2023 09:33:33 +0100 (CET)
+ (envelope-from iveigend@fit.vut.cz)
+Message-ID: <92705bc9-950d-d4ab-a115-c3bfabb35d3d@fit.vut.cz>
+Date: Thu, 16 Feb 2023 09:33:33 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.8.0
+To: studinfo@fit.vutbr.cz
+Content-Language: cs
+X-Mailman-Approved-At: Thu, 16 Feb 2023 09:34:39 +0100
+Subject: [Studinfo] =?utf-8?b?RXhjZWxARklUIDIwMjMgLSA0LjUuMjAyMywgcMWZ?=
+ =?utf-8?b?w61zcMSbdmt5IG9kIDI4LjIuMjAyMw==?=
+X-BeenThere: studinfo@fit.vutbr.cz
+X-Mailman-Version: 2.1.34
+Precedence: list
+List-Id: informace pro studenty FIT tykajici se studia <studinfo.fit.vutbr.cz>
+List-Unsubscribe: <https://www.fit.vutbr.cz/mailman/options/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=unsubscribe>
+List-Archive: <http://www.fit.vutbr.cz/pipermail/studinfo/>
+List-Post: <mailto:studinfo@fit.vutbr.cz>
+List-Help: <mailto:studinfo-request@fit.vutbr.cz?subject=help>
+List-Subscribe: <https://www.fit.vutbr.cz/mailman/listinfo/studinfo>,
+ <mailto:studinfo-request@fit.vutbr.cz?subject=subscribe>
+From: Petr Veigend via Studinfo <studinfo@fit.vutbr.cz>
+Reply-To: Petr Veigend <iveigend@fit.vut.cz>
+Content-Type: multipart/mixed; boundary="===============5218185054898856173=="
+Errors-To: studinfo-bounces@fit.vutbr.cz
+Sender: "Studinfo" <studinfo-bounces@fit.vutbr.cz>
+X-Spam-Status: No, score=-1.75 required=7 tests=ALL_TRUSTED,AWL,HEADER_FROM_DIFFERENT_DOMAINS,HTML_MESSAGE,MAILING_LIST_MULTI
+X-Spam-Checker-Version: SpamAssassin 4.0.0 (2022-12-14) on eva.fit.vutbr.cz
+
+This is a multi-part message in MIME format.
+--===============5218185054898856173==
+Content-Type: multipart/alternative;
+ boundary="------------k9fgWSINZaKyGppDDjURUwrn"
+Content-Language: cs
+
+This is a multi-part message in MIME format.
+--------------k9fgWSINZaKyGppDDjURUwrn
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Vážené studentky, vážení studenti,
+
+
+jak možná víte, fakulta každý rok pořádá konferenci těch nejlepších 
+studijních prací a výsledků - Excel@FIT (http://excel.fit.vutbr.cz/). 
+Cílem konference je ukázat, jaké práce na FIT vznikají, seznámit se s 
+kolegy, kteří na nich pracují a případně si najít vedoucího pro budoucí 
+závěrečnou práci. Nejlepší příspěvky budou oceněny stipendiem a věcnými 
+cenami, z prací budou vybírat i partneři fakulty, kteří také mohou 
+ocenit příspěvky, které je zaujmou.
+
+
+Pokud máte zajímavou závěrečnou práci nebo zajímavý nápad, prosím zvažte 
+aktivní účast na konferenci (po dohodě s vedoucím Vaší práce). Letošní 
+ročník bude oproti minulým výrazně zjednodušen - nebudete muset 
+odevzdávat dlouhý článek, pouze stručný abstrakt, důraz je kladen na 
+vytvoření výborného plakátu (posteru), který budou účastníci prezentovat.
+
+
+Pokud se nebudete chtít konference zúčastnit aktivně, určitě zvažte 
+alespoň účast pasivní, získané zkušenosti se vám budou určitě hodit.
+
+
+Příspěvky bude možno registrovat od 28.2., konference se uskuteční 4.5.2023.
+
+
+Pokud máte jakékoli dotazy ohledně konference, kontaktujte organizátory 
+na excel@fit.vutbr.cz.
+
+
+S pozdravem
+
+
+Petr Veigend
+
+--------------k9fgWSINZaKyGppDDjURUwrn
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p> </p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">Vážené studentky,
+        vážení studenti,</span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS"><br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">jak možná víte, fakulta
+        každý rok pořádá konferenci těch nejlepších studijních prací a
+        výsledků - Excel@FIT (<a class="moz-txt-link-freetext"
+          href="http://excel.fit.vutbr.cz/">http://excel.fit.vutbr.cz/</a>).
+        Cílem konference je ukázat, jaké práce na FIT vznikají, seznámit
+        se s kolegy, kteří na nich pracují a případně si najít vedoucího
+        pro budoucí závěrečnou práci. Nejlepší příspěvky budou oceněny
+        stipendiem a věcnými cenami, z prací budou vybírat i partneři
+        fakulty, kteří také mohou ocenit příspěvky, které je zaujmou.<br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS"><br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">Pokud máte zajímavou
+        závěrečnou práci nebo zajímavý nápad, prosím zvažte aktivní
+        účast na konferenci (po dohodě s vedoucím Vaší práce). Letošní
+        ročník bude oproti minulým výrazně zjednodušen - nebudete muset
+        odevzdávat dlouhý článek, pouze stručný abstrakt, důraz je
+        kladen na vytvoření výborného plakátu (posteru), který budou
+        účastníci prezentovat.</span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS"><br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">Pokud se nebudete chtít
+        konference zúčastnit aktivně, určitě zvažte alespoň účast
+        pasivní, získané zkušenosti se vám budou určitě hodit.</span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS"><br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">Příspěvky bude možno
+        registrovat od 28.2., konference se uskuteční 4.5.2023.</span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS"><br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">Pokud máte jakékoli
+        dotazy ohledně konference, kontaktujte organizátory na <a
+          class="moz-txt-link-abbreviated moz-txt-link-freetext"
+          href="mailto:excel@fit.vutbr.cz">excel@fit.vutbr.cz</a>.<br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS"><br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">S pozdravem</span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS"><br>
+      </span></p>
+    <p class="MsoNormal"
+      style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span
+        style="font-size:11.0pt;font-family:&quot;Times New
+        Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+        Roman&quot;;mso-bidi-font-family:Arial;color:black;mso-ansi-language:
+        CS;mso-fareast-language:EN-GB" lang="CS">Petr Veigend<br>
+      </span></p>
+    <span style="font-size:11.0pt;font-family:&quot;Times New
+      Roman&quot;,serif;mso-fareast-font-family: &quot;Times New
+      Roman&quot;;mso-ansi-language:CS;mso-fareast-language:EN-GB"
+      lang="CS"></span><span style="font-family:&quot;Times New
+      Roman&quot;,serif; mso-fareast-font-family:&quot;Times New
+      Roman&quot;;mso-fareast-language:EN-GB"></span>
+    <p>
+      <style>@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073732485 9 0 511 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}div.WordSection1
+	{page:WordSection1;}</style></p>
+  </body>
+</html>
+
+--------------k9fgWSINZaKyGppDDjURUwrn--
+
+--===============5218185054898856173==
+Content-Type: text/plain; charset="iso-8859-2"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+_______________________________________________
+Studinfo mailing list
+Studinfo@fit.vutbr.cz
+https://www.fit.vutbr.cz/mailman/listinfo/studinfo
+
+Konference studinfo slouzi vyhradne pro zasilani informaci studentum, ktere=
+ se tykaji jejich pusobeni na FIT.
+Zadne dotazy zaslane na adresu konference nikdo nezodpovi a vsechny nerelev=
+antni prispevky budou bez dalsiho oznameni zahozeny. Eventuelni dotazy smer=
+ujte na studijni oddeleni.
+
+--===============5218185054898856173==--

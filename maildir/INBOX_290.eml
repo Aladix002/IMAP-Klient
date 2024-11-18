@@ -1,0 +1,531 @@
+Return-Path: <izavrel@fit.vut.cz>
+Received: from kazi.fit.vutbr.cz (kazi.fit.vutbr.cz [IPv6:2001:67c:1220:808:0:0:93e5:80c])
+	by eva.fit.vutbr.cz (8.17.1.21/8.17.1) with ESMTPS id 2B5JAnhK094260
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=OK);
+	Mon, 5 Dec 2022 20:10:49 +0100 (CET)
+	(envelope-from izavrel@fit.vut.cz)
+Received: from [IPv6:2a0f:2a80:0:100:11:19fa:f9ec:ffb1] ([IPv6:2a0f:2a80:0:100:11:19fa:f9ec:ffb1])
+	(authenticated bits=0)
+	by kazi.fit.vutbr.cz (8.17.1.21/8.17.1.21) with ESMTPSA id 2B5JAnU2007681
+	(version=TLSv1.3 cipher=TLS_AES_256_GCM_SHA384 bits=256 verify=NO);
+	Mon, 5 Dec 2022 20:10:49 +0100 (CET)
+	(envelope-from izavrel@fit.vut.cz)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fit.vut.cz; s=mx1;
+	t=1670267449; bh=E7kopokEtze9zrvEkdR8ihJ7O3L0sb1ah1s+qyy5a3Q=;
+	h=From:Subject:Date:Reply-To;
+	b=I6GqRvfr6dWZu5aw+/wOe0MojvkAFCPsEAh5h40vmlao5RFrQaWaGBYCo5+AV8s4v
+	 MxQ3WZpzmmn4ELoKypNQ1nOEVCBOEqllmLBJqEByJIG6AJdfNGDGfdaHAm2XXi3fHn
+	 i6B2pt199Tg4lm8JhTApdRE/WNXe7RM+V1hKeBjE=
+From: =?utf-8?q?Jan=20Zav=c5=99el?= <izavrel@fit.vut.cz>
+Subject: [IZP] - Obhajoby 2. projektu
+Date: Mon, 05 Dec 2022 19:10:49 +0000
+Message-Id: <em509290e5-b71d-4a98-a6b7-242a9d6471d5@571b1526.com>
+Reply-To: =?utf-8?q?Jan=20Zav=c5=99el?= <izavrel@fit.vut.cz>
+User-Agent: eM_Client/9.2.1222.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------=_MBDE03E506-15D1-4366-9D65-2FCF6473313F"
+X-Spam-Status: No, score=1.266 required=7 tests=ALL_TRUSTED,AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MISSING_HEADERS,REPLYTO_WITHOUT_TO_CC
+X-Spam-Checker-Version: SpamAssassin 3.4.6 (2021-04-09) on eva.fit.vutbr.cz
+
+--------=_MBDE03E506-15D1-4366-9D65-2FCF6473313F
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+P=C4=9Bkn=C3=BD ve=C4=8Der,
+
+z=C3=ADtra budou v r=C3=A1mci cvi=C4=8Den=C3=AD IZP (v N103) prob=C3=ADhat=
+ obhajoby druh=C3=BDch=20
+projekt=C5=AF. V=C3=A1mi odevzdan=C3=BD k=C3=B3d bude pro v=C3=A1s p=C5=99i=
+praven=C3=BD, nemus=C3=ADte si nosit=20
+vlastn=C3=AD za=C5=99=C3=ADzen=C3=AD. Do m=C3=ADstnosti budete vch=C3=A1zet =
+podle p=C5=99ilo=C5=BEen=C3=A9ho rozpisu=20
+a po obhajob=C4=9B budete odch=C3=A1zet. P=C5=99ij=C4=8Fte pros=C3=ADm ales=
+po=C5=88 5 minut p=C5=99ed=20
+za=C4=8D=C3=A1tkem va=C5=A1eho =C4=8Dasov=C3=A9ho slotu. P=C5=99i samotn=C3=
+=A9 obhajob=C4=9B mi sami kr=C3=A1tce=20
+p=C5=99edstav=C3=ADte sv=C5=AFj projekt a pot=C3=A9 se budu pt=C3=A1t na ot=
+=C3=A1zky. Za obhajobu je=20
+a=C5=BE 7 bod=C5=AF.
+
+Ut 16:00 N103
+Bobor Dominik 16:00
+Botlo Filip 16:05
+Diewock Ond=C5=99ej 16:10
+=C4=8Eurica Adam 16:15
+Frajka Tobi=C3=A1=C5=A1 16:20
+Hrabovsk=C3=BD Vojt=C4=9Bch 16:25
+Ju=C5=99ica Richard 16:30
+Klymenko Andrii 16:35
+Kov=C3=A1=C5=99ov=C3=A1 Ludmila 16:40
+Krej=C4=8D=C3=AD Sebastian 16:45
+Kresa Ond=C5=99ej 16:50
+Momot Oleh 16:55
+Ondreji=C4=8Dka Jozef 17:00
+Pastierik Adam 17:05
+Perebora Iana 17:10
+Pham Vu Duy Anh 17:15
+R=C5=AF=C5=BEi=C4=8Dka Filip 17:20
+Semanco Boris 17:25
+V=C3=A1lka Tom=C3=A1=C5=A1 17:30
+Zhevachevskyi Ivan 17:35
+
+S pozdravem,
+jz
+
+
+--------=_MBDE03E506-15D1-4366-9D65-2FCF6473313F
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style type=3D"text/css">
+#x5e190bb376264119820a126edbec2bea table {
+	mso-displayed-decimal-separator: '.';
+	mso-displayed-thousand-separator: ',';
+}
+
+#x5e190bb376264119820a126edbec2bea tr {
+	mso-height-source: auto;
+}
+
+#x5e190bb376264119820a126edbec2bea col {
+	mso-width-source: auto;
+}
+
+#x5e190bb376264119820a126edbec2bea br {
+	mso-data-placement: same-cell;
+}
+
+#x5e190bb376264119820a126edbec2bea td {
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	mso-ignore: padding;
+	color: black;
+	font-size: 11pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: Calibri;
+	mso-generic-font-family: auto;
+	mso-font-charset: 0;
+	mso-number-format: General;
+	text-align: general;
+	vertical-align: bottom;
+	border: none;
+	mso-background-source: auto;
+	mso-pattern: auto;
+	mso-protection: locked visible;
+	white-space: nowrap;
+	mso-rotate: 0;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl65 {
+	border: 0.5pt solid black;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl66 {
+	text-align: center;
+	border-top: 1pt solid black;
+	border-right: 0.5pt solid black;
+	border-bottom: 1pt solid black;
+	border-left: 0.5pt solid black;
+	background: #E1E0F7;
+	mso-pattern: #E1E0F7 none;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl67 {
+	border: 0.5pt solid black;
+	background: #DEF;
+	mso-pattern: #DEF none;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl68 {
+	border-top: 0.5pt solid black;
+	border-right: 0.5pt solid black;
+	border-bottom: 1pt solid black;
+	border-left: 0.5pt solid black;
+	background: #DEF;
+	mso-pattern: #DEF none;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl69 {
+	mso-number-format: 'Short Time';
+	border: 0.5pt solid black;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl70 {
+	mso-number-format: 'Short Time';
+	border: 0.5pt solid black;
+	background: #DEF;
+	mso-pattern: #DEF none;
+}
+
+#x5e190bb376264119820a126edbec2bea table {
+	mso-displayed-decimal-separator: '.';
+	mso-displayed-thousand-separator: ',';
+}
+
+@page  {
+	margin: 0.75in 0.7in 0.75in 0.7in;
+	mso-header-margin: 0.3in;
+	mso-footer-margin: 0.3in;
+}
+
+#x5e190bb376264119820a126edbec2bea tr {
+	mso-height-source: auto;
+}
+
+#x5e190bb376264119820a126edbec2bea col {
+	mso-width-source: auto;
+}
+
+#x5e190bb376264119820a126edbec2bea br {
+	mso-data-placement: same-cell;
+}
+
+#x5e190bb376264119820a126edbec2bea td {
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	mso-ignore: padding;
+	color: black;
+	font-size: 11pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: Calibri;
+	mso-generic-font-family: auto;
+	mso-font-charset: 0;
+	mso-number-format: General;
+	text-align: general;
+	vertical-align: bottom;
+	border: none;
+	mso-background-source: auto;
+	mso-pattern: auto;
+	mso-protection: locked visible;
+	white-space: nowrap;
+	mso-rotate: 0;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl65 {
+	border: 0.5pt solid black;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl66 {
+	text-align: center;
+	border-top: 1pt solid black;
+	border-right: 0.5pt solid black;
+	border-bottom: 1pt solid black;
+	border-left: 0.5pt solid black;
+	background: #E1E0F7;
+	mso-pattern: #E1E0F7 none;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl67 {
+	border: 0.5pt solid black;
+	background: #DEF;
+	mso-pattern: #DEF none;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl68 {
+	border-top: 0.5pt solid black;
+	border-right: 0.5pt solid black;
+	border-bottom: 1pt solid black;
+	border-left: 0.5pt solid black;
+	background: #DEF;
+	mso-pattern: #DEF none;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl69 {
+	mso-number-format: 'Short Time';
+	border: 0.5pt solid black;
+}
+
+#x5e190bb376264119820a126edbec2bea .xl70 {
+	mso-number-format: 'Short Time';
+	border: 0.5pt solid black;
+	background: #DEF;
+	mso-pattern: #DEF none;
+}<!--#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd td
+{padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; fon=
+t-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;=
+ font-family: Calibri; vertical-align: bottom; border: none; white-space: no=
+wrap;}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl65
+{border: 0.5pt solid black;}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl66
+{border: 0.5pt solid black; background: rgb(221, 238, 255);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl67
+{border-width: 0.5pt 0.5pt 1pt; border-style: solid; border-color: black; b=
+ackground: rgb(221, 238, 255);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl68
+{border: 0.5pt solid black;}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl69
+{border: 0.5pt solid black; background: rgb(221, 238, 255);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl70
+{font-family: Calibri, sans-serif; text-align: center; border-width: 1pt 0.=
+5pt; border-style: solid; border-color: black; background: rgb(225, 224, 24=
+7);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl71
+{font-family: Calibri, sans-serif; vertical-align: middle; border-width: 1p=
+t 0.5pt; border-style: solid; border-color: black; background: rgb(225, 224=
+, 247);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd td
+{padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; fon=
+t-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;=
+ font-family: Calibri; vertical-align: bottom; border: none; white-space: no=
+wrap;}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl65
+{border: 0.5pt solid black;}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl66
+{border: 0.5pt solid black; background: rgb(221, 238, 255);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl67
+{border-width: 0.5pt 0.5pt 1pt; border-style: solid; border-color: black; b=
+ackground: rgb(221, 238, 255);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl68
+{border: 0.5pt solid black;}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl69
+{border: 0.5pt solid black; background: rgb(221, 238, 255);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl70
+{font-family: Calibri, sans-serif; text-align: center; border-width: 1pt 0.=
+5pt; border-style: solid; border-color: black; background: rgb(225, 224, 24=
+7);}
+#x686aad813dff49e #xa6f398a8e7c743ecbfa6c2ebf31ea2cd .xl71
+{font-family: Calibri, sans-serif; vertical-align: middle; border-width: 1p=
+t 0.5pt; border-style: solid; border-color: black; background: rgb(225, 224=
+, 247);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d td
+{padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; fon=
+t-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;=
+ font-family: Calibri; vertical-align: bottom; border: none; white-space: no=
+wrap;}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl65
+{border: 0.5pt solid black;}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl66
+{border: 0.5pt solid black; background: rgb(221, 238, 255);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl67
+{border-width: 0.5pt 0.5pt 1pt; border-style: solid; border-color: black; b=
+ackground: rgb(221, 238, 255);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl68
+{font-family: Calibri, sans-serif; text-align: center; border-width: 1pt 0.=
+5pt; border-style: solid; border-color: black; background: rgb(225, 224, 24=
+7);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl69
+{vertical-align: middle; border: 0.5pt solid black;}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl70
+{vertical-align: middle; border: 0.5pt solid black; background: rgb(221, 23=
+8, 255);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl71
+{font-family: Calibri, sans-serif; vertical-align: middle; border-width: 1p=
+t 0.5pt; border-style: solid; border-color: black; background: rgb(225, 224=
+, 247);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d td
+{padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; fon=
+t-size: 11pt; font-weight: 400; font-style: normal; text-decoration: none;=
+ font-family: Calibri; vertical-align: bottom; border: none; white-space: no=
+wrap;}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl65
+{border: 0.5pt solid black;}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl66
+{border: 0.5pt solid black; background: rgb(221, 238, 255);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl67
+{border-width: 0.5pt 0.5pt 1pt; border-style: solid; border-color: black; b=
+ackground: rgb(221, 238, 255);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl68
+{font-family: Calibri, sans-serif; text-align: center; border-width: 1pt 0.=
+5pt; border-style: solid; border-color: black; background: rgb(225, 224, 24=
+7);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl69
+{vertical-align: middle; border: 0.5pt solid black;}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl70
+{vertical-align: middle; border: 0.5pt solid black; background: rgb(221, 23=
+8, 255);}
+#x686aad813dff49e #x42ba41eed5b0483dbd5785dec9c0a30d .xl71
+{font-family: Calibri, sans-serif; vertical-align: middle; border-width: 1p=
+t 0.5pt; border-style: solid; border-color: black; background: rgb(225, 224=
+, 247);}
+#x686aad813dff49e
+{font-family: "Segoe UI"; font-size: 12pt;}
+--></style><style id=3D"css_styles" type=3D"text/css"><!--blockquote.cite { =
+margin-left: 5px; margin-right: 0px; padding-left: 10px; padding-right:0px=
+; border-left: 1px solid #cccccc }
+blockquote.cite2 {margin-left: 5px; margin-right: 0px; padding-left: 10px;=
+ padding-right:0px; border-left: 1px solid #cccccc; margin-top: 3px; padding=
+-top: 0px; }
+a img { border: 0px; }
+li[style=3D'text-align: center;'], li[style=3D'text-align: center; '], li[s=
+tyle=3D'text-align: right;'], li[style=3D'text-align: right; '] {  list-sty=
+le-position: inside;}
+body { font-family: 'Segoe UI'; font-size: 12pt; }
+.quote { margin-left: 1em; margin-right: 1em; border-left: 5px #ebebeb soli=
+d; padding-left: 0.3em; }
+--></style>
+
+
+</head>
+<body><div>P=C4=9Bkn=C3=BD ve=C4=8Der,</div><div id=3D"x686aad813dff49e"><d=
+iv id=3D"x42ba41eed5b0483dbd5785dec9c0a30d"><br /></div><div id=3D"x42ba41e=
+ed5b0483dbd5785dec9c0a30d">z=C3=ADtra budou v r=C3=A1mci cvi=C4=8Den=C3=AD=
+ IZP (v N103) prob=C3=ADhat obhajoby druh=C3=BDch projekt=C5=AF. V=C3=A1mi=
+=C2=A0odevzdan=C3=BD k=C3=B3d bude pro v=C3=A1s p=C5=99ipraven=C3=BD, nemus=
+=C3=ADte si nosit vlastn=C3=AD za=C5=99=C3=ADzen=C3=AD. Do m=C3=ADstnosti b=
+udete vch=C3=A1zet podle p=C5=99ilo=C5=BEen=C3=A9ho rozpisu a po obhajob=C4=
+=9B budete odch=C3=A1zet. P=C5=99ij=C4=8Fte pros=C3=ADm alespo=C5=88 5 minu=
+t p=C5=99ed za=C4=8D=C3=A1tkem va=C5=A1eho =C4=8Dasov=C3=A9ho slotu.=C2=A0P=
+=C5=99i samotn=C3=A9 obhajob=C4=9B mi sami kr=C3=A1tce p=C5=99edstav=C3=ADt=
+e sv=C5=AFj projekt a pot=C3=A9 se budu pt=C3=A1t na ot=C3=A1zky. Za obhajo=
+bu je a=C5=BE 7 bod=C5=AF.</div><div id=3D"x42ba41eed5b0483dbd5785dec9c0a30=
+d"><br /></div><div id=3D"x42ba41eed5b0483dbd5785dec9c0a30d"><div id=3D"x5e=
+190bb376264119820a126edbec2bea"><table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"198" style=3D"width:149pt;" xmlns=3D"http://www.w3.or=
+g/TR/REC-html40">
+ <colgroup><col width=3D"134" style=3D"mso-width-source:userset;mso-width-a=
+lt:4900;width:101pt;" />
+ <col width=3D"64" style=3D"width:48pt;" />
+ </colgroup><tbody><tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl66" width=3D"134" style=3D"height:15pt;width=
+:101pt;">Ut 16:00</td>
+  <td class=3D"xl66" width=3D"64" style=3D"border-left:none;width:48pt;">N1=
+03</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;">Bobor Dominik</td=
+>
+  <td class=3D"xl69" align=3D"right" style=3D"border-left:none;">16:00</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">B=
+otlo Filip</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:05</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">D=
+iewock Ond=C5=99ej</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:10</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">=
+=C4=8Eurica Adam</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:15</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">F=
+rajka Tobi=C3=A1=C5=A1</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:20</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">H=
+rabovsk=C3=BD
+  Vojt=C4=9Bch
+</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:25</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">J=
+u=C5=99ica Richard</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:30</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">K=
+lymenko
+  Andrii
+</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:35</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">K=
+ov=C3=A1=C5=99ov=C3=A1
+  Ludmila
+</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:40</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">K=
+rej=C4=8D=C3=AD
+  Sebastian
+</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:45</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">K=
+resa Ond=C5=99ej</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:50</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">M=
+omot Oleh</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">16:55</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">O=
+ndreji=C4=8Dka
+  Jozef
+</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:00</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">P=
+astierik Adam</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:05</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">P=
+erebora Iana</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:10</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">P=
+ham Vu Duy
+  Anh
+</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:15</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">R=
+=C5=AF=C5=BEi=C4=8Dka Filip</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:20</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl67" style=3D"height:15pt;border-top:none;">S=
+emanco Boris</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:25</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl65" style=3D"height:15pt;border-top:none;">V=
+=C3=A1lka Tom=C3=A1=C5=A1</td>
+  <td class=3D"xl69" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:30</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt;">
+  <td height=3D"20" class=3D"xl68" style=3D"height:15pt;border-top:none;">Z=
+hevachevskyi
+  Ivan
+</td>
+  <td class=3D"xl70" align=3D"right" style=3D"border-top:none;border-left:n=
+one;">17:35</td>
+ </tr></tbody></table></div></div><div id=3D"x42ba41eed5b0483dbd5785dec9c0a=
+30d"><div id=3D"xa6f398a8e7c743ecbfa6c2ebf31ea2cd"><br /></div></div><div i=
+d=3D"x42ba41eed5b0483dbd5785dec9c0a30d">S pozdravem,<br />jz</div><div id=
+=3D"x42ba41eed5b0483dbd5785dec9c0a30d"></div><div id=3D"x42ba41eed5b0483dbd=
+5785dec9c0a30d"></div><div id=3D"x42ba41eed5b0483dbd5785dec9c0a30d"><br /><=
+/div><div id=3D"x42ba41eed5b0483dbd5785dec9c0a30d"><br /></div>
+</div></body></html>
+--------=_MBDE03E506-15D1-4366-9D65-2FCF6473313F--

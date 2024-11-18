@@ -18,8 +18,6 @@ $ make clean # Vymaže preložené súbory
 $ make tar   # Vytvorí archív xbotlo01.tar
 ```
 
-
-
 ## Spustenie:
 ```bash
 $ imapcl server [-p port] [-T [-c certfile] [-C certaddr]] [-n] [-h] -a auth_file [-b MAILBOX] -o out_dir [--interactive]
